@@ -1,0 +1,347 @@
+{
+  "version": 1,
+  "key": "fe96763a61f7addaf966dacf",
+  "engine": "google_maps_reviews",
+  "params": {
+    "data_id": "0x396db5a253fd9edb:0x76da252ec3e87e10",
+    "hl": "en",
+    "num": "20",
+    "query": "ayushman",
+    "sort_by": "newestFirst"
+  },
+  "fetchedAt": "2026-10-10T10:51:17.900Z",
+  "response": {
+    "search_metadata": {
+      "status": "Success",
+      "created_at": "2026-10-10 10:51:21 UTC",
+      "total_time_taken": 0.85
+    },
+    "search_parameters": {
+      "engine": "google_maps_reviews",
+      "data_id": "0x396db5a253fd9edb:0x76da252ec3e87e10",
+      "hl": "en",
+      "num": "20",
+      "sort_by": "newestFirst",
+      "query": "ayushman"
+    },
+    "reviews": [
+      {
+        "position": 1,
+        "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2pGNExXWjJlRmxaUVVwMU5GbGtRMEU1Y2s1Rk5tYxAB!2m1!1s0x0:0x76da252ec3e87e10!3m1!1s2@1:CAIQACodChtycF9oOjF4LWZ2eFlZQUp1NFlkQ0E5ck5FNmc%7C%7C?hl=en",
+        "rating": 5,
+        "date": "a year ago",
+        "iso_date": "2025-09-18T04:51:53Z",
+        "iso_date_of_last_edit": "2025-09-18T04:51:53Z",
+        "source": "Google",
+        "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pGNExXWjJlRmxaUVVwMU5GbGtRMEU1Y2s1Rk5tYxAB",
+        "snippet": "Thank you apex hospital, mansarovar.\nI was treated here by Dr. Sandeep Garg and was treated with Ayushman Card.Nursing staff Roshan sister and Ravi bhaiya took very good care.We are very impressed with the services provided by the hospital.",
+        "extracted_snippet": {
+          "original": "Thank you apex hospital, mansarovar.\nI was treated here by Dr. Sandeep Garg and was treated with Ayushman Card.Nursing staff Roshan sister and Ravi bhaiya took very good care.We are very impressed with the services provided by the hospital."
+        },
+        "likes": 0,
+        "response": {
+          "date": "a year ago",
+          "iso_date": "2025-09-18T16:02:05Z",
+          "iso_date_of_last_edit": "2025-09-18T16:02:05Z",
+          "snippet": "We are grateful for your wonderful feedback! It’s heartening to know that you had such a positive experience at Apex Hospitals Mansarovar. The commitment to providing quality care is a priority for us, and hearing that we succeeded in your case is truly rewarding. Your feedback is invaluable to us!\n\nHealth and Happiness,\nApex Family",
+          "extracted_snippet": {
+            "original": "We are grateful for your wonderful feedback! It’s heartening to know that you had such a positive experience at Apex Hospitals Mansarovar. The commitment to providing quality care is a priority for us, and hearing that we succeeded in your case is truly rewarding. Your feedback is invaluable to us!\n\nHealth and Happiness,\nApex Family"
+          }
+        }
+      },
+      {
+        "position": 2,
+        "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURCN1l6WTB3RRAB!2m1!1s0x0:0x76da252ec3e87e10!3m1!1s2@1:CIHM0ogKEICAgIDB7YzY0wE%7C%7C?hl=en",
+        "rating": 5,
+        "date": "3 years ago",
+        "iso_date": "2023-01-26T06:13:49Z",
+        "iso_date_of_last_edit": "2023-01-26T06:13:49Z",
+        "source": "Google",
+        "review_id": "ChdDSUhNMG9nS0VJQ0FnSURCN1l6WTB3RRAB",
+        "snippet": "Pt Sheela admit in ayushman ward all facilities are good",
+        "extracted_snippet": {
+          "original": "Pt Sheela admit in ayushman ward all facilities are good"
+        },
+        "likes": 0,
+        "response": {
+          "date": "3 years ago",
+          "iso_date": "2023-01-26T09:44:44Z",
+          "iso_date_of_last_edit": "2023-01-26T09:44:44Z",
+          "snippet": "Dear Sir/Ma'am,\nKindly reach our Patient Support team at -8742079284\nWe will try to provide you with the best possible solution as soon as possible.\n\nClick the link to download the Apex Hospitals APP for android phone - bit.ly/apexhospital-\nClick the link to download the Apex Hospitals APP for iphone - apple.co/3vus1o8\n\nFor Emergency Ambulance Services - 0141-410-1108\n",
+          "extracted_snippet": {
+            "original": "Dear Sir/Ma'am,\nKindly reach our Patient Support team at -8742079284\nWe will try to provide you with the best possible solution as soon as possible.\n\nClick the link to download the Apex Hospitals APP for android phone - bit.ly/apexhospital-\nClick the link to download the Apex Hospitals APP for iphone - apple.co/3vus1o8\n\nFor Emergency Ambulance Services - 0141-410-1108\n"
+          }
+        }
+      },
+      {
+        "position": 3,
+        "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNCeXNtRmpBRRAB!2m1!1s0x0:0x76da252ec3e87e10!3m1!1s2@1:CIHM0ogKEICAgICBysmFjAE%7C%7C?hl=en",
+        "rating": 5,
+        "date": "3 years ago",
+        "iso_date": "2022-12-22T06:13:36Z",
+        "iso_date_of_last_edit": "2022-12-22T06:13:36Z",
+        "source": "Google",
+        "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNCeXNtRmpBRRAB",
+        "snippet": "I am Admit in Ayushman bhart ward Dr Rohan Sharma urologist is good experience",
+        "extracted_snippet": {
+          "original": "I am Admit in Ayushman bhart ward Dr Rohan Sharma urologist is good experience"
+        },
+        "likes": 0,
+        "response": {
+          "date": "3 years ago",
+          "iso_date": "2022-12-22T09:23:57Z",
+          "iso_date_of_last_edit": "2022-12-22T09:23:57Z",
+          "snippet": "Thank you for sharing your valuable feedback with us. Apex Hospitals constantly looks forward to delivering the best Patient Care. We always wish for your good health.\nDownload Apex Hospital APP today for all your health records and to Book an Appointment.\nClick the link to download the APP for android phone - bit.ly/apexhospital-\nClick the link to download the APP for iPhone - apple.co/3vus1o8\nPatient Support - +91 9829030011\nFor Emergency Ambulance Services - 0141-410-1108",
+          "extracted_snippet": {
+            "original": "Thank you for sharing your valuable feedback with us. Apex Hospitals constantly looks forward to delivering the best Patient Care. We always wish for your good health.\nDownload Apex Hospital APP today for all your health records and to Book an Appointment.\nClick the link to download the APP for android phone - bit.ly/apexhospital-\nClick the link to download the APP for iPhone - apple.co/3vus1o8\nPatient Support - +91 9829030011\nFor Emergency Ambulance Services - 0141-410-1108"
+          }
+        }
+      },
+      {
+        "position": 4,
+        "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUQtMXVhcmp3RRAB!2m1!1s0x0:0x76da252ec3e87e10!3m1!1s2@1:CIHM0ogKEICAgID-1uarjwE%7C%7C?hl=en",
+        "rating": 5,
+        "date": "3 years ago",
+        "iso_date": "2022-11-29T07:29:09Z",
+        "iso_date_of_last_edit": "2022-11-29T07:29:09Z",
+        "source": "Google",
+        "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQtMXVhcmp3RRAB",
+        "snippet": "Mera pt natha devi Ayushman ward me admit tha  waha ka staff and Dr bahut badiya h",
+        "extracted_snippet": {
+          "original": "Mera pt natha devi Ayushman ward me admit tha  waha ka staff and Dr bahut badiya h",
+          "translated": "My patient was admitted in Nath Devi Ayushman ward, the staff and doctors there are very good."
+        },
+        "likes": 0,
+        "response": {
+          "date": "3 years ago",
+          "iso_date": "2022-11-29T08:10:58Z",
+          "iso_date_of_last_edit": "2022-11-29T08:10:58Z",
+          "snippet": "Thank you for sharing your valuable feedback with us. Apex Hospitals constantly looks forward to delivering the best Patient Care. We always wish for your good health.\nDownload Apex Hospital APP today for all your health records and to Book an Appointment.\nClick the link to download the APP for android phone - bit.ly/apexhospital-\nClick the link to download the APP for iPhone - apple.co/3vus1o8\nPatient Support - +91 8742079284\nFor Emergency Ambulance Services - 0141-410-1108",
+          "extracted_snippet": {
+            "original": "Thank you for sharing your valuable feedback with us. Apex Hospitals constantly looks forward to delivering the best Patient Care. We always wish for your good health.\nDownload Apex Hospital APP today for all your health records and to Book an Appointment.\nClick the link to download the APP for android phone - bit.ly/apexhospital-\nClick the link to download the APP for iPhone - apple.co/3vus1o8\nPatient Support - +91 8742079284\nFor Emergency Ambulance Services - 0141-410-1108"
+          }
+        }
+      },
+      {
+        "position": 5,
+        "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUQtaHI3a2p3RRAB!2m1!1s0x0:0x76da252ec3e87e10!3m1!1s2@1:CIHM0ogKEICAgID-hr7kjwE%7C%7C?hl=en",
+        "rating": 5,
+        "date": "3 years ago",
+        "iso_date": "2022-11-28T07:06:31Z",
+        "iso_date_of_last_edit": "2022-11-28T07:06:31Z",
+        "source": "Google",
+        "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQtaHI3a2p3RRAB",
+        "snippet": "मेरा patiesnt ayushman ward me admit h waha par. sari facilits  bahut अच्छी h baha ka staff bhi bhut अच्छा h",
+        "extracted_snippet": {
+          "original": "मेरा patiesnt ayushman ward me admit h waha par. sari facilits  bahut अच्छी h baha ka staff bhi bhut अच्छा h",
+          "translated": "My patient is admitted in the Ayushman ward there. All the facilities are very good and the staff is also very good."
+        },
+        "likes": 0,
+        "response": {
+          "date": "3 years ago",
+          "iso_date": "2022-11-28T07:12:20Z",
+          "iso_date_of_last_edit": "2022-11-28T07:12:20Z",
+          "snippet": "Thank you for sharing your valuable feedback with us. Apex Hospitals constantly looks forward to delivering the best Patient Care. We always wish for your good health.\nDownload Apex Hospital APP today for all your health records and to Book an Appointment.\nClick the link to download the APP for android phone - bit.ly/apexhospital-\nClick the link to download the APP for iPhone - apple.co/3vus1o8\nPatient Support - +91 8742079284\nFor Emergency Ambulance Services - 0141-410-1108",
+          "extracted_snippet": {
+            "original": "Thank you for sharing your valuable feedback with us. Apex Hospitals constantly looks forward to delivering the best Patient Care. We always wish for your good health.\nDownload Apex Hospital APP today for all your health records and to Book an Appointment.\nClick the link to download the APP for android phone - bit.ly/apexhospital-\nClick the link to download the APP for iPhone - apple.co/3vus1o8\nPatient Support - +91 8742079284\nFor Emergency Ambulance Services - 0141-410-1108"
+          }
+        }
+      },
+      {
+        "position": 6,
+        "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUQtaG9iNGZnEAE!2m1!1s0x0:0x76da252ec3e87e10!3m1!1s2@1:CIHM0ogKEICAgID-hob4fg%7C%7C?hl=en",
+        "rating": 5,
+        "date": "3 years ago",
+        "iso_date": "2022-11-28T06:30:00Z",
+        "iso_date_of_last_edit": "2022-11-28T06:30:00Z",
+        "source": "Google",
+        "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQtaG9iNGZnEAE",
+        "snippet": "Mera patiesnt Renu ayushman ward me admit h waha ka staff helpful h and opretion bhi Safal Raha",
+        "extracted_snippet": {
+          "original": "Mera patiesnt Renu ayushman ward me admit h waha ka staff helpful h and opretion bhi Safal Raha",
+          "translated": "My patient Renu is admitted in Ayushman ward, the staff there is helpful and the operation was also successful."
+        },
+        "likes": 0,
+        "response": {
+          "date": "3 years ago",
+          "iso_date": "2022-11-28T06:36:45Z",
+          "iso_date_of_last_edit": "2022-11-28T06:36:45Z",
+          "snippet": "Thank you for sharing your valuable feedback with us. Apex Hospitals constantly looks forward to delivering the best Patient Care. We always wish for your good health.\nDownload Apex Hospital APP today for all your health records and to Book an Appointment.\nClick the link to download the APP for android phone - bit.ly/apexhospital-\nClick the link to download the APP for iPhone - apple.co/3vus1o8\nPatient Support - +91 8742079284\nFor Emergency Ambulance Services - 0141-410-1108",
+          "extracted_snippet": {
+            "original": "Thank you for sharing your valuable feedback with us. Apex Hospitals constantly looks forward to delivering the best Patient Care. We always wish for your good health.\nDownload Apex Hospital APP today for all your health records and to Book an Appointment.\nClick the link to download the APP for android phone - bit.ly/apexhospital-\nClick the link to download the APP for iPhone - apple.co/3vus1o8\nPatient Support - +91 8742079284\nFor Emergency Ambulance Services - 0141-410-1108"
+          }
+        }
+      },
+      {
+        "position": 7,
+        "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUQtOHVMM3B3RRAB!2m1!1s0x0:0x76da252ec3e87e10!3m1!1s2@1:CIHM0ogKEICAgID-8uL3pwE%7C%7C?hl=en",
+        "rating": 5,
+        "date": "3 years ago",
+        "iso_date": "2022-11-26T06:21:25Z",
+        "iso_date_of_last_edit": "2022-11-26T06:21:25Z",
+        "source": "Google",
+        "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQtOHVMM3B3RRAB",
+        "snippet": "My patient Santo admit in Ayushman ward this hospital is provide good facilities and all staff is good",
+        "extracted_snippet": {
+          "original": "My patient Santo admit in Ayushman ward this hospital is provide good facilities and all staff is good"
+        },
+        "likes": 0,
+        "response": {
+          "date": "3 years ago",
+          "iso_date": "2022-11-27T06:27:56Z",
+          "iso_date_of_last_edit": "2022-11-27T06:27:56Z",
+          "snippet": "Thank you for sharing your valuable feedback with us. Apex Hospitals constantly looks forward to delivering the best Patient Care. We always wish for your good health.\nDownload Apex Hospital APP today for all your health records and to Book an Appointment.\nClick the link to download the APP for android phone - bit.ly/apexhospital-\nClick the link to download the APP for iPhone - apple.co/3vus1o8\nPatient Support - +91 8742079284\nFor Emergency Ambulance Services - 0141-410-1108",
+          "extracted_snippet": {
+            "original": "Thank you for sharing your valuable feedback with us. Apex Hospitals constantly looks forward to delivering the best Patient Care. We always wish for your good health.\nDownload Apex Hospital APP today for all your health records and to Book an Appointment.\nClick the link to download the APP for android phone - bit.ly/apexhospital-\nClick the link to download the APP for iPhone - apple.co/3vus1o8\nPatient Support - +91 8742079284\nFor Emergency Ambulance Services - 0141-410-1108"
+          }
+        }
+      },
+      {
+        "position": 8,
+        "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUQtb3UtR2dBRRAB!2m1!1s0x0:0x76da252ec3e87e10!3m1!1s2@1:CIHM0ogKEICAgID-ou-GgAE%7C%7C?hl=en",
+        "rating": 5,
+        "date": "3 years ago",
+        "iso_date": "2022-11-25T07:10:28Z",
+        "iso_date_of_last_edit": "2022-11-25T07:10:28Z",
+        "source": "Google",
+        "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQtb3UtR2dBRRAB",
+        "snippet": "Mere patient Pooja Kumari raigar, a ayushman bharat me admit tha,waha ka staff bhut helping nature ka hai.",
+        "extracted_snippet": {
+          "original": "Mere patient Pooja Kumari raigar, a ayushman bharat me admit tha,waha ka staff bhut helping nature ka hai.",
+          "translated": "My patient Pooja Kumari Raigar was admitted in Ayushman Bharat, the staff there is of very helping nature."
+        },
+        "likes": 0,
+        "response": {
+          "date": "3 years ago",
+          "iso_date": "2022-11-25T07:51:43Z",
+          "iso_date_of_last_edit": "2022-11-25T07:51:43Z",
+          "snippet": "Thank you for sharing your valuable feedback with us. Apex Hospitals constantly looks forward to delivering the best Patient Care. We always wish for your good health.\nDownload Apex Hospital APP today for all your health records and to Book an Appointment.\nClick the link to download the APP for android phone - bit.ly/apexhospital-\nClick the link to download the APP for iPhone - apple.co/3vus1o8\nPatient Support - +91 8742079284\nFor Emergency Ambulance Services - 0141-410-1108",
+          "extracted_snippet": {
+            "original": "Thank you for sharing your valuable feedback with us. Apex Hospitals constantly looks forward to delivering the best Patient Care. We always wish for your good health.\nDownload Apex Hospital APP today for all your health records and to Book an Appointment.\nClick the link to download the APP for android phone - bit.ly/apexhospital-\nClick the link to download the APP for iPhone - apple.co/3vus1o8\nPatient Support - +91 8742079284\nFor Emergency Ambulance Services - 0141-410-1108"
+          }
+        }
+      },
+      {
+        "position": 9,
+        "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUMteDRUOHlBRRAB!2m1!1s0x0:0x76da252ec3e87e10!3m1!1s2@1:CIHM0ogKEICAgIC-x4T8yAE%7C%7C?hl=en",
+        "rating": 5,
+        "date": "3 years ago",
+        "iso_date": "2022-11-15T05:45:56Z",
+        "iso_date_of_last_edit": "2022-11-15T05:47:03Z",
+        "source": "Google",
+        "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMteDRUOHlBRRAB",
+        "snippet": "This hospital is best and my patient nirmala jat admit in ayushman ward I am happy for this",
+        "extracted_snippet": {
+          "original": "This hospital is best and my patient nirmala jat admit in ayushman ward I am happy for this"
+        },
+        "likes": 0,
+        "response": {
+          "date": "3 years ago",
+          "iso_date": "2022-11-15T05:55:34Z",
+          "iso_date_of_last_edit": "2022-11-15T05:55:34Z",
+          "snippet": "Thank you for sharing your valuable feedback with us. Apex Hospitals constantly looks forward to delivering the best Patient Care. We always wish for your good health.\nDownload Apex Hospital APP today for all your health records and to Book an Appointment.\nClick the link to download the APP for android phone - bit.ly/apexhospital-\nClick the link to download the APP for iPhone - apple.co/3vus1o8\nPatient Support - +91 8742079284\nFor Emergency Ambulance Services - 0141-410-1108",
+          "extracted_snippet": {
+            "original": "Thank you for sharing your valuable feedback with us. Apex Hospitals constantly looks forward to delivering the best Patient Care. We always wish for your good health.\nDownload Apex Hospital APP today for all your health records and to Book an Appointment.\nClick the link to download the APP for android phone - bit.ly/apexhospital-\nClick the link to download the APP for iPhone - apple.co/3vus1o8\nPatient Support - +91 8742079284\nFor Emergency Ambulance Services - 0141-410-1108"
+          }
+        }
+      },
+      {
+        "position": 10,
+        "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUMtdWVUS0tREAE!2m1!1s0x0:0x76da252ec3e87e10!3m1!1s2@1:CIHM0ogKEICAgIC-ueTKKQ%7C%7C?hl=en",
+        "rating": 5,
+        "date": "3 years ago",
+        "iso_date": "2022-11-08T05:15:53Z",
+        "iso_date_of_last_edit": "2022-11-08T05:15:53Z",
+        "source": "Google",
+        "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMtdWVUS0tREAE",
+        "snippet": "Apex hospital is best hospital in this area I am admit in 3 floor all staff is helping and mera operation Ayushman se hua h is best facility",
+        "extracted_snippet": {
+          "original": "Apex hospital is best hospital in this area I am admit in 3 floor all staff is helping and mera operation Ayushman se hua h is best facility"
+        },
+        "likes": 0,
+        "response": {
+          "date": "3 years ago",
+          "iso_date": "2022-11-08T06:32:39Z",
+          "iso_date_of_last_edit": "2022-11-08T06:32:39Z",
+          "snippet": "Thank you for sharing your valuable feedback with us. Apex Hospitals constantly looks forward to delivering the best Patient Care. We always wish for your good health.\nDownload Apex Hospital APP today for all your health records and to Book an Appointment.\nClick the link to download the APP for android phone - bit.ly/apexhospital-\nClick the link to download the APP for iPhone - apple.co/3vus1o8\nPatient Support - +91 9829030011\nFor Emergency Ambulance Services - 0141-410-1108",
+          "extracted_snippet": {
+            "original": "Thank you for sharing your valuable feedback with us. Apex Hospitals constantly looks forward to delivering the best Patient Care. We always wish for your good health.\nDownload Apex Hospital APP today for all your health records and to Book an Appointment.\nClick the link to download the APP for android phone - bit.ly/apexhospital-\nClick the link to download the APP for iPhone - apple.co/3vus1o8\nPatient Support - +91 9829030011\nFor Emergency Ambulance Services - 0141-410-1108"
+          }
+        }
+      },
+      {
+        "position": 11,
+        "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUMtX3BURUZBEAE!2m1!1s0x0:0x76da252ec3e87e10!3m1!1s2@1:CIHM0ogKEICAgIC-_pTEFA%7C%7C?hl=en",
+        "rating": 5,
+        "date": "3 years ago",
+        "iso_date": "2022-11-05T10:36:15Z",
+        "iso_date_of_last_edit": "2022-11-05T10:36:15Z",
+        "source": "Google",
+        "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMtX3BURUZBEAE",
+        "snippet": "Mera patients ayushman ward me admit tha bha ka staff bhahut accha h Mahendra singh accha staff h and Lalita ji ne bhi bahut acche se bat ki or hamari help ki apex hospital is good hospital in mansarovar",
+        "extracted_snippet": {
+          "original": "Mera patients ayushman ward me admit tha bha ka staff bhahut accha h Mahendra singh accha staff h and Lalita ji ne bhi bahut acche se bat ki or hamari help ki apex hospital is good hospital in mansarovar",
+          "translated": "My patients were admitted in Ayushman ward, the staff is very good, Mahendra Singh is a good staff and Lalita ji also spoke very well and helped us, Apex hospital is a good hospital in Mansarovar"
+        },
+        "likes": 0,
+        "response": {
+          "date": "3 years ago",
+          "iso_date": "2022-11-05T11:16:01Z",
+          "iso_date_of_last_edit": "2022-11-05T11:16:01Z",
+          "snippet": "Thank you for sharing your valuable feedback with us. Apex Hospitals constantly looks forward to delivering the best Patient Care. We always wish for your good health.\nDownload Apex Hospital APP today for all your health records and to Book an Appointment.\nClick the link to download the APP for android phone - bit.ly/apexhospital-\nClick the link to download the APP for iPhone - apple.co/3vus1o8\nPatient Support - +91 9829030011\nFor Emergency Ambulance Services - 0141-410-1108",
+          "extracted_snippet": {
+            "original": "Thank you for sharing your valuable feedback with us. Apex Hospitals constantly looks forward to delivering the best Patient Care. We always wish for your good health.\nDownload Apex Hospital APP today for all your health records and to Book an Appointment.\nClick the link to download the APP for android phone - bit.ly/apexhospital-\nClick the link to download the APP for iPhone - apple.co/3vus1o8\nPatient Support - +91 9829030011\nFor Emergency Ambulance Services - 0141-410-1108"
+          }
+        }
+      },
+      {
+        "position": 12,
+        "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUMtcnFDX3FRRRAB!2m1!1s0x0:0x76da252ec3e87e10!3m1!1s2@1:CIHM0ogKEICAgIC-rqC_qQE%7C%7C?hl=en",
+        "rating": 5,
+        "date": "3 years ago",
+        "iso_date": "2022-11-04T09:50:11Z",
+        "iso_date_of_last_edit": "2022-11-04T09:50:11Z",
+        "source": "Google",
+        "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMtcnFDX3FRRRAB",
+        "snippet": "this hospital provide good service and ayushman me good service",
+        "extracted_snippet": {
+          "original": "this hospital provide good service and ayushman me good service"
+        },
+        "likes": 0,
+        "response": {
+          "date": "3 years ago",
+          "iso_date": "2022-11-04T09:51:59Z",
+          "iso_date_of_last_edit": "2022-11-04T09:51:59Z",
+          "snippet": "Thank you for sharing your valuable feedback with us. Apex Hospitals constantly looks forward to delivering the best Patient Care. We always wish for your good health.\nDownload Apex Hospital APP today for all your health records and to Book an Appointment.\nClick the link to download the APP for android phone - bit.ly/apexhospital-\nClick the link to download the APP for iPhone - apple.co/3vus1o8\nPatient Support - +91 9829030011\nFor Emergency Ambulance Services - 0141-410-1108",
+          "extracted_snippet": {
+            "original": "Thank you for sharing your valuable feedback with us. Apex Hospitals constantly looks forward to delivering the best Patient Care. We always wish for your good health.\nDownload Apex Hospital APP today for all your health records and to Book an Appointment.\nClick the link to download the APP for android phone - bit.ly/apexhospital-\nClick the link to download the APP for iPhone - apple.co/3vus1o8\nPatient Support - +91 9829030011\nFor Emergency Ambulance Services - 0141-410-1108"
+          }
+        }
+      },
+      {
+        "position": 13,
+        "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURlaTR6VWpBRRAB!2m1!1s0x0:0x76da252ec3e87e10!3m1!1s2@1:CIHM0ogKEICAgIDei4zUjAE%7C%7C?hl=en",
+        "rating": 5,
+        "date": "3 years ago",
+        "iso_date": "2022-10-19T11:41:23Z",
+        "iso_date_of_last_edit": "2022-10-19T11:41:23Z",
+        "source": "Google",
+        "review_id": "ChdDSUhNMG9nS0VJQ0FnSURlaTR6VWpBRRAB",
+        "snippet": "Good ayushman bharat facility in this hospital and best hospital in this area and all staff is nice behavior",
+        "extracted_snippet": {
+          "original": "Good ayushman bharat facility in this hospital and best hospital in this area and all staff is nice behavior"
+        },
+        "likes": 0,
+        "response": {
+          "date": "3 years ago",
+          "iso_date": "2022-10-19T11:45:58Z",
+          "iso_date_of_last_edit": "2022-10-19T11:45:58Z",
+          "snippet": "Thank you for sharing your valuable feedback with us. Apex Hospitals constantly looks forward to delivering the best Patient Care. We always wish for your good health.\nDownload Apex Hospital APP today for all your health records and to Book an Appointment.\nClick the link to download the APP for android phone - bit.ly/apexhospital-\nClick the link to download the APP for iPhone - apple.co/3vus1o8\nPatient Support - +91 9829030011\nFor Emergency Ambulance Services - 0141-410-1108",
+          "extracted_snippet": {
+            "original": "Thank you for sharing your valuable feedback with us. Apex Hospitals constantly looks forward to delivering the best Patient Care. We always wish for your good health.\nDownload Apex Hospital APP today for all your health records and to Book an Appointment.\nClick the link to download the APP for android phone - bit.ly/apexhospital-\nClick the link to download the APP for iPhone - apple.co/3vus1o8\nPatient Support - +91 9829030011\nFor Emergency Ambulance Services - 0141-410-1108"
+          }
+        }
+      }
+    ]
+  }
+}

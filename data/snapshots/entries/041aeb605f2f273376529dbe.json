@@ -1,0 +1,1599 @@
+{
+  "version": 1,
+  "key": "041aeb605f2f273376529dbe",
+  "engine": "google_maps",
+  "params": {
+    "hl": "en",
+    "ll": "@22.7196,75.8577,13z",
+    "q": "hospital",
+    "type": "search"
+  },
+  "fetchedAt": "2026-10-10T10:51:02.402Z",
+  "response": {
+    "search_metadata": {
+      "status": "Success",
+      "created_at": "2026-10-10 10:51:05 UTC",
+      "total_time_taken": 1.45
+    },
+    "search_parameters": {
+      "engine": "google_maps",
+      "type": "search",
+      "q": "hospital",
+      "ll": "@22.7196,75.8577,13z",
+      "google_domain": "google.com",
+      "hl": "en"
+    },
+    "search_information": {
+      "local_results_state": "Results for exact spelling",
+      "query_displayed": "hospital"
+    },
+    "local_results": [
+      {
+        "position": 1,
+        "title": "Medanta Super Specialty Hospital | Best Hospital in Indore",
+        "place_id": "ChIJtzsUllX9YjkRX93ApmY2BaA",
+        "data_id": "0x3962fd5596143bb7:0xa0053666a6c0dd5f",
+        "data_cid": "11530682235464244575",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x3962fd5596143bb7%3A0xa0053666a6c0dd5f&engine=google_maps_reviews&hl=en",
+        "photos_link": "https://serpapi.com/search.json?data_id=0x3962fd5596143bb7%3A0xa0053666a6c0dd5f&engine=google_maps_photos&hl=en",
+        "gps_coordinates": {
+          "latitude": 22.7489813,
+          "longitude": 75.8958731
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJtzsUllX9YjkRX93ApmY2BaA",
+        "provider_id": "/g/11b6h_msv3",
+        "rating": 4.7,
+        "reviews": 10147,
+        "type": "General hospital",
+        "types": [
+          "General hospital",
+          "Hospital"
+        ],
+        "type_id": "general_hospital",
+        "type_ids": [
+          "general_hospital",
+          "hospital"
+        ],
+        "address": "Plot No. 8, PU04, Commercial Scheme 54, Rasoma Square, Vijaynagar, AB Road, Madhya Pradesh 452010, India",
+        "country": "India",
+        "open_state": "Open 24 hours",
+        "hours": "Open 24 hours",
+        "operating_hours": {
+          "saturday": "Open 24 hours",
+          "sunday": "Open 24 hours",
+          "monday": "Open 24 hours",
+          "tuesday": "Open 24 hours",
+          "wednesday": "Open 24 hours",
+          "thursday": "Open 24 hours",
+          "friday": "Open 24 hours"
+        },
+        "phone": "+91 731 474 7185",
+        "website": "https://www.medanta.org/hospitals-near-me/indore-hospital?utm_source=google&utm_medium=gmb",
+        "extensions": [
+          {
+            "service_options": [
+              "Onsite services"
+            ]
+          },
+          {
+            "accessibility": [
+              "Wheelchair accessible entrance",
+              "Wheelchair accessible parking lot"
+            ]
+          },
+          {
+            "offerings": [
+              "Medication disposal"
+            ]
+          },
+          {
+            "amenities": [
+              "Gender-neutral restroom"
+            ]
+          },
+          {
+            "crowd": [
+              "LGBTQ+ friendly"
+            ]
+          },
+          {
+            "payments": [
+              "Credit cards",
+              "Debit cards",
+              "NFC mobile payments"
+            ]
+          },
+          {
+            "children": [
+              "Nursing room"
+            ]
+          },
+          {
+            "parking": [
+              "On-site parking",
+              "Paid parking garage",
+              "Paid parking lot",
+              "Paid street parking"
+            ]
+          }
+        ],
+        "service_options": {
+          "onsite_services": true
+        },
+        "book_online": "https://www.medanta.org/hospitals-near-me/indore-hospital?utm_campaign=rightchoice-google-reserve&utm_source=google-reserve&utm_medium=16618164453142965947&rwg_token=AE37R_jrGUR5OtiMsvk3HPZJmTSqxYUdctdHcX74nO1_NLnKlKTwY3hyjAoHYGuTUf1m49wEQfGsltxojtNbCJrhGwm4sUAHqA%3D%3D",
+        "user_review": "\"Excellent hospital with great facilities and caring staff.\"",
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9T1cvndCAysRg_bzx_fKbSslzRC-9D8B6RP8VE_erb9yp2-o8wXQoAqgPAmEPwZo5YDYyBfVHSm6hePw1duo74Ux_Os6Iv50ThO2FlbeBGupF_fUyL-9wk7Jl1jJJsejjSV9L3e=w1000-h1000-c-n",
+        "serpapi_thumbnail": "https://serpapi.com/images/url/Z_pJi3icHcRRboIwGADgE1VAJ1KTPYDoJjPKQJn40oRaWlmh6A_WekHP4G1M_B6-50N0XQtTy5JiNOBKccl6YBeqmo413YCq2uItIAoILH_9dzJ469Brc5z5BhJOivuNlD9FCvKezBAOvcBNYi-bE3YpsGmHSHl6_6v8M4_9eh7rgxrnYW6CMvtOa1ewWDvHXk0-djeyAXd5HdtbsRkuZMGCr75dkHJnVgjr_0kknSqKgFVVmuHViH1qx7ZtJN5T1LwArzhFDw"
+      },
+      {
+        "position": 2,
+        "title": "Shalby Multi-Specialty Hospital, Indore",
+        "place_id": "ChIJKU0apUH9YjkRyxCUmkWyOg0",
+        "data_id": "0x3962fd41a51a4d29:0xd3ab2459a9410cb",
+        "data_cid": "953270283158163659",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x3962fd41a51a4d29%3A0xd3ab2459a9410cb&engine=google_maps_reviews&hl=en",
+        "photos_link": "https://serpapi.com/search.json?data_id=0x3962fd41a51a4d29%3A0xd3ab2459a9410cb&engine=google_maps_photos&hl=en",
+        "gps_coordinates": {
+          "latitude": 22.729188999999998,
+          "longitude": 75.8791901
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJKU0apUH9YjkRyxCUmkWyOg0",
+        "provider_id": "/g/11cmsx_s9t",
+        "rating": 4.7,
+        "reviews": 13169,
+        "type": "General hospital",
+        "types": [
+          "General hospital",
+          "Private hospital"
+        ],
+        "type_id": "general_hospital",
+        "type_ids": [
+          "general_hospital",
+          "private_hospital"
+        ],
+        "address": "Part 5 & 6 R S bhandari Marg, Janjeerwala Square, Indore, Madhya Pradesh 452003, India",
+        "country": "India",
+        "open_state": "Open 24 hours",
+        "hours": "Open 24 hours",
+        "operating_hours": {
+          "saturday": "Open 24 hours",
+          "sunday": "Open 24 hours",
+          "monday": "Open 24 hours",
+          "tuesday": "Open 24 hours",
+          "wednesday": "Open 24 hours",
+          "thursday": "Open 24 hours",
+          "friday": "Open 24 hours"
+        },
+        "phone": "+91 70499 18800",
+        "website": "https://www.shalby.org/hospitals/indore-shalby/?utm_source=google&utm_medium=GMB&utm_campaign=search",
+        "extensions": [
+          {
+            "service_options": [
+              "Onsite services"
+            ]
+          },
+          {
+            "accessibility": [
+              "Wheelchair accessible entrance",
+              "Wheelchair accessible parking lot",
+              "Wheelchair accessible restroom",
+              "Wheelchair accessible seating"
+            ]
+          },
+          {
+            "offerings": [
+              "Medication disposal"
+            ]
+          },
+          {
+            "payments": [
+              "Credit cards",
+              "Debit cards",
+              "NFC mobile payments"
+            ]
+          },
+          {
+            "parking": [
+              "Free parking lot",
+              "Free street parking",
+              "On-site parking",
+              "Paid parking lot",
+              "Paid street parking"
+            ]
+          }
+        ],
+        "service_options": {
+          "onsite_services": true
+        },
+        "user_review": "\"The hospital is well cleaned and staff politely handled to patients.\"",
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TXumeb87KOiCe2wrMMEds-YZNczx9GkGoCu7Xlj6SO1WYRLTXWK7n2N6UHii3EBJnvjwNH7vwpaH5CcJZwagmHNH1dt9z-5TPSy_Fvg0Qdum7CT15z5-A48oGws-FlF6fvNebN=w1000-h1000-c-n",
+        "serpapi_thumbnail": "https://serpapi.com/images/url/Z01NTHicHcTbDoIgAADQLyK1UrKth3Ip60I3m9pLUyS0FFyglD_YN_Q3bZ2H8_0USjVyahhVMRowIVhFW0mfRHBFuRoQURuskYBIII05jsq3G8ZtTbMJXO9Kjw71c7td5hIkF0z6lxs8AuG1MK7uzmlnRclxE8bRGvIhds6oLEfLxYp3d40R7HSTItsjq4tOWY0wsnLl9sAO96f31e-YecjbGnqhZfc2mI8nItAS-JXv3DpMMzzTlmmaoPhPAP8BSwdD6g"
+      },
+      {
+        "position": 3,
+        "title": "CARE CHL Hospital",
+        "place_id": "ChIJdxfKTU_9YjkR2ItaFYuPvGI",
+        "data_id": "0x3962fd4f4dca1777:0x62bc8f8b155a8bd8",
+        "data_cid": "7114719338860022744",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x3962fd4f4dca1777%3A0x62bc8f8b155a8bd8&engine=google_maps_reviews&hl=en",
+        "photos_link": "https://serpapi.com/search.json?data_id=0x3962fd4f4dca1777%3A0x62bc8f8b155a8bd8&engine=google_maps_photos&hl=en",
+        "gps_coordinates": {
+          "latitude": 22.7322578,
+          "longitude": 75.8893409
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJdxfKTU_9YjkR2ItaFYuPvGI",
+        "provider_id": "/g/1tfg1h0g",
+        "rating": 4.7,
+        "reviews": 10845,
+        "type": "General hospital",
+        "types": [
+          "General hospital",
+          "Private hospital"
+        ],
+        "type_id": "general_hospital",
+        "type_ids": [
+          "general_hospital",
+          "private_hospital"
+        ],
+        "address": "Agra Bombay Road, near L.I.G Square, Rss Nagar, Indore, Madhya Pradesh 452011, India",
+        "country": "India",
+        "open_state": "Open 24 hours",
+        "hours": "Open 24 hours",
+        "operating_hours": {
+          "saturday": "Open 24 hours",
+          "sunday": "Open 24 hours",
+          "monday": "Open 24 hours",
+          "tuesday": "Open 24 hours",
+          "wednesday": "Open 24 hours",
+          "thursday": "Open 24 hours",
+          "friday": "Open 24 hours"
+        },
+        "phone": "+91 40 6810 6589",
+        "website": "https://www.carehospitals.com/indore/",
+        "extensions": [
+          {
+            "from_the_business": [
+              "Identifies as women-owned"
+            ]
+          },
+          {
+            "service_options": [
+              "Onsite services"
+            ]
+          },
+          {
+            "accessibility": [
+              "Wheelchair accessible entrance",
+              "Wheelchair accessible parking lot",
+              "Wheelchair accessible seating"
+            ]
+          },
+          {
+            "crowd": [
+              "LGBTQ+ friendly"
+            ]
+          },
+          {
+            "payments": [
+              "Credit cards",
+              "Debit cards",
+              "NFC mobile payments"
+            ]
+          },
+          {
+            "parking": [
+              "Free parking lot",
+              "Paid parking lot",
+              "Paid street parking"
+            ]
+          }
+        ],
+        "service_options": {
+          "onsite_services": true
+        },
+        "user_review": "\"The medical staff were super supportive and explained everything clearly.\"",
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TmFVMISJ0UzJn9V26hbb-P1D7OBXH5BA1dTgqyN1HowMKIa5O60e07fiDXm_Q6znCsIyjNEy_mv5uMkj_42xzgNpKFUNrHNdPljZR3b3qwx-1eZ6gVwmv1MZc5ietsX6iMvC8=w1000-h1000-c-n",
+        "serpapi_thumbnail": "https://serpapi.com/images/url/CNFH1HicHcRLjoIwAADQE1VaGeonceE3oGn9M4QNGWotIG3RVhAO6B28jcm8xfu8M2srM3acMnN7QmtR8qfhD6aV5cr2mJaOqAxgBhhnSn_zdnSSq5AExzU8d2s1Cvs4S1OwQ4vBdhb53myKLidxbynydUM2wZ-3xZDDwTVfRDLZ407NTdAWdNkmsvae5FYkP_1XJ2i1WZ3pw6eXXVnEBzd1780LIB5jETayRiRmXs6tiXBO6vlw0iAIIcj-Z0B9AaNnQ70"
+      },
+      {
+        "position": 4,
+        "title": "Unique Super Specialty Hospital",
+        "place_id": "ChIJ911_Vkz8YjkRzUl7_y89W7M",
+        "data_id": "0x3962fc4c567f5df7:0xb35b3d2fff7b49cd",
+        "data_cid": "12923990832028797389",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x3962fc4c567f5df7%3A0xb35b3d2fff7b49cd&engine=google_maps_reviews&hl=en",
+        "photos_link": "https://serpapi.com/search.json?data_id=0x3962fc4c567f5df7%3A0xb35b3d2fff7b49cd&engine=google_maps_photos&hl=en",
+        "gps_coordinates": {
+          "latitude": 22.695370699999998,
+          "longitude": 75.8386871
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ911_Vkz8YjkRzUl7_y89W7M",
+        "provider_id": "/g/1tdqryd5",
+        "rating": 4.6,
+        "reviews": 3072,
+        "type": "General hospital",
+        "types": [
+          "General hospital",
+          "Hospital"
+        ],
+        "type_id": "general_hospital",
+        "type_ids": [
+          "general_hospital",
+          "hospital"
+        ],
+        "address": "715-716, Vijay Syndicate, Annapurna Rd, Indore, Madhya Pradesh 452009, India",
+        "country": "India",
+        "open_state": "Open 24 hours",
+        "hours": "Open 24 hours",
+        "operating_hours": {
+          "saturday": "Open 24 hours",
+          "sunday": "Open 24 hours",
+          "monday": "Open 24 hours",
+          "tuesday": "Open 24 hours",
+          "wednesday": "Open 24 hours",
+          "thursday": "Open 24 hours",
+          "friday": "Open 24 hours"
+        },
+        "phone": "+91 731 279 9883",
+        "website": "http://www.uniquehospitalindore.com/",
+        "extensions": [
+          {
+            "service_options": [
+              "Onsite services"
+            ]
+          },
+          {
+            "accessibility": [
+              "Wheelchair accessible entrance",
+              "Wheelchair accessible parking lot",
+              "Wheelchair accessible restroom"
+            ]
+          },
+          {
+            "amenities": [
+              "Restroom"
+            ]
+          },
+          {
+            "crowd": [
+              "LGBTQ+ friendly"
+            ]
+          },
+          {
+            "payments": [
+              "Credit cards",
+              "Debit cards",
+              "NFC mobile payments"
+            ]
+          },
+          {
+            "parking": [
+              "Free parking lot",
+              "Free street parking"
+            ]
+          }
+        ],
+        "service_options": {
+          "onsite_services": true
+        },
+        "user_review": "\"The hospital facilities were clean and well-maintained.\"",
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9T5KYL-Y3MTzt_35Fg-Diw3gNjvjNGjGR3BbQQyGCBoMVGFV9pzupjVu-NizzL_JX0rWR6CRs2cY2LBMKdSTGcY7r17Mtg7xSa0XOAVMjJg5SYBjk0WA4kGQI5meVMEtSAP2Zc16moEfn97=w1000-h1000-c-n",
+        "serpapi_thumbnail": "https://serpapi.com/images/url/IrpeUXicHcTNboIwAADgJ6oUOiSY7ABMG5Xi-Emxu5hZsVCFElrm5CU9-zYmfofv-aiN6fXCsq41mgmlxLUadTVw1ZmqMzOuWkv0GnANtBUkZXP3C3fLYsAQKSZzQO5KgK_mhkQi_2SCJc5QeEzTO45CRSheUb-fxl7SESTNNMWHzR4OZTaPMu1w5sQh2Z7yAnPmDbZHjPD-81-43wWUyI1wcxbKCyyDjwtO125bUbI0efDt_HB73qrlufO9z5sNIQT1ew66FyBcRYU"
+      },
+      {
+        "position": 5,
+        "title": "Bhandari Hospital and Research Centre",
+        "place_id": "ChIJN_s-iagCYzkR6_N_e6cFz9w",
+        "data_id": "0x396302a8893efb37:0xdccf05a77b7ff3eb",
+        "data_cid": "15910942225412912107",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x396302a8893efb37%3A0xdccf05a77b7ff3eb&engine=google_maps_reviews&hl=en",
+        "photos_link": "https://serpapi.com/search.json?data_id=0x396302a8893efb37%3A0xdccf05a77b7ff3eb&engine=google_maps_photos&hl=en",
+        "gps_coordinates": {
+          "latitude": 22.7527509,
+          "longitude": 75.8890385
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJN_s-iagCYzkR6_N_e6cFz9w",
+        "provider_id": "/g/1w0h5xxn",
+        "rating": 4.7,
+        "reviews": 5336,
+        "type": "General hospital",
+        "types": [
+          "General hospital",
+          "Private hospital"
+        ],
+        "type_id": "general_hospital",
+        "type_ids": [
+          "general_hospital",
+          "private_hospital"
+        ],
+        "address": "21-23, opp. Meghdoot Garden, Opposite Sayaji, G F, Scheme No 54, Indore, Madhya Pradesh 452010, India",
+        "country": "India",
+        "open_state": "Open 24 hours",
+        "hours": "Open 24 hours",
+        "operating_hours": {
+          "saturday": "Open 24 hours",
+          "sunday": "Open 24 hours",
+          "monday": "Open 24 hours",
+          "tuesday": "Open 24 hours",
+          "wednesday": "Open 24 hours",
+          "thursday": "Open 24 hours",
+          "friday": "Open 24 hours"
+        },
+        "phone": "+91 731 473 3333",
+        "website": "http://www.bhrcindia.com/",
+        "extensions": [
+          {
+            "service_options": [
+              "Onsite services"
+            ]
+          },
+          {
+            "accessibility": [
+              "Wheelchair accessible entrance",
+              "Wheelchair accessible parking lot"
+            ]
+          },
+          {
+            "payments": [
+              "Credit cards",
+              "Debit cards",
+              "NFC mobile payments"
+            ]
+          },
+          {
+            "parking": [
+              "Free parking lot",
+              "Free street parking"
+            ]
+          }
+        ],
+        "service_options": {
+          "onsite_services": true
+        },
+        "user_review": "\"Good treatment, excellent doctors and amazing hospital staff.\"",
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TFGEMEWIPyKctLkJxKbdqqq7ezjTfLbUlql5BPLKE-kl9NR37wC-0Ch_LhbH_dnb9cZojh64uqqROW2OuNM01PoWN4eDEufase4nNDKR1j_bu0qnmXiizJzOfkGEovu4JkNGU7=w1000-h1000-c-n",
+        "serpapi_thumbnail": "https://serpapi.com/images/url/nUfAeXicHcRRboIwAADQE1WKshFM_JjaMQELIRrMfshaCwVqa22rkwt6Bm9j4vt4zwe39mzmnif4bNIq1QrmDLtQJS2TdkLVyWvPBlADjPeFq-4e7b5jtEXVprin1GZD8p-So9Y6ZGO_azKyF1p8LIssRWAQES5n4W0F4IrXGSc_9VGSiP6qnn8GTusyr6a5w1voF6rCAVsj1_wZFki8Tku_r4mDWp4OXTcmY94MMVJXFyQDjvfh4uZDCAF_T4F8AY2mRTs"
+      },
+      {
+        "position": 6,
+        "title": "Eureka Hospital",
+        "place_id": "ChIJbYkBeDf9YjkRasidbGwJFO0",
+        "data_id": "0x3962fd377801896d:0xed14096c6c9dc86a",
+        "data_cid": "17083289647806531690",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x3962fd377801896d%3A0xed14096c6c9dc86a&engine=google_maps_reviews&hl=en",
+        "photos_link": "https://serpapi.com/search.json?data_id=0x3962fd377801896d%3A0xed14096c6c9dc86a&engine=google_maps_photos&hl=en",
+        "gps_coordinates": {
+          "latitude": 22.722922999999998,
+          "longitude": 75.8962744
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJbYkBeDf9YjkRasidbGwJFO0",
+        "provider_id": "/g/1hjgpsksc",
+        "rating": 4.6,
+        "reviews": 1632,
+        "type": "General hospital",
+        "types": [
+          "General hospital",
+          "Doctor",
+          "Hospital",
+          "Private hospital"
+        ],
+        "type_id": "general_hospital",
+        "type_ids": [
+          "general_hospital",
+          "doctor",
+          "hospital",
+          "private_hospital"
+        ],
+        "address": "चौराहा, 347, Mahatma Gandhi Rd, near पत्रकार कॉलोनी, Saket Nagar, Indore, Madhya Pradesh 452018, India",
+        "country": "India",
+        "open_state": "Open 24 hours",
+        "hours": "Open 24 hours",
+        "operating_hours": {
+          "saturday": "Open 24 hours",
+          "sunday": "Open 24 hours",
+          "monday": "Open 24 hours",
+          "tuesday": "Open 24 hours",
+          "wednesday": "Open 24 hours",
+          "thursday": "Open 24 hours",
+          "friday": "Open 24 hours"
+        },
+        "phone": "+91 731 470 3811",
+        "website": "http://www.eurekahospital.in/",
+        "extensions": [
+          {
+            "service_options": [
+              "Onsite services"
+            ]
+          },
+          {
+            "accessibility": [
+              "Wheelchair accessible entrance",
+              "Wheelchair accessible parking lot",
+              "Wheelchair accessible restroom"
+            ]
+          },
+          {
+            "amenities": [
+              "Restroom"
+            ]
+          },
+          {
+            "payments": [
+              "Credit cards",
+              "Debit cards",
+              "NFC mobile payments"
+            ]
+          }
+        ],
+        "service_options": {
+          "onsite_services": true
+        },
+        "book_online": "https://book.healthplix.com/dr-deepak-kukreja-pediatrician---neonatologist-saket-nagar-indore?utm_source=gmb_cta&rwg_token=AE37R_jukBYtz0sANRek4B2uGOv0j58oeKtGr8BBTRNrnzS7Bk2kWgBFuIgUq6N1zg7U_DNLA_PDdHk4sPjZAGlNjCAB14zDCA%3D%3D",
+        "user_review": "\"The hospital was clean, well-maintained, and provided good facilities.\"",
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RBLbI3pSPCIb_8FyCxtm7XYiPkJdaPQkDh6PtRwn5jKGble3VcPzOChoaPyBGvDkfyMzUnKCTICkcku-fsM-P-mh9QrcpxYf0bSb0C8KXa-o84_tLdxvDgFheqFAoRbZgjoQyr=w1000-h1000-c-n",
+        "serpapi_thumbnail": "https://serpapi.com/images/url/c4XcYHicHcRLjoIwAADQE1VqcBw0caElGAY_BT-jbgytpdVCi7Qq9YKewduY-Bbv_RLW1mboeaXwO1xrXrKbYQ3VyjJlO1RXHq8NoAYYb7z4P7tBNpmR2K9XGMXkGEQOtbb63e3PWP6dcpzKUPSxzR7q55JMScn8LcXPJRI6x24yvYeycPPnRiVoHSNJ5Q0UZg4wqMQgbWjd7gtIVgSiINnlQAe9o52d2nvII8Gu0Vhn5MAvOnXN6NGFEALxnQL1Ab55RhI"
+      },
+      {
+        "position": 7,
+        "title": "Aurobindo Hospital",
+        "place_id": "ChIJNReMvQv9YjkR0W9Ee-ytEEA",
+        "data_id": "0x3962fd0bbd8c1735:0x4010adec7b446fd1",
+        "data_cid": "4616380849246728145",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x3962fd0bbd8c1735%3A0x4010adec7b446fd1&engine=google_maps_reviews&hl=en",
+        "photos_link": "https://serpapi.com/search.json?data_id=0x3962fd0bbd8c1735%3A0x4010adec7b446fd1&engine=google_maps_photos&hl=en",
+        "gps_coordinates": {
+          "latitude": 22.7978798,
+          "longitude": 75.8453796
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJNReMvQv9YjkR0W9Ee-ytEEA",
+        "provider_id": "/g/11g654ch_0",
+        "rating": 4.1,
+        "reviews": 2089,
+        "type": "General hospital",
+        "types": [
+          "General hospital"
+        ],
+        "type_id": "general_hospital",
+        "type_ids": [
+          "general_hospital"
+        ],
+        "address": "Ujjain Rd, Bhawrasla, Indore, Madhya Pradesh 453555, India",
+        "country": "India",
+        "open_state": "Open 24 hours",
+        "hours": "Open 24 hours",
+        "operating_hours": {
+          "saturday": "Open 24 hours",
+          "sunday": "Open 24 hours",
+          "monday": "Open 24 hours",
+          "tuesday": "Open 24 hours",
+          "wednesday": "Open 24 hours",
+          "thursday": "Open 24 hours",
+          "friday": "Open 24 hours"
+        },
+        "phone": "+91 731 423 1000",
+        "website": "http://www.saimsonline.com/",
+        "extensions": [
+          {
+            "from_the_business": [
+              "Identifies as women-owned"
+            ]
+          },
+          {
+            "service_options": [
+              "Onsite services"
+            ]
+          },
+          {
+            "accessibility": [
+              "Wheelchair accessible entrance",
+              "Wheelchair accessible parking lot",
+              "Wheelchair accessible restroom",
+              "Wheelchair accessible seating"
+            ]
+          },
+          {
+            "offerings": [
+              "Medication disposal"
+            ]
+          },
+          {
+            "amenities": [
+              "Gender-neutral restroom",
+              "Restroom"
+            ]
+          },
+          {
+            "payments": [
+              "Credit cards",
+              "Debit cards",
+              "NFC mobile payments"
+            ]
+          },
+          {
+            "parking": [
+              "Paid parking lot"
+            ]
+          }
+        ],
+        "service_options": {
+          "onsite_services": true
+        },
+        "user_review": "\"The hospital environment was clean, calm, and well-managed.\"",
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RE_CLCtxjnP6ZSHt_pV2DS1Wq4Wbz5wflHctFuRT4TWdPxjJcTYf_iU4Jdad2zZZTWuuvY7RtHUXmdUjYe1otmrWH1gRw9jZzP3kVsClWzSOL-rje9zywr87ARmilx4-7kOZFA=w1000-h1000-c-n",
+        "serpapi_thumbnail": "https://serpapi.com/images/url/aKBnRXicHcRRboIwGADgE1VA2RhLfCCoIcZMUsCOvhAtFaiFIv0Z2At6Bm9jsu_hez1rgF5_W5asV4tKqUryUfOBqQ54BwumWqvqNWIaaSv4Ic3Dx9siPIQwiy7-pEkERX9abhKH3F1yMR_TVUYMdiNO3ZSU8Sz2LM2vRZO5-_JcLg2lKRnHv9zDEGW_bZmJnDsK2oFEToUnX1ATr24nHUpikuMBDYL75jENX16A20bOLvJuR7oL1pNj2zaq_2eoewP1z0ZM"
+      },
+      {
+        "position": 8,
+        "title": "Suyash Hospital",
+        "place_id": "ChIJM_9NyST9YjkROKhp7MUckgE",
+        "data_id": "0x3962fd24c94dff33:0x1921cc5ec69a838",
+        "data_cid": "113184577038166072",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x3962fd24c94dff33%3A0x1921cc5ec69a838&engine=google_maps_reviews&hl=en",
+        "photos_link": "https://serpapi.com/search.json?data_id=0x3962fd24c94dff33%3A0x1921cc5ec69a838&engine=google_maps_photos&hl=en",
+        "gps_coordinates": {
+          "latitude": 22.713798699999998,
+          "longitude": 75.8840006
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJM_9NyST9YjkROKhp7MUckgE",
+        "provider_id": "/g/1thxjgjf",
+        "rating": 4.4,
+        "reviews": 978,
+        "type": "General hospital",
+        "types": [
+          "General hospital"
+        ],
+        "type_id": "general_hospital",
+        "type_ids": [
+          "general_hospital"
+        ],
+        "address": "5, 1, AB Rd, opposite MGM Medical College, South Tukoganj, Indore, Madhya Pradesh 452001, India",
+        "country": "India",
+        "open_state": "Open 24 hours",
+        "hours": "Open 24 hours",
+        "operating_hours": {
+          "saturday": "Open 24 hours",
+          "sunday": "Open 24 hours",
+          "monday": "Open 24 hours",
+          "tuesday": "Open 24 hours",
+          "wednesday": "Open 24 hours",
+          "thursday": "Open 24 hours",
+          "friday": "Open 24 hours"
+        },
+        "phone": "+91 731 249 3911",
+        "website": "http://www.suyashhospital.com/",
+        "extensions": [
+          {
+            "service_options": [
+              "Onsite services"
+            ]
+          },
+          {
+            "accessibility": [
+              "Wheelchair accessible entrance",
+              "Wheelchair accessible parking lot",
+              "Wheelchair accessible restroom"
+            ]
+          },
+          {
+            "offerings": [
+              "Medication disposal"
+            ]
+          },
+          {
+            "amenities": [
+              "Restroom"
+            ]
+          },
+          {
+            "payments": [
+              "Credit cards",
+              "Debit cards",
+              "NFC mobile payments"
+            ]
+          }
+        ],
+        "service_options": {
+          "onsite_services": true
+        },
+        "user_review": "\"Clean and hygienic hospital with professional doctors and caring nurses.\"",
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TmqPo_0gWwFgkQZJXFEZGNj-50Tz8WzoIwk4wGymsmErL8gz_j9zH1rbwadtF-GG_iW2_Ejh_O2r8_mni7tMhfXygzD4G_rdz7xs7EfKbw_eHJHMayuGIUlxETSk1nEXmZaYJKVw=w1000-h1000-c-n",
+        "serpapi_thumbnail": "https://serpapi.com/images/url/w2SalXicHcTbboIwAADQLyoUpwFNfFhiKeJlmuFAXhpEbLm0dW1NpX_oJ_g3S3YezvvFjLnrhe8P7MOjUtKheehG1VKYRhivltyndw1qDbT_uc_bcZ7x34MkkOY2pv2xTIsYlXjfgRnMXJQ7ubb91OKRa47UNqKOdHOXBOpiq6uJAcakzScEdYx8TVREuGhDs2O3YqRuNcVEXV341CG6bS6WNEma7Krxgden4Ymy7z4QqOBldU43P3ZpAwghYP_XQPwBl4BHUw"
+      },
+      {
+        "position": 9,
+        "title": "Curewell Hospital Pvt Ltd",
+        "place_id": "ChIJEZRiXG39YjkR5GidlBvXnYk",
+        "data_id": "0x3962fd6d5c629411:0x899dd71b949d68e4",
+        "data_cid": "9916318467997133028",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x3962fd6d5c629411%3A0x899dd71b949d68e4&engine=google_maps_reviews&hl=en",
+        "photos_link": "https://serpapi.com/search.json?data_id=0x3962fd6d5c629411%3A0x899dd71b949d68e4&engine=google_maps_photos&hl=en",
+        "gps_coordinates": {
+          "latitude": 22.7265355,
+          "longitude": 75.88205649999999
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJEZRiXG39YjkR5GidlBvXnYk",
+        "provider_id": "/g/1tdckc9z",
+        "rating": 3.2,
+        "reviews": 126,
+        "unclaimed_listing": true,
+        "type": "General hospital",
+        "types": [
+          "General hospital",
+          "Hospital"
+        ],
+        "type_id": "general_hospital",
+        "type_ids": [
+          "general_hospital",
+          "hospital"
+        ],
+        "address": "19/1-C, Lala Banarasilal Dawar Marg, New Palasia, Indore, Madhya Pradesh 452001, India",
+        "country": "India",
+        "open_state": "Open 24 hours",
+        "hours": "Open 24 hours",
+        "operating_hours": {
+          "saturday": "Open 24 hours",
+          "sunday": "Open 24 hours",
+          "monday": "Open 24 hours",
+          "tuesday": "Open 24 hours",
+          "wednesday": "Open 24 hours",
+          "thursday": "Open 24 hours",
+          "friday": "Open 24 hours"
+        },
+        "phone": "+91 731 243 4445",
+        "extensions": [
+          {
+            "accessibility": [
+              "Wheelchair accessible entrance",
+              "Wheelchair accessible parking lot",
+              "Wheelchair accessible restroom"
+            ]
+          },
+          {
+            "amenities": [
+              "Restroom"
+            ]
+          },
+          {
+            "payments": [
+              "Credit cards",
+              "Debit cards",
+              "NFC mobile payments"
+            ]
+          }
+        ],
+        "user_review": "\"The service of Doctors ,staff and attendants is very good .\"",
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9REz3UwAhpRpMgswoD00HsMUQP29EoKwXbv0joqcswk5t2UcNXPZowgKFV8dk4l03Zciv6qoXlxnhWlQT8Z_mJ3mecA-cboq2PrbkiYex0wxSN2V1bvvWVS4X4DmVZgUkgPMzJy=w1000-h1000-c-n",
+        "serpapi_thumbnail": "https://serpapi.com/images/url/90hy4HicHcTdCoIwGADQJ1outaigC6EiCsU0f_Im8Gts5vTTtpz1gj1DbxN0Ls73I7Tu1MqypHAmHJFL9lTsAdhq1uoJYGPxThFQRFlekFWvZbR9O4nxRBd1PlcGN5TulZ-cQnu5xaPJy4HesQdl6pm2EwjysEDDj7t0catdSZ0CqmHeYy7HVmTydF4U1-bgNAw8AiX2dvgo6-rCRmrGOLDTaTkMWRq7ubtp0oInNQ_99-G1NlNKKRH_gbQ__RpGhA"
+      },
+      {
+        "position": 10,
+        "title": "SEWALAYA HOSPITAL",
+        "place_id": "ChIJARGUXqb9YjkRlyaiQQNiUvw",
+        "data_id": "0x3962fda65e941101:0xfc52620341a22697",
+        "data_cid": "18181702411773683351",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x3962fda65e941101%3A0xfc52620341a22697&engine=google_maps_reviews&hl=en",
+        "photos_link": "https://serpapi.com/search.json?data_id=0x3962fda65e941101%3A0xfc52620341a22697&engine=google_maps_photos&hl=en",
+        "gps_coordinates": {
+          "latitude": 22.7136729,
+          "longitude": 75.8492911
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJARGUXqb9YjkRlyaiQQNiUvw",
+        "provider_id": "/g/11bbv1hb16",
+        "rating": 4.1,
+        "reviews": 213,
+        "type": "Hospital",
+        "types": [
+          "Hospital",
+          "Diagnostic center",
+          "Doctor",
+          "Emergency care physician",
+          "Emergency care service",
+          "Emergency dental service",
+          "Medical clinic",
+          "Surgeon"
+        ],
+        "type_id": "hospital",
+        "type_ids": [
+          "hospital",
+          "diagnostic_center",
+          "doctor",
+          "emergency_care_physician",
+          "emergency_care_service",
+          "emergency_dental_service",
+          "medical_clinic",
+          "surgeon"
+        ],
+        "address": "Shop No. 8 Kagdipura Road Narsing Bazar, Square, Kagdipura, Indore, Madhya Pradesh 452002, India",
+        "country": "India",
+        "open_state": "Open 24 hours",
+        "hours": "Open 24 hours",
+        "operating_hours": {
+          "saturday": "Open 24 hours",
+          "sunday": "Open 24 hours",
+          "monday": "Open 24 hours",
+          "tuesday": "Open 24 hours",
+          "wednesday": "Open 24 hours",
+          "thursday": "Open 24 hours",
+          "friday": "Open 24 hours"
+        },
+        "phone": "+91 62665 27827",
+        "website": "http://sewalayahospital.com/",
+        "extensions": [
+          {
+            "accessibility": [
+              "Assistive hearing loop",
+              "Wheelchair accessible entrance",
+              "Wheelchair accessible parking lot",
+              "Wheelchair accessible restroom",
+              "Wheelchair accessible seating"
+            ]
+          },
+          {
+            "amenities": [
+              "Gender-neutral restroom"
+            ]
+          },
+          {
+            "crowd": [
+              "LGBTQ+ friendly"
+            ]
+          },
+          {
+            "payments": [
+              "Credit cards",
+              "Debit cards",
+              "NFC mobile payments"
+            ]
+          }
+        ],
+        "user_review": "\"Very good treatment\nBest hospitals\nGood management\nCareing staff\nLow cost\"",
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RAgMQ-9svKBkkmWVBo4OCmtpmeb6Pw87pNoIw4Nsmi7bxdjrY4nwFqXUWnK-zbqyrW4i5MiKqM-zJoZjGp4EOknl41Sv6obYvLKiy0M47BLJdr4Spuhc9S7AtHlk1GoGMpvltp1g=w1000-h1000-c-n",
+        "serpapi_thumbnail": "https://serpapi.com/images/url/zMd8g3icHcRRToMwGADgE3VAVkFMfAAz0UFhjijDRzpSOtr-hRYQbrgjeBsTv4fv995Zq82T44huv2MATLSTaUcKyrbK7ihIh2mDqEHGifKKr-E5YuQDhWZO476X1VcMuHiRVsu28U_LY6BzeF9wbiQPmp_rbayxWl6Hy2elUrQ1wzpWmD8Qng4EbUf4viUaH4peCeyVsw9NPWcpX12Cgzg7Xkdc6qmjYRlE9k30XgIJ0bOw2mPPi-e6Lur-p0j9AW6vRqM"
+      },
+      {
+        "position": 11,
+        "title": "Life Care Hospital",
+        "place_id": "ChIJAUmKFbsCYzkRpcM34EfAPlY",
+        "data_id": "0x396302bb158a4901:0x563ec047e037c3a5",
+        "data_cid": "6214615950754825125",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x396302bb158a4901%3A0x563ec047e037c3a5&engine=google_maps_reviews&hl=en",
+        "photos_link": "https://serpapi.com/search.json?data_id=0x396302bb158a4901%3A0x563ec047e037c3a5&engine=google_maps_photos&hl=en",
+        "gps_coordinates": {
+          "latitude": 22.7622814,
+          "longitude": 75.8841104
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJAUmKFbsCYzkRpcM34EfAPlY",
+        "provider_id": "/g/1tzlxc6h",
+        "rating": 4.5,
+        "reviews": 1552,
+        "type": "General hospital",
+        "types": [
+          "General hospital",
+          "Doctor",
+          "Hospital"
+        ],
+        "type_id": "general_hospital",
+        "type_ids": [
+          "general_hospital",
+          "doctor",
+          "hospital"
+        ],
+        "address": "Plot No.2, Scheme No 78 - II, Scheme Number 78, Vijay Nagar, Part II, Scheme 78, Vijay Nagar, Indore, Madhya Pradesh 452010, India",
+        "country": "India",
+        "open_state": "Open 24 hours",
+        "hours": "Open 24 hours",
+        "operating_hours": {
+          "saturday": "Open 24 hours",
+          "sunday": "Open 24 hours",
+          "monday": "Open 24 hours",
+          "tuesday": "Open 24 hours",
+          "wednesday": "Open 24 hours",
+          "thursday": "Open 24 hours",
+          "friday": "Open 24 hours"
+        },
+        "phone": "+91 94248 25000",
+        "website": "http://www.lifecarehospital.co.in/",
+        "extensions": [
+          {
+            "from_the_business": [
+              "Identifies as women-owned"
+            ]
+          },
+          {
+            "service_options": [
+              "Onsite services"
+            ]
+          },
+          {
+            "accessibility": [
+              "Wheelchair accessible entrance",
+              "Wheelchair accessible parking lot",
+              "Wheelchair accessible restroom"
+            ]
+          },
+          {
+            "offerings": [
+              "Medication disposal"
+            ]
+          },
+          {
+            "amenities": [
+              "Restroom"
+            ]
+          },
+          {
+            "payments": [
+              "Credit cards",
+              "Debit cards",
+              "NFC mobile payments"
+            ]
+          },
+          {
+            "parking": [
+              "Free parking lot"
+            ]
+          }
+        ],
+        "service_options": {
+          "onsite_services": true
+        },
+        "user_review": "\"The hospital was clean and well-maintained, and the food was good too!\"",
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QoRqZ3iO1QUsSfuVw4s10dhtIM4uVn1B9twFZkdY8wRcx3Zj7Z9N56Zv_kJbTp7iYJZLWY5FlwjoJawatYwXVk6yojwkwuJlC0usPBRT-4Jg9e1EfGEWsP5pIkdcgFDdWcocnt=w1000-h1000-c-n",
+        "serpapi_thumbnail": "https://serpapi.com/images/url/4y8IonicHcTRboIwFADQL6q0AXQs2YNOWGw2p-hg9MW4ggXKWrbbevUL_Yb9jcnOw_m7tc6N8BgEQxtOlLVqaDw0v9Ia1xg3kfY7UCMQCQSC-brsrsnW5j8i7N7Z9gN2J19gBIzWrVu9Rb4wbJE4zISuqwfM5SUU_Uwk63gqzgfNv_bjrKu4eC2rOBuwt_yIR1fhZ6GnV9ujRs-HZ-phs8j3JOIqaVh6eklL2MTjStdSZcu6lFYa94SMUkra_yUxd8VQRgI"
+      },
+      {
+        "position": 12,
+        "title": "SMS- Energy Hospital",
+        "place_id": "ChIJvT0ATHfjYjkRQrJO-iGmZMY",
+        "data_id": "0x3962e3774c003dbd:0xc664a621fa4eb242",
+        "data_cid": "14295733782044389954",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x3962e3774c003dbd%3A0xc664a621fa4eb242&engine=google_maps_reviews&hl=en",
+        "photos_link": "https://serpapi.com/search.json?data_id=0x3962e3774c003dbd%3A0xc664a621fa4eb242&engine=google_maps_photos&hl=en",
+        "gps_coordinates": {
+          "latitude": 22.673835399999998,
+          "longitude": 75.9410821
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJvT0ATHfjYjkRQrJO-iGmZMY",
+        "provider_id": "/g/11clyvlqmq",
+        "rating": 3.9,
+        "reviews": 110,
+        "type": "Hospital",
+        "types": [
+          "Hospital"
+        ],
+        "type_id": "hospital",
+        "type_ids": [
+          "hospital"
+        ],
+        "address": "Parwati Parisar ' SMS - Energy Hospital , Dudhia |, Nemawar Rd, Devguradia, Indore, Madhya Pradesh 452016, India",
+        "country": "India",
+        "open_state": "Open 24 hours",
+        "hours": "Open 24 hours",
+        "operating_hours": {
+          "saturday": "Open 24 hours",
+          "sunday": "Open 24 hours",
+          "monday": "Open 24 hours",
+          "tuesday": "Open 24 hours",
+          "wednesday": "Open 24 hours",
+          "thursday": "Open 24 hours",
+          "friday": "Open 24 hours"
+        },
+        "phone": "+91 731 286 3200",
+        "website": "http://www.smsenergyhospital.com/",
+        "extensions": [
+          {
+            "accessibility": [
+              "Wheelchair accessible entrance",
+              "Wheelchair accessible parking lot"
+            ]
+          },
+          {
+            "payments": [
+              "Credit cards",
+              "Debit cards",
+              "NFC mobile payments"
+            ]
+          }
+        ],
+        "user_review": "\"The hospital is very clean and well maintained.\"",
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TJxal9JrlK1zcklX-aE_E0xxC-gYYEEhhyY50nE-9NnJyI4cBcgF8TtulObuYNy4covOYsGuQ08H2W8vJcwG3kMWqWw4p8NJct7Mn6FwKyw9Gn33FClDb0X509cTFcILtcE26TAQ=w1000-h1000-c-n",
+        "serpapi_thumbnail": "https://serpapi.com/images/url/M-lrzHicHcTdDsEwGADQJ6qVDavEhZ9uFBPJkumV8GVpRbWjna7e0CN4G4lzcb4f6VxjJ1GkZNwTxghVt7Z-gtGu1q4H5h6JxiKwyEazoroGUrLurAh7qk3_DTd1RGd6orjrFkhwTqmUgQ-xpogUmoV1AnMQWVq6Vu0vLS9CAua15zZvDzhdDar0xcDn8W1XPSqfNGnBwI13epT5TfAk13GcLdTygo9DTKDMYL11QAejcnaY-j7GGMn_gPQP5y1ETQ"
+      },
+      {
+        "position": 13,
+        "title": "Phoenix Hospital Indore",
+        "place_id": "ChIJNRqjQJzjYjkR2mAgX9Pg9dg",
+        "data_id": "0x3962e39c40a31a35:0xd8f5e0d35f2060da",
+        "data_cid": "15633648879925223642",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x3962e39c40a31a35%3A0xd8f5e0d35f2060da&engine=google_maps_reviews&hl=en",
+        "photos_link": "https://serpapi.com/search.json?data_id=0x3962e39c40a31a35%3A0xd8f5e0d35f2060da&engine=google_maps_photos&hl=en",
+        "gps_coordinates": {
+          "latitude": 22.7175229,
+          "longitude": 75.91099179999999
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJNRqjQJzjYjkR2mAgX9Pg9dg",
+        "provider_id": "/g/11jjr7jfmj",
+        "rating": 4.3,
+        "reviews": 406,
+        "type": "General hospital",
+        "types": [
+          "General hospital"
+        ],
+        "type_id": "general_hospital",
+        "type_ids": [
+          "general_hospital"
+        ],
+        "address": "1A, 2A, Bicholi Hapsi Main Rd, near Jain Tample, Shukh Shanti Nagar, Indore, Madhya Pradesh 452016, India",
+        "country": "India",
+        "open_state": "Open 24 hours",
+        "hours": "Open 24 hours",
+        "operating_hours": {
+          "saturday": "Open 24 hours",
+          "sunday": "Open 24 hours",
+          "monday": "Open 24 hours",
+          "tuesday": "Open 24 hours",
+          "wednesday": "Open 24 hours",
+          "thursday": "Open 24 hours",
+          "friday": "Open 24 hours"
+        },
+        "phone": "+91 75665 58022",
+        "extensions": [
+          {
+            "accessibility": [
+              "Wheelchair accessible entrance",
+              "Wheelchair accessible parking lot",
+              "Wheelchair accessible restroom"
+            ]
+          },
+          {
+            "offerings": [
+              "Medication disposal"
+            ]
+          },
+          {
+            "amenities": [
+              "Restroom"
+            ]
+          },
+          {
+            "payments": [
+              "Credit cards",
+              "Debit cards",
+              "NFC mobile payments"
+            ]
+          }
+        ],
+        "user_review": "\"The hospital has a well trained and experienced staff.\"",
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RJfmX92FFL3ILvaEzYgH2v2msepXHhO3D3cdaLM_4gJNDzGrqFwujHiOUqwTwFVSWEkSCs4GvK8gMqIiIwMxxsPuy18AJJesfGH_U-zxHxDjlC1hIGMbZ2JKqIQl9-HhBbGlo=w1000-h1000-c-n",
+        "serpapi_thumbnail": "https://serpapi.com/images/url/gDhpjXicHcRLcoIwGADgE0VeLqQzXahIHoK2vnXjaBoTbCDgDwQ5oHfobTrjt_j-XqquS_hwHK2CgTRGatGAeHBT1KKoB9zkjiwBcUDgjBf77Bmu2C0_hH4cJwFN2susP0rit34OojwQtQyigP9ckvQ8lGwR9fhRxba5k2y5rezGxrv1fva7nsIQt_ORTCuaUZt2HXw1T280ZkzADZPzFvUd6aK7nnqK4vR68tm8ot86RERNrlibT-u5rovUe46KfzuVRKQ"
+      },
+      {
+        "position": 14,
+        "title": "City Hospital",
+        "place_id": "ChIJEZRiXG39YjkR7koXbmUXD9Q",
+        "data_id": "0x3962fd6d5c629411:0xd40f17656e174aee",
+        "data_cid": "15280457785097538286",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x3962fd6d5c629411%3A0xd40f17656e174aee&engine=google_maps_reviews&hl=en",
+        "photos_link": "https://serpapi.com/search.json?data_id=0x3962fd6d5c629411%3A0xd40f17656e174aee&engine=google_maps_photos&hl=en",
+        "gps_coordinates": {
+          "latitude": 22.7338862,
+          "longitude": 75.87389
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJEZRiXG39YjkR7koXbmUXD9Q",
+        "provider_id": "/g/1tg_dfzq",
+        "rating": 4.1,
+        "reviews": 32,
+        "type": "General hospital",
+        "types": [
+          "General hospital",
+          "Hospital"
+        ],
+        "type_id": "general_hospital",
+        "type_ids": [
+          "general_hospital",
+          "hospital"
+        ],
+        "address": "Yeshwant Niwas Rd Near New Dewas Road, Malwa Mill Chouraha, Anaj Mandi Scheme Number-91, Malwa Mill, Indore, Madhya Pradesh 452003, India",
+        "country": "India",
+        "open_state": "Open 24 hours",
+        "hours": "Open 24 hours",
+        "operating_hours": {
+          "saturday": "Open 24 hours",
+          "sunday": "Open 24 hours",
+          "monday": "Open 24 hours",
+          "tuesday": "Open 24 hours",
+          "wednesday": "Open 24 hours",
+          "thursday": "Open 24 hours",
+          "friday": "Open 24 hours"
+        },
+        "phone": "+91 94253 19797",
+        "website": "https://indorecityhospital.com/",
+        "extensions": [
+          {
+            "accessibility": [
+              "Wheelchair accessible entrance",
+              "Wheelchair accessible parking lot"
+            ]
+          },
+          {
+            "payments": [
+              "Debit cards",
+              "NFC mobile payments"
+            ]
+          }
+        ],
+        "user_review": "\"Very nice your service\nPlz add your contact number to makes you more best\"",
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TuAnQ9oqIozqyXVV0Gw9odcqzn3Y97lKoolEQV_WObaQisOIA_mQMBKOnuDTNP3HIWjga1OllnvsOoibxyNIY2PNavgHkN1h21JSL-sBg4JKZs36BGGdSYh9DqYoG45oqlf1Y=w1000-h1000-c-n",
+        "serpapi_thumbnail": "https://serpapi.com/images/url/DUva-nicHcTRboIwFADQL6pQ0Zku2QNEg8jWSjSw7sVgZS2u9tpd0OEH7h_8GxPPw7n_m64742sQWBONNIC2TY_NrwLXNa4bKTgF-oxEIcEg5lU7sG0fu4KBz-Dmh8-yDNMrg4PyNxdJNrM5gF0U5a4S-7poUWTx7lR8JLlw_XzL19Eyq466psJad0EB7f5v4Jkcr3l90csfTs2YrjbvBBM9WeVfGL0kaXrYSMPmXkI6mYK331S-XWkYhsQ8V8Q9AJ9oROA"
+      },
+      {
+        "position": 15,
+        "title": "Noble Hospital",
+        "place_id": "ChIJO3Vg5j39YjkRrgyoXOnZ998",
+        "data_id": "0x3962fd3de660753b:0xdff7d9e95ca80cae",
+        "data_cid": "16138607386010586286",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x3962fd3de660753b%3A0xdff7d9e95ca80cae&engine=google_maps_reviews&hl=en",
+        "photos_link": "https://serpapi.com/search.json?data_id=0x3962fd3de660753b%3A0xdff7d9e95ca80cae&engine=google_maps_photos&hl=en",
+        "gps_coordinates": {
+          "latitude": 22.6900655,
+          "longitude": 75.9306422
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJO3Vg5j39YjkRrgyoXOnZ998",
+        "provider_id": "/g/1tk_mp9k",
+        "rating": 4.6,
+        "reviews": 825,
+        "type": "General hospital",
+        "types": [
+          "General hospital",
+          "Doctor",
+          "Private hospital",
+          "Hospital"
+        ],
+        "type_id": "general_hospital",
+        "type_ids": [
+          "general_hospital",
+          "doctor",
+          "private_hospital",
+          "hospital"
+        ],
+        "address": "Bicholi Mardana Behind Hotel President Park, Near, Shreeji Valley Rd, Indore, Madhya Pradesh 452016, India",
+        "country": "India",
+        "open_state": "Open 24 hours",
+        "hours": "Open 24 hours",
+        "operating_hours": {
+          "saturday": "Open 24 hours",
+          "sunday": "Open 24 hours",
+          "monday": "Open 24 hours",
+          "tuesday": "Open 24 hours",
+          "wednesday": "Open 24 hours",
+          "thursday": "Open 24 hours",
+          "friday": "Open 24 hours"
+        },
+        "phone": "+91 731 493 3332",
+        "website": "http://www.noblehospitalindore.com/",
+        "extensions": [
+          {
+            "service_options": [
+              "Onsite services"
+            ]
+          },
+          {
+            "accessibility": [
+              "Wheelchair accessible entrance",
+              "Wheelchair accessible parking lot"
+            ]
+          },
+          {
+            "offerings": [
+              "Medication disposal"
+            ]
+          },
+          {
+            "payments": [
+              "Credit cards",
+              "Debit cards",
+              "NFC mobile payments"
+            ]
+          }
+        ],
+        "service_options": {
+          "onsite_services": true
+        },
+        "user_review": "\"The hospital was clean, well-organized, and patient-friendly.\"",
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QOpZutyRjKa6gwr8C0kWihH8TQcUtmNGxFzIikccWl8QTCcCBWaus9apsBOq7lpqBAV4zMza8XjbWkrgpoLnPfsC9dBfp3-pdX-ogwyAH8AG7fn74TRbt8oX9TjIoAv3Hlllof7g=w1000-h1000-c-n",
+        "serpapi_thumbnail": "https://serpapi.com/images/url/4HcjUnicHcRLDoIwFADAE1UwGCkmLgqJYvxi0BJ3UKF8al-lRYQbegRvY-Is5vspjVF6YVmidCYcgIu803nLQJpcmgmDh8WVRkwjbZEDrQYvOqpbZ4ZzvU3nvG9xYDe0KkMcR-xiHof1ezVuqoYxKnAUByzwadppL1XaPz5doZ4-uc7G_ZjipM5o03IFO3kqdODd_UI5SN0TBLwfSIjJ2i2kO4vPmcGQeHG9AfJyQiEEFC5f9lPbtlH5nyH5A6-5Rw4"
+      },
+      {
+        "position": 16,
+        "title": "Choithram Hospital & Research Centre",
+        "place_id": "ChIJg3fFLwf9YjkRhNvi_VB8zYc",
+        "data_id": "0x3962fd072fc57783:0x87cd7c50fde2db84",
+        "data_cid": "9785614252644686724",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x3962fd072fc57783%3A0x87cd7c50fde2db84&engine=google_maps_reviews&hl=en",
+        "photos_link": "https://serpapi.com/search.json?data_id=0x3962fd072fc57783%3A0x87cd7c50fde2db84&engine=google_maps_photos&hl=en",
+        "gps_coordinates": {
+          "latitude": 22.6875578,
+          "longitude": 75.8542563
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJg3fFLwf9YjkRhNvi_VB8zYc",
+        "provider_id": "/g/1tcv98v4",
+        "rating": 4.2,
+        "reviews": 2564,
+        "type": "General hospital",
+        "types": [
+          "General hospital",
+          "Hospital",
+          "Ophthalmologist",
+          "Research institute"
+        ],
+        "type_id": "general_hospital",
+        "type_ids": [
+          "general_hospital",
+          "hospital",
+          "ophthalmologist",
+          "research_institute"
+        ],
+        "address": "14, Manik Bagh Rd, Choithram Mandi, Indore, Madhya Pradesh 452014, India",
+        "country": "India",
+        "open_state": "Open 24 hours",
+        "hours": "Open 24 hours",
+        "operating_hours": {
+          "saturday": "Open 24 hours",
+          "sunday": "Open 24 hours",
+          "monday": "Open 24 hours",
+          "tuesday": "Open 24 hours",
+          "wednesday": "Open 24 hours",
+          "thursday": "Open 24 hours",
+          "friday": "Open 24 hours"
+        },
+        "phone": "+91 731 236 2491",
+        "extensions": [
+          {
+            "service_options": [
+              "Onsite services"
+            ]
+          },
+          {
+            "accessibility": [
+              "Wheelchair accessible entrance",
+              "Wheelchair accessible parking lot",
+              "Wheelchair accessible restroom",
+              "Wheelchair accessible seating"
+            ]
+          },
+          {
+            "offerings": [
+              "Medication disposal"
+            ]
+          },
+          {
+            "amenities": [
+              "Gender-neutral restroom",
+              "Restroom"
+            ]
+          },
+          {
+            "crowd": [
+              "LGBTQ+ friendly"
+            ]
+          },
+          {
+            "payments": [
+              "Credit cards",
+              "Debit cards",
+              "NFC mobile payments"
+            ]
+          },
+          {
+            "parking": [
+              "Paid parking lot"
+            ]
+          }
+        ],
+        "unsupported_extensions": [
+          {
+            "accessibility": [
+              "Assistive hearing loop"
+            ]
+          }
+        ],
+        "service_options": {
+          "onsite_services": true
+        },
+        "user_review": "\"Great care and support by the doctors, nursing staff, and the entire team.\"",
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9T7KNqzDdwWUPJ79z8VgUwcJl28Sbc6z1xem2ZL_ppinrbFcN_lzfnp_BwMvgyholR4_cLsxPT8w-qCBY5TSXoSSm4Y_0MjKvXIxhIot_qxFbY-n47xO6TI_ken5ADRrYe9a3vw=w1000-h1000-c-n",
+        "serpapi_thumbnail": "https://serpapi.com/images/url/hCddYXicHcTbDoIgAADQLyKtLLWth6y12cVa2sVeWBJBhYBCQv5g39DftHUezvdDtZZq5DiM9jtECMLwS-EaCa4x1x0kSodIBZACypkkx_s7zPxlUrWzqznutws_bIMD2Ru0YL0gLdCw7Vpc9s4rKOWd18UcJZC1Ny5hZNYNeVPBdh5EK2W3WWBANY3yQZaeRJqWXg7d9WPZnGJLY6FhZedFDrjn280wi-ET88FktqtzHF76jRmbruu6gP5HgP8ADBRGbQ"
+      },
+      {
+        "position": 17,
+        "title": "Gokuldas Hospital",
+        "place_id": "ChIJ1yreLBb9YjkRMcvUaxmreSA",
+        "data_id": "0x3962fd162cde2ad7:0x2079ab196bd4cb31",
+        "data_cid": "2340089607067323185",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x3962fd162cde2ad7%3A0x2079ab196bd4cb31&engine=google_maps_reviews&hl=en",
+        "photos_link": "https://serpapi.com/search.json?data_id=0x3962fd162cde2ad7%3A0x2079ab196bd4cb31&engine=google_maps_photos&hl=en",
+        "gps_coordinates": {
+          "latitude": 22.716580699999998,
+          "longitude": 75.87606
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ1yreLBb9YjkRMcvUaxmreSA",
+        "provider_id": "/g/1vnth8_p",
+        "rating": 3.5,
+        "reviews": 542,
+        "type": "General hospital",
+        "types": [
+          "General hospital"
+        ],
+        "type_id": "general_hospital",
+        "type_ids": [
+          "general_hospital"
+        ],
+        "address": "11 , DR SARJU PRASAD MARG 11, DR SARJU, Jagannath Verma Marg, Indore, Madhya Pradesh 452001, India",
+        "country": "India",
+        "open_state": "Open 24 hours",
+        "hours": "Open 24 hours",
+        "operating_hours": {
+          "saturday": "Open 24 hours",
+          "sunday": "Open 24 hours",
+          "monday": "Open 24 hours",
+          "tuesday": "Open 24 hours",
+          "wednesday": "Open 24 hours",
+          "thursday": "Open 24 hours",
+          "friday": "Open 24 hours"
+        },
+        "phone": "+91 731 251 9212",
+        "website": "http://www.gokuldashospital.com/",
+        "extensions": [
+          {
+            "service_options": [
+              "Onsite services"
+            ]
+          },
+          {
+            "accessibility": [
+              "Wheelchair accessible entrance",
+              "Wheelchair accessible parking lot",
+              "Wheelchair accessible restroom"
+            ]
+          },
+          {
+            "offerings": [
+              "Medication disposal"
+            ]
+          },
+          {
+            "amenities": [
+              "Gender-neutral restroom",
+              "Restroom"
+            ]
+          },
+          {
+            "payments": [
+              "Credit cards",
+              "Debit cards",
+              "NFC mobile payments"
+            ]
+          }
+        ],
+        "service_options": {
+          "onsite_services": true
+        },
+        "user_review": "\"There is well experienced staffs and doctors.\"",
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RYlHSRZKNFTKje42hKtNwVdONWfd9_T8IoEPmEEE-_-AJs5jna7KyXwXGviYobJ_643mR4_THxNi9T6uaSDbyyKCXi_4wHhBNLKQvVw8Kqs_rYKfqnevVYoIOlvoOUMi5_Znk=w1000-h1000-c-n",
+        "serpapi_thumbnail": "https://serpapi.com/images/url/WmCYsnicHcTdFoEwAADgJ5pCfnKOixAxFkmqm51k2qgNm6YX9A7exjm-i-_7oUrd5cgwStptFUIUJXlJ8swFV4SrVi4qo7hLkEsgDQcdWWMHSentgxSieQivxOpQqJCOzj46Xs42DodL4W4r13UBBs5K9q48G8Am1vGiZok4rXDf6laBhUPvjZgd9l_ZfnZqGjiNGba0RydoDXd1pIfwIfEzgZcHJ3WUiKVf1sI_bFgPp_w21m3TNAH9nwP-AxWfRQ4"
+      },
+      {
+        "position": 18,
+        "title": "ESIC medical college and Hospital",
+        "place_id": "ChIJQ0QBh1_9YjkReE88T1hx-Mo",
+        "data_id": "0x3962fd5f87014443:0xcaf871584f3c4f78",
+        "data_cid": "14625564413986099064",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x3962fd5f87014443%3A0xcaf871584f3c4f78&engine=google_maps_reviews&hl=en",
+        "photos_link": "https://serpapi.com/search.json?data_id=0x3962fd5f87014443%3A0xcaf871584f3c4f78&engine=google_maps_photos&hl=en",
+        "gps_coordinates": {
+          "latitude": 22.7489182,
+          "longitude": 75.8797996
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJQ0QBh1_9YjkReE88T1hx-Mo",
+        "provider_id": "/g/11g87xx6yq",
+        "rating": 3.3,
+        "reviews": 254,
+        "unclaimed_listing": true,
+        "type": "General hospital",
+        "types": [
+          "General hospital",
+          "Hospital"
+        ],
+        "type_id": "general_hospital",
+        "type_ids": [
+          "general_hospital",
+          "hospital"
+        ],
+        "address": "1378/11, ITI College Main Road, Nanda Nagar, Indore, Madhya Pradesh 452011, India",
+        "country": "India",
+        "open_state": "Open 24 hours",
+        "hours": "Open 24 hours",
+        "operating_hours": {
+          "saturday": "Open 24 hours",
+          "sunday": "Open 24 hours",
+          "monday": "Open 24 hours",
+          "tuesday": "Open 24 hours",
+          "wednesday": "Open 24 hours",
+          "thursday": "Open 24 hours",
+          "friday": "Open 24 hours"
+        },
+        "phone": "+91 1800 11 2526",
+        "website": "https://indorehospital.esic.gov.in/",
+        "extensions": [
+          {
+            "accessibility": [
+              "Wheelchair accessible entrance",
+              "Wheelchair accessible parking lot",
+              "Wheelchair accessible restroom"
+            ]
+          },
+          {
+            "offerings": [
+              "Medication disposal"
+            ]
+          },
+          {
+            "amenities": [
+              "Restroom"
+            ]
+          },
+          {
+            "payments": [
+              "Debit cards",
+              "NFC mobile payments"
+            ]
+          }
+        ],
+        "user_review": "\"Excellent ambience for Staff and Patients.\"",
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RwqTNHufbBAZNl-URBxpYW-cQpkNcb-7nr6Pwv60GFTDpuKEEK-4ZQ0Ebt6hwygkGm_YJW7Io9m7fRdL9IjFtsvf6_1CpdCGf9jT7NQAnn-u87fzs_uMWPA0-kxf2TEdkr8dP7=w1000-h1000-c-n",
+        "serpapi_thumbnail": "https://serpapi.com/images/url/jmIPM3icHcRLDoIwFADAEz2pn1AxcYGK-G2AYIhuSCgUFGgrbUW9oGfwNibOYr6fSmupZpbVVONBKUTZFEYVHRVcF1wPqGitUiqgCpTlkuT6cqL-HpONYdnCvZAGTtHiKc8J0FDWhGaAeWcH_cNG_jpeSbP3vD1MLiHyMm1X_aus_TY97xK8FU6LWZQfnO1trdWD2elwKfOlz5xbjEnocg5mitlbpeaYBC6C-slGsZfX3TQP8LwfIoSg-k-B_wBSmUQp"
+      },
+      {
+        "position": 19,
+        "title": "Greater Kailash Hospital",
+        "place_id": "ChIJ2TGD-Df9YjkRdkcjK_x6Flo",
+        "data_id": "0x3962fd37f88331d9:0x5a167afc2b234776",
+        "data_cid": "6491511136375228278",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x3962fd37f88331d9%3A0x5a167afc2b234776&engine=google_maps_reviews&hl=en",
+        "photos_link": "https://serpapi.com/search.json?data_id=0x3962fd37f88331d9%3A0x5a167afc2b234776&engine=google_maps_photos&hl=en",
+        "gps_coordinates": {
+          "latitude": 22.725162599999997,
+          "longitude": 75.8894895
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ2TGD-Df9YjkRdkcjK_x6Flo",
+        "provider_id": "/g/1tdnv91_",
+        "rating": 3.1,
+        "reviews": 208,
+        "type": "General hospital",
+        "types": [
+          "General hospital",
+          "Private hospital"
+        ],
+        "type_id": "general_hospital",
+        "type_ids": [
+          "general_hospital",
+          "private_hospital"
+        ],
+        "address": "11, 2, near Palasia, New Palasia, Thana, Indore, Madhya Pradesh 452018, India",
+        "country": "India",
+        "open_state": "Open 24 hours",
+        "hours": "Open 24 hours",
+        "operating_hours": {
+          "saturday": "Open 24 hours",
+          "sunday": "Open 24 hours",
+          "monday": "Open 24 hours",
+          "tuesday": "Open 24 hours",
+          "wednesday": "Open 24 hours",
+          "thursday": "Open 24 hours",
+          "friday": "Open 24 hours"
+        },
+        "phone": "+91 731 663 3333",
+        "extensions": [
+          {
+            "service_options": [
+              "Onsite services"
+            ]
+          },
+          {
+            "accessibility": [
+              "Wheelchair accessible entrance",
+              "Wheelchair accessible parking lot"
+            ]
+          },
+          {
+            "payments": [
+              "Credit cards",
+              "Debit cards",
+              "NFC mobile payments"
+            ]
+          }
+        ],
+        "service_options": {
+          "onsite_services": true
+        },
+        "user_review": "\"Good Doctors and Management.\"",
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RR8BPxbOvuBtfp1RpFZttz9kYJ7Rf9dd5IVGeSknpT5tgd5GNlla7wktJ1rWMgB-dy_OvBlIWkdBydoYd9n8qXkS4h1FQA98JmBiUqJGZdySAgmblvZUeYy96QpkqP4bUVIZkC=w1000-h1000-c-n",
+        "serpapi_thumbnail": "https://serpapi.com/images/url/-vsa4nicHcTdboIwGADQJ6pAFKUmu6BLJJD4B0MGN4vQWkxLW-wnWl9wz7C3Mdm5OH-_PYCxa8-T_XzGteaS3S27dVoBUzDr9OBxY1FnkfXiXXV1OM8jcni2--lO4GKC3GwagBcWdbbKL5jSMD0lrBDKfIXAaZjspDyvHgKy4FZtOUHU_ewnItNKUOKorilW0fgtikUfbI4xjrKBXMsxSxrqipgPrZyaktUOL49GjIdFW57SRnx-PALf91H_f4fUG-DCRfE"
+      },
+      {
+        "position": 20,
+        "title": "Verma Hospital",
+        "place_id": "ChIJ13tJnWH9YjkRg5IucN17GG8",
+        "data_id": "0x3962fd619d497bd7:0x6f187bdd702e9283",
+        "data_cid": "8005284528651145859",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x3962fd619d497bd7%3A0x6f187bdd702e9283&engine=google_maps_reviews&hl=en",
+        "photos_link": "https://serpapi.com/search.json?data_id=0x3962fd619d497bd7%3A0x6f187bdd702e9283&engine=google_maps_photos&hl=en",
+        "gps_coordinates": {
+          "latitude": 22.745186,
+          "longitude": 75.87157499999999
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ13tJnWH9YjkRg5IucN17GG8",
+        "provider_id": "/g/11b77v63ty",
+        "rating": 4.3,
+        "reviews": 135,
+        "type": "General hospital",
+        "types": [
+          "General hospital",
+          "Hospital"
+        ],
+        "type_id": "general_hospital",
+        "type_ids": [
+          "general_hospital",
+          "hospital"
+        ],
+        "address": "42-44 Pardeshipura Chouraha, opp. Shiv Dham, Indore, Madhya Pradesh 452003, India",
+        "country": "India",
+        "open_state": "Open 24 hours",
+        "hours": "Open 24 hours",
+        "operating_hours": {
+          "saturday": "Open 24 hours",
+          "sunday": "Open 24 hours",
+          "monday": "Open 24 hours",
+          "tuesday": "Open 24 hours",
+          "wednesday": "Open 24 hours",
+          "thursday": "Open 24 hours",
+          "friday": "Open 24 hours"
+        },
+        "phone": "+91 731 253 8331",
+        "website": "http://www.vermahospitals.com/",
+        "extensions": [
+          {
+            "accessibility": [
+              "Wheelchair accessible entrance",
+              "Wheelchair accessible parking lot",
+              "Wheelchair accessible restroom"
+            ]
+          },
+          {
+            "offerings": [
+              "Medication disposal"
+            ]
+          },
+          {
+            "amenities": [
+              "Restroom"
+            ]
+          },
+          {
+            "payments": [
+              "Credit cards",
+              "Debit cards",
+              "NFC mobile payments"
+            ]
+          }
+        ],
+        "user_review": "\"Best treatment with polite staff\"",
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SgoKE8GBjAtZtB9gDY1CkHRuYSClEZ4nnToW9-YQCMixuYRIvZOaUVBzf49LpAv_gbppUAz5wL3ki7PPMjXSnnz-mU0ckV_txsIOMmAy1Iv-0AQtd7jEVd9GDnnzcRkKyDpB1Y=w1000-h1000-c-n",
+        "serpapi_thumbnail": "https://serpapi.com/images/url/ci0QXHicHcpJDoIwAADAF1VK1GhNPJQlShQXELRcjFYsa9vYgsIHfYO_0XiZ03zemdZSzQyjyoYDJgSr0kalDyq4TrkeUFEbTCpAFVAG3hzzDoVMrNzpwiqwTrSFmENMu1wGDQntyk1GnB_EEQGyt_381ZDAa5PtJYqt_j5Ca4nbM7tKGeF-_FwPy3yy2_nFKeS8B3UEaRmf9Ut5W7_Gnem1AOK9vk0KN76hhfNLNChXnSMtk8yfJoQQZH8p4F9-ZUUe"
+      }
+    ],
+    "serpapi_pagination": {
+      "next": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&ll=%4022.7196%2C75.8577%2C13z&q=hospital&start=20&type=search"
+    }
+  }
+}

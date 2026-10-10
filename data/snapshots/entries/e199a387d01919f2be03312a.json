@@ -1,0 +1,1082 @@
+{
+  "version": 1,
+  "key": "e199a387d01919f2be03312a",
+  "engine": "google_news",
+  "params": {
+    "gl": "in",
+    "hl": "hi",
+    "q": "आयुष्मान कार्ड अस्पताल लखनऊ"
+  },
+  "fetchedAt": "2026-10-10T10:50:24.304Z",
+  "response": {
+    "search_metadata": {
+      "status": "Success",
+      "created_at": "2026-10-10 10:50:28 UTC",
+      "total_time_taken": 0.66
+    },
+    "search_parameters": {
+      "engine": "google_news",
+      "gl": "in",
+      "hl": "hi",
+      "q": "आयुष्मान कार्ड अस्पताल लखनऊ"
+    },
+    "news_results": [
+      {
+        "position": 1,
+        "title": "Lucknow News: आयुष्मान योजना के पैनल में शामिल होने के लिए 50 बेड अनिवार्य",
+        "source": {
+          "name": "Amar Ujala",
+          "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.amarujala.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.amarujala.com/lucknow/50-beds-are-mandatory-for-ayushman-yojana-empanelment-lucknow-news-c-13-lko1070-1771275-2026-06-07",
+        "thumbnail": "https://staticimg.amarujala.com/assets/images/2021/10/21/lucknow_1634823856.jpeg?w=1200",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDVlbTExVFcxNGFUZDVOMkpTVFJESEF4aWlCU2dLTWdZaGhZNnRNUVU",
+        "date": "06/07/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-06-07T07:00:00Z"
+      },
+      {
+        "position": 2,
+        "title": "यूपी में आयुष्मान कार्ड फर्जीवाड़ा मामले में सख्त कार्रवाई, पांच अस्पतालों की संबद्धता निलंबित",
+        "source": {
+          "name": "Jagran",
+          "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.jagran.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.jagran.com/uttar-pradesh/lucknow-city-ayushman-card-fraud-5-hospitals-suspended-in-up-40086035.html",
+        "thumbnail": "https://www.jagranimages.com/images/2025/12/26/article/image/21_03_2024-ayushman_card__23680035_16431148-1766757050496_m.webp",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWZjWGxXTldKWE1XcFpWbE5sVFJDMEFSakFBaWdLTWdhSmdaWUdzUWM",
+        "date": "12/27/2025, 08:00 AM, +0000 UTC",
+        "iso_date": "2025-12-27T08:00:00Z"
+      },
+      {
+        "position": 3,
+        "title": "KGMU में आयुष्मान कार्ड का बड़ा फर्जीवाड़ा! एक-एक मरीज को 5-5 स्टंट? जांच कमिटी तैयार",
+        "source": {
+          "name": "News18 Hindi",
+          "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://hindi.news18.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://hindi.news18.com/news/uttar-pradesh/lucknow-kgmu-ayushamn-card-scam-one-patient-5-stunts-committee-start-investigation-10555914.html",
+        "thumbnail": "https://images.news18.com/ibnkhabar/uploads/2026/06/lucknow-kgmu-hospital-news-2026-06-49b1c94573b72d2a44c6fc89b8e0ab75-1200x900.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iMkNnNWFUbFkwVWpZemJISlZaMlJRVFJEZ0F4aUFCU2dLTWdzQk1JVEFwZVJ5Mk9pY3VR",
+        "date": "06/10/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-06-10T07:00:00Z"
+      },
+      {
+        "position": 4,
+        "title": "आयुष्मान कार्ड धारकों के लिये खास खबर; कैंटोनमेंट अस्पतालों को योजना से जोड़ने का प्रयास, जानें क्या है तैयारी?",
+        "source": {
+          "name": "ETV Bharat",
+          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.etvbharat.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.etvbharat.com/hi/state/efforts-will-be-made-to-link-cantonment-hospitals-with-ayushman-bharat-scheme-uttar-pradesh-news-ups25121204324",
+        "thumbnail": "https://imgs.etvbharat.com/etvbharat/prod-images/12-12-2025/1200-675-25589552-thumbnail-16x9-ni-aspera.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNU9PR014YUhKR1dtcG5TVGhIVFJDZkF4ampCU2dLTWdhVk00NVBuUWc",
+        "date": "12/12/2025, 08:00 AM, +0000 UTC",
+        "iso_date": "2025-12-12T08:00:00Z"
+      },
+      {
+        "position": 5,
+        "title": "यूपी के लोगों को छावनी हॉस्पिटल में भी मिलेगा मुफ्त इलाज, योगी सरकार ने कर दिया ये बंदोबस्त",
+        "source": {
+          "name": "Jagran",
+          "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.jagran.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.jagran.com/uttar-pradesh/lucknow-city-ayushman-bharat-up-army-hospitals-to-treat-card-holders-40157557.html",
+        "thumbnail": "https://www.jagranimages.com/images/2026/02/28/article/image/yogi-happy-1772283982691.webp",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVBTakpXUmtaTVdrTnFYekJpVFJDZkF4ampCU2dLTWdhWkk1ck5IUWs",
+        "date": "02/28/2026, 08:00 AM, +0000 UTC",
+        "iso_date": "2026-02-28T08:00:00Z"
+      },
+      {
+        "position": 6,
+        "title": "एक से पांच हजार रुपये में बनाए जा रहे आयुष्मान कार्ड, NHA ओर UADAI पोर्टल में सेंधमारी, कैसे हो रहा खेल?",
+        "source": {
+          "name": "Navbharat Times",
+          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://navbharattimes.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "authors": [
+            "राणविजय सिंह"
+          ]
+        },
+        "link": "https://navbharattimes.indiatimes.com/state/uttar-pradesh/lucknow/fake-ayushman-cards-news-nha-and-uadai-portals-hacked/articleshow/125028255.cms",
+        "thumbnail": "https://static.langimg.com/nbt/thumb/125028398/ayushman-card.jpg?imgsize=31252&width=1600&height=900&resizemode=75",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXBia00wWDJsWWVrTkVaMlZTVFJDZkF4ampCU2dLTWdZVlZaTElKUWM",
+        "date": "11/02/2025, 07:00 AM, +0000 UTC",
+        "iso_date": "2025-11-02T07:00:00Z"
+      },
+      {
+        "position": 7,
+        "title": "UP News: अब यूपी के सभी कैंटोनमेंट अस्पतालों में आयुष्मान कार्ड धारकों को मिलेगा इलाज, जल्द साइन होगा एमओयू",
+        "source": {
+          "name": "Amar Ujala",
+          "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.amarujala.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.amarujala.com/lucknow/ayushman-card-holders-will-get-treatment-facilities-in-all-cantonment-hospitals-of-up-2026-02-28",
+        "thumbnail": "https://staticimg.amarujala.com/assets/images/2026/02/16/aayashhamana-karada_0778afa9ce90fbc0c275bb37399979b7.jpeg?w=1200",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNVdZekl5ZFU1d1JYSkxkVlZ0VFJDZkF4ampCU2dLTWdrTk5JQ3BJU2lTMEFF",
+        "date": "02/28/2026, 08:00 AM, +0000 UTC",
+        "iso_date": "2026-02-28T08:00:00Z"
+      },
+      {
+        "position": 8,
+        "title": "लखनऊ में आयुष्मान कार्ड के बाद भी लिया पैसा: परिजनों ने कहा 40 हजार रुपए लिए, मरीज की हुई मौत",
+        "source": {
+          "name": "Dainik Bhaskar",
+          "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.bhaskar.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.bhaskar.com/local/uttar-pradesh/lucknow/news/the-patient-was-admitted-by-telling-about-the-facility-of-ayushman-card-133231292.html",
+        "thumbnail": "https://images.bhaskarassets.com/thumb/1200x900/web2images/521/2024/06/27/origorig6916217224881658957104_1719451843.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXdNSFZRUVVGck9IVkxjVmt6VFJEZ0F4aUFCU2dLTWdhaFZJU3RPUU0",
+        "date": "06/26/2024, 06:04 PM, +0000 UTC",
+        "iso_date": "2024-06-26T18:04:36Z"
+      },
+      {
+        "position": 9,
+        "title": "UP: बिजनौर में आयुष्मान भारत योजना में फर्जीवाड़ा, 16 निजी अस्पतालों का भुगतान रोका, जानें क्या कर दिया खेल",
+        "source": {
+          "name": "Amar Ujala",
+          "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.amarujala.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "authors": [
+            "Mohd Mustakim"
+          ]
+        },
+        "link": "https://www.amarujala.com/uttar-pradesh/bijnor/up-fraud-in-ayushman-scheme-in-bijnor-payments-to-16-private-hospitals-withheld-find-out-how-the-scam-2026-07-16",
+        "thumbnail": "https://staticimg.amarujala.com/assets/images/2024/05/02/aayashhamana-yajana_7cd6f6c02a5845fe9a170038ee798791.jpeg?w=1200",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVBNMnh4UlVacFUxcFNSblEyVFJDZkF4ampCU2dLTWdhdEpLQ09sUW8",
+        "date": "07/16/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-07-16T07:00:00Z"
+      },
+      {
+        "position": 10,
+        "title": "आयुष्मान कार्ड फर्जीवाड़े की जांच एसटीएफ से कराने की होगी सिफारिश, छह अस्पतालों को कारण बताओ नोटिस जारी",
+        "source": {
+          "name": "Jagran",
+          "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.jagran.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.jagran.com/uttar-pradesh/lucknow-city-ayushman-card-fraud-stf-investigation-recommended-for-fake-cards-40029201.html",
+        "thumbnail": "https://www.jagranimages.com/images/2025/11/05/article/image/Ayushman-Card-1762288047804_m.webp",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTVhbEZOVVRaSmF6RlFObmh5VFJDMEFSakFBaWdLTWdZbGhJYU9UUU0",
+        "date": "11/05/2025, 08:00 AM, +0000 UTC",
+        "iso_date": "2025-11-05T08:00:00Z"
+      },
+      {
+        "position": 11,
+        "title": "UP: आयुष्मान कार्ड की समस्या का समाधान जिले में ही, सीएमओ कार्यालय से हो जाएगा कार्ड का अनुमोदन",
+        "source": {
+          "name": "Amar Ujala",
+          "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.amarujala.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "authors": [
+            "आशीष इश्वर",
+            "Ashish Bhartiya"
+          ]
+        },
+        "link": "https://www.amarujala.com/lucknow/solution-to-ayushman-card-issues-available-within-the-district-card-approval-to-be-handled-by-the-cmo-office-2026-06-20",
+        "thumbnail": "https://staticimg.amarujala.com/assets/images/2026/06/18/kapa-sa-kasa-bnavae-aayashhamana-karada_0828d1df3100a8fff1055a5a923cfd77.jpeg?w=1200",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNW9PV1JwYm1Wc1ZYcHFja1JLVFJDZUF4amxCU2dLTWdrQlVZeTNvR2l4cmdF",
+        "date": "06/20/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-06-20T07:00:00Z"
+      },
+      {
+        "position": 12,
+        "title": "आयुष्मान कार्ड धारकों के लिए अच्छी खबर, अब यूपी के इस कैंटोनमेंट अस्पताल में भी मिलेगा योजना का लाभ",
+        "source": {
+          "name": "Jagran",
+          "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.jagran.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.jagran.com/uttar-pradesh/lucknow-city-ayushman-bharat-treatment-now-available-at-prayagraj-cantonment-hospital-40037442.html",
+        "thumbnail": "https://www.jagranimages.com/images/2025/11/13/article/image/09_03_2025-untitled-14_23897376_183736617-1762973154897_m.webp",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNU5kR05QVTBkWlExVXlTVWxmVFJDMEFSakFBaWdLTWdhRmdaUUZ0UWM",
+        "date": "11/13/2025, 08:00 AM, +0000 UTC",
+        "iso_date": "2025-11-13T08:00:00Z"
+      },
+      {
+        "position": 13,
+        "title": "लखनऊ: केजीएमयू के एसोसिएट प्रोफेसर ने मरीज को निजी अस्पताल भेजवाया, हो गई मौत",
+        "source": {
+          "name": "Amar Ujala",
+          "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.amarujala.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.amarujala.com/lucknow/kgmu-associate-professor-in-lucknow-had-patient-sent-to-private-hospital-patient-died-2026-09-11",
+        "thumbnail": "https://staticimg.amarujala.com/assets/images/2024/05/31/asapatal-sakataka-tasavara_616e1c72740f66770e82ef3036b2f561.jpeg?w=1200",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHhTbkpaVFdwa1NuUkdNazkyVFJDZkF4ampCU2dLTWdZWm9JcXJRUVU",
+        "date": "09/11/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-09-11T07:00:00Z"
+      },
+      {
+        "position": 14,
+        "title": "दो हजार से ज्यादा जाली आयुष्मान कार्ड बनाने वाले साइबर कैफे संचालक समेत सात गिरफ्तार",
+        "source": {
+          "name": "Jagran",
+          "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.jagran.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "authors": [
+            "धर्मेंद्र पांडे"
+          ]
+        },
+        "link": "https://www.jagran.com/uttar-pradesh/lucknow-city-up-stf-arrested-seven-members-of-gang-used-to-prepare-fake-pm-ayushman-cards-40085694.html",
+        "thumbnail": "https://www.jagranimages.com/images/2025/12/26/article/image/Fake-Ayushman-Card-Dainik-Jagran--1766742005449_m.webp",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNHlNRk5PTFZneWRXWnNlRlZVVFJDMEFSakFBaWdLTWdB",
+        "date": "12/26/2025, 08:00 AM, +0000 UTC",
+        "iso_date": "2025-12-26T08:00:00Z"
+      },
+      {
+        "position": 15,
+        "title": "UP: आयुष्मान मरीजों के इलाज में लापरवाही पर सख्ती, 866 अस्पतालों पर कार्रवाई; 8.53 करोड़ रुपये की लगी पेनाल्टी",
+        "source": {
+          "name": "Amar Ujala",
+          "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.amarujala.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "authors": [
+            "Akash Dwivedi"
+          ]
+        },
+        "link": "https://www.amarujala.com/lucknow/up-crackdown-on-negligence-in-treating-ayushman-patients-action-taken-against-866-hospitals-penalties-worth-2026-08-18",
+        "thumbnail": "https://staticimg.amarujala.com/assets/images/2026/06/26/brajesh-patahak_19be728c17f981b9af99182197e61239.jpeg?w=1200",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNXRlbmhZVTJWM1drdGFRVWxmVFJDZkF4ampCU2dLTWdB",
+        "date": "08/18/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-08-18T07:00:00Z"
+      },
+      {
+        "position": 16,
+        "title": "भ्रष्टाचार पर अंकुश, आयुष्मान योजना के फर्जी कार्ड से इलाज करने वाले अस्पतालों की होगी जांच",
+        "source": {
+          "name": "Jagran",
+          "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.jagran.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "authors": [
+            "धर्मेंद्र पांडे"
+          ]
+        },
+        "link": "https://www.jagran.com/uttar-pradesh/lucknow-city-action-of-corruption-hospitals-providing-treatment-using-fake-ayushman-yojana-cards-will-be-investigated-40035122.html",
+        "thumbnail": "https://www.jagranimages.com/images/2025/11/10/article/image/Ayushman-Card-Dainik-Jagran--1762783285805_m.webp",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXJiMjVGY3pnNGNFZE9lVUY2VFJDMEFSakFBaWdLTWdrQlVKWkJONmNkYVFJ",
+        "date": "11/10/2025, 08:00 AM, +0000 UTC",
+        "iso_date": "2025-11-10T08:00:00Z"
+      },
+      {
+        "position": 17,
+        "title": "आयुष्मान कार्डधारकों को बड़ी राहत, अब नहीं लगाना पड़ेगा लखनऊ का चक्कर, जिले में ही मिलेगी सुविधा",
+        "source": {
+          "name": "Jagran",
+          "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.jagran.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.jagran.com/uttar-pradesh/lucknow-city-up-ayushman-card-issues-resolved-at-district-level-40279326.html",
+        "thumbnail": "https://www.jagranimages.com/images/2026/06/20/article/image/ayushman-yojna-with-yogi-1781951158116_m.webp",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTRWVXMxYjJndGVrMHplRkpNVFJDMEFSakFBaWdLTWdZTllJcW1KZ2c",
+        "date": "06/20/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-06-20T07:00:00Z"
+      },
+      {
+        "position": 18,
+        "title": "UP: आयुष्मान कार्डधारकों को निजी अस्पतालों में भी मिलेगी निशुल्क ओपीडी की सुविधा, 180 अस्पतालों को चुना गया",
+        "source": {
+          "name": "Amar Ujala",
+          "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.amarujala.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.amarujala.com/lucknow/up-up-will-adopt-a-new-model-for-ayushman-patients-2025-09-30",
+        "thumbnail": "https://staticimg.amarujala.com/assets/images/2025/07/16/ayushman-card_97c2e7d7b65e1a0048b53f21d58d9212.jpeg?w=1200",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXZialZRTFhWVVlWWlpkR1F4VFJDZkF4ampCU2dLTWdhcFpKaVBLUWc",
+        "date": "10/01/2025, 07:00 AM, +0000 UTC",
+        "iso_date": "2025-10-01T07:00:00Z"
+      },
+      {
+        "position": 19,
+        "title": "आयुष्मान योजना में गड़बड़ी पर यूपी के 200 अस्पतालों पर 1.16 करोड़ रुपये का जुर्माना, 48 होंगे निलंबित",
+        "source": {
+          "name": "Jagran",
+          "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.jagran.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.jagran.com/uttar-pradesh/lucknow-city-ayushman-yojana-up-hospitals-fined-for-irregularities-40303070.html",
+        "thumbnail": "https://www.jagranimages.com/images/2026/07/11/article/image/CM-Yogi-New-1783782741848_m.webp",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNW9VM2RrVUVvelFsTllWazV3VFJDMEFSakFBaWdLTWdZcFZZaXVxUVk",
+        "date": "07/11/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-07-11T07:00:00Z"
+      },
+      {
+        "position": 20,
+        "title": "Ayushman Yojana: आयुष्मान योजना के तहत प्रदेश में सबसे ज्यादा अस्पताल सूचीबद्ध, डिप्टी सीएम ब्रजेश पाठक ने दी जानकारी - Ayushman Yojana Maximum number of hospitals listed in state under Ayushman Yojana",
+        "source": {
+          "name": "Jagran",
+          "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.jagran.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.jagran.com/uttar-pradesh/lucknow-city-ayushman-yojana-maximum-number-of-hospitals-listed-in-state-under-ayushman-yojana-23862282.html",
+        "thumbnail": "https://www.jagranimages.com/images/newimg/07012025/07_01_2025-brajesh_pathak_23862282_m.webp",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXhhRlpQYUY5cVNGVlpSazB4VFJDS0F4aThCU2dLTWdheFZJaXdyUVk",
+        "date": "01/07/2025, 08:00 AM, +0000 UTC",
+        "iso_date": "2025-01-07T08:00:00Z"
+      },
+      {
+        "position": 21,
+        "title": "आयुष्मान कार्डधारकों के लिए खुशखबरी! योजना में अब ओपीडी का खर्च भी शामिल, नोट करें टोल फ्री नंबर",
+        "source": {
+          "name": "Jagran",
+          "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.jagran.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.jagran.com/uttar-pradesh/lucknow-city-ayushman-yojana-find-hospitals-and-book-online-appointments-health-services-24065164.html",
+        "thumbnail": "https://www.jagranimages.com/images/newimg/30092025/30_09_2025-ayushman_yojna_with_yogi_24065164_m.webp",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXZPVVpQY21NNVdYbG9jbkJRVFJDS0F4aThCU2dLTWdrTllJcW1KdWcxRkFF",
+        "date": "09/30/2025, 07:00 AM, +0000 UTC",
+        "iso_date": "2025-09-30T07:00:00Z"
+      },
+      {
+        "position": 22,
+        "title": "यूपी में आयुष्मान घपले में ₹44300000 की रिकवरी, ₹99400000 का हुआ था फर्जी भुगतान, ऐसे हुआ पूरा 'खेल'",
+        "source": {
+          "name": "Navbharat Times",
+          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://navbharattimes.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://navbharattimes.indiatimes.com/metro/lucknow/administration/rs-4-43-crore-recovered-in-ayushman-bharat-scam-in-up/articleshow/121790267.cms",
+        "thumbnail": "https://static.langimg.com/nbt/thumb/121790322/ayushman-bharat-scam-in-up.jpg?imgsize=45318&width=1600&height=900&resizemode=75",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXpkRkpzVGtkUU9WOXFaRXhMVFJDZkF4ampCU2dLTWdhQlFwSXVuUWs",
+        "date": "06/12/2025, 07:00 AM, +0000 UTC",
+        "iso_date": "2025-06-12T07:00:00Z"
+      },
+      {
+        "position": 23,
+        "title": "जाली आयुष्मान कार्ड मामले में चार लोगों के और नाम आए सामने, हिरासत में लेकर पूछताछ करेगी STF",
+        "source": {
+          "name": "Jagran",
+          "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.jagran.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "authors": [
+            "Sakshi Gupta"
+          ]
+        },
+        "link": "https://www.jagran.com/uttar-pradesh/lucknow-city-stf-nabs-more-in-fake-ayushman-card-scam-delhi-link-40096094.html",
+        "thumbnail": "https://www.jagranimages.com/images/2026/01/04/article/image/ayushman-card-serivce-1767543862474_m.webp",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTFYMDA1TW1FME1tdEdjVFZTVFJDMEFSakFBaWdLTWdhQmdaUUZ0UWM",
+        "date": "01/04/2026, 08:00 AM, +0000 UTC",
+        "iso_date": "2026-01-04T08:00:00Z"
+      },
+      {
+        "position": 24,
+        "title": "Lucknow: यूपी में आयुष्मान योजना के तहत देशभर में सर्वाधिक अस्पताल सूचीबद्ध, 5.13 करोड़ लोगों के बन चुके कार्ड",
+        "source": {
+          "name": "Amar Ujala",
+          "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.amarujala.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.amarujala.com/lucknow/up-has-highest-number-of-hospitals-listed-under-ayushman-yojana-in-country-2025-01-06",
+        "thumbnail": "https://staticimg.amarujala.com/assets/images/2024/04/07/upamakhayamatara-brajasha-pathaka_656bf1a612b86490cb65a473b08bfbb6.jpeg?w=1200",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNWlhRmswTkRsblVITkViMTkzVFJDZkF4ampCU2dLTWdB",
+        "date": "01/06/2025, 08:00 AM, +0000 UTC",
+        "iso_date": "2025-01-06T08:00:00Z"
+      },
+      {
+        "position": 25,
+        "title": "आयुष्मान कार्ड लाभार्थियों के लिए जरूरी नोटिफिकेशन जारी, आज ही नोट कर लें ये नंबर",
+        "source": {
+          "name": "Jagran",
+          "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.jagran.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "authors": [
+            "Aysha Sheikh"
+          ]
+        },
+        "link": "https://www.jagran.com/uttar-pradesh/lucknow-city-ayushman-card-book-doctor-appointments-via-toll-free-number-24057698.html",
+        "thumbnail": "https://www.jagranimages.com/images/newimg/24092025/24_09_2025-ayushman-yojana_24057698_21292451_m.webp",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNU5jbUUxZHpkTk0yNTRTMjFWVFJDS0F4aThCU2dLTWdhRmdaUUZ0UWM",
+        "date": "09/24/2025, 07:00 AM, +0000 UTC",
+        "iso_date": "2025-09-24T07:00:00Z"
+      },
+      {
+        "position": 26,
+        "title": "UP: आयुष्मान योजना में 10 करोड़ का घोटाला, अस्पतालों ने फर्जी लाभार्थियों को भुगतान कर किया घपला",
+        "source": {
+          "name": "Aaj Tak",
+          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.aajtak.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.aajtak.in/uttar-pradesh/story/ayushman-yojana-lucknow-10-crore-scam-hospitals-committed-fraud-by-making-payments-to-fake-beneficiaries-lcly-rptc-2260363-2025-06-10",
+        "thumbnail": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202506/6847a85ab60a8-lucknow--ayushman-yojana-10-crore-scam-103652683-16x9.jpg?size=1280:720",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNVFNMDUxZWtKMVlUbE9jVjlmVFJDZkF4ampCU2dLTWdrTkVJalVFS2FwQ0FJ",
+        "date": "06/10/2025, 07:00 AM, +0000 UTC",
+        "iso_date": "2025-06-10T07:00:00Z"
+      },
+      {
+        "position": 27,
+        "title": "यूपी में आयुष्मान योजना के तहत देश में सबसे ज्यादा अस्पताल, 5.13 करोड़ लाभार्थियों के बने कार्ड",
+        "source": {
+          "name": "Navbharat Times",
+          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://navbharattimes.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://navbharattimes.indiatimes.com/metro/lucknow/other-news/lucknow-news-deputy-cm-brajesh-pathak-on-ayushman-yojana-hospital/articleshow/116992008.cms",
+        "thumbnail": "https://static.langimg.com/nbt/thumb/116991989/brajesh-pathak.jpg?imgsize=798032&width=1600&height=900&resizemode=75",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iMkNnNW9ZUzB4VUdsT2VVRXRSVkpCVFJDZkF4ampCU2dLTWdzQk1KQUtsbW9lQ3pyeXFR",
+        "date": "01/06/2025, 08:00 AM, +0000 UTC",
+        "iso_date": "2025-01-06T08:00:00Z"
+      },
+      {
+        "position": 28,
+        "title": "2024 में भी बन सकता है Ayushman Card, कोई अस्पताल इलाज करने से मना करे तो टोल फ्री नंबर पर करें शिकायत",
+        "source": {
+          "name": "Jagran",
+          "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.jagran.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.jagran.com/uttar-pradesh/lucknow-city-ayushman-card-can-be-made-in-2024-also-if-any-hospital-refuses-to-treat-then-complain-on-toll-free-number-23769475.html",
+        "thumbnail": "https://www.jagranimages.com/images/newimg/31072024/31_07_2024-ayushman_card_2024_23769475_m.webp",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXBhMmQxU1hSaVh5MUtkVXhFVFJDS0F4aThCU2dLTWdtQmdZNUVzdVZFemdF",
+        "date": "07/31/2024, 07:00 AM, +0000 UTC",
+        "iso_date": "2024-07-31T07:00:00Z"
+      },
+      {
+        "position": 29,
+        "title": "क्या आपको भी आयुष्मान कार्ड बनवाने में हो रही है परेशानी? अब सीएमओ दूर करेंगे शिकायतें",
+        "source": {
+          "name": "Jagran",
+          "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.jagran.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.jagran.com/uttar-pradesh/lucknow-city-ayushman-card-issues-resolved-by-cmos-at-district-level-40052759.html",
+        "thumbnail": "https://www.jagranimages.com/images/2025/11/26/article/image/12_09_2024-ayushman_card_23795603-1764172035909_m.webp",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDNYMlJTYTNScFRtZHpZbXhNVFJDMEFSakFBaWdLTWdhTlVJeTJvQWM",
+        "date": "11/26/2025, 08:00 AM, +0000 UTC",
+        "iso_date": "2025-11-26T08:00:00Z"
+      },
+      {
+        "position": 30,
+        "title": "100 बेड से कम वाले अस्पताल भी होंगे आयुष्मान में सूचीबद्ध",
+        "source": {
+          "name": "Hindustan",
+          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.livehindustan.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.livehindustan.com/uttar-pradesh/lucknow/story-uttar-pradesh-expands-ayushman-bharat-scheme-hospitals-in-7-districts-201746028393693.html",
+        "date": "04/30/2025, 07:00 AM, +0000 UTC",
+        "iso_date": "2025-04-30T07:00:00Z"
+      },
+      {
+        "position": 31,
+        "title": "संजय गांधी अस्पताल में आयुष्मान कार्ड धारकों की ओपीडी निशुल्क: आयुष्मान रजिस्टर्ड मरीज को इलाज में मिलेगी व...",
+        "source": {
+          "name": "Dainik Bhaskar",
+          "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.bhaskar.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.bhaskar.com/local/uttar-pradesh/amethi/news/free-opd-for-ayushman-card-holders-in-sanjay-gandhi-hospital-132692052.html",
+        "thumbnail": "https://images.bhaskarassets.com/thumb/1200x900/web2images/521/2024/03/08/cd90e73f-fba2-434c-9d3d-ab6d9d386763_1709881692530.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVNPR1p1VDJWU1NHNVZSRmt0VFJEZ0F4aUFCU2dLTWdhQm9JcXV6UVE",
+        "date": "03/08/2024, 08:04 AM, +0000 UTC",
+        "iso_date": "2024-03-08T08:04:43Z"
+      },
+      {
+        "position": 32,
+        "title": "दो हजार फर्जी आयुष्मान कार्ड बनाकर सरकार को लगाया करोड़ों का चूना, कैफे संचालक समेत 7 गिरफ्तार, इन राज्यों तक फैला था नेटवर्क - fake ayushman cards 7 arrested in lucknow",
+        "source": {
+          "name": "Jagran",
+          "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.jagran.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.jagran.com/uttar-pradesh/lucknow-city-fake-ayushman-cards-7-arrested-in-lucknow-40085128.html",
+        "thumbnail": "https://www.jagranimages.com/images/2025/12/25/article/image/download-1766685438421.webp",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXpOM05WUVV4cGNXNHdRMEpWVFJDb0FSaXNBaWdLTWdhQk1JeTFJQVU",
+        "date": "12/26/2025, 08:00 AM, +0000 UTC",
+        "iso_date": "2025-12-26T08:00:00Z"
+      },
+      {
+        "position": 33,
+        "title": "Lucknow News: मरीज को निजी अस्पताल भेजने के मामले में डॉक्टर पर नहीं हुई कार्रवाई",
+        "source": {
+          "name": "Amar Ujala",
+          "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.amarujala.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.amarujala.com/lucknow/no-action-taken-against-the-doctor-in-the-case-of-referring-the-patient-to-a-private-hospital-lucknow-news-c-13-lko1096-1917074-2026-09-13",
+        "thumbnail": "https://staticimg.amarujala.com/assets/images/4cplus/2026/09/13/kajaemaya_96721db72b49ac457a5c022a96f47f46.jpeg?w=1200",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNTJjblJtY3pCeFlVWmFSMTlCVFJEREF4aW5CU2dLTWdNQmNBSQ",
+        "date": "09/13/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-09-13T07:00:00Z"
+      },
+      {
+        "position": 34,
+        "title": "Ayushman Bharat में 9.94 करोड़ का फर्जी ट्रांजेक्शन, ID हैकिंग केस के बाद अस्पतालों के लिए ट्रेनिंग शुरू",
+        "source": {
+          "name": "Jagran",
+          "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.jagran.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "authors": [
+            "Sakshi Gupta"
+          ]
+        },
+        "link": "https://www.jagran.com/uttar-pradesh/lucknow-city-lucknow-news-workshop-held-to-prevent-fraud-in-ayushman-bharat-scheme-23978142.html",
+        "thumbnail": "https://www.jagranimages.com/images/newimg/07072025/07_07_2025-cyber_crime_sgst_23978142_m.webp",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXBSbkpKT0V0elFqUm5RVWx4VFJDS0F4aThCU2dLTWdrbFJZU3IyYUp6UndJ",
+        "date": "07/07/2025, 07:00 AM, +0000 UTC",
+        "iso_date": "2025-07-07T07:00:00Z"
+      },
+      {
+        "position": 35,
+        "title": "Ayushman Card: अप्रूवल-रिजेक्शन-डिसेबल के लिए नहीं आना होगा लखनऊ, यूपी में आयुष्मान कार्डधारकों को बड़ी राहत",
+        "source": {
+          "name": "Navbharat Times",
+          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://navbharattimes.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://navbharattimes.indiatimes.com/government-schemes/uttar-pradesh/ayushman-card-services-in-up-no-visit-lucknow-approval-rejection-re-enabling-relief-for-cardholder/articleshow/131888271.cms",
+        "thumbnail": "https://static.langimg.com/nbt/thumb/131888333/ayushman-card-services-in-up.jpg?imgsize=1266928&width=1600&height=900&resizemode=75",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNW9WSGxqYldNeU0xQjFhbkl0VFJDZkF4ampCU2dLTWdtSkU1cmxKcWhjNVFJ",
+        "date": "06/21/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-06-21T07:00:00Z"
+      },
+      {
+        "position": 36,
+        "title": "Lucknow News: मरीज को निजी अस्पताल भेजने वाले डॉक्टर पर कार्रवाई नहीं",
+        "source": {
+          "name": "Amar Ujala",
+          "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.amarujala.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.amarujala.com/lucknow/no-action-taken-against-the-doctor-who-referred-the-patient-to-a-private-hospital-lucknow-news-c-13-lko1070-1953594-2026-10-07",
+        "thumbnail": "https://staticimg.amarujala.com/assets/images/4cplus/2026/10/07/kajaemaya_9324f34e17e48c1a5861640c4d35a344.jpeg?w=1200",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVhaVVZMWTBOdmJ6ZFllVlo0VFJEZUFoaWdCaWdLTWdhQlVJRE5JUWs",
+        "date": "10/06/2026, 09:24 PM, +0000 UTC",
+        "iso_date": "2026-10-06T21:24:31Z"
+      },
+      {
+        "position": 37,
+        "title": "आयुष्मान कार्ड होने के बाद भी मरीज से वसूल लिए रुपये, मुख्यमंत्री से शिकायत",
+        "source": {
+          "name": "Amar Ujala",
+          "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.amarujala.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.amarujala.com/lucknow/hospitals-are-taking-money-inspite-of-having-ayushman-card",
+        "thumbnail": "https://staticimg.amarujala.com/assets/images/2019/05/30/ayushman-bharat-yojna_1559234865.jpeg?w=1200",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNVFZMlV5YUc5WmNFVjBXV1YyVFJESEF4aWlCU2dLTWdrQlVJenZSR1hCaUFJ",
+        "date": "09/29/2019, 07:00 AM, +0000 UTC",
+        "iso_date": "2019-09-29T07:00:00Z"
+      },
+      {
+        "position": 38,
+        "title": "मड़ियांव में बोरा फाउंडेशन ने लगाया 75वां स्वास्थ्य शिविर: 211 लोगों को निःशुल्क परामर्श, दवाएं और आयुष्मान ...",
+        "source": {
+          "name": "Dainik Bhaskar",
+          "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.bhaskar.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.bhaskar.com/local/uttar-pradesh/lucknow/bakshikatalab/news/lucknow-health-camp-free-consultation-medicines-ayushman-card-138392541.html",
+        "thumbnail": "https://images.bhaskarassets.com/thumb/1200x900/web2images/521/2026/07/08/07e4a42a-fcf2-45fe-ba36-26a452f942ee_1783515665100.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXZNVlJaUldZeVowSklSMFJzVFJEZ0F4aUFCU2dLTWdrTmdJcTF3R1dhU3dJ",
+        "date": "07/08/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-07-08T07:00:00Z"
+      },
+      {
+        "position": 39,
+        "title": "आयुष्मान योजना के तहत यूपी में सबसे ज्यादा अस्पताल, 5 करोड़ से ज्यादा लाभार्थियों के बने कार्ड",
+        "source": {
+          "name": "ETV Bharat",
+          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.etvbharat.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.etvbharat.com/hi/!state/maximum-number-of-hospitals-in-up-under-ayushman-scheme-uttar-pradesh-news-ups25010606693",
+        "thumbnail": "https://imgs.etvbharat.com/etvbharat/prod-images/06-01-2025/1200-675-23269867-thumbnail-16x9-ni.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWpMVVpTVUUxS1NuQkxUa1pPVFJDZkF4ampCU2dLTWdZWk5wYnNuUWc",
+        "date": "01/06/2025, 08:00 AM, +0000 UTC",
+        "iso_date": "2025-01-06T08:00:00Z"
+      },
+      {
+        "position": 40,
+        "title": "4 करोड़ से ज्‍यादा आयुष्मान कार्ड बनाकर UP पहले नंबर पर, जानिए किन राज्‍यों को पछाड़ दिया",
+        "source": {
+          "name": "Navbharat Times",
+          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://navbharattimes.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://navbharattimes.indiatimes.com/metro/lucknow/administration/lucknow-news-uttar-pradesh-become-number-one-in-ayushman-bharat-project/articleshow/105261643.cms",
+        "thumbnail": "https://static.langimg.com/nbt/thumb/105261652/ayushman-card.jpg?imgsize=605309&width=1600&height=900&resizemode=75",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNUhhVWh2V0V3elZWZGpUVmhoVFJDZkF4ampCU2dLTWdB",
+        "date": "11/16/2023, 08:00 AM, +0000 UTC",
+        "iso_date": "2023-11-16T08:00:00Z"
+      },
+      {
+        "position": 41,
+        "title": "योगी सरकार की बड़ी कामयाबी, Ayushman Bharat Yojana में क्लेम निस्तारण तेज, पेंडेंसी 10 से घटकर 3 लाख",
+        "source": {
+          "name": "Navbharat Times",
+          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://navbharattimes.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "authors": [
+            "आलोक भदौरिया"
+          ]
+        },
+        "link": "https://navbharattimes.indiatimes.com/metro/lucknow/other-news/up-ayushman-bharat-yojana-improvement-in-claim-pendency-in-yogi-adityanath-govt/articleshow/126412542.cms",
+        "thumbnail": "https://static.langimg.com/nbt/thumb/126412596/yogi-ayushman-yojna.jpg?imgsize=61688&width=1600&height=900&resizemode=75",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDFlV0poYTJ0clEwRjRiREp5VFJDZkF4ampCU2dLTWdhSjk0VEZUZ00",
+        "date": "01/08/2026, 08:00 AM, +0000 UTC",
+        "iso_date": "2026-01-08T08:00:00Z"
+      },
+      {
+        "position": 42,
+        "title": "Lucknow News: केजीएमयू से मरीज को निजी अस्पताल भेजने के मामले में कार्रवाई अटकी",
+        "source": {
+          "name": "Amar Ujala",
+          "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.amarujala.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.amarujala.com/lucknow/action-stalled-in-case-of-sending-patient-from-kgmu-to-private-hospital-lucknow-news-c-13-lko1070-1938154-2026-09-27",
+        "thumbnail": "https://staticimg.amarujala.com/assets/images/4cplus/2026/09/27/kajaemaya_0ece1bd5f1e840975c61dad9f1110106.jpeg?w=1200",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVhaVVZMWTBOdmJ6ZFllVlo0VFJEZUFoaWdCaWdLTWdhQlVJRE5JUWs",
+        "date": "09/26/2026, 08:47 PM, +0000 UTC",
+        "iso_date": "2026-09-26T20:47:55Z"
+      },
+      {
+        "position": 43,
+        "title": "आयुष्मान योजना में बड़ा फर्जीवाड़ा, लखनऊ में STF ने अरेस्‍ट किए मास्टरमाइंड समेत 7 आरोपी",
+        "source": {
+          "name": "Navbharat Times",
+          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://navbharattimes.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "authors": [
+            "आलोक भदौरिया"
+          ]
+        },
+        "link": "https://navbharattimes.indiatimes.com/metro/lucknow/crime/up-lucknow-stf-arrested-7-accused-of-fraud-in-ayushman-yojna-latest-news-update/articleshow/126176868.cms",
+        "thumbnail": "https://static.langimg.com/nbt/thumb/126176862/lucknow-ayushman-fraud.jpg?imgsize=55952&width=1600&height=900&resizemode=75",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNHdXRk0zTmt0a2NtWklRM2RvVFJDZkF4ampCU2dLTWdrQk1KQkNJQ3JRQmdN",
+        "date": "12/25/2025, 08:00 AM, +0000 UTC",
+        "iso_date": "2025-12-25T08:00:00Z"
+      },
+      {
+        "position": 44,
+        "title": "Lucknow News: आयुष्मान योजना से निशुल्क हुआ घुटना प्रत्यारोपण",
+        "source": {
+          "name": "Amar Ujala",
+          "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.amarujala.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.amarujala.com/lucknow/knee-transplant-done-free-of-cost-under-ayushman-yojana-lucknow-news-c-13-1-lko1029-1236494-2025-06-05",
+        "thumbnail": "https://staticimg.amarujala.com/assets/images/2021/10/21/lucknow_1634823856.jpeg?w=1200",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDVlbTExVFcxNGFUZDVOMkpTVFJESEF4aWlCU2dLTWdZaGhZNnRNUVU",
+        "date": "06/05/2025, 07:00 AM, +0000 UTC",
+        "iso_date": "2025-06-05T07:00:00Z"
+      },
+      {
+        "position": 45,
+        "title": "Ayushman Card Update: यूपी के ढाई करोड़ लोगों को मिलेगा आयुष्मान कार्ड बनवाने का सुनहरा अवसर, जगह-जगह लगेंगे कैंप; इन नंबरों से मिलेगी मदद - Ayushman Card Update Special campaign to make Ayushman card will",
+        "source": {
+          "name": "Jagran",
+          "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.jagran.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "authors": [
+            "Ashish Kumar Trivedi"
+          ]
+        },
+        "link": "https://www.jagran.com/uttar-pradesh/lucknow-city-ayushman-card-update-special-campaign-to-make-ayushman-card-will-run-till-10th-january-in-uttar-pradesh-23614595.html",
+        "thumbnail": "https://www.jagranimages.com/images/newimg/27122023/27_12_2023-ayushman_card_23614595_m.webp",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDJUMFZ1VldwNVp6SjFNRzlmVFJDS0F4aThCU2dLTWdZbGRJYU9UUU0",
+        "date": "12/27/2023, 08:00 AM, +0000 UTC",
+        "iso_date": "2023-12-27T08:00:00Z"
+      },
+      {
+        "position": 46,
+        "title": "फर्जी पोर्टल से बना रहे थे फेक आयुष्मान कार्ड; STF ने गिरोह के सदस्य को किया गिरफ्तार",
+        "source": {
+          "name": "ETV Bharat",
+          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.etvbharat.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.etvbharat.com/hi/state/stf-arrested-person-who-created-portal-and-made-fake-ayushman-cards-ups26060400424",
+        "thumbnail": "https://imgs.etvbharat.com/etvbharat/prod-images/04-06-2026/1200-675-26842246-thumbnail-16x9-lucknow-aspera.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDVZbTFpTWxod09IZHpabGd5VFJDZkF4ampCU2dLTWdhcGxJQ3VzUVk",
+        "date": "06/04/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-06-04T07:00:00Z"
+      },
+      {
+        "position": 47,
+        "title": "आपके पास नहीं है आयुष्मान कार्ड तो इस तरह घर बैठे बनवा सकते हैं, जानिए पूरी प्रक्रिया",
+        "source": {
+          "name": "ETV Bharat",
+          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.etvbharat.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.etvbharat.com/hindi/uttar-pradesh/state/lucknow/know-how-ayushman-card-will-be-made-apply-for-ayushman-card-from-home/up20231019232651854854907",
+        "thumbnail": "https://imgs.etvbharat.com/etvbharat/prod-images/19-10-2023/768-512-19812033-666-19812033-1697738096295.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXVWMjVuU1VSelgxSXdNRUZQVFJERUF4aW1CU2dLTWdZTlJZRE5zUU0",
+        "date": "10/19/2023, 07:00 AM, +0000 UTC",
+        "iso_date": "2023-10-19T07:00:00Z"
+      },
+      {
+        "position": 48,
+        "title": "Ayushman Card: आयुष्मान कार्ड धारकों को बड़ा झटका, इस ऑपरेशन के लिए नहीं मिलेगा लाभ, जानिए नया आदेश",
+        "source": {
+          "name": "Navbharat Times",
+          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://navbharattimes.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "authors": [
+            "धीरेन्द्र सिंह"
+          ]
+        },
+        "link": "https://navbharattimes.indiatimes.com/state/uttar-pradesh/deoria/ayushman-card-benefits-new-rules-holders-will-not-get-get-fund-for-delivery-in-private-hospital/articleshow/96017979.cms",
+        "thumbnail": "https://static.langimg.com/nbt/thumb/96018309/ayushman-card-benefits-new-rules-holders-will-not-get-get-fund-for-delivery-in-private-hospital.jpg?imgsize=48384&width=1600&height=900&resizemode=75",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTBXbXRNVjE5RFVESlZMVmRCVFJDZkF4ampCU2dLTWdZUklwQ0lJZ2M",
+        "date": "12/06/2022, 08:00 AM, +0000 UTC",
+        "iso_date": "2022-12-06T08:00:00Z"
+      },
+      {
+        "position": 49,
+        "title": "आयुष्मान कार्ड बनाने से मना करने पर विवाद: मेदांता अस्पताल की डॉक्टर को ग्राम प्रधान ने समझाया, 70 वर्षीय ब...",
+        "source": {
+          "name": "Dainik Bhaskar",
+          "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.bhaskar.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.bhaskar.com/local/uttar-pradesh/lucknow/gauraiya/news/controversy-over-refusal-to-make-ayushman-card-135276426.html",
+        "thumbnail": "https://images.bhaskarassets.com/thumb/1200x900/web2images/521/2025/06/20/6a4cffca-e11f-4035-bb53-32245f0aeeaf_1750424607984.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNDVRM05HU1VaTlNqaEJXbFJDVFJEZ0F4aUFCU2dLTWdB",
+        "date": "06/20/2025, 02:23 PM, +0000 UTC",
+        "iso_date": "2025-06-20T14:23:36Z"
+      },
+      {
+        "position": 50,
+        "title": "Lucknow News: ट्रॉमा सेंटर से निजी अस्पताल पहुंचा दिया घायल महिला को, इलाज के दौरान हो गई मौत",
+        "source": {
+          "name": "Amar Ujala",
+          "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.amarujala.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.amarujala.com/lucknow/the-injured-woman-was-taken-from-the-trauma-center-to-a-private-hospital-where-she-died-during-treatment-lucknow-news-c-13-1-lko1021-998515-2024-12-18",
+        "thumbnail": "https://staticimg.amarujala.com/assets/images/2021/10/21/lucknow_1634823856.jpeg?w=1200",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDVlbTExVFcxNGFUZDVOMkpTVFJESEF4aWlCU2dLTWdZaGhZNnRNUVU",
+        "date": "12/18/2024, 08:00 AM, +0000 UTC",
+        "iso_date": "2024-12-18T08:00:00Z"
+      },
+      {
+        "position": 51,
+        "title": "70 साल के बुजुर्गों का मुफ्त इलाज: अस्पताल जाएं तो आधार कार्ड ले जाएं, नंबर से हो रही आयुष्मान कार्ड की जांच - ayushman card",
+        "source": {
+          "name": "ETV Bharat",
+          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.etvbharat.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.etvbharat.com/hi/!state/ayushman-card-is-70-years-old-person-cover-ayushman-card-schemes-eligibility-benefits-uttar-pradesh-news-ups24091802202",
+        "thumbnail": "https://imgs.etvbharat.com/etvbharat/prod-images/18-09-2024/1200-675-22479449-thumbnail-16x9-image-as1222-2222.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUhPVXBUVWt0Q1JVMTBhbUZEVFJDZkF4ampCU2dLTWdhWmdvZ3l2UVE",
+        "date": "09/18/2024, 07:00 AM, +0000 UTC",
+        "iso_date": "2024-09-18T07:00:00Z"
+      },
+      {
+        "position": 52,
+        "title": "आयुष्मान कार्ड बनाने में गलतियों की भरमार; सुधार करने की व्यवस्था ही बीमार",
+        "source": {
+          "name": "ETV Bharat",
+          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.etvbharat.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.etvbharat.com/hi/!state/many-mistakes-in-making-ayushman-bharat-card-system-itself-sick-uttar-pradesh-news-ups25042400474",
+        "thumbnail": "https://imgs.etvbharat.com/etvbharat/prod-images/24-04-2025/1200-675-24023961-thumbnail-16x9-lkof-aspera.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHRkbFprUnpKc1FsZGtiVmRrVFJDZkF4ampCU2dLTWdZSk1KQ0hMZ1k",
+        "date": "04/24/2025, 07:00 AM, +0000 UTC",
+        "iso_date": "2025-04-24T07:00:00Z"
+      },
+      {
+        "position": 53,
+        "title": "आयुष्मान योजना से टीबी का मुफ्त इलाज",
+        "source": {
+          "name": "Hindustan",
+          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.livehindustan.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.livehindustan.com/uttar-pradesh/lucknow/story-free-treatment-of-tb-through-ayushman-yojana-6090576.html",
+        "date": "03/23/2022, 07:00 AM, +0000 UTC",
+        "iso_date": "2022-03-23T07:00:00Z"
+      },
+      {
+        "position": 54,
+        "title": "लोहिया अस्पताल ने आयुष्मान योजना में लगाया दोहरा शतक",
+        "source": {
+          "name": "Navbharat Times",
+          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://navbharattimes.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://navbharattimes.indiatimes.com/metro/lucknow/other-news/lohia-hospital-makes-a-double-century-in-ayushman-yojana/articleshow/67982770.cms",
+        "thumbnail": "https://static.langimg.com/nbt/thumb/67984887/untitled-1.jpg?imgsize=4116&width=1600&height=900&resizemode=75",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNDBZVmxJTVROS1pXbzFWV0YxVFJDZkF4amlCU2dLTWdPdEJSdw",
+        "date": "02/14/2019, 08:00 AM, +0000 UTC",
+        "iso_date": "2019-02-14T08:00:00Z"
+      },
+      {
+        "position": 55,
+        "title": "Lucknow News: आयुष्मान लाभार्थी को थमाया 50 हजार का बिल, भुगतान न करने पर रोका",
+        "source": {
+          "name": "Amar Ujala",
+          "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.amarujala.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.amarujala.com/lucknow/bill-of-rs-50000-handed-over-to-ayushman-beneficiary-stopped-for-non-payment-lucknow-news-c-13-1-lko1103-1049298-2025-01-25",
+        "thumbnail": "https://staticimg.amarujala.com/assets/images/2021/10/21/lucknow_1634823856.jpeg?w=1200",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDVlbTExVFcxNGFUZDVOMkpTVFJESEF4aWlCU2dLTWdZaGhZNnRNUVU",
+        "date": "01/25/2025, 08:00 AM, +0000 UTC",
+        "iso_date": "2025-01-25T08:00:00Z"
+      },
+      {
+        "position": 56,
+        "title": "लखनऊ: बलरामपुर अस्पताल में 24 घंटे खुलेगा आयुष्मान काउंटर",
+        "source": {
+          "name": "ETV Bharat",
+          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.etvbharat.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.etvbharat.com/hindi/uttar-pradesh/state/lucknow/ayushman-scheme-counter-open-for-24-hours-in-balrampur-hospital-lucknow-1/up20190626223250309",
+        "thumbnail": "https://imgs.etvbharat.com/etvbharat/prod-images/768-512-3671408-thumbnail-3x2-image.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNTBTMjFhY0VnMlZITnhVR2RRVFJERUF4aW1CU2dLTWdNQmdBZw",
+        "date": "06/26/2019, 07:00 AM, +0000 UTC",
+        "iso_date": "2019-06-26T07:00:00Z"
+      },
+      {
+        "position": 57,
+        "title": "आयुष्मान में ‘खेल’ पर कसेगी नकेल, भारी भरकम फीस लेकर इलाज कर रहे निजी अस्पताल",
+        "source": {
+          "name": "Amar Ujala",
+          "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.amarujala.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "authors": [
+            "आशीष इश्वर"
+          ]
+        },
+        "link": "https://www.amarujala.com/lucknow/private-hospitals-are-taking-money-for-treatment-inspite-of-having-ayushman-card",
+        "thumbnail": "https://staticimg.amarujala.com/assets/images/2019/07/15/doctor_1563181122.jpeg?w=1200",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTJRMnRDU0c1U2FWUlJTMFpXVFJESEF4aWlCU2dLTWdhUkJKcVFpUXc",
+        "date": "10/08/2019, 07:00 AM, +0000 UTC",
+        "iso_date": "2019-10-08T07:00:00Z"
+      },
+      {
+        "position": 58,
+        "title": "अब आयुष्यान कार्ड धारक रोगी भी मुफ्त में करा सकेंगे अंगों का ट्रांसप्लांट",
+        "source": {
+          "name": "ETV Bharat",
+          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.etvbharat.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.etvbharat.com/hindi/uttar-pradesh/state/lucknow/ayushman-card-holder-patients-will-also-able-to-get-organ-transplant-done-for-free/up20210602154641324",
+        "thumbnail": "https://imgs.etvbharat.com/etvbharat/prod-images/768-512-11988185-610-11988185-1622628742154.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXlhRm81UW5sbFpYaHlkM3BOVFJERUF4aW1CU2dLTWdZQnNJelNQQVk",
+        "date": "06/02/2021, 07:00 AM, +0000 UTC",
+        "iso_date": "2021-06-02T07:00:00Z"
+      },
+      {
+        "position": 59,
+        "title": "Lucknow: खराब है घुटना तो बलरामपुर अस्पताल में एक लाख में बदलेगा, निजी अस्पतालों में ढाई लाख आता है खर्च",
+        "source": {
+          "name": "Amar Ujala",
+          "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.amarujala.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.amarujala.com/lucknow/knee-replacement-facility-starts-in-balrampur-hospital-2023-06-05",
+        "thumbnail": "https://staticimg.amarujala.com/assets/images/2019/09/16/knee_1568631828.jpeg?w=1200",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHlVVGh2WDFKamNqQlNUVEo1VFJESEF4aWlCU2dLTWdheEVvUlR1UVU",
+        "date": "06/05/2023, 07:00 AM, +0000 UTC",
+        "iso_date": "2023-06-05T07:00:00Z"
+      },
+      {
+        "position": 60,
+        "title": "जनसेवा केंद्रों पर मुफ्त आयुष्मान कार्ड बनना शुरू",
+        "source": {
+          "name": "ETV Bharat",
+          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.etvbharat.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.etvbharat.com/hindi/uttar-pradesh/state/lucknow/free-ayushman-cards-started-being-made-at-public-service-centers-in-lucknow/up20210310105531270",
+        "thumbnail": "https://imgs.etvbharat.com/etvbharat/prod-images/768-512-10944627-126-10944627-1615351839409.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNW1XSFo2VTI4MGJ6WTVNM0Y0VFJERUF4aW1CU2dLTWdB",
+        "date": "03/10/2021, 08:00 AM, +0000 UTC",
+        "iso_date": "2021-03-10T08:00:00Z"
+      },
+      {
+        "position": 61,
+        "title": "आयुष्मान योजना का कार्ड दिखाने पर भी नहीं मिला इलाज, कहा- जाओ प्रधानमंत्री से इलाज कराओ",
+        "source": {
+          "name": "Amar Ujala",
+          "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.amarujala.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.amarujala.com/lucknow/hospital-employee-denied-to-give-free-treatment-under-the-scheme-of-ayush-maan-bharat",
+        "thumbnail": "https://staticimg.amarujala.com/assets/images/2018/10/24/patient_1540360792.jpeg?w=1200",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNVpkRk5GYlRGMGFrWjVUM0pFVFJESUF4aWhCU2dLTWdB",
+        "date": "10/24/2018, 07:00 AM, +0000 UTC",
+        "iso_date": "2018-10-24T07:00:00Z"
+      },
+      {
+        "position": 62,
+        "title": "आयुष्मान योजना से जुड़ेंगे 500 आयुर्वेदिक अस्पताल",
+        "source": {
+          "name": "Navbharat Times",
+          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://navbharattimes.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://navbharattimes.indiatimes.com/metro/lucknow/other-news/500-ayurvedic-hospitals-will-be-linked-to-ayushman-plan/articleshow/70354264.cms",
+        "thumbnail": "https://static.langimg.com/nbt/thumb/123846288/500-ayurvedic-hospitals-will-be-linked-to-ayushman-plan.jpg?imgsize=123846288&width=1600&height=900&resizemode=75",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUlPRW8xT1RKVVNrMTJkM2hCVFJDZkF4amlCU2dLTWdhaGs1SnJNUVk",
+        "date": "07/24/2019, 07:00 AM, +0000 UTC",
+        "iso_date": "2019-07-24T07:00:00Z"
+      },
+      {
+        "position": 63,
+        "title": "ईएसआईसी अस्पताल में जल्द शुरू होगी ईएनटी की सर्जरी यूनिट",
+        "source": {
+          "name": "ETV Bharat",
+          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.etvbharat.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.etvbharat.com/hindi/uttar-pradesh/state/lucknow/surgery-unit-of-ent-started-soon-in-esic-hospital-lucknow/up20210119174301924",
+        "thumbnail": "https://imgs.etvbharat.com/etvbharat/prod-images/768-512-10299029-thumbnail-3x2-image.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNTVZbk16UW1reE5XaFdRbGhzVFJERUF4aW1CU2dLTWdB",
+        "date": "01/19/2021, 08:00 AM, +0000 UTC",
+        "iso_date": "2021-01-19T08:00:00Z"
+      },
+      {
+        "position": 64,
+        "title": "आयुष्मान योजना में नहीं होता किडनी व लिवर प्रत्यारोपण, दलाल कर रहे गुमराह",
+        "source": {
+          "name": "Amar Ujala",
+          "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.amarujala.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "authors": [
+            "Amulya Rastogi"
+          ]
+        },
+        "link": "https://www.amarujala.com/lucknow/liver-and-kidney-transplant-not-included-ayushman-yojana-patient-helpless",
+        "thumbnail": "https://staticimg.amarujala.com/assets/images/2019/09/17/ayushman-yojna_1568707503.jpeg?w=1200",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNU9PWFJEU2xkbGFHWlNlSFZSVFJESEF4aWlCU2dLTWdhbEpZak5MUVE",
+        "date": "09/24/2019, 07:00 AM, +0000 UTC",
+        "iso_date": "2019-09-24T07:00:00Z"
+      },
+      {
+        "position": 65,
+        "title": "Lucknow Crime News: समय पर इलाज न मिलने से युवक की मौत आयुष्मान कार्ड होने पर भी निजी अस्पताल ने मांगे पैसे",
+        "source": {
+          "name": "inextlive",
+          "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.inextlive.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.inextlive.com/uttar-pradesh/lucknow/lucknow-crime-news-youth-dies-due-to-lack-of-timely-treatment-private-hospital-demanded-money-despite-him-holding-an-ayushman-card-1790610467",
+        "thumbnail": "https://img.inextlive.com/inext/2892026/Dead%20Body%20Image.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTJOblpKYldSS2FUVkJRa0ZWVFJDZkF4ampCU2dLTWdZVmNZcHVPUVk",
+        "date": "09/28/2026, 04:46 PM, +0000 UTC",
+        "iso_date": "2026-09-28T16:46:47Z"
+      },
+      {
+        "position": 66,
+        "title": "आयुष्मान कार्ड धारकों के इलाज में लापरवाही पर होगी सख्त कार्रवाई, योगी सरकार ने बढ़ाई अस्पतालों की निगरानी",
+        "source": {
+          "name": "Arth Parkash",
+          "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.arthparkash.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "authors": [
+            "Arth Parkash"
+          ]
+        },
+        "link": "https://www.arthparkash.com/strict-action-will-be-taken-against-negligence-in-the-treatment",
+        "thumbnail": "https://www.arthparkash.com/uploads/1000322607.webp",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVJha2hzVm1WamJWbzJVVzAxVFJEREF4aURCU2dLTWdZaFFZeU9uUWs",
+        "date": "09/25/2026, 09:27 PM, +0000 UTC",
+        "iso_date": "2026-09-25T21:27:05Z"
+      },
+      {
+        "position": 67,
+        "title": "उप्र: आयुष्मान कार्ड धारक मरीजों के इलाज में लापरवाही पर 866 अस्पतालों के खिलाफ कार्रवाई",
+        "source": {
+          "name": "IBC24 News",
+          "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.ibc24.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.ibc24.in/lucknow/uttar-pradesh-action-taken-against-866-hospitals-for-negligence-in-treatment-of-ayushman-card-holders-3722751.html",
+        "date": "08/18/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-08-18T07:00:00Z"
+      },
+      {
+        "position": 68,
+        "title": "लखनऊ: मुख्यमंत्री योगी आदित्यनाथ का बड़ा ऐलान, आयुष्मान कार्ड न होने पर भी मिलेगी मुफ्त इलाज की सुविधा",
+        "source": {
+          "name": "knewsindia.in",
+          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://knewsindia.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://knewsindia.in/rajya/uttar-pradesh/lucknow-big-announcement-by-chief-minister-yogi-adityanath-free-treatment-facility-will-be-available-even-if-there-is-no-ayushman-card/",
+        "thumbnail": "https://images.tv9hindi.com/wp-content/uploads/2024/06/up-cm-yogi.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNU5ZM1JMZGw4NFdqTlZVbGxMVFJDZkF4ampCU2dLTWdhcEZaYnRuUWc",
+        "date": "11/12/2024, 08:00 AM, +0000 UTC",
+        "iso_date": "2024-11-12T08:00:00Z"
+      },
+      {
+        "position": 69,
+        "title": "आयुष्मान भारत हॉस्पिटल लिस्ट गोरखपुर | Ayushman Bharat Hospital List Gorakhpur, Uttar Pradesh",
+        "source": {
+          "name": "easyhindi.in",
+          "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://easyhindi.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://easyhindi.in/ayushman-bharat/ayushman-bharat-hospital-list-gorakhpur/",
+        "thumbnail": "https://easyhindi.in/wp-content/uploads/2023/05/Aayushman-Bharat-Hospital-List-Gorakhpur-1-660x345.png",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWFRVTlRYTBJM1Z6ZElUVmxPVFJEWkFoaVVCU2dLTWdZQkFKS2tzZ2M",
+        "date": "05/06/2023, 07:00 AM, +0000 UTC",
+        "iso_date": "2023-05-06T07:00:00Z"
+      },
+      {
+        "position": 70,
+        "title": "Lucknow News: 'आयुष्मान कार्ड' पर नहीं 20 हजार रुपये में मिलेगा ICU बेड, सरकार की योजनाओं को अंगूठा दिखा...",
+        "source": {
+          "name": "Newstrack",
+          "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://newstrack.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "authors": [
+            "Hemendra Tripathi"
+          ]
+        },
+        "link": "https://newstrack.com/uttar-pradesh/lucknow/vivekananda-hospital-icu-bed-available-for-rs-20-thousand-instead-of-ayushman-card-yojana-ghotana-in-lucknow-latest-news-in-hindi-491719",
+        "thumbnail": "https://static.newstrack.com/h-upload/2025/01/20/1836964-vivekanandhospital.webp",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNUpkV0ZxZW1KT2RGSkRNVE5oVFJDZkF4ampCU2dLTWdNbFlRZw",
+        "date": "01/20/2025, 08:00 AM, +0000 UTC",
+        "iso_date": "2025-01-20T08:00:00Z"
+      },
+      {
+        "position": 71,
+        "title": "Lucknow News: लखनऊ के क्वीन मेरी अस्पताल में फैली अव्यवस्था से मरीज परेशान",
+        "source": {
+          "name": "inextlive",
+          "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.inextlive.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.inextlive.com/uttar-pradesh/lucknow/lucknow-news-patients-are-troubled-by-the-chaos-prevailing-in-lucknows-queen-mary-hospital-1746202049",
+        "thumbnail": "https://img.inextlive.com/inext/252025/1.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNU1NRWhLUzBZek1UQjVkSEIwVFJDZkF4ampCU2dLTWdB",
+        "date": "05/02/2025, 07:00 AM, +0000 UTC",
+        "iso_date": "2025-05-02T07:00:00Z"
+      },
+      {
+        "position": 72,
+        "title": "निजी अस्पताल में बुजुर्ग की मौत पर हंगामा, आयुष्मान कार्ड होने के बावजूद 50 हजार वसूली का आरोप",
+        "source": {
+          "name": "Amrit Vichar",
+          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.amritvichar.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "authors": [
+            "Anjali Singh"
+          ]
+        },
+        "link": "https://www.amritvichar.com/uttar-pradesh/lucknow/uproar-at-private-hospital-over-elderly-patient-s-death--allegations-of-extortion%E2%80%94%E2%82%B950-000-charged-despite-valid-ayushman-card/article-577673",
+        "thumbnail": "https://www.amritvichar.com/media-webp/c876x438/2026-04/%E0%A4%B5%E0%A4%BE%E0%A4%AF%E0%A4%B0%E0%A4%B2-%E0%A4%A4%E0%A4%B8%E0%A5%8D%E0%A4%B5%E0%A5%80%E0%A4%B0-(12)5.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXpWa2w0ZDBsMVMxVlJWbUpJVFJDZkFSaS1BaWdCTWdhQm9veUd3UVU",
+        "date": "04/06/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-04-06T07:00:00Z"
+      },
+      {
+        "position": 73,
+        "title": "मेडिकल कॉलेज की तर्ज पर विकसित हो बलरामपुर अस्पताल",
+        "source": {
+          "name": "inextlive",
+          "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.inextlive.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.inextlive.com/uttar-pradesh/lucknow/balrampur-hospital-should-be-developed-on-the-lines-of-medical-college-1675434767",
+        "thumbnail": "https://img.inextlive.com/inext/322023/cm.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNTFja1pKWTNCcVV6bHdUMlJuVFJEVUF4aVBCU2dLTWdrVlVJUkxOV1lXWmdJ",
+        "date": "02/03/2023, 08:00 AM, +0000 UTC",
+        "iso_date": "2023-02-03T08:00:00Z"
+      },
+      {
+        "position": 74,
+        "title": "बलरामपुर हॉस्पिटल में शुरू होगा पोस्ट कोविड वार्ड, 20 बेड की होगी व्यवस्था",
+        "source": {
+          "name": "inextlive",
+          "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.inextlive.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.inextlive.com/uttar-pradesh/lucknow/balrampur-hospital-to-start-post-covid-ward-20-beds-to-be-arranged-294590",
+        "thumbnail": "https://img.inextlive.com/inext/16052021/16_05_2021-16_Roshan_jakab.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUpTVlZOVTB0NVNrZHRTMkpLVFJDZEFoajhBaWdLTWdhZFFwWXRwUWc",
+        "date": "05/17/2021, 07:00 AM, +0000 UTC",
+        "iso_date": "2021-05-17T07:00:00Z"
+      },
+      {
+        "position": 75,
+        "title": "राशनकार्ड ऑनलाइन नहीं तो आयुष्मान कार्ड होंगे निरस्त, सरकार का बड़ा फैसला",
+        "source": {
+          "name": "Patrika News",
+          "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.patrika.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.patrika.com/lucknow-news/if-ration-card-is-not-online-then-ayushman-card-will-be-cancelled-big-decision-of-government-19367882",
+        "thumbnail": "https://cms.patrika.com/wp-content/uploads/2025/02/Ayushman-card-will-be-canceled-if-ration-card-is-not-online.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNUdXVUp0YmtwSlFUSkRjelJPVFJDZkF4ampCU2dLTWdrTlVJekdNbVFtWndJ",
+        "date": "02/03/2025, 08:00 AM, +0000 UTC",
+        "iso_date": "2025-02-03T08:00:00Z"
+      }
+    ],
+    "menu_links": [
+      {
+        "title": "भारत",
+        "topic_token": "CAAqIQgKIhtDQkFTRGdvSUwyMHZNRE55YXpBU0FtaHBLQUFQAQ",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqIQgKIhtDQkFTRGdvSUwyMHZNRE55YXpBU0FtaHBLQUFQAQ"
+      },
+      {
+        "title": "दुनिया",
+        "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtaHBHZ0pKVGlnQVAB",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtaHBHZ0pKVGlnQVAB"
+      },
+      {
+        "title": "आपकी स्थानीय खबरें",
+        "topic_token": "CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE"
+      },
+      {
+        "title": "कारोबार",
+        "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FtaHBHZ0pKVGlnQVAB",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FtaHBHZ0pKVGlnQVAB"
+      },
+      {
+        "title": "मनोरंजन",
+        "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNREpxYW5RU0FtaHBHZ0pKVGlnQVAB",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNREpxYW5RU0FtaHBHZ0pKVGlnQVAB"
+      },
+      {
+        "title": "खेल",
+        "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp1ZEdvU0FtaHBHZ0pKVGlnQVAB",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp1ZEdvU0FtaHBHZ0pKVGlnQVAB"
+      }
+    ]
+  }
+}

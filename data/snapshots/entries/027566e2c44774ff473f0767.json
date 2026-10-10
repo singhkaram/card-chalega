@@ -1,0 +1,795 @@
+{
+  "version": 1,
+  "key": "027566e2c44774ff473f0767",
+  "engine": "google_news",
+  "params": {
+    "gl": "in",
+    "hl": "en",
+    "q": "Ayushman card hospital Jaipur"
+  },
+  "fetchedAt": "2026-10-10T10:51:45.809Z",
+  "response": {
+    "search_metadata": {
+      "status": "Success",
+      "created_at": "2026-10-10 10:51:49 UTC",
+      "total_time_taken": 0.57
+    },
+    "search_parameters": {
+      "engine": "google_news",
+      "gl": "in",
+      "hl": "en",
+      "q": "Ayushman card hospital Jaipur"
+    },
+    "news_results": [
+      {
+        "position": 1,
+        "title": "Ayushman rolls out in Bengal with 1.4cr family log-ins, opens access to 36k hospitals",
+        "source": {
+          "name": "The Times of India",
+          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "authors": [
+            "Kaushik Pradhan"
+          ]
+        },
+        "link": "https://timesofindia.indiatimes.com/city/kolkata/ayushman-rolls-out-in-bengal-with-1-4cr-family-log-ins-opens-access-to-36k-hospitals/articleshow/131594568.cms",
+        "thumbnail": "https://static.toiimg.com/thumb/msid-33486062,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNXlZVWxXVlhWcWNGcENVVEZFVFJDZkF4ampCU2dLTWdNRm94QQ",
+        "date": "06/09/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-06-09T07:00:00Z"
+      },
+      {
+        "position": 2,
+        "title": "Ayushman Card Made Simple: Eligibility & Documents",
+        "source": {
+          "name": "HDFC ERGO General Insurance",
+          "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.hdfcergo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.hdfcergo.com/blogs/health-insurance/ayushman-card-documents-eligibility-application",
+        "thumbnail": "https://customer-portal-assets.hdfcergo.com//images/ayushman-card-documents-eligibility-and-application-guide-359658648540-1200.webp?q=75",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNWFhV05hY0dWbVoxQTVObTEyVFJDdUFSaWlBaWdCTWdtVkpJeVBsU3FpYVFJ",
+        "date": "01/22/2026, 08:00 AM, +0000 UTC",
+        "iso_date": "2026-01-22T08:00:00Z"
+      },
+      {
+        "position": 3,
+        "title": "Rajasthan approves cashless treatment for Ayushman cardholders at Gujarat hospitals",
+        "source": {
+          "name": "Medical Dialogues",
+          "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://medicaldialogues.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://medicaldialogues.in/news/health/hospital-diagnostics/rajasthan-approves-cashless-treatment-for-ayushman-cardholders-at-gujarat-hospitals-160745",
+        "thumbnail": "https://medicaldialogues.in/h-upload/2023/05/11/1500x900_209385-cashless-treatment.webp",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNWtiRFp5ZW5jemRubE5TVnAyVFJDdEF4akxCU2dLTWdtSkFZelVQQ1dEQkFN",
+        "date": "12/16/2025, 08:00 AM, +0000 UTC",
+        "iso_date": "2025-12-16T08:00:00Z"
+      },
+      {
+        "position": 4,
+        "title": "Rajasthan's big move after maternal deaths: Govt mandates ABHA cards for all pregnant women",
+        "source": {
+          "name": "Bhaskar English",
+          "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.bhaskarenglish.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "authors": [
+            "Chhavi Awasthi"
+          ]
+        },
+        "link": "https://www.bhaskarenglish.in/local/rajasthan/jaipur/news/rajasthan-govt-abha-card-mandatory-pregnant-women-health-record-online-138315492.html",
+        "thumbnail": "https://images.bhaskarassets.com/thumb/1200x900/web2images/1884/2026/06/29/comp-12_1782696512.gif",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXhSRFZpT1RkRk4zbFZhVXQxVFJEZ0F4al9CQ2dLTWdZQkFwUXpJUWs",
+        "date": "06/28/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-06-28T07:00:00Z"
+      },
+      {
+        "position": 5,
+        "title": "Exposed: How Private Hospitals Deny Treatment To Ayushman Bharat Card Holders - India Today",
+        "source": {
+          "name": "India Today",
+          "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.indiatoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.indiatoday.in/india/video/india-today-investigation-nitin-jain-exposes-private-hospitals-denying-ayushman-bharat-treatment-ytvd-2847386-2026-01-06",
+        "thumbnail": "https://akm-img-a-in.tosshub.com/indiatoday/images/video/202601/ayushmanbharatrealitycheck-s0-original-sixteen-to-nine.jpg?VersionId=O6eFbsFFne7KrUSAhHoehpc8s.0lIKmp?size=647:363",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUxaakE1TVZCQ1MwRlJSR3RaVFJDZkF4ampCU2dLTWdhVlVvekx1UVU",
+        "date": "01/06/2026, 08:00 AM, +0000 UTC",
+        "iso_date": "2026-01-06T08:00:00Z"
+      },
+      {
+        "position": 6,
+        "title": "Haryana to Manipur—private hospitals struggle with Ayushman Bharat. Govt owes Rs 1.2 lakh cr",
+        "source": {
+          "name": "ThePrint",
+          "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://theprint.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "authors": [
+            "Krishan Murari"
+          ]
+        },
+        "link": "https://theprint.in/ground-reports/haryana-to-manipur-ayushman-bharat/2728286/",
+        "thumbnail": "https://staticprintenglish.theprint.in/wp-content/uploads/2025/08/feature-image-2025-08-25T130222.093.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTVabFZWVWtOU05XUnhZVTlpVFJDZkF4ampCU2dLTWdheFlvQXhwUWc",
+        "date": "08/25/2025, 07:00 AM, +0000 UTC",
+        "iso_date": "2025-08-25T07:00:00Z"
+      },
+      {
+        "position": 7,
+        "title": "Ministry of Health and Family Welfare",
+        "source": {
+          "name": "PIB",
+          "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.pib.gov.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.pib.gov.in/PressNoteDetails.aspx?NoteId=153181&ModuleId=3",
+        "thumbnail": "https://static.pib.gov.in/WriteReadData/userfiles/image/image003VKH9.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWhibFJGWldNeFRVVkhiSGxMVFJER0F4akdBeWdLTWdhUmNZUVNNUUk",
+        "date": "09/23/2024, 07:00 AM, +0000 UTC",
+        "iso_date": "2024-09-23T07:00:00Z"
+      },
+      {
+        "position": 8,
+        "title": "Fake Ayushman cards racket spreads across MP: Ineligible people declared eligible as agents bypass OTP and ...",
+        "source": {
+          "name": "Bhaskar English",
+          "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.bhaskarenglish.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.bhaskarenglish.in/local/mp/bhopal/news/mp-ayushman-card-scam-agents-cheat-rs-15000-samagra-record-breach-137812724.html",
+        "thumbnail": "https://images.bhaskarassets.com/thumb/1200x900/web2images/1884/2026/04/29/2_1777434465.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNVRNM1ZDZWpaZlZrbFBaRVZvVFJEZ0F4aUFCU2dLTWdrQllJb3lLQ2pZQ1FJ",
+        "date": "04/28/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-04-28T07:00:00Z"
+      },
+      {
+        "position": 9,
+        "title": "How Patients—And Private Hospitals—Are Struggling With Ayushman Bharat",
+        "source": {
+          "name": "www.isignal.in",
+          "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.isignal.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "authors": [
+            "Charu Bahri"
+          ]
+        },
+        "link": "https://www.isignal.in/health/how-patientsand-private-hospitalsare-struggling-with-ayushman-bharat-964834",
+        "thumbnail": "https://assets.isignal.in/h-upload/2025/08/20/1500x900_1641299-ab-pmjay-1500.webp",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iMkNnNUVWVkpoYkdzMGMzTmZkWEpDVFJDdEF4akxCU2dLTWdzQk1KS0NuYWVLSlVzVGV3",
+        "date": "08/20/2025, 07:00 AM, +0000 UTC",
+        "iso_date": "2025-08-20T07:00:00Z"
+      },
+      {
+        "position": 10,
+        "title": "PIB Backgrounder",
+        "source": {
+          "name": "PIB",
+          "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.pib.gov.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.pib.gov.in/PressNoteDetails.aspx?NoteId=155855&ModuleId=3&reg=3&lang=2",
+        "thumbnail": "https://static.pib.gov.in/WriteReadData/userfiles/image/image00366TD.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUVVbXN4WmpneVduRmFXbVJoVFJDNUFoaWdCQ2dLTWdhQk1Zck5MUWM",
+        "date": "11/01/2025, 07:00 AM, +0000 UTC",
+        "iso_date": "2025-11-01T07:00:00Z"
+      },
+      {
+        "position": 11,
+        "title": "Ayushman scheme irregularities flagged: NH-MMI Hospital accused of charging patients despite Ayushman cards...",
+        "source": {
+          "name": "Bhaskar English",
+          "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.bhaskarenglish.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.bhaskarenglish.in/local/chhattisgarh/news/nh-mmi-hospital-ayushman-card-patients-charged-notice-issued-137642598.html",
+        "thumbnail": "https://images.bhaskarassets.com/thumb/1200x900/web2images/1884/2026/04/08/aayush_1775618192.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXNTazVpYmsxMWRHaEJhVUp4VFJEZ0F4aUFCU2dLTWdsQk1JUzJ5T1F0aHdJ",
+        "date": "04/07/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-04-07T07:00:00Z"
+      },
+      {
+        "position": 12,
+        "title": "Rajasthan Health Boom, Uneven Care",
+        "source": {
+          "name": "The Times of India",
+          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "authors": [
+            "Syed Intishab Ali"
+          ]
+        },
+        "link": "https://timesofindia.indiatimes.com/city/jaipur/rajasthan-health-boom-uneven-care/articleshow/130835602.cms",
+        "thumbnail": "https://static.toiimg.com/thumb/msid-130835601,width-1280,height-720,imgsize-222696,resizemode-72,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHRNV2hOYzA5alpWaEZRVTUwVFJDZ0F4amlCU2dLTWdhSlVwQW1LUWc",
+        "date": "05/05/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-05-05T07:00:00Z"
+      },
+      {
+        "position": 13,
+        "title": "10 Major Benefits of Ayushman Bharat Yojana",
+        "source": {
+          "name": "HDFC ERGO General Insurance",
+          "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.hdfcergo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.hdfcergo.com/blogs/health-insurance/benefits-of-ayushman-bharat-yojana",
+        "thumbnail": "https://customer-portal-assets.hdfcergo.com/assets/v2/benefits-of-ayushman-bharat-yojana-500810718807-1200.webp",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDRSM2gyVERGRVJVZEdTRmN4VFJDMEFSaVpBaWdCTWdZWmM0eEtzUVU",
+        "date": "07/03/2023, 07:00 AM, +0000 UTC",
+        "iso_date": "2023-07-03T07:00:00Z"
+      },
+      {
+        "position": 14,
+        "title": "Operation Ayushman: Reality of Centre's top health scheme in Delhi-NCR and Chandigarh",
+        "source": {
+          "name": "India Today",
+          "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.indiatoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "authors": [
+            "Nitin Jain"
+          ]
+        },
+        "link": "https://www.indiatoday.in/india/story/operation-ayushman-reality-of-centres-top-health-scheme-in-delhi-ncr-and-chandigarh-2847635-2026-01-06",
+        "thumbnail": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202601/ayushman-bharat-yojna-274016608-16x9.jpg?VersionId=l9aqnmNpL2u2kpMQeOiYydHjOVx9jNUQ&size=1280:720",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVFUbmw2WWpremRXNU9abEJwVFJDZkF4ampCU2dLTWdhRmNJcjBQQVk",
+        "date": "01/06/2026, 08:00 AM, +0000 UTC",
+        "iso_date": "2026-01-06T08:00:00Z"
+      },
+      {
+        "position": 15,
+        "title": "Ministry of Health and Family Welfare",
+        "source": {
+          "name": "PIB",
+          "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.pib.gov.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.pib.gov.in/PressNoteDetails.aspx?NoteId=153425&ModuleId=3&reg=3&lang=1",
+        "thumbnail": "https://static.pib.gov.in/WriteReadData/userfiles/image/image0031TSI.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXViMXBXTkhKSU9EaEZRMHd5VFJDNEF4anlBeWdLTWdhQkpwSUVsZ28",
+        "date": "11/18/2024, 08:00 AM, +0000 UTC",
+        "iso_date": "2024-11-18T08:00:00Z"
+      },
+      {
+        "position": 16,
+        "title": "3 hospitals lose Ayushman empanelment over ‘irregularities’",
+        "source": {
+          "name": "The Times of India",
+          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://timesofindia.indiatimes.com/city/dehradun/3-hospitals-lose-ayushman-empanelment-over-irregularities/articleshow/131751914.cms",
+        "thumbnail": "https://static.toiimg.com/thumb/msid-33486062,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNXlZVWxXVlhWcWNGcENVVEZFVFJDZkF4ampCU2dLTWdNRm94QQ",
+        "date": "06/16/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-06-16T07:00:00Z"
+      },
+      {
+        "position": 17,
+        "title": "Rajasthan patients get cashless treatment across India: Treatment up to ₹ 25 lakhs in 31,000 govt & pvt hos...",
+        "source": {
+          "name": "Bhaskar English",
+          "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.bhaskarenglish.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.bhaskarenglish.in/local/rajasthan/news/rajasthan-cashless-treatment-25-lakh-31k-hospitals-gujarat-reaches-highest-137535965.html",
+        "thumbnail": "https://images.bhaskarassets.com/thumb/1200x900/web2images/1884/2026/03/25/illuminating-indias-surgical-future-the-rise-of-sm_1774436236.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWtaRU5tUlhwUU5qVkNSVGhMVFJEZ0F4aUFCU2dLTWdhQk1JTEdvQWc",
+        "date": "03/25/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-03-25T07:00:00Z"
+      },
+      {
+        "position": 18,
+        "title": "5 Crore hospital admissions authorized under Ayushman Bharat Pradhan Mantri Jan Arogya Yojana",
+        "source": {
+          "name": "PIB",
+          "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.pib.gov.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=1928582",
+        "date": "05/31/2023, 07:00 AM, +0000 UTC",
+        "iso_date": "2023-05-31T07:00:00Z"
+      },
+      {
+        "position": 19,
+        "title": "This is how your parents can enrol for Ayushman scheme",
+        "source": {
+          "name": "The Times of India",
+          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "authors": [
+            "Durgesh Nandan Jha"
+          ]
+        },
+        "link": "https://timesofindia.indiatimes.com/india/this-is-how-your-parents-can-enrol-for-ayushman-scheme/articleshow/114791550.cms",
+        "thumbnail": "https://static.toiimg.com/thumb/msid-114791558,width-1280,height-720,resizemode-4/114791558.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iMkNnNXphRmRSV20xeFkyVXpiM2xzVFJDZkF4ampCU2dLTWdzQklZN0xtQ2xVN1FtNmtn",
+        "date": "10/31/2024, 07:00 AM, +0000 UTC",
+        "iso_date": "2024-10-31T07:00:00Z"
+      },
+      {
+        "position": 20,
+        "title": "Free medical treatment now available across India: Rajasthan’s MAA Scheme to cover free treatment in other ...",
+        "source": {
+          "name": "Bhaskar English",
+          "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.bhaskarenglish.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.bhaskarenglish.in/local/rajasthan/jaipur/news/free-medical-treatment-now-available-across-india-for-rajasthan-patients-134744417.html",
+        "thumbnail": "https://images.bhaskarassets.com/thumb/1200x900/web2images/1884/2025/03/31/ani-20250317131100_1743389488.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWtVelIxWTBVNWNtVlJhSE5RVFJEZ0F4aUFCU2dLTWdhaHNvb3dRUVE",
+        "date": "04/01/2025, 07:00 AM, +0000 UTC",
+        "iso_date": "2025-04-01T07:00:00Z"
+      },
+      {
+        "position": 21,
+        "title": "Ayushman Bharat Reality Check: India Today Exposes Denial of Cashless Care in Hospitals - India Today",
+        "source": {
+          "name": "India Today",
+          "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.indiatoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.indiatoday.in/india/video/ayushman-bharat-reality-check-india-today-exposes-denial-of-cashless-care-in-hospitals-ytvd-2847625-2026-01-06",
+        "thumbnail": "https://akm-img-a-in.tosshub.com/indiatoday/images/video/202601/ayushmanbharathospitalsdenycashlesscareindiatodayfinds-s0-original-sixteen-to-nine.jpg?VersionId=q.LKLNLxzqMm7hdLgtQaHGqAKViBTg.s?size=647:363",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUtlRE5uWmpSRlYxVXRVVlZyVFJDZkF4ampCU2dLTWdhVlVvckxPUVk",
+        "date": "01/06/2026, 08:00 AM, +0000 UTC",
+        "iso_date": "2026-01-06T08:00:00Z"
+      },
+      {
+        "position": 22,
+        "title": "Ayushman card scam: Khyati Hospital CEO remanded for 5 days",
+        "source": {
+          "name": "The Times of India",
+          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://timesofindia.indiatimes.com/city/ahmedabad/ayushman-card-scam-khyati-hospital-ceo-remanded-for-5-days/articleshow/117154616.cms",
+        "thumbnail": "https://static.toiimg.com/thumb/resizemode-4,width-1280,msid-33486062/33486062.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNUVSbFZUWWxSa04wZEpWWGQ0VFJERUF4aW1CU2dLTWdNSmt4SQ",
+        "date": "01/11/2025, 08:00 AM, +0000 UTC",
+        "iso_date": "2025-01-11T08:00:00Z"
+      },
+      {
+        "position": 23,
+        "title": "Happy you are recovering: Ayushman Bharat's message to cop 42 days after death",
+        "source": {
+          "name": "India Today",
+          "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.indiatoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.indiatoday.in/india/story/chhattisgarh-ayushman-bharat-records-row-constable-gets-recovery-message-42-days-after-death-2969112-2026-08-12",
+        "thumbnail": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202608/chat-124045652-16x9_0.jpg?VersionId=jmpR_cusjEMh4WHv9prUuo8CtYWHnnVW&size=1280:720",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVBWVFUwU2xsa2VsTTNaVTF5VFJDZkF4ampCU2dLTWdaSlFvejFvQWc",
+        "date": "08/12/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-08-12T07:00:00Z"
+      },
+      {
+        "position": 24,
+        "title": "How to Apply for Ayushman Bharat Golden Card Online & Offline",
+        "source": {
+          "name": "HDFC ERGO General Insurance",
+          "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.hdfcergo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.hdfcergo.com/blogs/health-insurance/how-to-apply-for-ayushman-bharat-golden-card",
+        "thumbnail": "https://customer-portal-assets.hdfcergo.com/assets/v2/how-to-apply-for-ayushman-bharat-golden-card-601021123941-1200.webp",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNW5SMmRqVUdGa2FqSjVkbWhJVFJDM0FSaVRBaWdCTWdtVk1vNG9MV2c5cFFJ",
+        "date": "12/17/2024, 08:00 AM, +0000 UTC",
+        "iso_date": "2024-12-17T08:00:00Z"
+      },
+      {
+        "position": 25,
+        "title": "Mint Explainer: Why are private hospitals turning away Ayushman Bharat patients?",
+        "source": {
+          "name": "Livemint",
+          "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "authors": [
+            "Soumya Gupta"
+          ]
+        },
+        "link": "https://www.livemint.com/news/ayushman-bharat-ayushman-bharat-insurance-scheme-pmjay-ayushman-bharat-pending-dues-haryana-11754987968589.html",
+        "thumbnail": "https://www.livemint.com/lm-img/img/2025/08/12/1600x900/As-many-as-168-621-verified-medical-professionals-_1681665941205_1754992342766.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNVZTek5EU0ZwalVteEpUMUZKVFJDZkF4ampCU2dLTWdtQm9JalIwQ041Y0FF",
+        "date": "08/12/2025, 07:00 AM, +0000 UTC",
+        "iso_date": "2025-08-12T07:00:00Z"
+      },
+      {
+        "position": 26,
+        "title": "Ayushman Bharat Reality Check: Hospitals Deny Cashless Care in Punjab, HP & Chandigarh - India Today",
+        "source": {
+          "name": "India Today",
+          "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.indiatoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.indiatoday.in/india/video/india-today-investigation-nitin-jain-exposes-private-hospitals-denying-ayushman-bharat-treatment-ytvd-2847613-2026-01-06",
+        "thumbnail": "https://akm-img-a-in.tosshub.com/indiatoday/images/video/202601/ayushmanbharathospitalsdenycare-s0-original-sixteen-to-nine.jpg?VersionId=dCpirlZFboMgRPWpLYF_vTdYOgU4Gpgg?size=647:363",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNDVlVGQ1YzNRMVZFRXlURnB5VFJDZkF4ampCU2dLTWdB",
+        "date": "01/06/2026, 08:00 AM, +0000 UTC",
+        "iso_date": "2026-01-06T08:00:00Z"
+      },
+      {
+        "position": 27,
+        "title": "Private hospitals in Haryana halt Ayushman Bharat Services over unpaid dues - India Today",
+        "source": {
+          "name": "India Today",
+          "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.indiatoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.indiatoday.in/india/haryana/video/private-hospitals-in-haryana-halt-ayushman-bharat-services-over-unpaid-dues-2768557-2025-08-08",
+        "thumbnail": "https://akm-img-a-in.tosshub.com/indiatoday/images/video/202508/pvt-081515670-16x9_0.png?VersionId=43HBELvFoh5LB74VZhWa3l6XgR9pcrot?size=647:363",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNUZXalpCTVRsemMybERla1JUVFJDZkF4ampCU2dLTWdrQllJN2pKdWhiemdF",
+        "date": "08/08/2025, 07:00 AM, +0000 UTC",
+        "iso_date": "2025-08-08T07:00:00Z"
+      },
+      {
+        "position": 28,
+        "title": "15 senior citizens receive Ayushman cards at special camp",
+        "source": {
+          "name": "The Times of India",
+          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://timesofindia.indiatimes.com/city/lucknow/15-senior-citizens-receive-ayushman-cards-at-special-camp/articleshow/132968948.cms",
+        "thumbnail": "https://static.toiimg.com/thumb/msid-33486062,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNXlZVWxXVlhWcWNGcENVVEZFVFJDZkF4ampCU2dLTWdNRm94QQ",
+        "date": "08/06/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-08-06T07:00:00Z"
+      },
+      {
+        "position": 29,
+        "title": "Reduce age for senior citizen Ayushman cards to 60: Parliament panel",
+        "source": {
+          "name": "The Times of India",
+          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "authors": [
+            "Durgesh Nandan Jha"
+          ]
+        },
+        "link": "https://timesofindia.indiatimes.com/india/reduce-age-for-senior-citizen-ayushman-cards-to-60-parliament-panel/articleshow/118995086.cms",
+        "thumbnail": "https://static.toiimg.com/thumb/msid-118995256,width-1280,height-720,resizemode-4/118995256.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNTViR1E1YzJkNVVtaFJUVjlrVFJDZkF4ampCU2dLTWdtZEpJaHdyV2VhcFFJ",
+        "date": "03/14/2025, 07:00 AM, +0000 UTC",
+        "iso_date": "2025-03-14T07:00:00Z"
+      },
+      {
+        "position": 30,
+        "title": "TOI report prompts Centre to act on elders’ health scheme issues in K’taka",
+        "source": {
+          "name": "The Times of India",
+          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "authors": [
+            "Pearl D'souza"
+          ]
+        },
+        "link": "https://timesofindia.indiatimes.com/city/bengaluru/toi-report-prompts-centre-to-act-on-elders-health-scheme-issues-in-ktaka/articleshow/117095362.cms",
+        "thumbnail": "https://static.toiimg.com/thumb/resizemode-4,width-1280,msid-33486062/33486062.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNUVSbFZUWWxSa04wZEpWWGQ0VFJERUF4aW1CU2dLTWdNSmt4SQ",
+        "date": "01/10/2025, 08:00 AM, +0000 UTC",
+        "iso_date": "2025-01-10T08:00:00Z"
+      },
+      {
+        "position": 31,
+        "title": "Panchkula Ayushman crisis: Cardiac treatment suspended for 3 months over ₹80L dues | Hindustan Times",
+        "source": {
+          "name": "Hindustan Times",
+          "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.hindustantimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "authors": [
+            "Brijender Gaur"
+          ]
+        },
+        "link": "https://www.hindustantimes.com/cities/chandigarh-news/panchkula-ayushman-crisis-cardiac-treatment-suspended-for-3-months-over-80l-dues-101759782101187.html",
+        "thumbnail": "https://www.hindustantimes.com/ht-img/img/2025/10/06/1600x900/logo/For-nearly-three-months-now--Ayushman-card-holders_1759782099077.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUliMlF6YjJsSlFtNU9abGM0VFJDZkF4ampCU2dLTWdZQmdZUlB5UU0",
+        "date": "10/07/2025, 07:00 AM, +0000 UTC",
+        "iso_date": "2025-10-07T07:00:00Z"
+      },
+      {
+        "position": 32,
+        "title": "Ayushman Bharat Scheme Launched in Delhi: Eligibility, benefits and how to apply",
+        "source": {
+          "name": "India Today",
+          "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.indiatoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.indiatoday.in/information/story/ayushman-bharat-scheme-launched-in-delhi-eligibility-benefits-and-how-to-apply-2704788-2025-04-06",
+        "thumbnail": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202504/the-ayushman-bharat-scheme--having-recently-expanded-in-october-2024-to-include-all-senior-citizens-121151993-16x9.jpg?VersionId=O3tl.IZJWZpZcmV4DrDcLDy2i_DG5JiU&size=1280:720",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUdURlIzUW5rdFRFeE1abTFxVFJDZkF4ampCU2dLTWdhbEU0alBHUVE",
+        "date": "04/06/2025, 07:00 AM, +0000 UTC",
+        "iso_date": "2025-04-06T07:00:00Z"
+      },
+      {
+        "position": 33,
+        "title": "Ahmedabad crime branch busts Ayushman Card fraud linked to Khyati Hospital | Hindustan Times",
+        "source": {
+          "name": "Hindustan Times",
+          "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.hindustantimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "authors": [
+            "Ht Correspondent"
+          ]
+        },
+        "link": "https://www.hindustantimes.com/cities/others/ahmedabad-crime-branch-busts-ayushman-card-fraud-linked-to-khyati-hospital-101734452205203.html",
+        "thumbnail": "https://www.hindustantimes.com/ht-img/img/2024/12/17/1600x900/The-Ahmedabad-crime-branch-has-arrested-eight-pers_1734452196079.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDViSGhzVXpGMFJtNUhhRlpQVFJDZkF4ampCU2dLTWdZSk5ZakhPUVU",
+        "date": "12/17/2024, 08:00 AM, +0000 UTC",
+        "iso_date": "2024-12-17T08:00:00Z"
+      },
+      {
+        "position": 34,
+        "title": "Rajasthan: Registration for Rs 3,000 crore health scheme begins today",
+        "source": {
+          "name": "The Times of India",
+          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://timesofindia.indiatimes.com/city/jaipur/registration-for-rs-3000-crore-health-scheme-begins-today/articleshow/81792173.cms",
+        "thumbnail": "https://static.toiimg.com/thumb/msid-81804995,width-1280,height-720,resizemode-72/81804995.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNVJRVzVZVlhOelgxSm5kMkpoVFJDZkF4ampCU2dLTWdrUkFvNHl2U1dhNHdJ",
+        "date": "04/01/2021, 07:00 AM, +0000 UTC",
+        "iso_date": "2021-04-01T07:00:00Z"
+      },
+      {
+        "position": 35,
+        "title": "In Rajasthan, Registration Quagmire Leads to Zero Beneficiaries of Ayushman Bharat",
+        "source": {
+          "name": "The Wire Science",
+          "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://science.thewire.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://science.thewire.in/health/ayushman-bharat-rajasthan/",
+        "thumbnail": "https://cdn.thewire.in/wp-content/uploads/2019/11/06164203/Screen-Shot-2019-11-06-at-4.41.40-PM.png",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVNhMUo1YUVGRGEzbzFOell0VFJDYUF4anRCU2dLTWdZRmNaQmt0UVk",
+        "date": "11/06/2019, 08:00 AM, +0000 UTC",
+        "iso_date": "2019-11-06T08:00:00Z"
+      },
+      {
+        "position": 36,
+        "title": "Ayushman recognition cancelled for 126 hospitals in MP: 51 in Bhopal and 30 in Indore affected; free treatm...",
+        "source": {
+          "name": "Bhaskar English",
+          "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.bhaskarenglish.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "authors": [
+            "Shashank Awasthi"
+          ]
+        },
+        "link": "https://www.bhaskarenglish.in/local/mp/bhopal/news/mp-ayushman-hospital-recognition-cancelled-nabh-certificate-bhopal-indore-137617850.html",
+        "thumbnail": "https://images.bhaskarassets.com/thumb/1200x900/web2images/1884/2026/04/04/whatsappvideo2025-05-20at19443801d45b58-ezgifcom-o_1775326277.gif",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNXpORWRCWkRRMFdIVktUVVZqVFJEZ0F4al9CQ2dLTWdPQkpBUQ",
+        "date": "04/04/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-04-04T07:00:00Z"
+      },
+      {
+        "position": 37,
+        "title": "Gehlot govt’s Chiranjeevi Scheme still stamped on hospital admit cards: Bhajanlal government's MAA Scheme n...",
+        "source": {
+          "name": "Bhaskar English",
+          "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.bhaskarenglish.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.bhaskarenglish.in/local/rajasthan/jaipur/news/gehlot-chiranjeevi-scheme-still-stamped-on-hospital-admit-cards-bhajanlal-governments-maa-scheme-27-march-2025-sms-medical-college-134718396.html",
+        "thumbnail": "https://images.bhaskarassets.com/thumb/1200x900/web2images/1884/2025/03/27/whatsapp-image-2025-03-04-at-43837-pm_1743053177.jpeg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNDRUR3hRVjNSWlZVb3lPVkJ0VFJEZ0F4aUFCU2dLTWdtRlVJeUdLU2RVa2dF",
+        "date": "03/27/2025, 07:00 AM, +0000 UTC",
+        "iso_date": "2025-03-27T07:00:00Z"
+      },
+      {
+        "position": 38,
+        "title": "25K senior citizens get Ayushman cards in Prayagraj | Hindustan Times",
+        "source": {
+          "name": "Hindustan Times",
+          "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.hindustantimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "authors": [
+            "Ht Correspondent"
+          ]
+        },
+        "link": "https://www.hindustantimes.com/cities/others/25k-senior-citizens-get-ayushman-cards-in-prayagraj-101741791492414.html",
+        "thumbnail": "https://www.hindustantimes.com/ht-img/img/2025/03/12/original/For-representation-only--HT-FIle-Photo-_1741791485145.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUViMnBOZHpKWFdqTk1PVFppVFJEU0FoakpCU2dLTWdZSmNKS3ZNQWM",
+        "date": "03/12/2025, 07:00 AM, +0000 UTC",
+        "iso_date": "2025-03-12T07:00:00Z"
+      },
+      {
+        "position": 39,
+        "title": "Pay Rs850 by July 31 to retain MAA health cover",
+        "source": {
+          "name": "The Times of India",
+          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://timesofindia.indiatimes.com/city/jaipur/pay-rs850-by-july-31-to-retain-maa-health-cover/articleshow/132670266.cms",
+        "thumbnail": "https://static.toiimg.com/thumb/msid-33486062,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNXlZVWxXVlhWcWNGcENVVEZFVFJDZkF4ampCU2dLTWdNRm94QQ",
+        "date": "07/28/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-07-28T07:00:00Z"
+      },
+      {
+        "position": 40,
+        "title": "Major married a month ago killed in accident after SUV hits camel in Jaisalmer",
+        "source": {
+          "name": "The Times of India",
+          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://timesofindia.indiatimes.com/city/jaipur/major-killed-two-officers-injured-after-suv-hits-camel-in-jaisalmer/articleshow/132771263.cms",
+        "thumbnail": "https://static.toiimg.com/thumb/msid-132779956,width-1280,height-720,imgsize-169118,resizemode-75,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDJjRWw0VWtKYWRrUmZaa1JVVFJDZkF4ampCU2dLTWdZbE5KYU1uUWc",
+        "date": "08/01/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-08-01T07:00:00Z"
+      },
+      {
+        "position": 41,
+        "title": "Viral video: Doctor takes jibe at iPhone users using Ayushman Bharat card; netizens say, ‘If you're poor...’",
+        "source": {
+          "name": "Livemint",
+          "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "authors": [
+            "Arshdeep Kaur"
+          ]
+        },
+        "link": "https://www.livemint.com/news/trends/viral-video-doctor-takes-jibe-at-iphone-users-using-ayushman-bharat-card-netizens-say-if-youre-poor-11736239774661.html",
+        "thumbnail": "https://www.livemint.com/lm-img/img/2025/01/07/1600x900/Screenshot_2025-01-07_151030_1736243068564_1736243084756.png",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNWZZVTlwVTBzNWFsRTJMWGxLVFJDZkF4amlCU2dLTWdtTklaNm1GcW8xWmdJ",
+        "date": "01/07/2025, 08:00 AM, +0000 UTC",
+        "iso_date": "2025-01-07T08:00:00Z"
+      },
+      {
+        "position": 42,
+        "title": "Ayushman Bharat Scheme: CAG report exposes dummy numbers, Aadhar irregularities",
+        "source": {
+          "name": "Livemint",
+          "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.livemint.com/politics/news/ayushman-bharat-scheme-cag-report-exposes-dummy-numbers-aadhar-irregularities-11691998961683.html",
+        "thumbnail": "https://www.livemint.com/lm-img/img/2023/08/14/1600x900/Out-of-27-000-hospitals-empanelled-for-Ayushman-Bh_1690305735180_1692002988013.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVdNM2ROZDJ0WlRXOTJaUzFTVFJDZkF4ampCU2dLTWdhQmxJZ0RSZ1U",
+        "date": "08/14/2023, 07:00 AM, +0000 UTC",
+        "iso_date": "2023-08-14T07:00:00Z"
+      },
+      {
+        "position": 43,
+        "title": "Jaipur's largest Bone Marrow transplant center nears completion: Promising lifeline for cancer patients wit...",
+        "source": {
+          "name": "Bhaskar English",
+          "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.bhaskarenglish.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.bhaskarenglish.in/local/rajasthan/jaipur/news/jaipurs-largest-bone-marrow-transplant-center-nears-completion-134531380.html",
+        "thumbnail": "https://images.bhaskarassets.com/thumb/1200x900/web2images/1884/2025/02/23/spl-cover-1_1740325747.gif",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iMkNnNTRTVkk0WjE5dk5XZ3lja1ZXVFJEM0FoajBBeWdLTWdzQkVZUzFtQ2VReFVvdUxn",
+        "date": "02/24/2025, 08:00 AM, +0000 UTC",
+        "iso_date": "2025-02-24T08:00:00Z"
+      },
+      {
+        "position": 44,
+        "title": "More people to benefit from merged scheme",
+        "source": {
+          "name": "The Times of India",
+          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://timesofindia.indiatimes.com/city/jaipur/more-people-to-benefit-from-merged-scheme/articleshow/70929649.cms",
+        "thumbnail": "https://static.toiimg.com/thumb/msid-70930834,width-1280,height-720,resizemode-72/70930834.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNVZSalZoWXpOMldEZFBSMk5IVFJDZkF4ampCU2dLTWdNWk1nUQ",
+        "date": "09/01/2019, 07:00 AM, +0000 UTC",
+        "iso_date": "2019-09-01T07:00:00Z"
+      },
+      {
+        "position": 45,
+        "title": "Ayushman Bharat: 171 hospitals de-empanelled, ₹4.5 cr fine imposed for fraud",
+        "source": {
+          "name": "Livemint",
+          "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.livemint.com/news/india/ayushman-bharat-171-hospitals-de-empanelled-rs-4-5-cr-fine-imposed-for-fraud-11578074376457.html",
+        "thumbnail": "https://images.livemint.com/rf/Image-621x414/LiveMint/Period2/2018/09/25/Photos/Processed/AB-1-kepB--621x414@LiveMint.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDJWMTg1WjFkd01sOURVMFIyVFJDZUF4anRCQ2dLTWdZQmdJNnJzUWM",
+        "date": "01/03/2020, 08:00 AM, +0000 UTC",
+        "iso_date": "2020-01-03T08:00:00Z"
+      },
+      {
+        "position": 46,
+        "title": "Hear it loud: Cochlear Implant starts at RUHS, Dr Mohnish Grover leads the way",
+        "source": {
+          "name": "The BuckStopper",
+          "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.thebuckstopper.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.thebuckstopper.com/hear-it-loud-cochlear-implant-starts-at-ruhs-dr-mohnish-grover-leads-the-way/",
+        "thumbnail": "https://www.thebuckstopper.com/wp-content/uploads/2026/01/70ac7de7-9125-4e12-92ba-14e225998c8b.jpeg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWpVM0pqWkVSR1RWWkxia3AxVFJDcUJCaXFCQ2dLTWdZQmVZekVyZ1k",
+        "date": "01/04/2026, 08:00 AM, +0000 UTC",
+        "iso_date": "2026-01-04T08:00:00Z"
+      },
+      {
+        "position": 47,
+        "title": "आयुष्मान भारत हॉस्पिटल लिस्ट जयपुर | Ayushman Bharat Hospital List Jaipur",
+        "source": {
+          "name": "केंद्र एव राज्य की सरकारी योजनाओं की जानकारी in Hindi",
+          "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://easyhindi.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://easyhindi.in/central-government-scheme/ayushman-bharat-hospital-list-jaipur/",
+        "thumbnail": "https://easyhindi.in/wp-content/uploads/2022/06/PMJAY-Hospital-List-5.png",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNVpRa2szVEZWS2FWcGtkRGxvVFJDNEF4aUFCU2dLTWdrQlVJampUV1ExYVFJ",
+        "date": "06/01/2022, 12:00 PM, +0000 UTC",
+        "iso_date": "2022-06-01T12:00:18Z"
+      },
+      {
+        "position": 48,
+        "title": "आयुष्मान भारत हॉस्पिटल लिस्ट राजस्थान | PMAJY Hospital List Rajasthan",
+        "source": {
+          "name": "easyhindi.in",
+          "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://easyhindi.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://easyhindi.in/central-government-scheme/ayushman-bharat-hospital-list-rajasthan/",
+        "thumbnail": "https://easyhindi.in/wp-content/uploads/2022/06/PMJAY-Hospital-List-6.png",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVNjRlphTmpCWVdsZFpRVU5LVFJDNEF4aUFCU2dLTWdhSllJSUd6Z0k",
+        "date": "06/01/2022, 11:39 AM, +0000 UTC",
+        "iso_date": "2022-06-01T11:39:45Z"
+      },
+      {
+        "position": 49,
+        "title": "चिरंजीवी योजना प्राइवेट हॉस्पिटल लिस्ट जयपुर | Jaipur Hospital List 2023",
+        "source": {
+          "name": "केंद्र एव राज्य की सरकारी योजनाओं की जानकारी in Hindi",
+          "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://easyhindi.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://easyhindi.in/government-schemes/chiranjeevi-yojana-hospital-list-jaipur/",
+        "thumbnail": "https://easyhindi.in/wp-content/uploads/2021/12/Chiranjeevi-Yojana-Hospital-List-Jaipur.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVNlSEJqTkhZNVJXaHVPV3AzVFJDNEF4aVVCU2dLTWdZQkFJREZpZ3c",
+        "date": "12/22/2021, 12:35 PM, +0000 UTC",
+        "iso_date": "2021-12-22T12:35:25Z"
+      },
+      {
+        "position": 50,
+        "title": "आयुष्मान भारत हॉस्पिटल लिस्ट बिहार | Ayushman Bharat Hospital List Bihar ऑनलाइन देखें @ pmjay.gov.in",
+        "source": {
+          "name": "केंद्र एव राज्य की सरकारी योजनाओं की जानकारी in Hindi",
+          "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://easyhindi.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://easyhindi.in/central-government-scheme/ayushman-bharat-hospital-list-bihar/",
+        "thumbnail": "https://easyhindi.in/wp-content/uploads/2022/06/PMJAY-Hospital-List-10.png",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXVWRE14YzFkRmFHcHVMVWN3VFJDNEF4aUFCU2dLTWdtQlFJYWt5S09aMlFB",
+        "date": "06/02/2022, 09:41 AM, +0000 UTC",
+        "iso_date": "2022-06-02T09:41:20Z"
+      },
+      {
+        "position": 51,
+        "title": "आयुष्मान भारत हॉस्पिटल लिस्ट दिल्ली | Ayushman Bharat Hospital List Delhi ऑनलाइन देखें @pmjay.gov.in",
+        "source": {
+          "name": "easyhindi.in",
+          "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://easyhindi.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://easyhindi.in/central-government-scheme/ayushman-bharat-hospital-list-delhi/",
+        "thumbnail": "https://easyhindi.in/wp-content/uploads/2022/06/PMJAY-Hospital-List-7.png",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNVpkREYxVFdwa1RWaDNkR3h4VFJDNEF4aUFCU2dLTWdrQlFZYlBJT213TXdF",
+        "date": "06/11/2022, 12:32 PM, +0000 UTC",
+        "iso_date": "2022-06-11T12:32:54Z"
+      },
+      {
+        "position": 52,
+        "title": "Ayushman Vaya Vandana card for people aged 70 and above: From benefits, health coverage to eligibility, know everything here",
+        "source": {
+          "name": "News24Online",
+          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://news24online.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "authors": [
+            "By - Mamta Singh"
+          ]
+        },
+        "link": "https://news24online.com/india/ayushman-vaya-vandana-card-for-people-aged-70-and-above-from-benefits-health-coverage-to-eligibility-know-everything-here/890888/",
+        "thumbnail": "https://news24online.com/wp-content/uploads/2026/07/Untitled-design-2026-07-23T123805.822.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVNSalV3WlhkTGNGTnpaRFZUVFJDZkF4ampCU2dLTWdhRlo1Q0ZMZ2M",
+        "date": "07/23/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-07-23T07:00:00Z"
+      }
+    ],
+    "menu_links": [
+      {
+        "title": "India",
+        "topic_token": "CAAqJQgKIh9DQkFTRVFvSUwyMHZNRE55YXpBU0JXVnVMVWRDS0FBUAE",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqJQgKIh9DQkFTRVFvSUwyMHZNRE55YXpBU0JXVnVMVWRDS0FBUAE"
+      },
+      {
+        "title": "World",
+        "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx1YlY4U0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx1YlY4U0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+      },
+      {
+        "title": "Your local news",
+        "topic_token": "CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE"
+      },
+      {
+        "title": "Business",
+        "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx6TVdZU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx6TVdZU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+      },
+      {
+        "title": "Technology",
+        "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRGRqTVhZU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRGRqTVhZU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+      },
+      {
+        "title": "Entertainment",
+        "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNREpxYW5RU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNREpxYW5RU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+      },
+      {
+        "title": "Sports",
+        "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp1ZEdvU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp1ZEdvU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+      },
+      {
+        "title": "Science",
+        "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp0Y1RjU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp0Y1RjU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+      },
+      {
+        "title": "Health",
+        "topic_token": "CAAqJQgKIh9DQkFTRVFvSUwyMHZNR3QwTlRFU0JXVnVMVWRDS0FBUAE",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqJQgKIh9DQkFTRVFvSUwyMHZNR3QwTlRFU0JXVnVMVWRDS0FBUAE"
+      }
+    ]
+  }
+}

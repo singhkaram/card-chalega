@@ -1,0 +1,109 @@
+{
+  "version": 1,
+  "key": "15b860dcd1fb65814ec4321d",
+  "engine": "google_maps_reviews",
+  "params": {
+    "data_id": "0x00000000005a1005:0x00000000000fa105",
+    "hl": "en",
+    "num": "20",
+    "query": "ayushman"
+  },
+  "fetchedAt": "2026-10-03T08:05:00.000Z",
+  "note": "SYNTHETIC SAMPLE DATA — dev only",
+  "response": {
+    "search_metadata": {
+      "status": "Success",
+      "created_at": "2026-10-03 08:05:00 UTC",
+      "total_time_taken": 2.1
+    },
+    "search_parameters": {
+      "engine": "google_maps_reviews",
+      "data_id": "0x00000000005a1005:0x00000000000fa105",
+      "query": "ayushman",
+      "num": "20",
+      "hl": "en"
+    },
+    "place_info": {
+      "title": "Aayushman Sample Care (Sample)",
+      "address": "14 Sample Marg, Lucknow, Uttar Pradesh (Sample)",
+      "rating": 4.2,
+      "reviews": 760,
+      "type": "Hospital"
+    },
+    "reviews": [
+      {
+        "link": "https://example.com/review/sample_lko_05_r01",
+        "rating": 5,
+        "date": "a month ago",
+        "iso_date": "2026-09-02T18:24:00Z",
+        "review_id": "sample_lko_05_r01",
+        "snippet": "Aayushman Sample Care has very good doctors and clean rooms. The doctor explained everything patiently.",
+        "extracted_snippet": {
+          "original": "Aayushman Sample Care has very good doctors and clean rooms. The doctor explained everything patiently."
+        },
+        "likes": 0
+      },
+      {
+        "link": "https://example.com/review/sample_lko_05_r02",
+        "rating": 4,
+        "date": "3 months ago",
+        "iso_date": "2026-07-03T22:12:00Z",
+        "review_id": "sample_lko_05_r02",
+        "snippet": "Aayushman hospital ka staff accha hai, emergency me jaldi dekha.",
+        "extracted_snippet": {
+          "original": "Aayushman hospital ka staff accha hai, emergency me jaldi dekha."
+        },
+        "likes": 3
+      },
+      {
+        "link": "https://example.com/review/sample_lko_05_r03",
+        "rating": 1,
+        "date": "6 months ago",
+        "iso_date": "2026-04-03T16:24:00Z",
+        "review_id": "sample_lko_05_r03",
+        "snippet": "(Translated by Google) Treatment at Aayushman hospital is very expensive, the bill was very high.\n\n(Original)\nआयुष्मान हॉस्पिटल में बहुत महंगा इलाज है, बिल बहुत ज़्यादा बना।",
+        "extracted_snippet": {
+          "original": "आयुष्मान हॉस्पिटल में बहुत महंगा इलाज है, बिल बहुत ज़्यादा बना।",
+          "translated": "Treatment at Aayushman hospital is very expensive, the bill was very high."
+        },
+        "likes": 1
+      },
+      {
+        "link": "https://example.com/review/sample_lko_05_r04",
+        "rating": 2,
+        "date": "8 months ago",
+        "iso_date": "2026-02-01T20:12:00Z",
+        "review_id": "sample_lko_05_r04",
+        "snippet": "Ironically, Aayushman Sample Care did not accept my Ayushman Bharat golden card. They said they are not empanelled for this treatment.",
+        "extracted_snippet": {
+          "original": "Ironically, Aayushman Sample Care did not accept my Ayushman Bharat golden card. They said they are not empanelled for this treatment."
+        },
+        "likes": 4
+      },
+      {
+        "link": "https://example.com/review/sample_lko_05_r05",
+        "rating": 5,
+        "date": "a year ago",
+        "iso_date": "2025-10-03T04:48:00Z",
+        "review_id": "sample_lko_05_r05",
+        "snippet": "Got cataract surgery done here with the Ayushman card (PMJAY), totally cashless.",
+        "extracted_snippet": {
+          "original": "Got cataract surgery done here with the Ayushman card (PMJAY), totally cashless."
+        },
+        "likes": 2
+      },
+      {
+        "link": "https://example.com/review/sample_lko_05_r06",
+        "rating": 3,
+        "date": "a year ago",
+        "iso_date": "2025-04-03T18:12:00Z",
+        "review_id": "sample_lko_05_r06",
+        "snippet": "Visited Aayushman Sample Care for a fever. Average experience.",
+        "extracted_snippet": {
+          "original": "Visited Aayushman Sample Care for a fever. Average experience."
+        },
+        "likes": 0
+      }
+    ]
+  }
+}

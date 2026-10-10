@@ -1,0 +1,167 @@
+{
+  "version": 1,
+  "key": "78d5d900c9dd9dc0913b3680",
+  "engine": "google_maps_reviews",
+  "params": {
+    "data_id": "0x39ed578f44deaf4d:0x5d08fef82eb3a95c",
+    "hl": "en",
+    "num": "20",
+    "query": "ayushman",
+    "sort_by": "newestFirst"
+  },
+  "fetchedAt": "2026-10-10T10:50:48.717Z",
+  "response": {
+    "search_metadata": {
+      "status": "Success",
+      "created_at": "2026-10-10 10:50:52 UTC",
+      "total_time_taken": 0.63
+    },
+    "search_parameters": {
+      "engine": "google_maps_reviews",
+      "data_id": "0x39ed578f44deaf4d:0x5d08fef82eb3a95c",
+      "hl": "en",
+      "num": "20",
+      "sort_by": "newestFirst",
+      "query": "ayushman"
+    },
+    "reviews": [
+      {
+        "position": 1,
+        "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25wVFJUUTBjbWhKVkVWV2FqZENSSEpLZEhCNUxVRRAB!2m1!1s0x0:0x5d08fef82eb3a95c!3m1!1s2@1:CAIQACodChtycF9oOnpTRTQ0cmhJVEVWajdCRHJKdHB5LUE%7C%7C?hl=en",
+        "rating": 1,
+        "date": "5 days ago",
+        "iso_date": "2026-10-04T18:28:48Z",
+        "iso_date_of_last_edit": "2026-10-04T18:28:48Z",
+        "source": "Google",
+        "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25wVFJUUTBjbWhKVkVWV2FqZENSSEpLZEhCNUxVRRAB",
+        "snippet": "> Very bad experience at Asian City Hospital. Staff behaviour is very rude, nobody gives proper answer. Doctors do not take full responsibility / risk of operation, they just say get operated tomorrow without explaining complications. They did all costly tests like ECG, X-ray, MRI in the name of operation. I decided not to get operated here and went to AIIMS. I will not recommend this hospital to anyone for spine surgery.\n\n> Staff Behaviour - 1/5\n> Doctor Clarity - 1/5\n> Yahan sirf paisa banane ka kaam hota hai. \"Kal operation posted hai, NPO raho\" bol ke pressure banate hain. Jab maine patient review liya to sab ro rahe the operation ke baad bhi. Doctor khud apne operation ki guarantee nahi lete. Ayushman par bhi yahi haal hai. Kripya yahan spine ka bada operation na karayein, pehle AIIMS Patna ya IGIMS me second opinion zaroor le lein.",
+        "extracted_snippet": {
+          "original": "> Very bad experience at Asian City Hospital. Staff behaviour is very rude, nobody gives proper answer. Doctors do not take full responsibility / risk of operation, they just say get operated tomorrow without explaining complications. They did all costly tests like ECG, X-ray, MRI in the name of operation. I decided not to get operated here and went to AIIMS. I will not recommend this hospital to anyone for spine surgery.\n\n> Staff Behaviour - 1/5\n> Doctor Clarity - 1/5\n> Yahan sirf paisa banane ka kaam hota hai. \"Kal operation posted hai, NPO raho\" bol ke pressure banate hain. Jab maine patient review liya to sab ro rahe the operation ke baad bhi. Doctor khud apne operation ki guarantee nahi lete. Ayushman par bhi yahi haal hai. Kripya yahan spine ka bada operation na karayein, pehle AIIMS Patna ya IGIMS me second opinion zaroor le lein.",
+          "translated": "> Very bad experience at Asian City Hospital. Staff behavior is very rude, nobody gives proper answer. Doctors do not take full responsibility / risk of operation, they just say get operated tomorrow without explaining complications. They did all costly tests like ECG, X-ray, MRI in the name of operation. I decided not to get operated here and went to AIIMS. I will not recommend this hospital to anyone for spine surgery.\n\n> Staff Behavior - 1/5\n> Doctor Clarity - 1/5\n> Here only the purpose of making money is served. “Tomorrow operation is posted, NPO raho” is creating pressure. When I took the patient review, all the tears remained even after the operation. The doctor himself does not guarantee his operation. Same is the situation with Ayushman. Please do not get any major spine surgery done here, first take a second opinion from AIIMS Patna or IGIMS."
+        },
+        "likes": 0
+      },
+      {
+        "position": 2,
+        "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURXanJxbVdnEAE!2m1!1s0x0:0x5d08fef82eb3a95c!3m1!1s2@1:CIHM0ogKEICAgIDWjrqmWg%7C%7C?hl=en",
+        "rating": 3,
+        "date": "Edited a month ago",
+        "iso_date": "2022-03-24T03:48:20Z",
+        "iso_date_of_last_edit": "2026-09-09T17:58:50Z",
+        "source": "Google",
+        "review_id": "ChZDSUhNMG9nS0VJQ0FnSURXanJxbVdnEAE",
+        "snippet": "Very good ☺️😊. But I have seen one girl who takes every one mobile and she starts rating of this hospital by her self. Most of the people they don't know what is rating but whenever she any patients start to rating by her self. Ayushman counter staffs are very poor to do their work. Both boys don't know why patient come to the hospital from far of other districts. Both boys are very irritating and irrespective. They must be punishable. I don't know why hospital keep MOD? They are ruthless, unsupported to the patient. Also she/he never take their work as serious . I wanted to make videos but I respect hospital's dignity. All doctors are very good 😊 and careful of every patient.",
+        "extracted_snippet": {
+          "original": "Very good ☺️😊. But I have seen one girl who takes every one mobile and she starts rating of this hospital by her self. Most of the people they don't know what is rating but whenever she any patients start to rating by her self. Ayushman counter staffs are very poor to do their work. Both boys don't know why patient come to the hospital from far of other districts. Both boys are very irritating and irrespective. They must be punishable. I don't know why hospital keep MOD? They are ruthless, unsupported to the patient. Also she/he never take their work as serious . I wanted to make videos but I respect hospital's dignity. All doctors are very good 😊 and careful of every patient."
+        },
+        "likes": 0
+      },
+      {
+        "position": 3,
+        "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25aUU5FaFpWVzU0ZEZCUk5tRm5TVVZ2V25SQ2RsRRAB!2m1!1s0x0:0x5d08fef82eb3a95c!3m1!1s2@1:CAIQACodChtycF9oOnZQNEhZVW54dFBRNmFnSUVvWnRCdlE%7C%7C?hl=en",
+        "rating": 1,
+        "date": "a month ago",
+        "iso_date": "2026-08-21T07:53:28Z",
+        "iso_date_of_last_edit": "2026-08-21T07:53:28Z",
+        "source": "Google",
+        "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25aUU5FaFpWVzU0ZEZCUk5tRm5TVVZ2V25SQ2RsRRAB",
+        "snippet": "Ayushman ka kam jaldi nhi ho raha h",
+        "extracted_snippet": {
+          "original": "Ayushman ka kam jaldi nhi ho raha h",
+          "translated": "Ayushmann's work is not happening anytime soon"
+        },
+        "likes": 0
+      },
+      {
+        "position": 4,
+        "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xKbk1tODJWMFpPV0RBNVRuWklRbVl6WDE5RWNWRRAB!2m1!1s0x0:0x5d08fef82eb3a95c!3m1!1s2@1:CAIQACodChtycF9oOlJnMm82V0ZOWDA5TnZIQmYzX19EcVE%7C%7C?hl=en",
+        "rating": 2,
+        "date": "2 months ago",
+        "iso_date": "2026-07-23T18:21:37Z",
+        "iso_date_of_last_edit": "2026-07-23T18:21:37Z",
+        "source": "Google",
+        "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xKbk1tODJWMFpPV0RBNVRuWklRbVl6WDE5RWNWRRAB",
+        "snippet": "First of all, thanks for the hospitality... but there is a lack of transparency at the hospital. They use the Ayushman card primarily to make money; they refuse to provide an itemized bill when asked. Even though all check-ups are covered by the card, they charge fees beforehand; then, they discharge and re-admit the patient just to generate more revenue.\nIf the actual cost is around ₹1 lakh, the hospital gets an inflated estimate approved to extract more money. I experienced this firsthand; when I asked the 'Manager on Duty' (MOD) for the Ayushman bill, they refused. Initially, the staff quoted a certain amount, but when the approval came through and I checked the app, I was shocked to see that the hospital management had secured approval for exactly double that amount. This hospital is solely focused on making money by misleading the government and the public... a terrible experience",
+        "extracted_snippet": {
+          "original": "First of all, thanks for the hospitality... but there is a lack of transparency at the hospital. They use the Ayushman card primarily to make money; they refuse to provide an itemized bill when asked. Even though all check-ups are covered by the card, they charge fees beforehand; then, they discharge and re-admit the patient just to generate more revenue.\nIf the actual cost is around ₹1 lakh, the hospital gets an inflated estimate approved to extract more money. I experienced this firsthand; when I asked the 'Manager on Duty' (MOD) for the Ayushman bill, they refused. Initially, the staff quoted a certain amount, but when the approval came through and I checked the app, I was shocked to see that the hospital management had secured approval for exactly double that amount. This hospital is solely focused on making money by misleading the government and the public... a terrible experience"
+        },
+        "likes": 0
+      },
+      {
+        "position": 5,
+        "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21oQlQyTm1OVFV5V0U1UmNEaEdVelk1U2xJd1YyYxAB!2m1!1s0x0:0x5d08fef82eb3a95c!3m1!1s2@1:CAIQACodChtycF9oOmhBT2NmNTUyWE5RcDhGUzY5SlIwV2c%7C%7C?hl=en",
+        "rating": 4,
+        "date": "3 months ago",
+        "iso_date": "2026-06-26T08:16:30Z",
+        "iso_date_of_last_edit": "2026-06-26T08:19:41Z",
+        "source": "Google",
+        "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21oQlQyTm1OVFV5V0U1UmNEaEdVelk1U2xJd1YyYxAB",
+        "snippet": "Hospital facilities are good, and the doctors and staff are supportive. However, a few improvements could make the patient experience even better:\n\n- An additional Ayushman Help Desk would help reduce waiting time.\n- More seating arrangements should be provided for patients' attendants.\n- An emergency support counter at the Ayushman Desk would make the admission process faster during emergencies.\n\nOverall, it was a good experience, and I hope these suggestions will help the hospital improve its services further.",
+        "extracted_snippet": {
+          "original": "Hospital facilities are good, and the doctors and staff are supportive. However, a few improvements could make the patient experience even better:\n\n- An additional Ayushman Help Desk would help reduce waiting time.\n- More seating arrangements should be provided for patients' attendants.\n- An emergency support counter at the Ayushman Desk would make the admission process faster during emergencies.\n\nOverall, it was a good experience, and I hope these suggestions will help the hospital improve its services further."
+        },
+        "likes": 1
+      },
+      {
+        "position": 6,
+        "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUR2bTVPOVNREAE!2m1!1s0x0:0x5d08fef82eb3a95c!3m1!1s2@1:CIHM0ogKEICAgIDvm5O9SQ%7C%7C?hl=en",
+        "rating": 3,
+        "date": "a year ago",
+        "iso_date": "2024-12-24T09:46:47Z",
+        "iso_date_of_last_edit": "2024-12-24T09:46:47Z",
+        "source": "Google",
+        "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR2bTVPOVNREAE",
+        "snippet": "Why only operations are allowed through ayushman card and not the related tests. Overall very qualified doctors.",
+        "extracted_snippet": {
+          "original": "Why only operations are allowed through ayushman card and not the related tests. Overall very qualified doctors."
+        },
+        "likes": 0
+      },
+      {
+        "position": 7,
+        "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUR2cTdfQTB3RRAB!2m1!1s0x0:0x5d08fef82eb3a95c!3m1!1s2@1:CIHM0ogKEICAgIDvq7_A0wE%7C%7C?hl=en",
+        "rating": 5,
+        "date": "a year ago",
+        "iso_date": "2024-12-24T06:54:09Z",
+        "iso_date_of_last_edit": "2024-12-24T06:54:09Z",
+        "source": "Google",
+        "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR2cTdfQTB3RRAB",
+        "snippet": "The facilities are good here with professional doctors but all the treatments are not covered under ayushman card. But overall great experience",
+        "extracted_snippet": {
+          "original": "The facilities are good here with professional doctors but all the treatments are not covered under ayushman card. But overall great experience"
+        },
+        "likes": 0
+      },
+      {
+        "position": 8,
+        "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURQbFBIOThBRRAB!2m1!1s0x0:0x5d08fef82eb3a95c!3m1!1s2@1:CIHM0ogKEICAgIDPlPH98AE%7C%7C?hl=en",
+        "rating": 5,
+        "date": "a year ago",
+        "iso_date": "2024-11-29T11:33:17Z",
+        "iso_date_of_last_edit": "2024-11-29T11:33:17Z",
+        "source": "Google",
+        "review_id": "ChdDSUhNMG9nS0VJQ0FnSURQbFBIOThBRRAB",
+        "snippet": "Best hospital in Patna. Best for Central govt employees and also have service for Ayushman card",
+        "extracted_snippet": {
+          "original": "Best hospital in Patna. Best for Central govt employees and also have service for Ayushman card"
+        },
+        "likes": 0
+      },
+      {
+        "position": 9,
+        "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNSMHVHbDNnRRAB!2m1!1s0x0:0x5d08fef82eb3a95c!3m1!1s2@1:CIHM0ogKEICAgICR0uGl3gE%7C%7C?hl=en",
+        "rating": 5,
+        "date": "3 years ago",
+        "iso_date": "2023-03-29T07:02:10Z",
+        "iso_date_of_last_edit": "2023-03-29T07:02:10Z",
+        "source": "Google",
+        "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNSMHVHbDNnRRAB",
+        "snippet": "my patients admitted in ayushman card . Good behaviour and services also",
+        "extracted_snippet": {
+          "original": "my patients admitted in ayushman card . Good behaviour and services also"
+        },
+        "likes": 0
+      }
+    ]
+  }
+}

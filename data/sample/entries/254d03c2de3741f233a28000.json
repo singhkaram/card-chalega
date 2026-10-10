@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "key": "254d03c2de3741f233a28000",
+  "engine": "google_news",
+  "params": {
+    "gl": "in",
+    "hl": "hi",
+    "q": "आयुष्मान कार्ड अस्पताल पटना"
+  },
+  "fetchedAt": "2026-10-03T08:43:00.000Z",
+  "note": "SYNTHETIC SAMPLE DATA — dev only",
+  "response": {
+    "search_metadata": {
+      "status": "Success",
+      "created_at": "2026-10-03 08:43:00 UTC",
+      "total_time_taken": 0.9
+    },
+    "search_parameters": {
+      "engine": "google_news",
+      "q": "आयुष्मान कार्ड अस्पताल पटना",
+      "gl": "in",
+      "hl": "hi"
+    },
+    "news_results": [
+      {
+        "position": 1,
+        "title": "Sample headline (नमूना): आयुष्मान कार्ड से मुफ्त डायलिसिस की सुविधा बढ़ी",
+        "source": {
+          "name": "नमूना समाचार (Sample)"
+        },
+        "link": "https://example.com/news/sample-pat-hi-1",
+        "date": "09/30/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-09-30T05:02:24Z"
+      },
+      {
+        "position": 2,
+        "title": "Sample headline (नमूना): अतिरिक्त शुल्क की शिकायतों पर समीक्षा बैठक",
+        "source": {
+          "name": "नमूना समाचार (Sample)"
+        },
+        "link": "https://example.com/news/sample-pat-hi-2",
+        "date": "09/27/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-09-27T03:04:48Z"
+      }
+    ]
+  }
+}

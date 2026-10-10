@@ -1,0 +1,175 @@
+{
+  "version": 1,
+  "key": "e4f3168fae97c001f1464f0f",
+  "engine": "google_maps_reviews",
+  "params": {
+    "data_id": "0x3962fd5596143bb7:0xa0053666a6c0dd5f",
+    "hl": "en",
+    "num": "20",
+    "query": "ayushman",
+    "sort_by": "newestFirst"
+  },
+  "fetchedAt": "2026-10-10T10:51:03.295Z",
+  "response": {
+    "search_metadata": {
+      "status": "Success",
+      "created_at": "2026-10-10 10:51:07 UTC",
+      "total_time_taken": 0.53
+    },
+    "search_parameters": {
+      "engine": "google_maps_reviews",
+      "data_id": "0x3962fd5596143bb7:0xa0053666a6c0dd5f",
+      "hl": "en",
+      "num": "20",
+      "sort_by": "newestFirst",
+      "query": "ayushman"
+    },
+    "reviews": [
+      {
+        "position": 1,
+        "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2pNd09USkRjamRhT0Vsa1JITk9kalpVU2poYVVWRRAB!2m1!1s0x0:0xa0053666a6c0dd5f!3m1!1s2@1:CAIQACodChtycF9oOjMwOTJDcjdaOElkRHNOdjZUSjhaUVE%7C%7C?hl=en",
+        "rating": 5,
+        "date": "5 months ago",
+        "iso_date": "2026-05-05T09:21:46Z",
+        "iso_date_of_last_edit": "2026-05-05T09:21:46Z",
+        "source": "Google",
+        "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pNd09USkRjamRhT0Vsa1JITk9kalpVU2poYVVWRRAB",
+        "snippet": "Good service and behaviour of complete medical Medanta life saving staff. We are Very thankful to Dr. Vinit Pandey, Dr Neeraj and Dr Prashant,  Mr. Shivam and Mr. Sushil Sharma (Ayushman) and other related staff . thank you .",
+        "extracted_snippet": {
+          "original": "Good service and behaviour of complete medical Medanta life saving staff. We are Very thankful to Dr. Vinit Pandey, Dr Neeraj and Dr Prashant,  Mr. Shivam and Mr. Sushil Sharma (Ayushman) and other related staff . thank you ."
+        },
+        "likes": 0,
+        "response": {
+          "date": "5 months ago",
+          "iso_date": "2026-05-05T11:23:50Z",
+          "iso_date_of_last_edit": "2026-05-05T11:23:50Z",
+          "snippet": "Thank you for your kind feedback. We are delighted to know that you experienced good service and supportive behaviour from our team. We truly appreciate your acknowledgment for oyr doctors, whose efforts helped make your experience positive.\n\nWarm Regards,\nTeam Medanta",
+          "extracted_snippet": {
+            "original": "Thank you for your kind feedback. We are delighted to know that you experienced good service and supportive behaviour from our team. We truly appreciate your acknowledgment for oyr doctors, whose efforts helped make your experience positive.\n\nWarm Regards,\nTeam Medanta"
+          }
+        }
+      },
+      {
+        "position": 2,
+        "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJVEhsYWVQcE1TU3dBRRAB!2m1!1s0x0:0xa0053666a6c0dd5f!3m1!1s2@1:CIHM0ogKEITHlaePpMSSwAE%7C%7C?hl=en",
+        "rating": 5,
+        "date": "a year ago",
+        "iso_date": "2025-05-28T04:55:34Z",
+        "iso_date_of_last_edit": "2025-05-28T04:55:34Z",
+        "source": "Google",
+        "review_id": "ChdDSUhNMG9nS0VJVEhsYWVQcE1TU3dBRRAB",
+        "snippet": "As per Ayushman categories, Enough charges at O-P-D Department",
+        "extracted_snippet": {
+          "original": "As per Ayushman categories, Enough charges at O-P-D Department"
+        },
+        "likes": 0,
+        "response": {
+          "date": "a year ago",
+          "iso_date": "2025-05-28T09:16:41Z",
+          "iso_date_of_last_edit": "2025-05-28T09:16:41Z",
+          "snippet": "Thank you for writing to us. We understand your concern and kindly request you to share your feedback along with your contact details at feedback@medanta.org. Our team will review it and assist you promptly.\n\nWarm Regards,\nTeam Medanta",
+          "extracted_snippet": {
+            "original": "Thank you for writing to us. We understand your concern and kindly request you to share your feedback along with your contact details at feedback@medanta.org. Our team will review it and assist you promptly.\n\nWarm Regards,\nTeam Medanta"
+          }
+        }
+      },
+      {
+        "position": 3,
+        "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VLRE0xNlBFcU95NlRREAE!2m1!1s0x0:0xa0053666a6c0dd5f!3m1!1s2@1:CIHM0ogKEKDM16PEqOy6TQ%7C%7C?hl=en",
+        "rating": 4,
+        "date": "a year ago",
+        "iso_date": "2025-05-16T06:48:37Z",
+        "iso_date_of_last_edit": "2025-05-16T06:48:37Z",
+        "source": "Google",
+        "review_id": "ChZDSUhNMG9nS0VLRE0xNlBFcU95NlRREAE",
+        "snippet": "Disagree about ayushman facilities it is applicable at IPD Surgeries and not applicable at OPD Services as an consultation and many more",
+        "extracted_snippet": {
+          "original": "Disagree about ayushman facilities it is applicable at IPD Surgeries and not applicable at OPD Services as an consultation and many more"
+        },
+        "likes": 0,
+        "response": {
+          "date": "a year ago",
+          "iso_date": "2025-05-16T10:28:46Z",
+          "iso_date_of_last_edit": "2025-05-16T10:28:46Z",
+          "snippet": "We understand your concern, pls write to us at feedback@medanta.org for you feedback\n\nRegards,\nTeam Medanta",
+          "extracted_snippet": {
+            "original": "We understand your concern, pls write to us at feedback@medanta.org for you feedback\n\nRegards,\nTeam Medanta"
+          }
+        }
+      },
+      {
+        "position": 4,
+        "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnTUNRXzhiMUh3EAE!2m1!1s0x0:0xa0053666a6c0dd5f!3m1!1s2@1:CIHM0ogKEICAgMCQ_8b1Hw%7C%7C?hl=en",
+        "rating": 5,
+        "date": "a year ago",
+        "iso_date": "2025-03-08T08:17:37Z",
+        "iso_date_of_last_edit": "2025-03-08T08:17:37Z",
+        "source": "Google",
+        "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNRXzhiMUh3EAE",
+        "snippet": "Hospital are  very good, staff well trained, manager very helpful and supportive\nPatient care are very good,\nI have taken treatment ayushman, free of charge, ,\nThank you so much\nMs pooja yadav\nDr Susheel Sharma",
+        "extracted_snippet": {
+          "original": "Hospital are  very good, staff well trained, manager very helpful and supportive\nPatient care are very good,\nI have taken treatment ayushman, free of charge, ,\nThank you so much\nMs pooja yadav\nDr Susheel Sharma"
+        },
+        "likes": 0,
+        "response": {
+          "date": "a year ago",
+          "iso_date": "2025-03-08T12:46:53Z",
+          "iso_date_of_last_edit": "2025-03-08T12:46:53Z",
+          "snippet": "Thank you for your kind words of appreciation. It's always our endeavour to provide the best quality services and we are glad to know that we succeeded in delivering the same.\n\nWarm Regards,\nTeam Medanta",
+          "extracted_snippet": {
+            "original": "Thank you for your kind words of appreciation. It's always our endeavour to provide the best quality services and we are glad to know that we succeeded in delivering the same.\n\nWarm Regards,\nTeam Medanta"
+          }
+        }
+      },
+      {
+        "position": 5,
+        "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNqdnVLUUhnEAE!2m1!1s0x0:0xa0053666a6c0dd5f!3m1!1s2@1:CIHM0ogKEICAgICjvuKQHg%7C%7C?hl=en",
+        "rating": 5,
+        "date": "2 years ago",
+        "iso_date": "2024-04-22T05:51:25Z",
+        "iso_date_of_last_edit": "2024-04-22T05:51:25Z",
+        "source": "Google",
+        "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNqdnVLUUhnEAE",
+        "snippet": "Very good experience with ayushman card very good hospital and expert doctor and there hospitality",
+        "extracted_snippet": {
+          "original": "Very good experience with ayushman card very good hospital and expert doctor and there hospitality"
+        },
+        "likes": 0,
+        "response": {
+          "date": "2 years ago",
+          "iso_date": "2024-04-22T07:05:48Z",
+          "iso_date_of_last_edit": "2024-04-22T07:05:48Z",
+          "snippet": "Thank you for recognizing Medanta Hospital's commitment to exceptional healthcare. Your appreciation inspires us to continue delivering top-notch medical services.\n\nWarm Regards,\nTeam Medanta",
+          "extracted_snippet": {
+            "original": "Thank you for recognizing Medanta Hospital's commitment to exceptional healthcare. Your appreciation inspires us to continue delivering top-notch medical services.\n\nWarm Regards,\nTeam Medanta"
+          }
+        }
+      },
+      {
+        "position": 6,
+        "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUM5MXFyTm5BRRAB!2m1!1s0x0:0xa0053666a6c0dd5f!3m1!1s2@1:CIHM0ogKEICAgIC91qrNnAE%7C%7C?hl=en",
+        "rating": 1,
+        "date": "2 years ago",
+        "iso_date": "2024-03-05T10:07:55Z",
+        "iso_date_of_last_edit": "2024-03-05T10:07:55Z",
+        "source": "Google",
+        "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM5MXFyTm5BRRAB",
+        "snippet": "Aapke yha ayushman bharat yojna ka  laabh milta h",
+        "extracted_snippet": {
+          "original": "Aapke yha ayushman bharat yojna ka  laabh milta h",
+          "translated": "You get the benefit of Ayushman Bharat Yojana here"
+        },
+        "likes": 0,
+        "response": {
+          "date": "2 years ago",
+          "iso_date": "2024-03-05T11:12:06Z",
+          "iso_date_of_last_edit": "2024-03-05T11:12:06Z",
+          "snippet": "We request you to please share your concern on feedback@medanta.org.\nOur concerned team will get in touch with you soon.\n\nWarm Regards,\nTeam Medanta",
+          "extracted_snippet": {
+            "original": "We request you to please share your concern on feedback@medanta.org.\nOur concerned team will get in touch with you soon.\n\nWarm Regards,\nTeam Medanta"
+          }
+        }
+      }
+    ]
+  }
+}

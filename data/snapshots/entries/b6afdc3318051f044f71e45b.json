@@ -1,0 +1,1541 @@
+{
+  "version": 1,
+  "key": "b6afdc3318051f044f71e45b",
+  "engine": "google_maps",
+  "params": {
+    "hl": "en",
+    "ll": "@28.6692,77.4538,13z",
+    "q": "hospital",
+    "type": "search"
+  },
+  "fetchedAt": "2026-10-10T10:50:54.446Z",
+  "response": {
+    "search_metadata": {
+      "status": "Success",
+      "created_at": "2026-10-10 10:50:57 UTC",
+      "total_time_taken": 1.16
+    },
+    "search_parameters": {
+      "engine": "google_maps",
+      "type": "search",
+      "q": "hospital",
+      "ll": "@28.6692,77.4538,13z",
+      "google_domain": "google.com",
+      "hl": "en"
+    },
+    "search_information": {
+      "local_results_state": "Results for exact spelling",
+      "query_displayed": "hospital"
+    },
+    "local_results": [
+      {
+        "position": 1,
+        "title": "Manipal Hospital Ghaziabad",
+        "place_id": "ChIJnQQY5ALyDDkRVvUacQdObkk",
+        "data_id": "0x390cf202e418049d:0x496e4e07711af556",
+        "data_cid": "5291252406076241238",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x390cf202e418049d%3A0x496e4e07711af556&engine=google_maps_reviews&hl=en",
+        "photos_link": "https://serpapi.com/search.json?data_id=0x390cf202e418049d%3A0x496e4e07711af556&engine=google_maps_photos&hl=en",
+        "gps_coordinates": {
+          "latitude": 28.655143,
+          "longitude": 77.4724488
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJnQQY5ALyDDkRVvUacQdObkk",
+        "provider_id": "/g/1hdzrrzn1",
+        "rating": 4.7,
+        "reviews": 12531,
+        "type": "General hospital",
+        "types": [
+          "General hospital"
+        ],
+        "type_id": "general_hospital",
+        "type_ids": [
+          "general_hospital"
+        ],
+        "address": "NH-24, Hapur Rd, near Landcraft Golflinks, Pandav Nagar, Ghaziabad, Uttar Pradesh 201002, India",
+        "country": "India",
+        "open_state": "Open 24 hours",
+        "hours": "Open 24 hours",
+        "operating_hours": {
+          "saturday": "Open 24 hours",
+          "sunday": "Open 24 hours",
+          "monday": "Open 24 hours",
+          "tuesday": "Open 24 hours",
+          "wednesday": "Open 24 hours",
+          "thursday": "Open 24 hours",
+          "friday": "Open 24 hours"
+        },
+        "phone": "+91 120 353 5353",
+        "website": "https://www.manipalhospitals.com/ghaziabad/",
+        "extensions": [
+          {
+            "service_options": [
+              "Onsite services"
+            ]
+          },
+          {
+            "accessibility": [
+              "Wheelchair accessible entrance",
+              "Wheelchair accessible parking lot",
+              "Wheelchair accessible restroom",
+              "Wheelchair accessible seating"
+            ]
+          },
+          {
+            "offerings": [
+              "Medication disposal"
+            ]
+          },
+          {
+            "amenities": [
+              "Gender-neutral restroom",
+              "Restroom"
+            ]
+          },
+          {
+            "payments": [
+              "Credit cards",
+              "Debit cards",
+              "NFC mobile payments"
+            ]
+          },
+          {
+            "parking": [
+              "Paid parking lot",
+              "Paid street parking"
+            ]
+          }
+        ],
+        "service_options": {
+          "onsite_services": true
+        },
+        "user_review": "\"The hospital staff was very attentive and checked on us thoroughly.\"",
+        "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLfj1dXGYsRQMv09cixwd6E6OUCBMcyM8yoiqKxDvQ8bWugLnsxEF7aCQMeuN1soA2p0P9eUm9gLlP3pdnePkYq76Obl-NOvnNyfGSQ1ztw1qzyLtMFVK1BDqC3fYR9NH9c-nvmkHQ=w1000-h1000-c-n",
+        "serpapi_thumbnail": "https://serpapi.com/images/url/7d0eenicHchJDoIwAADAFyGtJGhNPLC4JFKgGheOWkpRoAVbNn_oE_yNxssc5vPOta7VwjTL3JpwKXnJWsWeVArNhJ5QWZn8eVXKoMp0HLeoguwB08smUXuCO4DofehTe2VHR8_FdMTzUd6b3eB3ZH47tzwQalitZ1ePYNaGUElnWoMYsWOFeFDGVp0KFhdJM7OjW2mEUSfCMdscCHzpHjavMdB4fdpB1288K0v2KNwiaoiuKrZk2UMAgJH__eUXUMVGAg"
+      },
+      {
+        "position": 2,
+        "title": "Sol Atlanta Multispeciality Hospital",
+        "place_id": "ChIJweW1cL76DDkRVulTk1IPDp4",
+        "data_id": "0x390cfabe70b5e5c1:0x9e0e0f529353e956",
+        "data_cid": "11389057355000047958",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x390cfabe70b5e5c1%3A0x9e0e0f529353e956&engine=google_maps_reviews&hl=en",
+        "photos_link": "https://serpapi.com/search.json?data_id=0x390cfabe70b5e5c1%3A0x9e0e0f529353e956&engine=google_maps_photos&hl=en",
+        "gps_coordinates": {
+          "latitude": 28.6579335,
+          "longitude": 77.360978
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJweW1cL76DDkRVulTk1IPDp4",
+        "provider_id": "/g/11b7qd5w_f",
+        "rating": 4.1,
+        "reviews": 680,
+        "type": "General hospital",
+        "types": [
+          "General hospital"
+        ],
+        "type_id": "general_hospital",
+        "type_ids": [
+          "general_hospital"
+        ],
+        "address": "Plot No. NH 01, Bhagwan Parshuram Chowk, Sector 14, Vasundhara, Ghaziabad, Uttar Pradesh 201012, India",
+        "country": "India",
+        "open_state": "Open 24 hours",
+        "hours": "Open 24 hours",
+        "operating_hours": {
+          "saturday": "Open 24 hours",
+          "sunday": "Open 24 hours",
+          "monday": "Open 24 hours",
+          "tuesday": "Open 24 hours",
+          "wednesday": "Open 24 hours",
+          "thursday": "Open 24 hours",
+          "friday": "Open 24 hours"
+        },
+        "phone": "+91 120 288 2999",
+        "website": "http://www.atlantamediworld.com/",
+        "extensions": [
+          {
+            "accessibility": [
+              "Assistive hearing loop",
+              "Wheelchair accessible entrance",
+              "Wheelchair accessible parking lot",
+              "Wheelchair accessible restroom",
+              "Wheelchair accessible seating"
+            ]
+          },
+          {
+            "amenities": [
+              "Restroom"
+            ]
+          },
+          {
+            "crowd": [
+              "LGBTQ+ friendly"
+            ]
+          },
+          {
+            "payments": [
+              "Credit cards",
+              "Debit cards",
+              "NFC mobile payments"
+            ]
+          },
+          {
+            "parking": [
+              "Free parking lot"
+            ]
+          }
+        ],
+        "user_review": "\"Excellent patient care and a very clean hospital environment.\"",
+        "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLelex8PEKeZRjFpLrKZ76Rw9px3maZvB7vDMP8aAUZ2FywIX8PrVfjHuCvxQD-uULaEUqYHk9lG2PvQ9Wux_hbviw-W8z6nG26CpH9dkLuFqqPA0QpVJ80r5ElxBxIU6870hZbc=w1000-h1000-c-n",
+        "serpapi_thumbnail": "https://serpapi.com/images/url/JxAt5HicHcRRboIwAADQE1UqZlBM_AAFcbKkmKBbfwzWjk4KlJaWbhf0DLvNkr2P9_vk0yT12vMEXy2aYWgEM5opOvQT66cFHTqvUbXWgGovjpO2K5hgDuH0yMjpkclCHUkYnOZIulVXE5uEdveGUR1XxM--58M7wur8-cjN1rpyB0xV1Gk1fuRtJPY-tmV0Me7Kb_ZrBhf0E_R7P9jKPLq3hcnGEcewlOdXBNVLKlziDlWAQsjJjW7mJYQQ8P8p6P8AmfZEmg"
+      },
+      {
+        "position": 3,
+        "title": "Metro Multispeciality Hospital",
+        "place_id": "ChIJq6qqXgPlDDkRa6bxQY9U3QI",
+        "data_id": "0x390ce5035eaaaaab:0x2dd548f41f1a66b",
+        "data_cid": "206414132192323179",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x390ce5035eaaaaab%3A0x2dd548f41f1a66b&engine=google_maps_reviews&hl=en",
+        "photos_link": "https://serpapi.com/search.json?data_id=0x390ce5035eaaaaab%3A0x2dd548f41f1a66b&engine=google_maps_photos&hl=en",
+        "gps_coordinates": {
+          "latitude": 28.597367799999997,
+          "longitude": 77.3378843
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJq6qqXgPlDDkRa6bxQY9U3QI",
+        "provider_id": "/g/1tf3xrt6",
+        "rating": 4.2,
+        "reviews": 2439,
+        "type": "General hospital",
+        "types": [
+          "General hospital",
+          "Private hospital",
+          "Health consultant",
+          "Heart hospital",
+          "Hospital department",
+          "University hospital"
+        ],
+        "type_id": "general_hospital",
+        "type_ids": [
+          "general_hospital",
+          "private_hospital",
+          "health_consultant",
+          "heart_hospital",
+          "hospital_department",
+          "university_hospital"
+        ],
+        "address": "L-94, near Punjab National Bank, Block X, Sector 12, Noida, Uttar Pradesh 201301, India",
+        "country": "India",
+        "open_state": "Open 24 hours",
+        "hours": "Open 24 hours",
+        "operating_hours": {
+          "saturday": "Open 24 hours",
+          "sunday": "Open 24 hours",
+          "monday": "Open 24 hours",
+          "tuesday": "Open 24 hours",
+          "wednesday": "Open 24 hours",
+          "thursday": "Open 24 hours",
+          "friday": "Open 24 hours"
+        },
+        "phone": "+91 84476 66333",
+        "website": "https://www.metrohospitals.com/hospital/metro-hospital-and-heart-institute-noida-sector-11/",
+        "extensions": [
+          {
+            "service_options": [
+              "Onsite services"
+            ]
+          },
+          {
+            "accessibility": [
+              "Wheelchair accessible entrance",
+              "Wheelchair accessible parking lot",
+              "Wheelchair accessible restroom",
+              "Wheelchair accessible seating"
+            ]
+          },
+          {
+            "payments": [
+              "Credit cards",
+              "Debit cards",
+              "NFC mobile payments"
+            ]
+          },
+          {
+            "parking": [
+              "Free parking lot",
+              "Free street parking",
+              "Paid parking lot"
+            ]
+          }
+        ],
+        "service_options": {
+          "onsite_services": true
+        },
+        "user_review": "\"The hospital was clean, well-organized, and equipped with modern facilities.\"",
+        "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLevPSsPVNPLASu1HglxOE1LtJm78ymFWAupm2VX4cZLc5rRCD6ZMhRzV1pp7Y1hck_7D7XB3gjvlRI-9Svv1ir6WHzdj5DDfxJk4t50DMWmwKQx9HjyhVf4PUO6P2_dXoE9DT2E=w1000-h1000-c-n",
+        "serpapi_thumbnail": "https://serpapi.com/images/url/7aKeJ3icHcRdEoFAAADgE6U2_ciMh9hMCKuoeDFmZVe1bdNuSRd0Brcx43v4vh8qZS2mqlrS8YhwTsqsFVmDeSWzSo4wZyppbkIoWKiuOy9YkHUoEijeocCNWuCTst97IJBrZk_ebJm4bc30ODXwJcBmEy6gddnScIhBXdtnQHFxtaGdzsck78pwpThR14FnYyX-cM9NCB_9ujCkqcFtwl6bQ-_4-ZvGDwOd9hbSr_eUew486t7sBTRNU-h_rFQ_VddD2A"
+      },
+      {
+        "position": 4,
+        "title": "Karuna Hospital",
+        "place_id": "ChIJI4dot6_7DDkRyJ3DQCJss4U",
+        "data_id": "0x390cfbafb7688723:0x85b36c2240c39dc8",
+        "data_cid": "9634162922246872520",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x390cfbafb7688723%3A0x85b36c2240c39dc8&engine=google_maps_reviews&hl=en",
+        "photos_link": "https://serpapi.com/search.json?data_id=0x390cfbafb7688723%3A0x85b36c2240c39dc8&engine=google_maps_photos&hl=en",
+        "gps_coordinates": {
+          "latitude": 28.689157299999998,
+          "longitude": 77.3233199
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJI4dot6_7DDkRyJ3DQCJss4U",
+        "provider_id": "/g/1v_n9x97",
+        "rating": 4.2,
+        "reviews": 1538,
+        "type": "General hospital",
+        "types": [
+          "General hospital",
+          "Private hospital"
+        ],
+        "type_id": "general_hospital",
+        "type_ids": [
+          "general_hospital",
+          "private_hospital"
+        ],
+        "address": "D-62, Pocket E, Dilshad Colony New Simapuri, Dilshad Garden, Delhi, 110095, India",
+        "country": "India",
+        "open_state": "Open 24 hours",
+        "hours": "Open 24 hours",
+        "operating_hours": {
+          "saturday": "Open 24 hours",
+          "sunday": "Open 24 hours",
+          "monday": "Open 24 hours",
+          "tuesday": "Open 24 hours",
+          "wednesday": "Open 24 hours",
+          "thursday": "Open 24 hours",
+          "friday": "Open 24 hours"
+        },
+        "phone": "+91 11 7962 0024",
+        "website": "https://karunahospital.in/",
+        "extensions": [
+          {
+            "service_options": [
+              "Onsite services"
+            ]
+          },
+          {
+            "accessibility": [
+              "Assistive hearing loop",
+              "Wheelchair accessible entrance",
+              "Wheelchair accessible parking lot",
+              "Wheelchair accessible restroom",
+              "Wheelchair accessible seating"
+            ]
+          },
+          {
+            "crowd": [
+              "LGBTQ+ friendly"
+            ]
+          },
+          {
+            "payments": [
+              "Credit cards",
+              "Debit cards",
+              "NFC mobile payments"
+            ]
+          },
+          {
+            "children": [
+              "Nursing room"
+            ]
+          },
+          {
+            "parking": [
+              "Free parking lot",
+              "Free street parking"
+            ]
+          }
+        ],
+        "service_options": {
+          "onsite_services": true
+        },
+        "user_review": "\"The hospital was clean, well-managed, and focused on patient comfort.\"",
+        "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLdHdtIyAS_po1SK8Lb3Lj13r9BbrTMYIh-WQr-O8ibFkxiDd_1x_eZ2GsBywZdrEIZtlK2JDKLia7GZDNSKa0Nu7INh3riHve16vPt6sx64RfM_yrgHb1_FMzI5FWvZ5q4yoGs=w1000-h1000-c-n",
+        "serpapi_thumbnail": "https://serpapi.com/images/url/sAhRN3icHcRJDoIwAADAF1WoIC6JBwgClcUFE2MvDUulKFJtK4IP9A_-xsQ5zPfDlLrLhaY1zBhVnFcNfUoqCt4q2qpRwW9aJTIpQSE123aut6gMSoUGOyV3DtNwFuVGdIGGmDu5OMQnxMBxJ8BmVufeta_dksCeUDz2pTO8cClWCKsmHK_dMKqzqY_dJA0zPXlOUcIMUQcdhVa3VZbsLXN_jskgqiCHxIvfaOIdOzx5mAP35fIFdV0H7H8B2h8PTUQk"
+      },
+      {
+        "position": 5,
+        "title": "HEALING TREE HOSPITAL",
+        "place_id": "ChIJYaqyLrL7DDkRrx4I0gQ6C24",
+        "data_id": "0x390cfbb22eb2aa61:0x6e0b3a04d2081eaf",
+        "data_cid": "7929495361293917871",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x390cfbb22eb2aa61%3A0x6e0b3a04d2081eaf&engine=google_maps_reviews&hl=en",
+        "photos_link": "https://serpapi.com/search.json?data_id=0x390cfbb22eb2aa61%3A0x6e0b3a04d2081eaf&engine=google_maps_photos&hl=en",
+        "gps_coordinates": {
+          "latitude": 28.6496699,
+          "longitude": 77.363492
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJYaqyLrL7DDkRrx4I0gQ6C24",
+        "provider_id": "/g/11f5q8wsq3",
+        "rating": 4.6,
+        "reviews": 3287,
+        "type": "Hospital",
+        "types": [
+          "Hospital"
+        ],
+        "type_id": "hospital",
+        "type_ids": [
+          "hospital"
+        ],
+        "address": "30/1, 30/1, Shakti Khand III, Indirapuram, Ghaziabad, Uttar Pradesh 201014, India",
+        "country": "India",
+        "open_state": "Open 24 hours",
+        "hours": "Open 24 hours",
+        "operating_hours": {
+          "saturday": "Open 24 hours",
+          "sunday": "Open 24 hours",
+          "monday": "Open 24 hours",
+          "tuesday": "Open 24 hours",
+          "wednesday": "Open 24 hours",
+          "thursday": "Open 24 hours",
+          "friday": "Open 24 hours"
+        },
+        "phone": "+91 84487 77888",
+        "website": "https://healingtreehospital.com/",
+        "extensions": [
+          {
+            "from_the_business": [
+              "Identifies as women-owned"
+            ]
+          },
+          {
+            "service_options": [
+              "Onsite services"
+            ]
+          },
+          {
+            "accessibility": [
+              "Wheelchair accessible entrance",
+              "Wheelchair accessible parking lot"
+            ]
+          },
+          {
+            "payments": [
+              "Credit cards",
+              "Debit cards",
+              "NFC mobile payments"
+            ]
+          }
+        ],
+        "service_options": {
+          "onsite_services": true
+        },
+        "book_online": "https://www.justdial.com/online-consult/hospital?action=BA&extRdt=1&wkwebview=1&docid=011PXX11.XX11.180419171803.Y2P6&rwg_token=AE37R_j-QGPCaFS5pJHVlPAaYnMbnoL5XgChM0m0kOzM9_-1Wz1nTq5NKhWvHK7h2MWMiVb2jhP7I4nrJEHUnOkDlfachfCjow%3D%3D",
+        "user_review": "\"The hospital is clean and well-maintained, and the treatment was excellent.\"",
+        "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLd4ne8rP1Cyf30U5aoG5yYYKelWOiq1SntuqBaZ_XmHQiH5BX_mFcz59uCxDND_xdj8EjXZCsasv9n6d0FwwGBnEuyRFokFzFTkrr1SmPnGI8fzXJCuaIjdkZ6-lr1uz1uphEKdNg=w1000-h1000-c-n",
+        "serpapi_thumbnail": "https://serpapi.com/images/url/CcGbm3icHcRJDoIwAADAFyFtFIMmHgQpbnE3IhfStBUE2moXEX7oE_yNiXOY76cw5qHHrlsX_V4uZV4zq5kiUhgmTI9I7uYKa-0Q7U6nQcXXdCCYr3YwbG99cPawjL32el2x-rK9P-FRGPsMcJolfL6_z70gyTginTey4Xu2mWVvWvpRmaShxvo1EkMKUNPEgYhse0CyQh06VUrBI9-JeOHfumQZWrwoaZUOnVpB20H7KKIV3eSTBgIAnOI_ccQPZAtG5Q"
+      },
+      {
+        "position": 6,
+        "title": "Yashoda Hospital & Research Centre",
+        "place_id": "ChIJAXUo2STxDDkRLmCceFoGaZk",
+        "data_id": "0x390cf124d9287501:0x9969065a789c602e",
+        "data_cid": "11054373745997930542",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x390cf124d9287501%3A0x9969065a789c602e&engine=google_maps_reviews&hl=en",
+        "photos_link": "https://serpapi.com/search.json?data_id=0x390cf124d9287501%3A0x9969065a789c602e&engine=google_maps_photos&hl=en",
+        "gps_coordinates": {
+          "latitude": 28.6598749,
+          "longitude": 77.4386251
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJAXUo2STxDDkRLmCceFoGaZk",
+        "provider_id": "/g/1td4hhh2",
+        "rating": 4.7,
+        "reviews": 11443,
+        "type": "General hospital",
+        "types": [
+          "General hospital",
+          "Doctor"
+        ],
+        "type_id": "general_hospital",
+        "type_ids": [
+          "general_hospital",
+          "doctor"
+        ],
+        "address": "IIIrd M, Motilal Nehru Nagar Marg, Near Nehru Stadium, Nehru Nagar, Ghaziabad, Uttar Pradesh 201001, India",
+        "country": "India",
+        "open_state": "Open 24 hours",
+        "hours": "Open 24 hours",
+        "operating_hours": {
+          "saturday": "Open 24 hours",
+          "sunday": "Open 24 hours",
+          "monday": "Open 24 hours",
+          "tuesday": "Open 24 hours",
+          "wednesday": "Open 24 hours",
+          "thursday": "Open 24 hours",
+          "friday": "Open 24 hours"
+        },
+        "phone": "+91 98109 22042",
+        "website": "https://www.yashodahealthcare.com/",
+        "extensions": [
+          {
+            "service_options": [
+              "Onsite services"
+            ]
+          },
+          {
+            "accessibility": [
+              "Wheelchair accessible entrance",
+              "Wheelchair accessible parking lot",
+              "Wheelchair accessible restroom"
+            ]
+          },
+          {
+            "offerings": [
+              "Medication disposal"
+            ]
+          },
+          {
+            "amenities": [
+              "Restroom"
+            ]
+          },
+          {
+            "payments": [
+              "Credit cards",
+              "Debit cards",
+              "NFC mobile payments"
+            ]
+          },
+          {
+            "children": [
+              "Nursing room"
+            ]
+          },
+          {
+            "parking": [
+              "Paid parking lot"
+            ]
+          }
+        ],
+        "service_options": {
+          "onsite_services": true
+        },
+        "user_review": "\"The hospital is well-organized, clean, and supported by a very caring staff.\"",
+        "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLdMcxTJnSUTf5l6byDFalc6e-Q-eR671In2M3458HYiY3loFVSo2A71lhNb6iRfu0kkP54SiEaKk0oV79lEEjxuK48t_cvd5KlIfOWAEJZk_y2Sat_iGMrvpZE1a7g_tsEgyfw=w1000-h1000-c-n",
+        "serpapi_thumbnail": "https://serpapi.com/images/url/2WA-jHicHcRJDoIwAADAFxXKriYeMNYNccMleiGlloKtraFF5YP-wd-YOIf5fipjHnpg26LyLKYUE7TVtCFKGiqNRdTdZg3WGhBtx_GI35fXlLz3C5kd9mUgwqIbT7AgIQVbQHdh5Mylm3p-0Jud67Mn1OSYKTeOHFGtirDelS3kfBP4WY1wwqE6Rn2B0O3dJn7P5OR5DRIxL9enGC0uPO_cDJu8nqbN83FBDo5YbjRiXfkavhwIIaj-EyB_r-pDyw"
+      },
+      {
+        "position": 7,
+        "title": "Kailash Deepak Hospital",
+        "place_id": "ChIJcdn6qUX7DDkRw2RsaLXH5o8",
+        "data_id": "0x390cfb45a9fad971:0x8fe6c7b5686c64c3",
+        "data_cid": "10369194774022087875",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x390cfb45a9fad971%3A0x8fe6c7b5686c64c3&engine=google_maps_reviews&hl=en",
+        "photos_link": "https://serpapi.com/search.json?data_id=0x390cfb45a9fad971%3A0x8fe6c7b5686c64c3&engine=google_maps_photos&hl=en",
+        "gps_coordinates": {
+          "latitude": 28.6449601,
+          "longitude": 77.30118809999999
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJcdn6qUX7DDkRw2RsaLXH5o8",
+        "provider_id": "/g/1tp2ys3p",
+        "rating": 4.8,
+        "reviews": 6262,
+        "type": "General hospital",
+        "types": [
+          "General hospital",
+          "Private hospital"
+        ],
+        "type_id": "general_hospital",
+        "type_ids": [
+          "general_hospital",
+          "private_hospital"
+        ],
+        "address": "5, Vikas Marg, Institutional Area, Anand Vihar, New Delhi, Delhi, 110092, India",
+        "country": "India",
+        "open_state": "Open 24 hours",
+        "hours": "Open 24 hours",
+        "operating_hours": {
+          "saturday": "Open 24 hours",
+          "sunday": "Open 24 hours",
+          "monday": "Open 24 hours",
+          "tuesday": "Open 24 hours",
+          "wednesday": "Open 24 hours",
+          "thursday": "Open 24 hours",
+          "friday": "Open 24 hours"
+        },
+        "phone": "+91 11 3535 3535",
+        "website": "https://www.kailashdeepakhospital.com/?utm_source=google&utm_medium=gmb&utm_campaign=kailash-deepak-hospital-gmb",
+        "extensions": [
+          {
+            "service_options": [
+              "Onsite services"
+            ]
+          },
+          {
+            "accessibility": [
+              "Wheelchair accessible entrance",
+              "Wheelchair accessible parking lot",
+              "Wheelchair accessible restroom"
+            ]
+          },
+          {
+            "amenities": [
+              "Gender-neutral restroom"
+            ]
+          },
+          {
+            "payments": [
+              "Credit cards",
+              "Debit cards",
+              "NFC mobile payments"
+            ]
+          },
+          {
+            "children": [
+              "Nursing room"
+            ]
+          },
+          {
+            "parking": [
+              "Free parking lot",
+              "Paid parking lot"
+            ]
+          }
+        ],
+        "service_options": {
+          "onsite_services": true
+        },
+        "user_review": "\"Dietician, Doctors, nurses all are very experienced room no pcu 2\"",
+        "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLfDrz2AcJJrHuByAKQD2aOh61zLNhIQT0K2v7gzO3WPtagX4TdrzoZqmInniyFp5qgSa9d9tuhN73pR95vbuWVavtCRNZxlX75bBVmmoJgSvR-mF8M8APU_PragaD5_22Kbw-Mz=w1000-h1000-c-n",
+        "serpapi_thumbnail": "https://serpapi.com/images/url/c3aQOXicHcRRboIwAADQE1WwjCEmfpQRM0EBganxx5TK2kXaYltQe0HP4G1M9j7e68mM6fXccTrmTaiUtGsH3SoihWmFmRDJHaqw1oBoB6Howte_sbIQkSRR30P0QOk2hjhnn1O7zthqW7spHANqc29fGEwPH_VZWXm88pUQf49l719phcNzaAaWBV5fhv7YDPsdHs1XmR3v3SHwm2jHuUxoNZaAL2ebGSp-ToXCFMf-CcK0uYGNXdymrusC9j8B4g2oKUUo"
+      },
+      {
+        "position": 8,
+        "title": "Shri Tirupati Hospital | Stone Surgery & Multi-Speciality Hospital",
+        "place_id": "ChIJxcwp5cHxDDkRcO4PfsqEPWk",
+        "data_id": "0x390cf1c1e529ccc5:0x693d84ca7e0fee70",
+        "data_cid": "7583363352795016816",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x390cf1c1e529ccc5%3A0x693d84ca7e0fee70&engine=google_maps_reviews&hl=en",
+        "photos_link": "https://serpapi.com/search.json?data_id=0x390cf1c1e529ccc5%3A0x693d84ca7e0fee70&engine=google_maps_photos&hl=en",
+        "gps_coordinates": {
+          "latitude": 28.663124,
+          "longitude": 77.4467841
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJxcwp5cHxDDkRcO4PfsqEPWk",
+        "provider_id": "/g/11b6dp1x0m",
+        "rating": 4.9,
+        "reviews": 561,
+        "type": "General hospital",
+        "types": [
+          "General hospital",
+          "Hospital",
+          "Medical laboratory",
+          "Orthopedic surgeon",
+          "Urologist"
+        ],
+        "type_id": "general_hospital",
+        "type_ids": [
+          "general_hospital",
+          "hospital",
+          "medical_lab",
+          "orthopedic_surgeon",
+          "urologist"
+        ],
+        "address": "Block E, Kavi Nagar, Kavi Nagar, Ghaziabad, Uttar Pradesh 201002, India",
+        "country": "India",
+        "open_state": "Open 24 hours",
+        "hours": "Open 24 hours",
+        "operating_hours": {
+          "saturday": "Open 24 hours",
+          "sunday": "Open 24 hours",
+          "monday": "Open 24 hours",
+          "tuesday": "Open 24 hours",
+          "wednesday": "Open 24 hours",
+          "thursday": "Open 24 hours",
+          "friday": "Open 24 hours"
+        },
+        "phone": "+91 120 278 2103",
+        "website": "https://shritirupatihospital.com/",
+        "extensions": [
+          {
+            "service_options": [
+              "Onsite services"
+            ]
+          },
+          {
+            "accessibility": [
+              "Wheelchair accessible entrance",
+              "Wheelchair accessible parking lot",
+              "Wheelchair accessible restroom",
+              "Wheelchair accessible seating"
+            ]
+          },
+          {
+            "amenities": [
+              "Gender-neutral restroom",
+              "Restroom"
+            ]
+          },
+          {
+            "crowd": [
+              "LGBTQ+ friendly"
+            ]
+          },
+          {
+            "payments": [
+              "Credit cards",
+              "Debit cards",
+              "NFC mobile payments"
+            ]
+          },
+          {
+            "children": [
+              "Nursing room"
+            ]
+          },
+          {
+            "parking": [
+              "On-site parking"
+            ]
+          }
+        ],
+        "service_options": {
+          "onsite_services": true
+        },
+        "user_review": "\"Excellent hospital doctors are very soft and attentive.\"",
+        "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLf2cg8SLHU2LpJ7iPB7M7jAAZ-oJhVu6K0T0rfgCglQftjhRR1duHANyFkYQJSNFW_IJIyBaA9sCRLYQSM8PcmR7bce-sl5hHXPOLtAv-Q6p46z2fuI7JaYw0ts8p-EW_VHaX_BLg=w1000-h1000-c-n",
+        "serpapi_thumbnail": "https://serpapi.com/images/url/qHVp4nicHcTbDoIgAADQL0LJSqytB2w5JSov3ezFGSlUKk6wVn_YJ_Q3bZ2H8_0IrVs1Nc1KDA0uJa-KXhUdk40uGm0wWZu8y5UCTJkYu_ealhbjTkL9nUVbgq6hi1bohvEJSCL2vb2EW9iVfM6rqNQ3EceDS-_j9cu7pxFJ1t4hC0jwcnM8UfOYplGyckJWx-jMCqCqsfCP4YZq_ACR3Y7st1X2ASJ5-oRaOS1YHLK9nx8zl_LZcwAhBOI_A80PcdhD4w"
+      },
+      {
+        "position": 9,
+        "title": "MMG District Hospital",
+        "place_id": "ChIJz5ej0DTwDDkRpPrc0k2jw-Q",
+        "data_id": "0x390cf034d0a397cf:0xe4c3a34dd2dcfaa4",
+        "data_cid": "16484198615751654052",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x390cf034d0a397cf%3A0xe4c3a34dd2dcfaa4&engine=google_maps_reviews&hl=en",
+        "photos_link": "https://serpapi.com/search.json?data_id=0x390cf034d0a397cf%3A0xe4c3a34dd2dcfaa4&engine=google_maps_photos&hl=en",
+        "gps_coordinates": {
+          "latitude": 28.6628442,
+          "longitude": 77.4237309
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJz5ej0DTwDDkRpPrc0k2jw-Q",
+        "provider_id": "/g/1hf4lzwmd",
+        "rating": 3,
+        "reviews": 512,
+        "type": "Hospital",
+        "types": [
+          "Hospital"
+        ],
+        "type_id": "hospital",
+        "type_ids": [
+          "hospital"
+        ],
+        "address": "Grand Trunk Rd, nr. Ghanta Ghar, Bihari Pura, Sarai Nagar, Naya Ganj, Ghaziabad, Uttar Pradesh 201009, India",
+        "country": "India",
+        "open_state": "Open 24 hours",
+        "hours": "Open 24 hours",
+        "operating_hours": {
+          "saturday": "Open 24 hours",
+          "sunday": "Open 24 hours",
+          "monday": "Open 24 hours",
+          "tuesday": "Open 24 hours",
+          "wednesday": "Open 24 hours",
+          "thursday": "Open 24 hours",
+          "friday": "Open 24 hours"
+        },
+        "phone": "+91 120 273 0038",
+        "extensions": [
+          {
+            "service_options": [
+              "Onsite services"
+            ]
+          },
+          {
+            "accessibility": [
+              "Wheelchair accessible entrance",
+              "Wheelchair accessible parking lot"
+            ]
+          },
+          {
+            "offerings": [
+              "Medication disposal"
+            ]
+          },
+          {
+            "payments": [
+              "Credit cards",
+              "Debit cards",
+              "NFC mobile payments"
+            ]
+          }
+        ],
+        "service_options": {
+          "onsite_services": true
+        },
+        "user_review": "\"This hospital provides excellent treatment at very low cost.\"",
+        "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLcEbJMI9KuI-zPkNJntt_mYKear29QLsqDjQE3SE_ccvf_2xOuQ-cW7m03MZ0q_p20csy866-vaUt1ECNrE0nMqawho-0eYmbbYWo1WsJ-fodIzqAyeag5dzADxzOa--S8uRcnYnA=w1000-h1000-c-n",
+        "serpapi_thumbnail": "https://serpapi.com/images/url/bjIfL3icHcRLDoIwFADAEz0pEPGTuKjaBSgqGkNwQ8qzQNS2QosfbugRvI2Js5jvp7b2bqaOc6v9QaV1dROdES1qZYWyA9TSqVpuDKBxKJ1f5RpZEcXhZNWF0O-um0hZm8tsJXjrTZK1aZaXhPkHliM-ytx7bbsEMB1J4scn0uR3j6B5j4MAHvxoXbbYtIyouOHPWgMRmSyKLNVuaiIo9TnsG_oWvBqee7p89VsOcBh3e1SZorOnSwiB-j-C-gESe0XE"
+      },
+      {
+        "position": 10,
+        "title": "Nagar Hospital I Multispecialty Hospital In Ghaziabad I Ghaziabad Hospital",
+        "place_id": "ChIJ_VGpAbrxDDkRA9VqcY22GwU",
+        "data_id": "0x390cf1ba01a951fd:0x51bb68d716ad503",
+        "data_cid": "368088513170298115",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x390cf1ba01a951fd%3A0x51bb68d716ad503&engine=google_maps_reviews&hl=en",
+        "photos_link": "https://serpapi.com/search.json?data_id=0x390cf1ba01a951fd%3A0x51bb68d716ad503&engine=google_maps_photos&hl=en",
+        "gps_coordinates": {
+          "latitude": 28.672884999999997,
+          "longitude": 77.4360203
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ_VGpAbrxDDkRA9VqcY22GwU",
+        "provider_id": "/g/11b7cd2rm1",
+        "rating": 4.6,
+        "reviews": 268,
+        "type": "Hospital",
+        "types": [
+          "Hospital"
+        ],
+        "type_id": "hospital",
+        "type_ids": [
+          "hospital"
+        ],
+        "address": "NH B-1 LOHIA NAGAR, GHAZIABAD, Hapur Rd, near to Hindi Bhavan, B-Block, Lohia Nagar, Ghaziabad, Uttar Pradesh 201001, India",
+        "country": "India",
+        "open_state": "Open 24 hours",
+        "hours": "Open 24 hours",
+        "operating_hours": {
+          "saturday": "Open 24 hours",
+          "sunday": "Open 24 hours",
+          "monday": "Open 24 hours",
+          "tuesday": "Open 24 hours",
+          "wednesday": "Open 24 hours",
+          "thursday": "Open 24 hours",
+          "friday": "Open 24 hours"
+        },
+        "phone": "+91 85270 98226",
+        "website": "https://nagarhospital.clinic.icareheal.com/",
+        "extensions": [
+          {
+            "accessibility": [
+              "Wheelchair accessible entrance",
+              "Wheelchair accessible parking lot"
+            ]
+          },
+          {
+            "amenities": [
+              "Gender-neutral restroom"
+            ]
+          },
+          {
+            "crowd": [
+              "LGBTQ+ friendly"
+            ]
+          },
+          {
+            "payments": [
+              "Credit cards",
+              "Debit cards",
+              "NFC mobile payments"
+            ]
+          },
+          {
+            "children": [
+              "Nursing room"
+            ]
+          }
+        ],
+        "book_online": "https://www.practo.com/ghaziabad/hospital/nagar-hospital-ghaziabad/doctors?utm_source=google&utm_medium=reserve_with_google&utm_campaign=establishment_feed&rwg_token=AE37R_giNkp2hQGtxgA_tmcjvtTHW8utZqJDhta7NpsmFEYao27mt0diaon3pXguobsUA8qX4PodKWr__X2yNpXon5iuJrGohg%3D%3D",
+        "user_review": "\"Well educated staff and well maintained hospital.\"",
+        "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLfm97oxtGakU9yRMpXp6OCV9AUAQ_86SpGFawiNKW3vOsuh8iRoNDQxTMS-yDApq_IamH6Mur6zhM1JctOhlqdXLCS_9gYxE5-C0WZ_SEKcsiRtKvllljpGKvru8jiLwjkJhTJZ=w1000-h1000-c-n",
+        "serpapi_thumbnail": "https://serpapi.com/images/url/4Yb5tnicHcRJDoIwAADAFxUwRgQTDxUQZZEIuF4IqUiBQgsti37QN_gbE-cw3w8WgvGVLBM8l3JKc5L1POsQbUTWCAnRWs67lHOAuAzhpqq9Z60v6STstDrpr9BnV6YGxlmHJ3hMNDVi9jYdi4N7mQ8B77FWhPRgHqfYj8DLhKxN9mm9U_2-U9_YnzlIBJi0j6tnRIme3yZrAQzlck8iy0W8CIU7EEJKZrtD12tl4Y1l5eDYua_HmaIoAP9HoPkBvJNGEw"
+      },
+      {
+        "position": 11,
+        "title": "Parakh Hospital",
+        "place_id": "ChIJp-bRPU76DDkRPbPMR0Usj0A",
+        "data_id": "0x390cfa4e3dd1e6a7:0x408f2c4547ccb33d",
+        "data_cid": "4651985616165974845",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x390cfa4e3dd1e6a7%3A0x408f2c4547ccb33d&engine=google_maps_reviews&hl=en",
+        "photos_link": "https://serpapi.com/search.json?data_id=0x390cfa4e3dd1e6a7%3A0x408f2c4547ccb33d&engine=google_maps_photos&hl=en",
+        "gps_coordinates": {
+          "latitude": 28.6933005,
+          "longitude": 77.33993559999999
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJp-bRPU76DDkRPbPMR0Usj0A",
+        "provider_id": "/g/12lkvkjwb",
+        "rating": 4.7,
+        "reviews": 649,
+        "type": "Hospital",
+        "types": [
+          "Hospital"
+        ],
+        "type_id": "hospital",
+        "type_ids": [
+          "hospital"
+        ],
+        "address": "80 Feet Rd, Sahibabad, Shalimar Garden Extension I, Shalimar Garden, Sahibabad, Ghaziabad, Uttar Pradesh 201006, India",
+        "country": "India",
+        "open_state": "Open 24 hours",
+        "hours": "Open 24 hours",
+        "operating_hours": {
+          "saturday": "Open 24 hours",
+          "sunday": "Open 24 hours",
+          "monday": "Open 24 hours",
+          "tuesday": "Open 24 hours",
+          "wednesday": "Open 24 hours",
+          "thursday": "Open 24 hours",
+          "friday": "Open 24 hours"
+        },
+        "phone": "+91 98716 94544",
+        "website": "http://wwwparakhhospital.co.in/",
+        "extensions": [
+          {
+            "accessibility": [
+              "Wheelchair accessible entrance",
+              "Wheelchair accessible parking lot"
+            ]
+          },
+          {
+            "payments": [
+              "Credit cards",
+              "Debit cards",
+              "NFC mobile payments"
+            ]
+          }
+        ],
+        "user_review": "\"V good hospital vary carefully hospital good staff good drs\"",
+        "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLdPHxJeIC68j6nX1wRSA3MkhtACr2SifidShFc_Bd3ttgaEGOKBDV0_TH4HgZ5S4FWxhn3BkIA4emASyV5P_onoihF8jD98W59KcNis-bNgigXPOaUQhy0laQFzF5A0M2zfM2AmnQ=w1000-h1000-c-n",
+        "serpapi_thumbnail": "https://serpapi.com/images/url/BaaL6nicHcRJDoIwAADAFyGVxaCJhyJWXFCwLsQLwVLbCrSG1rj80Cf4GxPnMN8PN-amR7bdcLfHlGINvWvaESUNlaZHVGuzrtTaItqGMKzbVZXGzwWdTwbBdSDz_mOLoZvU3MBJ52BxERXmiBRh5RrDyulsswyjAyh2sRezk489dHxy6Yb1HHq0hfh18NNCSSU4Cq7RMDj6wyVZC22d10ywPN2U-4y_QFNm6I18CBLnfUkc2Mps_OgDACz-n1jyB6apRDg"
+      },
+      {
+        "position": 12,
+        "title": "Le Crest Hospital Ghaziabad",
+        "place_id": "ChIJB9WGYkHxDDkRvmIzjwcuVIA",
+        "data_id": "0x390cf1416286d507:0x80542e078f3362be",
+        "data_cid": "9247066544900629182",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x390cf1416286d507%3A0x80542e078f3362be&engine=google_maps_reviews&hl=en",
+        "photos_link": "https://serpapi.com/search.json?data_id=0x390cf1416286d507%3A0x80542e078f3362be&engine=google_maps_photos&hl=en",
+        "gps_coordinates": {
+          "latitude": 28.666147799999997,
+          "longitude": 77.379859
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJB9WGYkHxDDkRvmIzjwcuVIA",
+        "provider_id": "/g/11g1_qv2cf",
+        "rating": 4.1,
+        "reviews": 1052,
+        "type": "Hospital",
+        "types": [
+          "Hospital"
+        ],
+        "type_id": "hospital",
+        "type_ids": [
+          "hospital"
+        ],
+        "address": "Budh Chowk, Plot No. 13, Maharaja Agarsain Marg, Sector 4, Sector 4C, Vasundhara, Ghaziabad, Uttar Pradesh 201012, India",
+        "country": "India",
+        "open_state": "Open 24 hours",
+        "hours": "Open 24 hours",
+        "operating_hours": {
+          "saturday": "Open 24 hours",
+          "sunday": "Open 24 hours",
+          "monday": "Open 24 hours",
+          "tuesday": "Open 24 hours",
+          "wednesday": "Open 24 hours",
+          "thursday": "Open 24 hours",
+          "friday": "Open 24 hours"
+        },
+        "phone": "+91 1800 202 0526",
+        "website": "https://www.lecresthospital.com/",
+        "extensions": [
+          {
+            "service_options": [
+              "Onsite services"
+            ]
+          },
+          {
+            "accessibility": [
+              "Wheelchair accessible entrance",
+              "Wheelchair accessible parking lot"
+            ]
+          },
+          {
+            "payments": [
+              "Credit cards",
+              "Debit cards",
+              "NFC mobile payments"
+            ]
+          }
+        ],
+        "service_options": {
+          "onsite_services": true
+        },
+        "user_review": "\"The hospital was clean and well-maintained, and the doctors were on time.\"",
+        "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLeD8p4RupYWlFyPl3KCL-k4R5fAZ-PspK_AtXPwiZBs3gIawRxRRfLz_Bz0t2b3mMxk2wYvTm5B9uXOvkj-KlWlvK1PYcdOVroaXf_9J0sc-Ccvpx_xkMOWS0FNG1zLiuA059pw-w=w1000-h1000-c-n",
+        "serpapi_thumbnail": "https://serpapi.com/images/url/eN1v9nicHcTbCoIwAADQL1rOTMigh1kUpaWsyMuL2PJSm2646cw_7BP6m6DzcL6fWikhV4bBamtWcV6xopdFR3irilbNCG-MqsulBEQaCLm08YvtUixwL5KI7d4hs7yND-gC2yVKQSiFlyEVh_qZutKqDrnGI8alP2XuBNX8bjWnkc51Mlwb23X6OBjoC3gsYoNnhgl5BLeO53GZOUcoCdiQQYzZSE9BdIG7896c_GePoO0IDfRamxBCUP8noP0BPfRGEQ"
+      },
+      {
+        "position": 13,
+        "title": "R N Hospital Pvt. Ltd.",
+        "place_id": "ChIJTWZNMj7lDDkRJYZDGsxhwJA",
+        "data_id": "0x390ce53e324d664d:0x90c061cc1a438625",
+        "data_cid": "10430444266231924261",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x390ce53e324d664d%3A0x90c061cc1a438625&engine=google_maps_reviews&hl=en",
+        "photos_link": "https://serpapi.com/search.json?data_id=0x390ce53e324d664d%3A0x90c061cc1a438625&engine=google_maps_photos&hl=en",
+        "gps_coordinates": {
+          "latitude": 28.614114299999997,
+          "longitude": 77.3523153
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJTWZNMj7lDDkRJYZDGsxhwJA",
+        "provider_id": "/g/11dym3y27k",
+        "rating": 4.8,
+        "reviews": 658,
+        "type": "General hospital",
+        "types": [
+          "General hospital"
+        ],
+        "type_id": "general_hospital",
+        "type_ids": [
+          "general_hospital"
+        ],
+        "address": "57, Bishanpura Rd, Deepak Vihar Khor Colony, Khora Colony, Sector 62A, Ghaziabad, Noida, Uttar Pradesh 201020, India",
+        "country": "India",
+        "open_state": "Open 24 hours",
+        "hours": "Open 24 hours",
+        "operating_hours": {
+          "saturday": "Open 24 hours",
+          "sunday": "Open 24 hours",
+          "monday": "Open 24 hours",
+          "tuesday": "Open 24 hours",
+          "wednesday": "Open 24 hours",
+          "thursday": "Open 24 hours",
+          "friday": "Open 24 hours"
+        },
+        "phone": "+91 85059 08359",
+        "website": "https://rnhospital.netlify.app/",
+        "extensions": [
+          {
+            "accessibility": [
+              "Wheelchair accessible entrance",
+              "Wheelchair accessible parking lot",
+              "Wheelchair accessible restroom"
+            ]
+          },
+          {
+            "offerings": [
+              "Medication disposal"
+            ]
+          },
+          {
+            "amenities": [
+              "Restroom"
+            ]
+          },
+          {
+            "payments": [
+              "NFC mobile payments"
+            ]
+          }
+        ],
+        "user_review": "\"Hospital staff and doctors are very nice\"",
+        "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLd_pApa46JS9jamHIAy7okUyU0-GZcSgpFKM7Tn4iQSIcFKvzMxSdDd_eWd4kwlwiJX4b601_fJXKFpLmYN_cBWmW70Hk6eUkncmJ27WN8VXo-8zltlCgRU4AIiUEV5t46BqyUChERxDXY=w1000-h1000-c-n",
+        "serpapi_thumbnail": "https://serpapi.com/images/url/cR1HSXicHcTNboIwAADgJ6rUrQM12aGoTEBNJqvgLoSVrmB_Z-sQH3L3vc2SfYfv96fz3rpFEMjuccKN4ZJdHbtQoz3TfkKNCvilcQ5QF2AcC7Vta4ttg8KsmJ8btUnxGBlBRgLByzstuE3yXfSmUf9apDTJv--7W9Gu2pqVLRKDHPqsQh8hnNafWZUndqtO-5rGpSojuBEhI0JTlT1E5X52rAyY3aWXS34gCKc9WR-fPArjr5Esu_XhtqpOz8MUQgi6_ynQf2L4Rqg"
+      },
+      {
+        "position": 14,
+        "title": "Mairaj Hospital delhi",
+        "place_id": "ChIJF50mIpTkDDkRv4bHs2QBA_Q",
+        "data_id": "0x390ce49422269d17:0xf4030164b3c786bf",
+        "data_cid": "17582898902209103551",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x390ce49422269d17%3A0xf4030164b3c786bf&engine=google_maps_reviews&hl=en",
+        "photos_link": "https://serpapi.com/search.json?data_id=0x390ce49422269d17%3A0xf4030164b3c786bf&engine=google_maps_photos&hl=en",
+        "gps_coordinates": {
+          "latitude": 28.604572299999997,
+          "longitude": 77.30406719999999
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJF50mIpTkDDkRv4bHs2QBA_Q",
+        "provider_id": "/g/11c575yqkk",
+        "rating": 2.9,
+        "reviews": 14,
+        "unclaimed_listing": true,
+        "type": "General hospital",
+        "types": [
+          "General hospital",
+          "Hospital"
+        ],
+        "type_id": "general_hospital",
+        "type_ids": [
+          "general_hospital",
+          "hospital"
+        ],
+        "address": "485, Block, 27, Block 27, Himmatpuri, Trilokpuri, New Delhi, Delhi, 110091, India",
+        "country": "India",
+        "open_state": "Open 24 hours",
+        "hours": "Open 24 hours",
+        "operating_hours": {
+          "saturday": "Open 24 hours",
+          "sunday": "Open 24 hours",
+          "monday": "Open 24 hours",
+          "tuesday": "Open 24 hours",
+          "wednesday": "Open 24 hours",
+          "thursday": "Open 24 hours",
+          "friday": "Open 24 hours"
+        },
+        "phone": "+91 70427 54851",
+        "extensions": [
+          {
+            "accessibility": [
+              "Wheelchair accessible entrance",
+              "Wheelchair accessible parking lot"
+            ]
+          },
+          {
+            "payments": [
+              "NFC mobile payments"
+            ]
+          }
+        ],
+        "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLcUPtv6-mr8RmmyTGs1Z69TQz9p2ShUDyJvv5zsshuJM_dsQgla5gSUC6zwDzK0E_qc7VtYayd8434Nr8MhlXSBFe4GbOms-bkL0R9_iAEqw_YV7cO_nWTUzJPDPa8OifX4I5Kn=w1000-h1000-c-n",
+        "serpapi_thumbnail": "https://serpapi.com/images/url/EVzbbXicHcRLDoIwFADAE1WqAoKJCxQ14gcU8LdpsGJrpEV5FUIv6Bm8jYmzmO-HK_WEoWEUvN9hZcmK_A15RUupcqk6tBQGqzIARMHwvPFDrGgaqdpGonJ2QrTJHLpn20222n32Yp76bVDXlgbg72BNrrBlRWaxOJ3YuvH1Ek_Jiw726pS1V8fsm5vKWfPiGI9nuTm_hALQ5bHCO5fcvemrIaf9gIZEHpJUB5EfZU54vx3NhbWUo6aLMUb8P0XyB85GRSI"
+      },
+      {
+        "position": 15,
+        "title": "Garg Hospital",
+        "place_id": "ChIJ1e6Ogl37DDkRte_41m-iEAk",
+        "data_id": "0x390cfb5d828eeed5:0x910a26fd6f8efb5",
+        "data_cid": "653200547200430005",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x390cfb5d828eeed5%3A0x910a26fd6f8efb5&engine=google_maps_reviews&hl=en",
+        "photos_link": "https://serpapi.com/search.json?data_id=0x390cfb5d828eeed5%3A0x910a26fd6f8efb5&engine=google_maps_photos&hl=en",
+        "gps_coordinates": {
+          "latitude": 28.6531846,
+          "longitude": 77.2948802
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ1e6Ogl37DDkRte_41m-iEAk",
+        "provider_id": "/g/1tg7qd6f",
+        "rating": 4.6,
+        "reviews": 1756,
+        "type": "General hospital",
+        "types": [
+          "General hospital",
+          "Doctor",
+          "Hospital"
+        ],
+        "type_id": "general_hospital",
+        "type_ids": [
+          "general_hospital",
+          "doctor",
+          "hospital"
+        ],
+        "address": "8-9, opposite Karkardooma Court, A G C R Enclave, Anand Vihar, New Delhi, Delhi 110092, India",
+        "country": "India",
+        "open_state": "Open 24 hours",
+        "hours": "Open 24 hours",
+        "operating_hours": {
+          "saturday": "Open 24 hours",
+          "sunday": "Open 24 hours",
+          "monday": "Open 24 hours",
+          "tuesday": "Open 24 hours",
+          "wednesday": "Open 24 hours",
+          "thursday": "Open 24 hours",
+          "friday": "Open 24 hours"
+        },
+        "phone": "+91 11 4515 2556",
+        "website": "http://garghospital.co.in/",
+        "extensions": [
+          {
+            "service_options": [
+              "Onsite services"
+            ]
+          },
+          {
+            "accessibility": [
+              "Wheelchair accessible entrance",
+              "Wheelchair accessible parking lot"
+            ]
+          },
+          {
+            "payments": [
+              "Credit cards",
+              "Debit cards",
+              "NFC mobile payments"
+            ]
+          }
+        ],
+        "service_options": {
+          "onsite_services": true
+        },
+        "user_review": "\"The staff was polite, and the hospital was clean and well-managed.\"",
+        "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLeg8vfntTF5hcytfKIdRytzo1ExcTkXTNztEn6kuAzC7aMZ1Vlub0ssHPLL4FahAt8I4I28e_qTOeKTuSKk5bjoPYGNUfov72mLvZdg1THDkppFSO9D2UVbmHNmeQ12pn37P4VbW_FqP-Y=w1000-h1000-c-n",
+        "serpapi_thumbnail": "https://serpapi.com/images/url/VuS2KHicHcTBboIwGADgJ0IoorAlO7ApQmDItOL0YqCWNitt0f4w5SG9721M9h2-vwcH6Myrbbd8OmFas5b2hl6JVkAVTIiWNrtWxljE2GH4LmRGWTA0CnA04-QOTZqcN3cYNVreCBbfOB9hqeaiD8cPv_o8orLta8eYuMgyL6p4CEHiJW5ATxe8pinut6mY1T-6OKzyXaMH35XZcDwzhOOF6Lpou35ZuLuylnEu6RdyOzX1C6-s96foUliHt1_kOI7F_yeWegIF3Ued"
+      },
+      {
+        "position": 16,
+        "title": "Navin Hospital, Meerut Road, Ghaziabad",
+        "place_id": "ChIJw6H4jTXxDDkRh9N68ehgobg",
+        "data_id": "0x390cf1358df8a1c3:0xb8a160e8f17ad387",
+        "data_cid": "13304021327829193607",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x390cf1358df8a1c3%3A0xb8a160e8f17ad387&engine=google_maps_reviews&hl=en",
+        "photos_link": "https://serpapi.com/search.json?data_id=0x390cf1358df8a1c3%3A0xb8a160e8f17ad387&engine=google_maps_photos&hl=en",
+        "gps_coordinates": {
+          "latitude": 28.6934047,
+          "longitude": 77.4399409
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJw6H4jTXxDDkRh9N68ehgobg",
+        "provider_id": "/g/11lx5t30b7",
+        "rating": 4.7,
+        "reviews": 536,
+        "type": "Hospital",
+        "types": [
+          "Hospital"
+        ],
+        "type_id": "hospital",
+        "type_ids": [
+          "hospital"
+        ],
+        "address": "A 13/1, opposite Cloud 9 Resorts, Meerut Road Industrial Area, Ghaziabad, Uttar Pradesh 201017, India",
+        "country": "India",
+        "open_state": "Open 24 hours",
+        "hours": "Open 24 hours",
+        "operating_hours": {
+          "saturday": "Open 24 hours",
+          "sunday": "Open 24 hours",
+          "monday": "Open 24 hours",
+          "tuesday": "Open 24 hours",
+          "wednesday": "Open 24 hours",
+          "thursday": "Open 24 hours",
+          "friday": "Open 24 hours"
+        },
+        "phone": "+91 76694 00888",
+        "extensions": [
+          {
+            "accessibility": [
+              "Wheelchair accessible entrance",
+              "Wheelchair accessible parking lot"
+            ]
+          },
+          {
+            "payments": [
+              "Credit cards",
+              "Debit cards",
+              "NFC mobile payments"
+            ]
+          }
+        ],
+        "user_review": "\"It’s a very nice hospital which has an excellent staff and caring doctors.\"",
+        "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLe0HvCncHM6FK5he948SqDHKDTXMgwkxjAmaIPKeH9-80Xs0IAbXXtzbs3IwLGSEHUJs5Ms3dRvvAIq5X43CkzMrsYliT1lb6LX3nrb7tZKrPLOwg-lyi8uliPe1u9UoDKxRqk=w1000-h1000-c-n",
+        "serpapi_thumbnail": "https://serpapi.com/images/url/wHyMIHicHcTdToMwGADQJ-oo6Zhg4kUdzmIhkv0k1bvRNQUprfQrMPeAvoNvY7Jzcf5-2xC-4TGKTEtW2jlt1ATKS2eDsmEl3RBpfwZAEiJKn_uhVJjNWytZtdnxpFXZOj2MOeP5UVR66a9fdDgXNVcsQykWgAvaCBFuDZBiKV8PL-z0BkkF5LKfZ1qMiViTbX-rPHyY7hibZlMKYn3zED65r8v3RSPz06WT6WoVT9nJ5fy6H_unJcYYo_a-RPYf3XNESA"
+      },
+      {
+        "position": 17,
+        "title": "Vrandavan Hospital",
+        "place_id": "ChIJIYS-wUfuDDkRA2bnH1Mq_vY",
+        "data_id": "0x390cee47c1be8421:0xf6fe2a531fe76603",
+        "data_cid": "17797709313920689667",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x390cee47c1be8421%3A0xf6fe2a531fe76603&engine=google_maps_reviews&hl=en",
+        "photos_link": "https://serpapi.com/search.json?data_id=0x390cee47c1be8421%3A0xf6fe2a531fe76603&engine=google_maps_photos&hl=en",
+        "gps_coordinates": {
+          "latitude": 28.6196372,
+          "longitude": 77.4369521
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJIYS-wUfuDDkRA2bnH1Mq_vY",
+        "provider_id": "/g/11b7t4v505",
+        "rating": 3.8,
+        "reviews": 392,
+        "type": "Hospital",
+        "types": [
+          "Hospital",
+          "Private hospital"
+        ],
+        "type_id": "hospital",
+        "type_ids": [
+          "hospital",
+          "private_hospital"
+        ],
+        "address": "Sai Garden Rd, near by vrindavan hospital, Shahberi, Ghaziabad, Uttar Pradesh 201016, India",
+        "country": "India",
+        "open_state": "Open 24 hours",
+        "hours": "Open 24 hours",
+        "operating_hours": {
+          "saturday": "Open 24 hours",
+          "sunday": "Open 24 hours",
+          "monday": "Open 24 hours",
+          "tuesday": "Open 24 hours",
+          "wednesday": "Open 24 hours",
+          "thursday": "Open 24 hours",
+          "friday": "Open 24 hours"
+        },
+        "phone": "+91 96434 01882",
+        "website": "http://vrandavanhospital.com/",
+        "extensions": [
+          {
+            "from_the_business": [
+              "Identifies as women-owned"
+            ]
+          },
+          {
+            "service_options": [
+              "Onsite services"
+            ]
+          },
+          {
+            "accessibility": [
+              "Wheelchair accessible entrance",
+              "Wheelchair accessible parking lot",
+              "Wheelchair accessible restroom"
+            ]
+          },
+          {
+            "offerings": [
+              "Medication disposal"
+            ]
+          },
+          {
+            "crowd": [
+              "LGBTQ+ friendly"
+            ]
+          },
+          {
+            "payments": [
+              "Credit cards",
+              "Debit cards",
+              "NFC mobile payments"
+            ]
+          },
+          {
+            "parking": [
+              "Free parking lot",
+              "On-site parking"
+            ]
+          }
+        ],
+        "service_options": {
+          "onsite_services": true
+        },
+        "book_online": "https://www.practo.com/ghaziabad/hospital/vrandavan-hospital-crossings-republik/doctors?utm_source=google&utm_medium=reserve_with_google&utm_campaign=establishment_feed&rwg_token=AE37R_iEGMBRWBcmRpDiUykOoJG_OKrGbmDQNTXWkK657_2uKZGVlLWPgce2Jh5bU0mVFygpa4XQiQrfVKCUfRy85zOkI3amJg%3D%3D",
+        "user_review": "\"Very good hospital, staff is very cooperative and quick responsive.\"",
+        "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLfODRqPFFk07xHeLcSk2lXZIRF8NkSzhUfcv0G9YSlczYgmefjy11XSzlNYotWxl3lfJHXbIQmIKOO3mOXKYdHVTmapAheCduIHYE7u_A83mvQHF_CCS6-9e8NAv7t1oUCfPBApvBT5nmiC=w1000-h1000-c-n",
+        "serpapi_thumbnail": "https://serpapi.com/images/url/yb9HkHicHcTNToMwAADgJ2IUyQRMPJRuWByBbd0P3WWZXUuVluJacPKSnn0bE7_D9_sjnevtk-8rGc4aYxrFB8tvzHSOd27GjPab28Vaj1kfwrTVhagW2891lrUgumNeMNI-qPqUb7O4bMkk94KN4CWhRLGJNpqLj-8gqMmkSmrc8a5CJV5x_ZZvdL6qqlBX9Ype8WGnLz2UHF2HHNNlNJxhHOpxg7MzQuTRS3hcwjFygdkjsU5hP6a7eaff0fNXAADw5P_M6_4A7AJHcA"
+      },
+      {
+        "position": 18,
+        "title": "Vardan Multispecialty Hospital",
+        "place_id": "ChIJfWlqbxPxDDkRw0Z7XfAo0AA",
+        "data_id": "0x390cf1136f6a697d:0xd028f05d7b46c3",
+        "data_cid": "58591807981438659",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x390cf1136f6a697d%3A0xd028f05d7b46c3&engine=google_maps_reviews&hl=en",
+        "photos_link": "https://serpapi.com/search.json?data_id=0x390cf1136f6a697d%3A0xd028f05d7b46c3&engine=google_maps_photos&hl=en",
+        "gps_coordinates": {
+          "latitude": 28.7068855,
+          "longitude": 77.4451144
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJfWlqbxPxDDkRw0Z7XfAo0AA",
+        "provider_id": "/g/11b81s081s",
+        "rating": 4.2,
+        "reviews": 1579,
+        "type": "General hospital",
+        "types": [
+          "General hospital"
+        ],
+        "type_id": "general_hospital",
+        "type_ids": [
+          "general_hospital"
+        ],
+        "address": "Garhi Sikroad, NH- 58, Meerut Rd, opp. Guldhar, Ghaziabad, Uttar Pradesh 201003, India",
+        "country": "India",
+        "open_state": "Open 24 hours",
+        "hours": "Open 24 hours",
+        "operating_hours": {
+          "saturday": "Open 24 hours",
+          "sunday": "Open 24 hours",
+          "monday": "Open 24 hours",
+          "tuesday": "Open 24 hours",
+          "wednesday": "Open 24 hours",
+          "thursday": "Open 24 hours",
+          "friday": "Open 24 hours"
+        },
+        "phone": "+91 99991 24601",
+        "extensions": [
+          {
+            "service_options": [
+              "Onsite services"
+            ]
+          },
+          {
+            "accessibility": [
+              "Wheelchair accessible entrance",
+              "Wheelchair accessible parking lot",
+              "Wheelchair accessible restroom",
+              "Wheelchair accessible seating"
+            ]
+          },
+          {
+            "amenities": [
+              "Restroom"
+            ]
+          },
+          {
+            "crowd": [
+              "LGBTQ+ friendly"
+            ]
+          },
+          {
+            "payments": [
+              "Credit cards",
+              "Debit cards",
+              "NFC mobile payments"
+            ]
+          },
+          {
+            "parking": [
+              "Free parking lot",
+              "Free street parking",
+              "On-site parking"
+            ]
+          }
+        ],
+        "service_options": {
+          "onsite_services": true
+        },
+        "user_review": "\"Good hospital my wife recovered from typhoid very caring staff s\"",
+        "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLdkHTT4mF-q1C79wY_W-gSSFV2S1FqkfvV0AQY040rtn97qI-xOVMxtivIg2Q1zSpPCpyNcM7kJo2uQgW45m39OhrdFJgZoUQZtIGU_6nNu-6tUwwAFPKKUoLHGUKFtnIYBTZZT5g=w1000-h1000-c-n",
+        "serpapi_thumbnail": "https://serpapi.com/images/url/AXFmaHicHcTdCoIwGADQJ5pOs8SgCxVWan-iU_QmYtkMc1P3mdUb9gi9TdC5ON9PDdCppa7f65nGpeT3alTVwKSASoDGZKvz4awUYkp3Xa9pt5dmk6ZWS1Bv-LYzFacc8SQhmZkYpG-ujwy7cYEtPIBw7D5Az0O2e8LtEXAzNt5Jd_S7157t7CaU5hjz3Jq3M-dQDxcS8lLSuIRgTU8LsR_RAug0ueQYRVRuN2saERBB4aVlmc75ajIwxqj-z5D4AZSVRGc"
+      },
+      {
+        "position": 19,
+        "title": "Gayatri Hospital",
+        "place_id": "ChIJwZRtHGTxDDkRLrGaA2ouerk",
+        "data_id": "0x390cf1641c6d94c1:0xb97a2e6a039ab12e",
+        "data_cid": "13365045877037248814",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x390cf1641c6d94c1%3A0xb97a2e6a039ab12e&engine=google_maps_reviews&hl=en",
+        "photos_link": "https://serpapi.com/search.json?data_id=0x390cf1641c6d94c1%3A0xb97a2e6a039ab12e&engine=google_maps_photos&hl=en",
+        "gps_coordinates": {
+          "latitude": 28.6730721,
+          "longitude": 77.4357763
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJwZRtHGTxDDkRLrGaA2ouerk",
+        "provider_id": "/g/11kkymqz41",
+        "rating": 4.5,
+        "reviews": 793,
+        "type": "Hospital",
+        "types": [
+          "Hospital"
+        ],
+        "type_id": "hospital",
+        "type_ids": [
+          "hospital"
+        ],
+        "address": "B-2, B-Block, Lohia Nagar, Ghaziabad, Uttar Pradesh 201001, India",
+        "country": "India",
+        "open_state": "Open 24 hours",
+        "hours": "Open 24 hours",
+        "operating_hours": {
+          "saturday": "Open 24 hours",
+          "sunday": "Open 24 hours",
+          "monday": "Open 24 hours",
+          "tuesday": "Open 24 hours",
+          "wednesday": "Open 24 hours",
+          "thursday": "Open 24 hours",
+          "friday": "Open 24 hours"
+        },
+        "phone": "+91 93117 33269",
+        "website": "https://gayatrihospital.org/",
+        "extensions": [
+          {
+            "service_options": [
+              "Onsite services"
+            ]
+          },
+          {
+            "accessibility": [
+              "Wheelchair accessible entrance",
+              "Wheelchair accessible parking lot"
+            ]
+          },
+          {
+            "payments": [
+              "Credit cards",
+              "Debit cards",
+              "NFC mobile payments"
+            ]
+          }
+        ],
+        "service_options": {
+          "onsite_services": true
+        },
+        "user_review": "\"Great amenities with hospital staff and nurses doing their work diligently.\"",
+        "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLfbT-qqLZ3fPfEzu6VYBsXZ8qkJW3gh-T6YcRwE5H31MS8HYPSYyRWjBJBKOp3B0bp0LL8K6uyW809c5uF8groVuD2DxATw8BfnUkep2pZ5YYYPV2OwK_zOkqhd1t28x0b8wMOx8A=w1000-h1000-c-n",
+        "serpapi_thumbnail": "https://serpapi.com/images/url/3YxEynicHcRRboMgGADgE1FRovm3ZA-SdmmqjaZ1OnxZJlVIbQUFgu0Nd4TdZsm-h-_3R1qrzWsQ3CTZCKXErXemX7iabD_ZDVf3QCzfxiBugjSl4z0fugrNc96SoRx2T5fUjJrPFubx0BAhUZUwfvK7eE_C4xn2rDyzx6m50gPNCk0o7jTOc8gS92gAv_DYvYNYVO220XZNKw90mD7GXke6jRljZR0VPvt6FuMsL6GNYMUd-GOxQvrmQ4wxkv9zNP0BkVpEHw"
+      },
+      {
+        "position": 20,
+        "title": "ST JOSEPH'S HOSPITAL",
+        "place_id": "ChIJrf7H59_xDDkRrQw5xFKY1RI",
+        "data_id": "0x390cf1dfe7c7fead:0x12d59852c4390cad",
+        "data_cid": "1357158343968885933",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x390cf1dfe7c7fead%3A0x12d59852c4390cad&engine=google_maps_reviews&hl=en",
+        "photos_link": "https://serpapi.com/search.json?data_id=0x390cf1dfe7c7fead%3A0x12d59852c4390cad&engine=google_maps_photos&hl=en",
+        "gps_coordinates": {
+          "latitude": 28.682438899999998,
+          "longitude": 77.4134918
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJrf7H59_xDDkRrQw5xFKY1RI",
+        "provider_id": "/g/11j014l8bf",
+        "rating": 4.3,
+        "reviews": 867,
+        "type": "Hospital",
+        "types": [
+          "Hospital"
+        ],
+        "type_id": "hospital",
+        "type_ids": [
+          "hospital"
+        ],
+        "address": "Meerut Rd, Marium Nagar, Sewa Nagar, Ghaziabad, Uttar Pradesh 201003, India",
+        "country": "India",
+        "open_state": "Open 24 hours",
+        "hours": "Open 24 hours",
+        "operating_hours": {
+          "saturday": "Open 24 hours",
+          "sunday": "Open 24 hours",
+          "monday": "Open 24 hours",
+          "tuesday": "Open 24 hours",
+          "wednesday": "Open 24 hours",
+          "thursday": "Open 24 hours",
+          "friday": "Open 24 hours"
+        },
+        "phone": "+91 78279 08598",
+        "website": "https://www.stjosephhospitalgzb.com/",
+        "extensions": [
+          {
+            "accessibility": [
+              "Wheelchair accessible entrance",
+              "Wheelchair accessible parking lot"
+            ]
+          },
+          {
+            "offerings": [
+              "Medication disposal"
+            ]
+          },
+          {
+            "payments": [
+              "Credit cards",
+              "Debit cards",
+              "NFC mobile payments"
+            ]
+          },
+          {
+            "parking": [
+              "Free parking lot",
+              "Paid parking lot"
+            ]
+          }
+        ],
+        "user_review": "\"Hospital environment is clean, welcoming, and very well managed.\"",
+        "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLeD7-IFpyjZXOHGRlcxtOskXtx9uU2rq6EgDVEG4xK_35Yk2qQuF5taXI5Hck-WS2QVUbUpif4l91xaj6ew6zSW1J8d7jJxVUqI0UMWhNwA_2Su-e8JfVDN5QtdDHf0tP8HtBE=w1000-h1000-c-n",
+        "serpapi_thumbnail": "https://serpapi.com/images/url/5pu1cHicHcRLDoIwFADAE1UKCqKJCwwo4BdJAd0YrAUE5NdHqB7QO3gbE2cx308G0PC5JJXZeJTWdVqynrOO1hWwCka0fkppF3OOKJcMY1k8t8ycImfVvPJLdLDXp5IKOPAiAjHridK1mpWagbWeiM11rJ4LpfX6lQpx5Kg2LVDoK15AbqR5JJNyJos419igvf1QdvX7NHdFQFoHk12Y7Qfjqvg9YrqbBOZe9eBu2gmGo27D0loMMsYYZf8pqn4aIUOL"
+      }
+    ],
+    "serpapi_pagination": {
+      "next": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&ll=%4028.6692%2C77.4538%2C13z&q=hospital&start=20&type=search"
+    }
+  }
+}

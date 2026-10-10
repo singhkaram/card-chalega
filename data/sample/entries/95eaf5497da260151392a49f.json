@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "key": "95eaf5497da260151392a49f",
+  "engine": "google_news",
+  "params": {
+    "gl": "in",
+    "hl": "en",
+    "q": "Ayushman card hospital Patna"
+  },
+  "fetchedAt": "2026-10-03T08:42:00.000Z",
+  "note": "SYNTHETIC SAMPLE DATA — dev only",
+  "response": {
+    "search_metadata": {
+      "status": "Success",
+      "created_at": "2026-10-03 08:42:00 UTC",
+      "total_time_taken": 0.9
+    },
+    "search_parameters": {
+      "engine": "google_news",
+      "q": "Ayushman card hospital Patna",
+      "gl": "in",
+      "hl": "en"
+    },
+    "news_results": [
+      {
+        "position": 1,
+        "title": "Sample headline: Free dialysis sessions under Ayushman scheme expand to more centres",
+        "source": {
+          "name": "Sample News Desk"
+        },
+        "link": "https://example.com/news/sample-pat-en-1",
+        "date": "09/30/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-09-30T05:02:24Z"
+      },
+      {
+        "position": 2,
+        "title": "Sample headline: Officials review complaints about extra charges for dialysis kits",
+        "source": {
+          "name": "Sample News Desk"
+        },
+        "link": "https://example.com/news/sample-pat-en-2",
+        "date": "09/27/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-09-27T03:04:48Z"
+      }
+    ]
+  }
+}

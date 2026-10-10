@@ -1,0 +1,204 @@
+{
+  "version": 1,
+  "key": "896af573a5746030c83d250e",
+  "engine": "google_maps_reviews",
+  "params": {
+    "data_id": "0x3962fd4f4dca1777:0x62bc8f8b155a8bd8",
+    "hl": "en",
+    "num": "20",
+    "query": "ayushman",
+    "sort_by": "newestFirst"
+  },
+  "fetchedAt": "2026-10-10T10:51:03.098Z",
+  "response": {
+    "search_metadata": {
+      "status": "Success",
+      "created_at": "2026-10-10 10:51:07 UTC",
+      "total_time_taken": 0.36
+    },
+    "search_parameters": {
+      "engine": "google_maps_reviews",
+      "data_id": "0x3962fd4f4dca1777:0x62bc8f8b155a8bd8",
+      "hl": "en",
+      "num": "20",
+      "sort_by": "newestFirst",
+      "query": "ayushman"
+    },
+    "reviews": [
+      {
+        "position": 1,
+        "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT20xU01Wa3RNMnRZZWpsM1lUaGFaVEZtUlRKc1ZGRRAB!2m1!1s0x0:0x62bc8f8b155a8bd8!3m1!1s2@1:CAIQACodChtycF9oOm1SMVktM2tYejl3YThaZTFmRTJsVFE%7C%7C?hl=en",
+        "rating": 5,
+        "date": "2 months ago",
+        "iso_date": "2026-07-27T08:17:15Z",
+        "iso_date_of_last_edit": "2026-07-27T08:17:15Z",
+        "source": "Google",
+        "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20xU01Wa3RNMnRZZWpsM1lUaGFaVEZtUlRKc1ZGRRAB",
+        "snippet": "Thank you c h l care bahut shandar Seva hoti hai yahan per Bharat Sarkar ka bahut bahut aabhari hun jo garibon ke liye unhone Ayushman Yojana banai yahan ka staff bhi bahut shandar hai Jay Hind",
+        "extracted_snippet": {
+          "original": "Thank you c h l care bahut shandar Seva hoti hai yahan per Bharat Sarkar ka bahut bahut aabhari hun jo garibon ke liye unhone Ayushman Yojana banai yahan ka staff bhi bahut shandar hai Jay Hind",
+          "translated": "Thank you CH L Care, the service here is very wonderful, I am very grateful to the Indian government for making Ayushman Yojana for the poor, the staff here is also very wonderful, Jai Hind"
+        },
+        "likes": 0,
+        "response": {
+          "date": "2 months ago",
+          "iso_date": "2026-07-27T11:21:06Z",
+          "iso_date_of_last_edit": "2026-07-27T11:21:06Z",
+          "snippet": "We at CARE Hospitals sincerely thank you for reaching out to us. We indeed appreciate your positive feedback. Your kind words will motivate our staff to strive even more in providing the best services to our patients.\n\nThank you once again and we wish you a healthy day ahead.\n\nBest Regards, CARE Hospitals",
+          "extracted_snippet": {
+            "original": "We at CARE Hospitals sincerely thank you for reaching out to us. We indeed appreciate your positive feedback. Your kind words will motivate our staff to strive even more in providing the best services to our patients.\n\nThank you once again and we wish you a healthy day ahead.\n\nBest Regards, CARE Hospitals"
+          }
+        }
+      },
+      {
+        "position": 2,
+        "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2tZM0xWcFJWVjg1Y1Zkd2JuQnNXbVZuU21Ock5HYxAB!2m1!1s0x0:0x62bc8f8b155a8bd8!3m1!1s2@1:CAIQACodChtycF9oOkY3LVpRVV85cVdwbnBsWmVnSmNrNGc%7C%7C?hl=en",
+        "rating": 5,
+        "date": "7 months ago",
+        "iso_date": "2026-02-24T10:35:53Z",
+        "iso_date_of_last_edit": "2026-02-24T10:35:53Z",
+        "source": "Google",
+        "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tZM0xWcFJWVjg1Y1Zkd2JuQnNXbVZuU21Ock5HYxAB",
+        "snippet": "Hamane ayushman se surgery karwayi bohat acha expirence reha. Koi problem nahi Hui. Care chl thanks to all staff",
+        "extracted_snippet": {
+          "original": "Hamane ayushman se surgery karwayi bohat acha expirence reha. Koi problem nahi Hui. Care chl thanks to all staff",
+          "translated": "I had my surgery done by Ayushman and it was a great experience. There were no problems. I took care of you, thanks to all the staff."
+        },
+        "likes": 0,
+        "response": {
+          "date": "7 months ago",
+          "iso_date": "2026-02-24T11:12:23Z",
+          "iso_date_of_last_edit": "2026-02-24T11:12:23Z",
+          "snippet": "Thank you for your kind words. It is our constant endeavor to improve our services. Have a great day!\n\nBest Regards, CARE Hospitals",
+          "extracted_snippet": {
+            "original": "Thank you for your kind words. It is our constant endeavor to improve our services. Have a great day!\n\nBest Regards, CARE Hospitals"
+          }
+        }
+      },
+      {
+        "position": 3,
+        "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21sdVMweFlabXRXZUhSclRUSnhObFJpTjJsb2FsRRAB!2m1!1s0x0:0x62bc8f8b155a8bd8!3m1!1s2@1:CAIQACodChtycF9oOmluS0xYZmtWeHRrTTJxNlRiN2loalE%7C%7C?hl=en",
+        "rating": 5,
+        "date": "8 months ago",
+        "iso_date": "2026-01-24T11:18:04Z",
+        "iso_date_of_last_edit": "2026-01-24T11:18:04Z",
+        "source": "Google",
+        "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21sdVMweFlabXRXZUhSclRUSnhObFJpTjJsb2FsRRAB",
+        "snippet": "Hum 240 mai admit the ayushman mai cabg ki surgery Hui services bohat achi thi koi problem nahi Hui sabhi staff bohat ache hai eakta man or dharmendra ne bohat help Kari thanks to care chl",
+        "extracted_snippet": {
+          "original": "Hum 240 mai admit the ayushman mai cabg ki surgery Hui services bohat achi thi koi problem nahi Hui sabhi staff bohat ache hai eakta man or dharmendra ne bohat help Kari thanks to care chl",
+          "translated": "I was admitted in Ayushman on 24th, I had cabling surgery, the services were very good, there was no problem, all the staff are very good, Ekta Man and Dharmendra helped me a lot, thanks to you, take care."
+        },
+        "likes": 0,
+        "response": {
+          "date": "8 months ago",
+          "iso_date": "2026-01-24T12:02:18Z",
+          "iso_date_of_last_edit": "2026-01-24T12:02:18Z",
+          "snippet": "We at CARE Hospitals sincerely thank you for reaching out to us. We indeed appreciate your positive feedback. Your kind words will motivate our staff to strive even more in providing the best services to our patients.\n\nThank you once again and we wish you a healthy day ahead.\n\nBest Regards, CARE Hospitals",
+          "extracted_snippet": {
+            "original": "We at CARE Hospitals sincerely thank you for reaching out to us. We indeed appreciate your positive feedback. Your kind words will motivate our staff to strive even more in providing the best services to our patients.\n\nThank you once again and we wish you a healthy day ahead.\n\nBest Regards, CARE Hospitals"
+          }
+        }
+      },
+      {
+        "position": 4,
+        "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21GNE5WUkNWUzFDYUhCelNHbHhMVnAxZUhKQ1kzYxAB!2m1!1s0x0:0x62bc8f8b155a8bd8!3m1!1s2@1:CAIQACodChtycF9oOmF4NVRCVS1CaHBzSGlxLVp1eHJCY3c%7C%7C?hl=en",
+        "rating": 5,
+        "date": "8 months ago",
+        "iso_date": "2026-01-17T08:32:58Z",
+        "iso_date_of_last_edit": "2026-01-17T08:32:58Z",
+        "source": "Google",
+        "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21GNE5WUkNWUzFDYUhCelNHbHhMVnAxZUhKQ1kzYxAB",
+        "snippet": "Hum care hospital mai admit the ayushman mai treatment karewaya koi problelm nahi Hui. Dharmendra and eakta mam ne help kari sabhi staff bohat acha hai thanks",
+        "extracted_snippet": {
+          "original": "Hum care hospital mai admit the ayushman mai treatment karewaya koi problelm nahi Hui. Dharmendra and eakta mam ne help kari sabhi staff bohat acha hai thanks",
+          "translated": "He was admitted to Humcare Hospital and treated at Ayushman Hospital. There were no problems. Dharmendra and another lady helped. All the staff were very nice, thanks."
+        },
+        "likes": 0,
+        "response": {
+          "date": "8 months ago",
+          "iso_date": "2026-01-17T09:02:06Z",
+          "iso_date_of_last_edit": "2026-01-17T09:02:06Z",
+          "snippet": "Thank you for your kind words. It is our constant endeavor to improve our services. Have a great day!\n\nBest Regards, CARE Hospitals",
+          "extracted_snippet": {
+            "original": "Thank you for your kind words. It is our constant endeavor to improve our services. Have a great day!\n\nBest Regards, CARE Hospitals"
+          }
+        }
+      },
+      {
+        "position": 5,
+        "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21WbVUySlhNemRHYVdGbFdYWTROMlkwUVRGUlJYYxAB!2m1!1s0x0:0x62bc8f8b155a8bd8!3m1!1s2@1:CAIQACodChtycF9oOmVmU2JXMzdGaWFlWXY4N2Y0QTFRRXc%7C%7C?hl=en",
+        "rating": 5,
+        "date": "9 months ago",
+        "iso_date": "2026-01-05T10:38:35Z",
+        "iso_date_of_last_edit": "2026-01-05T10:38:35Z",
+        "source": "Google",
+        "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21WbVUySlhNemRHYVdGbFdYWTROMlkwUVRGUlJYYxAB",
+        "snippet": "Hum  245 me admit the hmara ayushman me surgery Hui hai sab kuch achcha raha sare staf ka support bhi raha Ekta madam ka achcha support raha dr Porwal sir ka bhi bahut support mila",
+        "extracted_snippet": {
+          "original": "Hum  245 me admit the hmara ayushman me surgery Hui hai sab kuch achcha raha sare staf ka support bhi raha Ekta madam ka achcha support raha dr Porwal sir ka bhi bahut support mila",
+          "translated": "I was admitted in 245, my surgery was done in Ayushman, everything was fine, all the staff was supportive, Ekta madam was very supportive, Dr Porwal sir also got a lot of support."
+        },
+        "likes": 0,
+        "response": {
+          "date": "9 months ago",
+          "iso_date": "2026-01-05T12:12:34Z",
+          "iso_date_of_last_edit": "2026-01-05T12:12:34Z",
+          "snippet": "We at CARE Hospitals sincerely thank you for reaching out to us. We indeed appreciate your positive feedback. Your kind words will motivate our staff to strive even more in providing the best services to our patients.\n\nThank you once again and we wish you a healthy day ahead.\n\nBest Regards, CARE Hospitals",
+          "extracted_snippet": {
+            "original": "We at CARE Hospitals sincerely thank you for reaching out to us. We indeed appreciate your positive feedback. Your kind words will motivate our staff to strive even more in providing the best services to our patients.\n\nThank you once again and we wish you a healthy day ahead.\n\nBest Regards, CARE Hospitals"
+          }
+        }
+      },
+      {
+        "position": 6,
+        "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUMtb3FfNmdRRRAB!2m1!1s0x0:0x62bc8f8b155a8bd8!3m1!1s2@1:CIHM0ogKEICAgIC-oq_6gQE%7C%7C?hl=en",
+        "rating": 5,
+        "date": "3 years ago",
+        "iso_date": "2022-10-30T18:17:56Z",
+        "iso_date_of_last_edit": "2022-10-30T18:17:56Z",
+        "source": "Google",
+        "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMtb3FfNmdRRRAB",
+        "snippet": "Thank you modi and Ayushman Mitra",
+        "extracted_snippet": {
+          "original": "Thank you modi and Ayushman Mitra"
+        },
+        "likes": 0,
+        "response": {
+          "date": "3 years ago",
+          "iso_date": "2022-11-22T04:45:21Z",
+          "iso_date_of_last_edit": "2022-11-22T04:45:21Z",
+          "snippet": "Thank you so much for this review. We really appreciate. We’re here for you anytime!",
+          "extracted_snippet": {
+            "original": "Thank you so much for this review. We really appreciate. We’re here for you anytime!"
+          }
+        }
+      },
+      {
+        "position": 7,
+        "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNPOWJfbk1BEAE!2m1!1s0x0:0x62bc8f8b155a8bd8!3m1!1s2@1:CIHM0ogKEICAgICO9b_nMA%7C%7C?hl=en",
+        "rating": 5,
+        "date": "4 years ago",
+        "iso_date": "2022-06-16T08:41:44Z",
+        "iso_date_of_last_edit": "2022-06-16T08:57:03Z",
+        "source": "Google",
+        "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNPOWJfbk1BEAE",
+        "snippet": "Bohot acha hospital he doctor or staff bhi bohot acha he khash kar ke ayushman counter ke mr shrikant malviya sir bohot ache he🙂🙂🙂😇",
+        "extracted_snippet": {
+          "original": "Bohot acha hospital he doctor or staff bhi bohot acha he khash kar ke ayushman counter ke mr shrikant malviya sir bohot ache he🙂🙂🙂😇",
+          "translated": "It is a very good hospital, the doctors and staff are also very good, especially Mr. Shrikant Malviya sir of Ayushman counter is very good 🙂🙂🙂😇"
+        },
+        "likes": 0,
+        "response": {
+          "date": "4 years ago",
+          "iso_date": "2022-06-18T08:20:09Z",
+          "iso_date_of_last_edit": "2022-06-18T08:20:09Z",
+          "snippet": "Thank you for your review. We will share this with our team to let them know how we are doing.",
+          "extracted_snippet": {
+            "original": "Thank you for your review. We will share this with our team to let them know how we are doing."
+          }
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "version": 1,
+  "key": "b8a94486b1d72c627b4b6140",
+  "engine": "google_maps_reviews",
+  "params": {
+    "data_id": "0x00000000005a1004:0x00000000000fa104",
+    "hl": "en",
+    "num": "20",
+    "query": "ayushman"
+  },
+  "fetchedAt": "2026-10-03T08:04:00.000Z",
+  "note": "SYNTHETIC SAMPLE DATA — dev only",
+  "response": {
+    "search_metadata": {
+      "status": "Success",
+      "created_at": "2026-10-03 08:04:00 UTC",
+      "total_time_taken": 2.1
+    },
+    "search_parameters": {
+      "engine": "google_maps_reviews",
+      "data_id": "0x00000000005a1004:0x00000000000fa104",
+      "query": "ayushman",
+      "num": "20",
+      "hl": "en"
+    },
+    "place_info": {
+      "title": "Nawab Sample Heart & Multispeciality Hospital (Sample)",
+      "address": "13 Sample Marg, Lucknow, Uttar Pradesh (Sample)",
+      "rating": 4.4,
+      "reviews": 980,
+      "type": "Private hospital"
+    },
+    "reviews": [
+      {
+        "link": "https://example.com/review/sample_lko_04_r01",
+        "rating": 4,
+        "date": "2 months ago",
+        "iso_date": "2026-08-03T04:48:00Z",
+        "review_id": "sample_lko_04_r01",
+        "snippet": "Angioplasty for my father was done under the Ayushman card, cashless. We only paid for the attendant's food.",
+        "extracted_snippet": {
+          "original": "Angioplasty for my father was done under the Ayushman card, cashless. We only paid for the attendant's food."
+        },
+        "likes": 4
+      },
+      {
+        "link": "https://example.com/review/sample_lko_04_r02",
+        "rating": 2,
+        "date": "4 months ago",
+        "iso_date": "2026-06-03T08:36:00Z",
+        "review_id": "sample_lko_04_r02",
+        "snippet": "Ayushman me stent ka paisa alag se manga, 40 hazaar bola. Humne mana kiya to discharge me delay kiya.",
+        "extracted_snippet": {
+          "original": "Ayushman me stent ka paisa alag se manga, 40 hazaar bola. Humne mana kiya to discharge me delay kiya."
+        },
+        "likes": 2,
+        "response": {
+          "date": "4 months ago",
+          "iso_date": "2026-06-09T12:31:12Z",
+          "snippet": "Stents are covered under the PM-JAY package at our hospital. Please contact the Ayushman desk so we can look into this. — Patient relations (sample)"
+        }
+      },
+      {
+        "link": "https://example.com/review/sample_lko_04_r03",
+        "rating": 3,
+        "date": "7 months ago",
+        "iso_date": "2026-03-04T02:48:00Z",
+        "review_id": "sample_lko_04_r03",
+        "snippet": "Mixed experience. Ayushman approval came after 2 days. The treatment itself was free.",
+        "extracted_snippet": {
+          "original": "Mixed experience. Ayushman approval came after 2 days. The treatment itself was free."
+        },
+        "likes": 0
+      },
+      {
+        "link": "https://example.com/review/sample_lko_04_r04",
+        "rating": 5,
+        "date": "9 months ago",
+        "iso_date": "2026-01-02T06:36:00Z",
+        "review_id": "sample_lko_04_r04",
+        "snippet": "(Translated by Google) The heart operation was completely free with the Ayushman card. Thank you.\n\n(Original)\nआयुष्मान कार्ड से दिल का ऑपरेशन बिल्कुल मुफ्त हुआ। धन्यवाद।",
+        "extracted_snippet": {
+          "original": "आयुष्मान कार्ड से दिल का ऑपरेशन बिल्कुल मुफ्त हुआ। धन्यवाद।",
+          "translated": "The heart operation was completely free with the Ayushman card. Thank you."
+        },
+        "likes": 3
+      },
+      {
+        "link": "https://example.com/review/sample_lko_04_r05",
+        "rating": 1,
+        "date": "a year ago",
+        "iso_date": "2025-07-03T20:00:00Z",
+        "review_id": "sample_lko_04_r05",
+        "snippet": "They refused to take my Ayushman card saying the quota for this month is full.",
+        "extracted_snippet": {
+          "original": "They refused to take my Ayushman card saying the quota for this month is full."
+        },
+        "likes": 1
+      },
+      {
+        "link": "https://example.com/review/sample_lko_04_r06",
+        "rating": 3,
+        "date": "a year ago",
+        "iso_date": "2025-01-02T20:24:00Z",
+        "review_id": "sample_lko_04_r06",
+        "snippet": "Asked to pay ₹5,000 for consumables while admitted on Ayushman. Not sure if it was allowed.",
+        "extracted_snippet": {
+          "original": "Asked to pay ₹5,000 for consumables while admitted on Ayushman. Not sure if it was allowed."
+        },
+        "likes": 4
+      }
+    ]
+  }
+}

@@ -1,0 +1,233 @@
+{
+  "version": 1,
+  "key": "104bea08081bda17e55bc17e",
+  "engine": "google_maps",
+  "params": {
+    "hl": "en",
+    "ll": "@26.8467,80.9462,13z",
+    "q": "hospital",
+    "type": "search"
+  },
+  "fetchedAt": "2026-10-03T08:00:00.000Z",
+  "note": "SYNTHETIC SAMPLE DATA — dev only",
+  "response": {
+    "search_metadata": {
+      "status": "Success",
+      "created_at": "2026-10-03 08:00:00 UTC",
+      "total_time_taken": 1.42
+    },
+    "search_parameters": {
+      "engine": "google_maps",
+      "type": "search",
+      "q": "hospital",
+      "ll": "@26.8467,80.9462,13z",
+      "hl": "en"
+    },
+    "local_results": [
+      {
+        "position": 1,
+        "title": "Aayushman Sample Care (Sample)",
+        "place_id": "ChIJ_SAMPLE_lko_05",
+        "data_id": "0x00000000005a1005:0x00000000000fa105",
+        "data_cid": "1000000144105",
+        "gps_coordinates": {
+          "latitude": 26.8647,
+          "longitude": 80.9342
+        },
+        "rating": 4.2,
+        "reviews": 760,
+        "type": "Hospital",
+        "types": [
+          "Hospital"
+        ],
+        "address": "14 Sample Marg, Lucknow, Uttar Pradesh (Sample)",
+        "phone": "+91 00000 00005",
+        "website": "https://example.com/sample-hospital/lko-5"
+      },
+      {
+        "position": 2,
+        "title": "Gomti Sample Medical Centre (Sample)",
+        "place_id": "ChIJ_SAMPLE_lko_03",
+        "data_id": "0x00000000005a1003:0x00000000000fa103",
+        "data_cid": "1000000144103",
+        "gps_coordinates": {
+          "latitude": 26.8587,
+          "longitude": 80.9532
+        },
+        "rating": 4.1,
+        "reviews": 1580,
+        "type": "Hospital",
+        "types": [
+          "Hospital",
+          "Medical Center"
+        ],
+        "address": "12 Sample Marg, Lucknow, Uttar Pradesh (Sample)",
+        "phone": "+91 00000 00003",
+        "website": "https://example.com/sample-hospital/lko-3"
+      },
+      {
+        "position": 3,
+        "title": "Nawab Sample Heart & Multispeciality Hospital (Sample)",
+        "place_id": "ChIJ_SAMPLE_lko_04",
+        "data_id": "0x00000000005a1004:0x00000000000fa104",
+        "data_cid": "1000000144104",
+        "gps_coordinates": {
+          "latitude": 26.8317,
+          "longitude": 80.9422
+        },
+        "rating": 4.4,
+        "reviews": 980,
+        "type": "Private hospital",
+        "types": [
+          "Private hospital",
+          "Heart hospital"
+        ],
+        "address": "13 Sample Marg, Lucknow, Uttar Pradesh (Sample)",
+        "phone": "+91 00000 00004",
+        "website": "https://example.com/sample-hospital/lko-4"
+      },
+      {
+        "position": 4,
+        "title": "Chowk Sample Nursing Home (Sample)",
+        "place_id": "ChIJ_SAMPLE_lko_07",
+        "data_id": "0x00000000005a1007:0x00000000000fa107",
+        "data_cid": "1000000144107",
+        "gps_coordinates": {
+          "latitude": 26.8677,
+          "longitude": 80.9492
+        },
+        "rating": 3.9,
+        "reviews": 410,
+        "type": "Nursing home",
+        "types": [
+          "Nursing home"
+        ],
+        "address": "16 Sample Marg, Lucknow, Uttar Pradesh (Sample)",
+        "phone": "+91 00000 00007",
+        "website": "https://example.com/sample-hospital/lko-7"
+      },
+      {
+        "position": 5,
+        "title": "Hazratganj Sample Eye & General Hospital (Sample)",
+        "place_id": "ChIJ_SAMPLE_lko_06",
+        "data_id": "0x00000000005a1006:0x00000000000fa106",
+        "data_cid": "1000000144106",
+        "gps_coordinates": {
+          "latitude": 26.8437,
+          "longitude": 80.9622
+        },
+        "rating": 4.3,
+        "reviews": 520,
+        "type": "Hospital",
+        "types": [
+          "Hospital",
+          "Eye care center"
+        ],
+        "address": "15 Sample Marg, Lucknow, Uttar Pradesh (Sample)",
+        "phone": "+91 00000 00006",
+        "website": "https://example.com/sample-hospital/lko-6"
+      },
+      {
+        "position": 6,
+        "title": "Sample Medicos & Pharmacy (Sample)",
+        "place_id": "ChIJ_SAMPLE_lko_90",
+        "data_id": "0x00000000005a105a:0x00000000000fa15a",
+        "data_cid": "1000000144190",
+        "gps_coordinates": {
+          "latitude": 26.8477,
+          "longitude": 80.9452
+        },
+        "rating": 4.4,
+        "reviews": 910,
+        "type": "Pharmacy",
+        "types": [
+          "Pharmacy"
+        ],
+        "address": "50 Sample Bazaar, Lucknow, Uttar Pradesh (Sample)",
+        "phone": "+91 00000 00100"
+      },
+      {
+        "position": 7,
+        "title": "Shanti Sample Hospital (Sample)",
+        "place_id": "ChIJ_SAMPLE_lko_02",
+        "data_id": "0x00000000005a1002:0x00000000000fa102",
+        "data_cid": "1000000144102",
+        "gps_coordinates": {
+          "latitude": 26.8387,
+          "longitude": 80.9572
+        },
+        "rating": 4.6,
+        "reviews": 2341,
+        "type": "Private hospital",
+        "types": [
+          "Private hospital",
+          "Hospital"
+        ],
+        "address": "11 Sample Marg, Lucknow, Uttar Pradesh (Sample)",
+        "phone": "+91 00000 00002",
+        "website": "https://example.com/sample-hospital/lko-2"
+      },
+      {
+        "position": 8,
+        "title": "Aliganj Sample Children Hospital (Sample)",
+        "place_id": "ChIJ_SAMPLE_lko_08",
+        "data_id": "0x00000000005a1008:0x00000000000fa108",
+        "data_cid": "1000000144108",
+        "gps_coordinates": {
+          "latitude": 26.8277,
+          "longitude": 80.9552
+        },
+        "rating": 4,
+        "reviews": 350,
+        "type": "Children's hospital",
+        "types": [
+          "Children's hospital",
+          "Hospital"
+        ],
+        "address": "17 Sample Marg, Lucknow, Uttar Pradesh (Sample)",
+        "phone": "+91 00000 00008",
+        "website": "https://example.com/sample-hospital/lko-8"
+      },
+      {
+        "position": 9,
+        "title": "Sample District Government Hospital (Sample)",
+        "place_id": "ChIJ_SAMPLE_lko_01",
+        "data_id": "0x00000000005a1001:0x00000000000fa101",
+        "data_cid": "1000000144101",
+        "gps_coordinates": {
+          "latitude": 26.8507,
+          "longitude": 80.9402
+        },
+        "rating": 3.6,
+        "reviews": 3120,
+        "type": "Government hospital",
+        "types": [
+          "Government hospital",
+          "Hospital"
+        ],
+        "address": "10 Sample Marg, Lucknow, Uttar Pradesh (Sample)",
+        "phone": "+91 00000 00001",
+        "website": "https://example.com/sample-hospital/lko-1"
+      },
+      {
+        "position": 10,
+        "title": "Sample Pathology Lab (Sample)",
+        "place_id": "ChIJ_SAMPLE_lko_91",
+        "data_id": "0x00000000005a105b:0x00000000000fa15b",
+        "data_cid": "1000000144191",
+        "gps_coordinates": {
+          "latitude": 26.8487,
+          "longitude": 80.9442
+        },
+        "rating": 4.2,
+        "reviews": 610,
+        "type": "Medical laboratory",
+        "types": [
+          "Medical laboratory"
+        ],
+        "address": "51 Sample Bazaar, Lucknow, Uttar Pradesh (Sample)",
+        "phone": "+91 00000 00101"
+      }
+    ]
+  }
+}

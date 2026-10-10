@@ -1,0 +1,1115 @@
+{
+  "version": 1,
+  "key": "3fb52001cf6bd1d404819086",
+  "engine": "google_news",
+  "params": {
+    "gl": "in",
+    "hl": "hi",
+    "q": "आयुष्मान कार्ड अस्पताल गाज़ियाबाद"
+  },
+  "fetchedAt": "2026-10-10T10:51:00.594Z",
+  "response": {
+    "search_metadata": {
+      "status": "Success",
+      "created_at": "2026-10-10 10:51:04 UTC",
+      "total_time_taken": 0.92
+    },
+    "search_parameters": {
+      "engine": "google_news",
+      "gl": "in",
+      "hl": "hi",
+      "q": "आयुष्मान कार्ड अस्पताल गाज़ियाबाद"
+    },
+    "news_results": [
+      {
+        "position": 1,
+        "title": "गाजियाबाद: आयुष्मान कार्ड में नाम या जन्मतिथि की गलती अब जिला स्तर पर होगी ठीक, स्वास्थ्य विभाग ने 8 केंद्र किए नामित - ghaziabad ayushman card errors now correctable locally",
+        "source": {
+          "name": "Jagran",
+          "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.jagran.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "authors": [
+            "Madan Panchal"
+          ]
+        },
+        "link": "https://www.jagran.com/uttar-pradesh/ghaziabad-ghaziabad-ayushman-card-errors-now-correctable-locally-40306271.html",
+        "thumbnail": "https://www.jagranimages.com/images/2026/07/14/article/image/fff---2026-07-14T175338.068-1784031797144_m.webp",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXVWMmRZV0dKUFJ6WldibEkyVFJDMEFSakFBaWdLTWdhZFk0cHVLUWc",
+        "date": "07/14/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-07-14T07:00:00Z"
+      },
+      {
+        "position": 2,
+        "title": "गाजियाबाद में आयुष्मान योजना पर बड़ा एक्शन, 21 अस्पताल पैनल से बाहर; सामने आईं ये गड़बड़ियां",
+        "source": {
+          "name": "Navbharat Times",
+          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://navbharattimes.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://navbharattimes.indiatimes.com/state/uttar-pradesh/ghaziabad/ayushman-yojana-21-hospitals-removed-from-panel/articleshow/133383243.cms",
+        "thumbnail": "https://static.langimg.com/nbt/thumb/133383320/ghaziabad-ayushman-yojana.jpg?imgsize=148823&width=1600&height=900&resizemode=75",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNHdjMmh6TnpkNGFUSnBURnBhVFJDZkF4ampCU2dLTWdrQmNwQUpLaWhGcndF",
+        "date": "08/20/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-08-20T07:00:00Z"
+      },
+      {
+        "position": 3,
+        "title": "आयुष्मान योजना से जिले के 21 अस्पताल हटाए गए",
+        "source": {
+          "name": "Hindustan",
+          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.livehindustan.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.livehindustan.com/national/story-government-removes-21-hospitals-from-ayushman-bharat-scheme-for-misconduct-201787146495520.html",
+        "thumbnail": "https://www.livehindustan.com/lh-img/smart/img/2026/08/19/1600x900/default-image256x144_1787147154037_97ecc3ae-227b-4bdb-84ca-f111d34ff244.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNXdiVFZYZVZGWWR6aElPRVZMVFJDZUF4amtCU2dLTWdB",
+        "date": "08/19/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-08-19T07:00:00Z"
+      },
+      {
+        "position": 4,
+        "title": "अस्पतालों का खेल, आयुष्मान कार्ड फेल! जानिए कैसे PM मोदी की मुफ्त इलाज की गारंटी को पलीता लगा रहे हॉस्पिटल",
+        "source": {
+          "name": "Aaj Tak",
+          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.aajtak.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.aajtak.in/india/news/story/aaj-tak-sting-exposes-private-hospitals-on-under-ayushman-bharat-scheme-ntc-ksrj-rpti-2431344-2026-01-05",
+        "thumbnail": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202601/695c0132ef8a4-ayushman-ke-dushman-sting-052132969-16x9.png?size=1280:720",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNU9VSGRsZW5GR2VGWlBkbVZ4VFJDZkF4ampCU2dLTWdrRlVKUm1vaWRVS3dJ",
+        "date": "01/05/2026, 08:00 AM, +0000 UTC",
+        "iso_date": "2026-01-05T08:00:00Z"
+      },
+      {
+        "position": 5,
+        "title": "Ghaziabad News: आयुष्मान योजना के तहत जुड़े 12 नए अस्पताल",
+        "source": {
+          "name": "Amar Ujala",
+          "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.amarujala.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.amarujala.com/delhi-ncr/ghaziabad/12-new-hospitals-connected-under-ayushman-scheme-shahibabad-news-c-30-gbd1013-315095-2024-02-22",
+        "thumbnail": "https://staticimg.amarujala.com/assets/images/2021/10/25/ghaziabad_1635142488.jpeg?w=1200",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDFUVzV5Y2xjMFdqbDVaVmhYVFJESEF4aWlCU2dLTWdZbGhZNnNyUVU",
+        "date": "02/22/2024, 08:00 AM, +0000 UTC",
+        "iso_date": "2024-02-22T08:00:00Z"
+      },
+      {
+        "position": 6,
+        "title": "निजी हॉस्पिटल में आयुष्मान कार्ड से 5 लाख तक इलाज: दिलदारनगर में सभी तरह के ऑपरेशन और नॉर्मल डिलीवरी की सुव...",
+        "source": {
+          "name": "Dainik Bhaskar",
+          "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.bhaskar.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.bhaskar.com/local/uttar-pradesh/ghazipur/bhadaura/news/shiv-hospital-ayushman-card-free-treatment-bhadoura-137413275.html",
+        "thumbnail": "https://images.bhaskarassets.com/thumb/1200x900/web2images/521/2026/03/12/60cbee2d-fce2-415d-9c29-c564238d654d_1773287500821.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHlUMVpoVlY4eGVXZGhjbDlpVFJEZ0F4aUFCU2dLTWdZQlVJWTVuQWs",
+        "date": "03/11/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-03-11T07:00:00Z"
+      },
+      {
+        "position": 7,
+        "title": "आयुष्मान भारत योजना के पैनल से हटाए जा सकते हैं गाजियाबाद के 30 प्राइवेट अस्पताल, ये है वजह",
+        "source": {
+          "name": "Hindustan",
+          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.livehindustan.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.livehindustan.com/ncr/30-ghaziabad-private-hospitals-may-be-removed-from-ayushman-bharat-yojana-panel-list-ncr-201771033554897.html",
+        "thumbnail": "https://www.livehindustan.com/lh-img/smart/img/smart/2026/02/14/1600x900/logo/The-success-of-Ayushman-Bharat-thus-far-reflects-t_1733914478174_1771034385203.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNVRUamhtVlhONU1FazRaVFZmVFJDZkF4ampCU2dLTWdB",
+        "date": "02/14/2026, 08:00 AM, +0000 UTC",
+        "iso_date": "2026-02-14T08:00:00Z"
+      },
+      {
+        "position": 8,
+        "title": "Ayushman Bharat Yojana: आयुष्मान कार्ड से किन अस्पतालों में फ्री इलाज मिलता है? ऐसे चेक करें अपने राज्य और जिले की लिस्ट",
+        "source": {
+          "name": "NDTV India",
+          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://ndtv.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "authors": [
+            "Shreya Tyagi"
+          ]
+        },
+        "link": "https://ndtv.in/utility-news/ayushman-bharat-yojana-hospital-list-how-to-know-which-hospital-accepts-ayushman-card-10936625",
+        "thumbnail": "https://c.ndtvimg.com/2026-02/vat8mdh4_ayushman-bharat-yojana_625x300_03_February_26.jpg?im=FitAndFill,algorithm=dnn,width=400,height=225&q=70",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNW1VbTFaWkZOVFNUaE9RWGRPVFJEaEFSaVFBeWdLTWdrQkFZaVBwU2VwSkFN",
+        "date": "02/03/2026, 08:00 AM, +0000 UTC",
+        "iso_date": "2026-02-03T08:00:00Z"
+      },
+      {
+        "position": 9,
+        "title": "70 साल से ज्यादा उम्र के लोग सिर्फ एक डॉक्यूमेंट से बनवा सकते हैं आयुष्मान कार्ड, ऐसे करें आवेदन",
+        "source": {
+          "name": "ETV Bharat",
+          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.etvbharat.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.etvbharat.com/hi/!state/ayushman-card-will-be-made-with-just-one-document-for-people-above-70-years-of-age-this-is-how-you-can-apply-offline-delhi-news-dls24121102550",
+        "thumbnail": "https://imgs.etvbharat.com/etvbharat/prod-images/11-12-2024/1200-675-23089750-thumbnail-16x9-sss2.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDJRbVJKU0dOU1VWcHRZMFJRVFJDZkF4ampCU2dLTWdhdFZZTE9wUWM",
+        "date": "12/11/2024, 08:00 AM, +0000 UTC",
+        "iso_date": "2024-12-11T08:00:00Z"
+      },
+      {
+        "position": 10,
+        "title": "आयुष्मान योजना के नाम पर निजी अस्पतालों का सनसनीखेज 'खेल', आजतक के खुफिया कैमरे में कैद",
+        "source": {
+          "name": "Aaj Tak",
+          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.aajtak.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "authors": [
+            "सईद अंसारी"
+          ]
+        },
+        "link": "https://www.aajtak.in/programmes/das-tak/video/ayushman-bharat-scheme-private-hospitals-fraud-exposed-aaj-tak-sting-operation-2431338-2026-01-05",
+        "thumbnail": "https://akm-img-a-in.tosshub.com/aajtak/images/video/202601/695bff054f06c-ayushman-bharat-scheme-fraud-051215747-16x9.jpg?size=1280:720",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNVFZalp3YWpCdlExOUZiMnBsVFJDZkF4ampCU2dLTWdrQlFZTG1YU0ltcFFJ",
+        "date": "01/05/2026, 08:00 AM, +0000 UTC",
+        "iso_date": "2026-01-05T08:00:00Z"
+      },
+      {
+        "position": 11,
+        "title": "छूटे लाभार्थियों की तलाश कर बनाया जाएगा आयुष्मान कार्ड, गाजियाबाद में आज से 15 सितंबर तक चलेगा अभियान",
+        "source": {
+          "name": "Navbharat Times",
+          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://navbharattimes.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "authors": [
+            "आलोक भदौरिया"
+          ]
+        },
+        "link": "https://navbharattimes.indiatimes.com/state/uttar-pradesh/ghaziabad/ghaziabad-health-department-special-drive-for-ayushman-card-till-15th-september-latest-news-update/articleshow/112984008.cms",
+        "thumbnail": "https://static.langimg.com/nbt/thumb/112983974/ayushman-card.jpg?imgsize=44438&width=1600&height=900&resizemode=75",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDNUWE4zY2s1eE4yaGFMVU5SVFJDZkF4ampCU2dLTWdZRmNwUUZxd2M",
+        "date": "09/02/2024, 07:00 AM, +0000 UTC",
+        "iso_date": "2024-09-02T07:00:00Z"
+      },
+      {
+        "position": 12,
+        "title": "गाजियाबाद में एक महीने में बने 15 हजार बुजुर्गों के आयुष्मान कार्ड, आपके पास भी है मौका",
+        "source": {
+          "name": "Jagran",
+          "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.jagran.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "authors": [
+            "Madan Panchal"
+          ]
+        },
+        "link": "https://www.jagran.com/uttar-pradesh/ghaziabad-ncr-15-thousand-ayushman-cards-elderly-people-were-made-in-one-month-in-ghaziabad-23857664.html",
+        "thumbnail": "https://www.jagranimages.com/images/newimg/29122024/29_12_2024-ayushman_card_1_23857664_m.webp",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVVXRWh1UjBKQmFqZ3RNVWx3VFJDS0F4aThCU2dLTWdhbGhJYU5UUU0",
+        "date": "12/29/2024, 08:00 AM, +0000 UTC",
+        "iso_date": "2024-12-29T08:00:00Z"
+      },
+      {
+        "position": 13,
+        "title": "Ghaziabad News: 70 हजार और लोगों को मिलेगा मुफ्त इलाज",
+        "source": {
+          "name": "Amar Ujala",
+          "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.amarujala.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.amarujala.com/delhi-ncr/ghaziabad/70-thousand-more-people-will-get-free-treatment-ghaziabad-news-c-135-1-hpr1002-132896-2025-11-16",
+        "thumbnail": "https://staticimg.amarujala.com/assets/images/2021/10/25/ghaziabad_1635142488.jpeg?w=1200",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDFUVzV5Y2xjMFdqbDVaVmhYVFJESEF4aWlCU2dLTWdZbGhZNnNyUVU",
+        "date": "11/16/2025, 08:00 AM, +0000 UTC",
+        "iso_date": "2025-11-16T08:00:00Z"
+      },
+      {
+        "position": 14,
+        "title": "तेजस हॉस्पिटल आयुष्मान भारत से जुड़ा: कार्डधारकों को मिलेगा निशुल्क इलाज और सर्जरी",
+        "source": {
+          "name": "Dainik Bhaskar",
+          "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.bhaskar.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.bhaskar.com/local/uttar-pradesh/prayagraj/handia/news/prayagraj-tejas-hospital-ayushman-card-free-treatment-surgery-136988955.html",
+        "thumbnail": "https://images.bhaskarassets.com/thumb/1200x900/web2images/521/2026/01/19/d276fff4-2693-414a-bbe0-acf43be91556_1768794570040.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNU1NVUpQVUdvM016aExTM1ZQVFJEZ0F4aUFCU2dLTWdZQnNJQ1Z2QVE",
+        "date": "01/19/2026, 08:00 AM, +0000 UTC",
+        "iso_date": "2026-01-19T08:00:00Z"
+      },
+      {
+        "position": 15,
+        "title": "आयुष्मान कार्ड धारक रात्रि में भर्ती हुए तो रकम जमा नहीं कराएंगे अस्पताल",
+        "source": {
+          "name": "Hindustan",
+          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.livehindustan.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.livehindustan.com/ncr/ghaziabad/story-ayushman-bharat-scheme-hospitals-prohibited-from-charging-night-admission-fees-in-ghaziabad-201763039349945.html",
+        "thumbnail": "https://www.livehindustan.com/lh-img/smart/img/smart/2025/10/17/1600x900/logo/Frame_277_1760663316926_1760663325132.png",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVVjMnhFV2t0S01GTkNlbTE0VFJDZkF4ampCU2dLTWdZaGs1YXRNUWM",
+        "date": "11/13/2025, 08:00 AM, +0000 UTC",
+        "iso_date": "2025-11-13T08:00:00Z"
+      },
+      {
+        "position": 16,
+        "title": "आयुष्मान कार्ड बनाने में गाजियाबाद, नोएडा और हापुड़ आगे, प्रदेश के टाॅप टेन जिलों में शामिल",
+        "source": {
+          "name": "Jagran",
+          "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.jagran.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "authors": [
+            "Kushagra Mishra"
+          ]
+        },
+        "link": "https://www.jagran.com/uttar-pradesh/ghaziabad-ncr-ghaziabad-news-72000-patients-treated-under-ayushman-yojana-24046195.html",
+        "thumbnail": "https://www.jagranimages.com/images/newimg/14092025/14_09_2025-ayushman_24046195_2155711_m.webp",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHRSMDFOTFZkTGRuWm5aM0JRVFJDS0F4aThCU2dLTWdhTlVKS1ZuQWc",
+        "date": "09/14/2025, 07:00 AM, +0000 UTC",
+        "iso_date": "2025-09-14T07:00:00Z"
+      },
+      {
+        "position": 17,
+        "title": "गाजियाबाद के सरकारी अस्पतालों में बनाए जा रहे आयुष्मान कार्ड: 70 साल से ज्यादा उम्र के महिला-पुरुष कर सकते ...",
+        "source": {
+          "name": "Dainik Bhaskar",
+          "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.bhaskar.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.bhaskar.com/local/uttar-pradesh/ghaziabad/news/ayushman-cards-are-being-made-in-all-government-hospitals-134097574.html",
+        "thumbnail": "https://images.bhaskarassets.com/thumb/1200x900/web2images/521/2024/12/10/whatsapp-image-2024-12-10-at-090649_1733802516.jpeg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTRhVkZvUkVKc1JYTmFOVTg0VFJEZ0F4aUFCU2dLTWdZaFpZN05xUVk",
+        "date": "12/10/2024, 03:53 AM, +0000 UTC",
+        "iso_date": "2024-12-10T03:53:35Z"
+      },
+      {
+        "position": 18,
+        "title": "उत्तराखंडवासियों को गाजियाबाद में आयुष्मान कार्ड से नहीं मिल रहा इलाज, कहां है दिक्कत",
+        "source": {
+          "name": "Hindustan",
+          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.livehindustan.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.livehindustan.com/ncr/ayushman-card-holders-from-uttarakhand-are-not-getting-treatment-in-ghaziabad-hospitals-know-reason-201762918360899.html",
+        "thumbnail": "https://www.livehindustan.com/lh-img/smart/img/smart/2025/11/12/1600x900/logo/The-success-of-Ayushman-Bharat-thus-far-reflects-t_1727676106606_1762918951747.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNVFjMFZHV1VjeFlUTXlaVWx1VFJDZkF4ampCU2dLTWdrQkVJVEF1bVZydFFB",
+        "date": "11/12/2025, 08:00 AM, +0000 UTC",
+        "iso_date": "2025-11-12T08:00:00Z"
+      },
+      {
+        "position": 19,
+        "title": "आयुष्मान कार्ड, अस्पताल स्वच्छता में लापरवाही: जौनपुर DM ने चिकित्साधिकारियों के वेतन रोकने के दिए निर्देश",
+        "source": {
+          "name": "Dainik Bhaskar",
+          "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.bhaskar.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.bhaskar.com/local/uttar-pradesh/jaunpur/news/jaunpur-dm-orders-withholding-medical-officials-salary-ayushman-card-hygiene-lapse-137663604.html",
+        "thumbnail": "https://images.bhaskarassets.com/thumb/1200x900/web2images/521/2026/04/10/fb50acf7-dfd8-49ed-b250-1231fc7085ef_1775833289217.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXdRVzVXT0RaME5tNTNSa1ZuVFJEZ0F4aUFCU2dLTWdrQmdJU2pQZVZFdFFB",
+        "date": "04/10/2026, 03:05 PM, +0000 UTC",
+        "iso_date": "2026-04-10T15:05:45Z"
+      },
+      {
+        "position": 20,
+        "title": "Ayushman Card: अस्पतालों की मनमानी से भटक रहे मरीज, आयुष्मान कार्ड देख निजी हॉस्पिटल नहीं कर रहे इलाज",
+        "source": {
+          "name": "Hindustan",
+          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.livehindustan.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.livehindustan.com/ncr/story-ayushman-card-patients-wandering-due-to-the-arbitrariness-hospitals-private-hospitals-not-providing-treatment-after-seeing-ayushman-card-9573337.html",
+        "thumbnail": "https://www.livehindustan.com/lh-img/uploadimage/library/2022/07/07/16_9/16_9_3/ayushman_patient__1657169940.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDJhM2h6ZEdFMWNqUjBXRXhTVFJEWUFSaUFBeWdLTWdZQkFJS1RUQU0",
+        "date": "03/19/2024, 07:00 AM, +0000 UTC",
+        "iso_date": "2024-03-19T07:00:00Z"
+      },
+      {
+        "position": 21,
+        "title": "Ghaziabad News: आयुष्मान पैनल में अस्पताल प्रबंधन को इलाज की बैनर व डिस्प्ले बोर्ड से देनी होगी जानकारी",
+        "source": {
+          "name": "Amar Ujala",
+          "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.amarujala.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.amarujala.com/delhi-ncr/ghaziabad/in-the-ayushman-panel-the-hospital-management-will-have-to-provide-information-about-the-treatment-through-banners-and-display-boards-ghaziabad-news-c-30-gbd1016-624558-2025-05-02",
+        "thumbnail": "https://staticimg.amarujala.com/assets/images/2021/10/25/ghaziabad_1635142488.jpeg?w=1200",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDFUVzV5Y2xjMFdqbDVaVmhYVFJESEF4aWlCU2dLTWdZbGhZNnNyUVU",
+        "date": "05/02/2025, 07:00 AM, +0000 UTC",
+        "iso_date": "2025-05-02T07:00:00Z"
+      },
+      {
+        "position": 22,
+        "title": "अभी भी नहीं बनवाया है Ayushman Card तो इन आसान स्टेप्स को करें फॉलो, इलाज में मिलेगा 5 लाख का लाभ",
+        "source": {
+          "name": "Jagran",
+          "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.jagran.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "authors": [
+            "पूजा त्रिपाठी"
+          ]
+        },
+        "link": "https://www.jagran.com/uttar-pradesh/ghaziabad-ncr-ayushman-card-follow-these-easy-steps-to-make-card-to-get-5-lakh-health-insurance-23554415.html",
+        "thumbnail": "https://www.jagranimages.com/images/newimg/13102023/13_10_2023-ayushman_card_23554415_12912397_m.webp",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNTFZVWt4YTJKeE0wVlhPRzAyVFJDS0F4aThCU2dLTWdrSmdwQ0dNcVpVN1FF",
+        "date": "10/13/2023, 07:00 AM, +0000 UTC",
+        "iso_date": "2023-10-13T07:00:00Z"
+      },
+      {
+        "position": 23,
+        "title": "बुजुर्गों के आयुष्मान भारत कार्ड को लेकर आया नया अपडेट, गाजियाबाद में कब होगी शुरुआत",
+        "source": {
+          "name": "Hindustan",
+          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.livehindustan.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.livehindustan.com/ncr/senior-citizen-ayushman-bharat-yojana-card-will-be-made-in-ghaziabad-after-25-november-ncr-201732104395272.html",
+        "thumbnail": "https://www.livehindustan.com/lh-img/smart/img/2024/11/20/1600x900/PTI10-29-2024-000202B-0_1730539238087_1732107421998.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNXVRMUpQZWpaNExWRTJXVGhOVFJDZkF4ampCU2dLTWdB",
+        "date": "11/20/2024, 08:00 AM, +0000 UTC",
+        "iso_date": "2024-11-20T08:00:00Z"
+      },
+      {
+        "position": 24,
+        "title": "DM रविंद्र कुमार मॉंदड़ ने एमएमजी अस्पताल का निरीक्षण किया: बेहतर इलाज, सफाई और संवेदनशील सेवाओं के दिए निर...",
+        "source": {
+          "name": "Dainik Bhaskar",
+          "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.bhaskar.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.bhaskar.com/local/uttar-pradesh/ghaziabad/news/dm-ravindra-kumar-mondhad-inspected-mmg-hospital-136704813.html",
+        "thumbnail": "https://images.bhaskarassets.com/thumb/1200x900/web2images/521/2025/12/18/D4B20989-2D93-48A7-9A21-861E8CA68465_1766052381099.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNWpVbmR0ZFU0MVJsVnNlbUYyVFJEZ0F4aUFCU2dLTWdB",
+        "date": "12/18/2025, 08:00 AM, +0000 UTC",
+        "iso_date": "2025-12-18T08:00:00Z"
+      },
+      {
+        "position": 25,
+        "title": "फतेहपुर जिला अस्पताल में मरीज से वसूली का आरोप: आयुष्मान कार्ड होने के बावजूद ऑपरेशन के लिए मांगे पैसे",
+        "source": {
+          "name": "Dainik Bhaskar",
+          "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.bhaskar.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.bhaskar.com/local/uttar-pradesh/fatehpur/news/fatehpur-hospital-demands-money-operation-ayushman-card-137668969.html",
+        "thumbnail": "https://images.bhaskarassets.com/thumb/1200x900/web2images/521/2026/04/11/755953a3-dac5-4c62-b1d7-e412035c2796_1775894952161.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNUVTSGhaZDBObE0xcHRTVlZoVFJEZ0F4aUFCU2dLTWdB",
+        "date": "04/11/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-04-11T07:00:00Z"
+      },
+      {
+        "position": 26,
+        "title": "गाजियाबाद: आयुष्मान कार्ड में गलती को लेकर 450 से ज्यादा शिकायतें, क्यों दूर नहीं कर पा रहा स्वास्थ्य विभाग?",
+        "source": {
+          "name": "Navbharat Times",
+          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://navbharattimes.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://navbharattimes.indiatimes.com/state/uttar-pradesh/ghaziabad/ghaziabad-ayushman-card-450-complaints-regarding-mistakes-know-why-health-department-unable-to-resolve/articleshow/114204218.cms",
+        "thumbnail": "https://static.langimg.com/nbt/thumb/114204226/ghaziabad-ayushman-card-news.jpg?imgsize=61010&width=1600&height=900&resizemode=75",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNU5VR1J5ZW1ZdE9WaGpjalJVVFJDZkF4ampCU2dLTWdB",
+        "date": "10/14/2024, 07:00 AM, +0000 UTC",
+        "iso_date": "2024-10-14T07:00:00Z"
+      },
+      {
+        "position": 27,
+        "title": "गाजियाबाद में निजी अस्पतालों की मनमानी पर किसानों का विरोध: आयुष्मान कार्ड न स्वीकारने और अवैध वसूली के खिल...",
+        "source": {
+          "name": "Dainik Bhaskar",
+          "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.bhaskar.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.bhaskar.com/local/uttar-pradesh/ghaziabad/news/farmers-protest-against-the-arbitrariness-of-private-hospitals-in-ghaziabad-134880143.html",
+        "date": "04/21/2025, 07:00 AM, +0000 UTC",
+        "iso_date": "2025-04-21T07:00:00Z"
+      },
+      {
+        "position": 28,
+        "title": "आयुष्मान योजना में बेहतर सेवाओं का सम्मान: फर्रुखाबाद में 10 अस्पतालों को मिले प्रशस्ति पत्र, सांसद और विधा...",
+        "source": {
+          "name": "Dainik Bhaskar",
+          "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.bhaskar.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.bhaskar.com/local/uttar-pradesh/farrukhabad/shamsabad/news/honoring-better-services-in-ayushman-yojana-135686807.html",
+        "thumbnail": "https://images.bhaskarassets.com/thumb/1200x900/web2images/521/2025/08/15/e7b26cca-546b-4915-8c41-e5654a5ff1db_1755264703935.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUplVXBTYVZkM2NFTnJaMVo1VFJEZ0F4aUFCU2dLTWdZQllaRFNzQWM",
+        "date": "08/15/2025, 02:10 PM, +0000 UTC",
+        "iso_date": "2025-08-15T14:10:45Z"
+      },
+      {
+        "position": 29,
+        "title": "संजय गांधी अस्पताल में आयुष्मान कार्ड धारकों की ओपीडी निशुल्क: आयुष्मान रजिस्टर्ड मरीज को इलाज में मिलेगी व...",
+        "source": {
+          "name": "Dainik Bhaskar",
+          "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.bhaskar.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.bhaskar.com/local/uttar-pradesh/amethi/news/free-opd-for-ayushman-card-holders-in-sanjay-gandhi-hospital-132692052.html",
+        "thumbnail": "https://images.bhaskarassets.com/thumb/1200x900/web2images/521/2024/03/08/cd90e73f-fba2-434c-9d3d-ab6d9d386763_1709881692530.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVNPR1p1VDJWU1NHNVZSRmt0VFJEZ0F4aUFCU2dLTWdhQm9JcXV6UVE",
+        "date": "03/08/2024, 08:04 AM, +0000 UTC",
+        "iso_date": "2024-03-08T08:04:43Z"
+      },
+      {
+        "position": 30,
+        "title": "लखनऊ में आयुष्मान कार्ड के बाद भी लिया पैसा: परिजनों ने कहा 40 हजार रुपए लिए, मरीज की हुई मौत",
+        "source": {
+          "name": "Dainik Bhaskar",
+          "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.bhaskar.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.bhaskar.com/local/uttar-pradesh/lucknow/news/the-patient-was-admitted-by-telling-about-the-facility-of-ayushman-card-133231292.html",
+        "thumbnail": "https://images.bhaskarassets.com/thumb/1200x900/web2images/521/2024/06/27/origorig6916217224881658957104_1719451843.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXdNSFZRUVVGck9IVkxjVmt6VFJEZ0F4aUFCU2dLTWdhaFZJU3RPUU0",
+        "date": "06/26/2024, 06:04 PM, +0000 UTC",
+        "iso_date": "2024-06-26T18:04:36Z"
+      },
+      {
+        "position": 31,
+        "title": "आयुष्मान कार्ड से इलाज वाले निजी अस्पतालों की सूची जारी: सीएमओ ने लाभार्थियों से कहा- इलाज में परेशानी होने...",
+        "source": {
+          "name": "Dainik Bhaskar",
+          "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.bhaskar.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.bhaskar.com/local/uttarakhand/nainital/news/nainital-cmo-rashmi-pant-ayushman-card-hospital-list-contact-update-138998052.html",
+        "thumbnail": "https://images.bhaskarassets.com/thumb/1200x900/web2images/521/2026/09/11/c5c83862-7c6a-4cf3-91a5-6c7d8323d288_1789115894994.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVNXa3AxVkU4d1oyTm1WekpEVFJEZ0F4aUFCU2dLTWdhbGRaVHNMUWM",
+        "date": "09/11/2026, 09:08 AM, +0000 UTC",
+        "iso_date": "2026-09-11T09:08:15Z"
+      },
+      {
+        "position": 32,
+        "title": "निजी अस्पताल पर आयुष्मान और नगद पैसे लेने का आरोप: बिजनौर में पीड़ित परिवार ने DM से की शिकायत, जांच की मांग",
+        "source": {
+          "name": "Dainik Bhaskar",
+          "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.bhaskar.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.bhaskar.com/local/uttar-pradesh/bijnor/news/bijnor-private-hospital-cheats-family-ayushman-card-probe-demand-138007770.html",
+        "thumbnail": "https://images.bhaskarassets.com/thumb/1200x900/web2images/521/2026/05/23/a9d3ec76-3825-4adb-aa61-fe8d39898012_1779529187292.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNVplRk5vYWs1c1gzWmxiVzVFVFJEZ0F4aUFCU2dLTWdB",
+        "date": "05/23/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-05-23T07:00:00Z"
+      },
+      {
+        "position": 33,
+        "title": "Ayushman Card देख अस्पताल में नहीं किया भर्ती, मरीज लेकर दर-दर भटकते रहे परिजन",
+        "source": {
+          "name": "Jansatta",
+          "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.jansatta.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.jansatta.com/rajya/uttar-pradesh-patient-was-not-hospitalized-after-seeing-ayushman-card-family-wandered-in-ghaziabad-hospital-jsp/1235347/",
+        "thumbnail": "https://images.jansatta.com/2019/11/ayushman85-1.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNTRSRGhDTFdoQldFRjNabGd4VFJDOUF4aXhCU2dLTWdB",
+        "date": "11/27/2019, 08:00 AM, +0000 UTC",
+        "iso_date": "2019-11-27T08:00:00Z"
+      },
+      {
+        "position": 34,
+        "title": "जिले के कुल आठ निजी अस्पतालों में आयुष्मान कार्ड पर मिलेगा इलाज",
+        "source": {
+          "name": "Hindustan",
+          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.livehindustan.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.livehindustan.com/bihar/siwan/story-ayushman-bharat-scheme-expands-8-private-hospitals-approved-for-treatment-in-siwan-201759913019487.html",
+        "thumbnail": "https://www.livehindustan.com/lh-img/smart/img/smart/2025/08/27/1600x900/logo/siwan_1756325081170_1756325109514.png",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXVkalI0UWw5Sk1uVjVVRzQzVFJDZkF4ampCU2dLTWdhbEpLQ3NGUW8",
+        "date": "10/08/2025, 07:00 AM, +0000 UTC",
+        "iso_date": "2025-10-08T07:00:00Z"
+      },
+      {
+        "position": 35,
+        "title": "Hapur News: आयुष्मान से जुड़े पांच निजी अस्पताल, निगरानी के लिए बनी टीम",
+        "source": {
+          "name": "Amar Ujala",
+          "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.amarujala.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.amarujala.com/uttar-pradesh/hapur/five-hospital-attached-with-ayushman-hapur-news-c-135-1-hpr1002-119331-2025-01-18",
+        "thumbnail": "https://staticimg.amarujala.com/assets/images/2021/12/01/hapur_1638341983.jpeg?w=1200",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUtMVUpVU1c1cVJ6TmZTRk01VFJESEF4aWlCU2dLTWdhcGhJNnRMUVU",
+        "date": "01/18/2025, 08:00 AM, +0000 UTC",
+        "iso_date": "2025-01-18T08:00:00Z"
+      },
+      {
+        "position": 36,
+        "title": "Ayushman Card होने के बाद भी अस्पताल ने इलाज से किया मना और मांगे पैसे तो तुरंत फोन उठाएं… ऐसे करें शिकायत",
+        "source": {
+          "name": "Hindustan",
+          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.livehindustan.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.livehindustan.com/photos/gadgets/alert-for-ayushman-card-users-hospital-denied-treatment-or-asked-for-money-here-is-how-to-complain-201787751911158.html",
+        "thumbnail": "https://www.livehindustan.com/lh-img/smart/img/2026/07/14/380x285/Ayushman_Card_1784027906122_1784027942550_e478f23d-a989-41f6-9f8f-0af22013efb7.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNWtObTlYZWpOZlZFaGhUVU5HVFJDZEFoajhBaWdLTWdrVlVKTE1JS2NtelFF",
+        "date": "08/26/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-08-26T07:00:00Z"
+      },
+      {
+        "position": 37,
+        "title": "BJP शासित राज्य के निजी अस्पतालों ने ही रोका आयुष्मान कार्ड वालों का इलाज, IMA की सरकार को दो टूक",
+        "source": {
+          "name": "Hindustan",
+          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.livehindustan.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.livehindustan.com/ncr/story-ayushman-card-holders-treatment-stopped-in-bjp-ruled-haryana-faridabad-private-hospitals-ima-gives-ultimatum-to-govt-till-5-july-10360275.html",
+        "thumbnail": "https://www.livehindustan.com/lh-img/uploadimage/library/2024/03/17/16_9/16_9_3/ayushman_card_1710664823.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNUJTMlJ1TFZKVlptMXdVSEF3VFJEWUFSaUFBeWdLTWdB",
+        "date": "07/02/2024, 07:00 AM, +0000 UTC",
+        "iso_date": "2024-07-02T07:00:00Z"
+      },
+      {
+        "position": 38,
+        "title": "Ayushman Card: क्या प्राइवेट अस्पताल में नहीं करवा सकते आयुष्मान कार्ड से मुफ्त इलाज? जानें नियम",
+        "source": {
+          "name": "Amar Ujala",
+          "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.amarujala.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.amarujala.com/photo-gallery/utility/can-t-you-get-treatment-in-a-private-hospital-using-ayushman-card-ke-liye-kaun-patra-hai-2025-10-29",
+        "thumbnail": "https://staticimg.amarujala.com/assets/images/2025/01/27/icu-hospital_7e2c4423cc75bbd16d89ad1b3a8ffefa.jpeg?w=1200",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHpXbTlpUWxVelprZFRObFJpVFJDZkF4ampCU2dLTWdZSllJeDFJQWM",
+        "date": "10/29/2025, 07:00 AM, +0000 UTC",
+        "iso_date": "2025-10-29T07:00:00Z"
+      },
+      {
+        "position": 39,
+        "title": "कानपुर के 16 अस्पतालों में फर्जीवाड़ा: ICU तक नहीं, लेकिन गंभीर बीमारियों के इलाज का दावा, आयुष्मान के लिए ...",
+        "source": {
+          "name": "Dainik Bhaskar",
+          "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.bhaskar.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.bhaskar.com/local/uttar-pradesh/kanpur/news/hospitals-are-doing-fraud-in-treatment-under-ayushman-133372890.html",
+        "thumbnail": "https://images.bhaskarassets.com/thumb/1200x900/web2images/521/2024/07/24/new-project-18_1721831976.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUJOemRGZUhOd1NsTnpRa2M0VFJEZ0F4aUFCU2dLTWdZQkVKaDBtQWs",
+        "date": "07/25/2024, 12:12 AM, +0000 UTC",
+        "iso_date": "2024-07-25T00:12:58Z"
+      },
+      {
+        "position": 40,
+        "title": "जिला अस्पताल और सीएचसी में सुधरेंगी आयुष्मान कार्ड की खामियां",
+        "source": {
+          "name": "Hindustan",
+          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.livehindustan.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.livehindustan.com/national/story-ayushman-card-holders-technical-errors-can-now-be-rectified-easily-201787678941293.html",
+        "thumbnail": "https://www.livehindustan.com/lh-img/smart/img/2026/08/25/1600x900/default-image256x144_1787679228726_268a415f-9ab5-440f-a797-1ea8d08c240a.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNXdiVFZYZVZGWWR6aElPRVZMVFJDZUF4amtCU2dLTWdB",
+        "date": "08/25/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-08-25T07:00:00Z"
+      },
+      {
+        "position": 41,
+        "title": "दिल्ली में आयुष्मान से कराना है इलाज, तो पहले चेक कर लें अस्पताल की लिस्ट..जानें कहां नहीं चलेगा कार्ड",
+        "source": {
+          "name": "Navbharat Times",
+          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://navbharattimes.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://navbharattimes.indiatimes.com/government-schemes/delhi/how-many-hospitals-in-delhi-under-panel-of-ayushman-bharat-yojana-see-pmjay-hospital-list/articleshow/119844144.cms",
+        "thumbnail": "https://static.langimg.com/nbt/thumb/119844573/delhi-ayushman-card-hospital-list.jpg?imgsize=83506&width=1600&height=900&resizemode=75",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNU1kbTFYY3kxb2N6aGthV2RmVFJDZkF4ampCU2dLTWdZdEVaQ3ZHQW8",
+        "date": "06/06/2025, 07:00 AM, +0000 UTC",
+        "iso_date": "2025-06-06T07:00:00Z"
+      },
+      {
+        "position": 42,
+        "title": "UP के 336 अस्पताल आयुष्मान भारत से बाहर: प्रयागराज के सबसे ज्यादा 53 हॉस्पिटल, योजना में शामिल मरीजों का नह...",
+        "source": {
+          "name": "Dainik Bhaskar",
+          "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.bhaskar.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.bhaskar.com/local/uttar-pradesh/prayagraj/news/336-hospitals-of-up-out-of-ayushman-bharat-maximum-53-hospitals-included-in-prayagraj-were-not-treating-eligible-patients-included-in-the-scheme-131186854.html",
+        "thumbnail": "https://images.bhaskarassets.com/thumb/1200x900/web2images/521/2023/04/20/_1681957508.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUhWbGhuYW1ORE1rSkhVVGhEVFJEZ0F4aUFCU2dLTWdZQm9JNW1PQVk",
+        "date": "04/20/2023, 02:27 AM, +0000 UTC",
+        "iso_date": "2023-04-20T02:27:13Z"
+      },
+      {
+        "position": 43,
+        "title": "गाजियाबाद के MMG अस्पताल में सिर्फ 1 रुपये में होगी MRI जांच, पीपीपी मोड पर सेंटर खोलने की तैयारी",
+        "source": {
+          "name": "Jagran",
+          "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.jagran.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "authors": [
+            "Madan Panchal"
+          ]
+        },
+        "link": "https://www.jagran.com/uttar-pradesh/ghaziabad-ghaziabad-mmg-hospital-to-offer-mri-scans-for-just-1-40293664.html",
+        "thumbnail": "https://www.jagranimages.com/images/2026/07/03/article/image/MMG-hospital-ghaziabad-1783077915573-1783077923896_m.webp",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXhUR2hJWnpaNllXWm5PRGczVFJDMEFSakFBaWdLTWdZQnNJUWp4Z00",
+        "date": "07/03/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-07-03T07:00:00Z"
+      },
+      {
+        "position": 44,
+        "title": "आयुष्मान योजना से जुड़े 19 नए निजी अस्पताल",
+        "source": {
+          "name": "Hindustan",
+          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.livehindustan.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.livehindustan.com/bihar/darbhanga/story-19-new-private-hospitals-registered-under-ayushman-bharat-scheme-in-darbhanga-201767804165056.html",
+        "thumbnail": "https://www.livehindustan.com/lh-img/smart/img/smart/2025/08/27/1600x900/logo/darbhanga_1756328088226_1756328093509.png",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVJSMGQwTm1OaGFtTkVUbUZIVFJDZkF4ampCU2dLTWdhTmc1TExzUVk",
+        "date": "01/07/2026, 08:00 AM, +0000 UTC",
+        "iso_date": "2026-01-07T08:00:00Z"
+      },
+      {
+        "position": 45,
+        "title": "हरे पर्चे पर होगी आयुष्मान भारत की मुहर: प्रयागराज के SRN अस्पताल में हुई शुरुआत, पर्चा बनाते समय पूछेंगे आ...",
+        "source": {
+          "name": "Dainik Bhaskar",
+          "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.bhaskar.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.bhaskar.com/local/uttar-pradesh/prayagraj/news/the-green-leaflet-will-have-the-seal-of-ayushman-bharat-started-in-prayagrajs-srn-hospital-while-making-form-will-ask-whether-ayushman-card-is-there-or-not-131399789.html",
+        "thumbnail": "https://images.bhaskarassets.com/thumb/1200x900/web2images/521/2023/06/13/1686052358_1686648322.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXdlbmgxYlV0NFFWOU5jVmxNVFJEZ0F4aUFCU2dLTWdZZE00Sk0yUUk",
+        "date": "06/13/2023, 03:12 AM, +0000 UTC",
+        "iso_date": "2023-06-13T03:12:36Z"
+      },
+      {
+        "position": 46,
+        "title": "प्रतापगढ़ में 3 निजी अस्पतालों को मिला नोटिस: आयुष्मान कार्ड से भर्ती मरीजों की संख्या में मिली थी कमी",
+        "source": {
+          "name": "Dainik Bhaskar",
+          "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.bhaskar.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.bhaskar.com/local/uttar-pradesh/pratapgarh/news/3-private-hospitals-received-notice-in-pratapgarh-133558970.html",
+        "thumbnail": "https://images.bhaskarassets.com/thumb/1200x900/web2images/521/2024/08/29/931a7865-12df-4db7-b46a-69b582172bc4_1724937919181.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNW1PR1JHWlhVeU5rSkdZbE5WVFJEZ0F4aUFCU2dLTWdZQmtJaXFPQVU",
+        "date": "08/29/2024, 02:33 PM, +0000 UTC",
+        "iso_date": "2024-08-29T14:33:04Z"
+      },
+      {
+        "position": 47,
+        "title": "कपिलवस्तु में विद्या हॉस्पिटल में आयुष्मान कार्ड योजना शुरू: विधायक श्यामधनी राही ने किया उद्घाटन, मरीजों क...",
+        "source": {
+          "name": "Dainik Bhaskar",
+          "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.bhaskar.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.bhaskar.com/local/uttar-pradesh/siddharthnagar/birdpur/news/ayushman-card-scheme-launched-at-vidya-hospital-in-kapilvastu-136127784.html",
+        "thumbnail": "https://images.bhaskarassets.com/thumb/1200x900/web2images/521/2025/10/09/6fd880fa-8627-4ec9-8b70-18ae92b18726_1759994360485.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNDJSMXBwZWtaT01XSnFZVEkyVFJEZ0F4aUFCU2dLTWdrQkVwcmxtQ285S3dJ",
+        "date": "10/11/2025, 07:00 AM, +0000 UTC",
+        "iso_date": "2025-10-11T07:00:00Z"
+      },
+      {
+        "position": 48,
+        "title": "कूरेभार के सरकारी अस्पताल में आयुष्मान कार्ड का फायदा: मरीजों को मिल रहा मुफ्त इलाज और दवाएं, कार्ड अपडेट क...",
+        "source": {
+          "name": "Dainik Bhaskar",
+          "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.bhaskar.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.bhaskar.com/local/uttar-pradesh/sultanpur/kurebhar-sultanpur/news/the-benefit-of-ayushman-card-in-the-government-hospital-of-kurebhar-135342901.html",
+        "thumbnail": "https://images.bhaskarassets.com/thumb/1200x900/web2images/521/2025/06/30/3a973ab9-3799-436e-a955-e275750c3940_1751275991592.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNHhla3cyVmxrdE5WQkpWMlpYVFJEZ0F4aUFCU2dLTWdB",
+        "date": "06/30/2025, 10:01 AM, +0000 UTC",
+        "iso_date": "2025-06-30T10:01:20Z"
+      },
+      {
+        "position": 49,
+        "title": "Explainer: आयुष्मान स्कीम के लिए कैसे अपने माता-पिता का करा सकते हैं रजिस्ट्रेशन, जानें हर जरूरी बात",
+        "source": {
+          "name": "Navbharat Times",
+          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://navbharattimes.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "authors": [
+            "अशोक उपाध्याय"
+          ]
+        },
+        "link": "https://navbharattimes.indiatimes.com/india/how-can-you-register-your-parents-for-ayushman-scheme-know-every-important-point/articleshow/114813900.cms",
+        "thumbnail": "https://static.langimg.com/nbt/thumb/114817416/ayushman-scheme.jpg?imgsize=83220&width=1600&height=900&resizemode=75",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iMkNnNWhRa2hoU25KcWRIUXdTemh0VFJDZkF4ampCU2dLTWdzQklZNHVtU2N1NUtxa3NR",
+        "date": "10/31/2024, 07:00 AM, +0000 UTC",
+        "iso_date": "2024-10-31T07:00:00Z"
+      },
+      {
+        "position": 50,
+        "title": "आयुष्मान कार्ड से इलाज नहीं कर रहे 48 अस्पताल, इसमें दुर्ग के 3 शामिल, नोटिस",
+        "source": {
+          "name": "Dainik Bhaskar",
+          "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.bhaskar.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.bhaskar.com/local/chhattisgarh/durg-bhilai/news/48-hospitals-are-not-providing-treatment-through-ayushman-card-including-3-from-durg-notice-131889901.html",
+        "thumbnail": "https://www.bhaskar.com/assets/images/og-bhaskar.df3cc707.jpeg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUlVVXRXUWpBeVUwRTFOMGhEVFJDUUF4ai1CU2dLTWdZVm80NG9QUVU",
+        "date": "09/24/2023, 10:39 PM, +0000 UTC",
+        "iso_date": "2023-09-24T22:39:27Z"
+      },
+      {
+        "position": 51,
+        "title": "Haryana News: क्या सड़क दुर्घटना पीड़ितों को मिल पाएगा फ्री इलाज? ट्रैफिक पुलिस ने जारी की एडवाइजरी",
+        "source": {
+          "name": "Jagran",
+          "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.jagran.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.jagran.com/haryana/faridabad-ncr-ghaziabad-news-free-treatment-for-road-accident-victims-traffic-police-issues-advisory-23923736.html",
+        "thumbnail": "https://www.jagranimages.com/images/newimg/22042025/22_04_2025-hospital_23923736_m.webp",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVRVRGw1U201S2NuUkNWRGx3VFJDS0F4aThCU2dLTWdhZFFZNkxvUVk",
+        "date": "04/22/2025, 07:00 AM, +0000 UTC",
+        "iso_date": "2025-04-22T07:00:00Z"
+      },
+      {
+        "position": 52,
+        "title": "आयुष्मान कार्ड से अस्पताल में हुआ घुटने का सफल ऑपरेशन",
+        "source": {
+          "name": "Hindustan",
+          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.livehindustan.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.livehindustan.com/bihar/patna/story-successful-knee-operation-in-hospital-with-ayushman-card-8193648.html",
+        "thumbnail": "https://www.livehindustan.com/lh-img/uploadimage/library/2023/05/20/16_9/16_9_3/_1684600769.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXdRMHRvU25CTU5ISnlaelJTVFJEWUFSaUFBeWdLTWdrcEVZYlRwQ1ZzOFFB",
+        "date": "05/20/2023, 07:00 AM, +0000 UTC",
+        "iso_date": "2023-05-20T07:00:00Z"
+      },
+      {
+        "position": 53,
+        "title": "आयुष्मान कार्ड का दुरुपयोग: मथुरा के अस्पताल ने फर्जी मरीजों को पैसे देकर भर्ती करने का प्रस्ताव दिया",
+        "source": {
+          "name": "Dainik Bhaskar",
+          "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.bhaskar.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.bhaskar.com/local/uttar-pradesh/mathura/khaira/news/mathura-hospital-offers-to-admit-fake-patients-for-money-136003954.html",
+        "thumbnail": "https://images.bhaskarassets.com/thumb/1200x900/web2images/521/2025/09/24/e8961a92-d455-48af-becb-1caffbf6403b_1758716445178.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDNiM3AyWVZGalVUWnFSSFI0VFJEZ0F4aUFCU2dLTWdhTkVZQktrUWc",
+        "date": "09/24/2025, 03:19 PM, +0000 UTC",
+        "iso_date": "2025-09-24T15:19:30Z"
+      },
+      {
+        "position": 54,
+        "title": "बरेली के निजी अस्पतालों में अनियमितताओं का भंडाफोड़: फायर एनओसी और आयुष्मान कार्ड की मिलीभगत पर सवाल",
+        "source": {
+          "name": "Dainik Bhaskar",
+          "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.bhaskar.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.bhaskar.com/local/uttar-pradesh/bareilly/news/bareilly-hospitals-fire-noc-ayushman-card-scam-137644112.html",
+        "thumbnail": "https://images.bhaskarassets.com/thumb/1200x900/web2images/521/2026/04/08/ad61cd12-e88e-4301-97a7-3c1797384c9e_1775636548907.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTRUVzg0WWtaV1kzRTNUVWhUVFJEZ0F4aUFCU2dLTWdhWlFJU0xxUWM",
+        "date": "04/08/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-04-08T07:00:00Z"
+      },
+      {
+        "position": 55,
+        "title": "भोपाल में निजी अस्पताल से आयुष्मान योजना में सामने आया बड़ा फर्जीवाड़ा! एक ही नंबर पर बनें 154 लोगों के कार्ड",
+        "source": {
+          "name": "Hindustan",
+          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.livehindustan.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "authors": [
+            "Suyash Bhatt"
+          ]
+        },
+        "link": "https://www.livehindustan.com/madhya-pradesh/story-big-fraud-exposed-in-ayushman-scheme-from-private-hospital-in-bhopal-create-cards-of-154-people-on-the-same-number-6923756.html",
+        "thumbnail": "https://www.livehindustan.com/lh-img/uploadimage/library/2022/08/11/16_9/16_9_3/fake_ayushman_card_in_bhopal__1660214381.jpeg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNU1kVGROYTJSM1kwSktPRGRmVFJEWUFSaUFBeWdLTWdhSklvaHBQZ2M",
+        "date": "08/11/2022, 07:00 AM, +0000 UTC",
+        "iso_date": "2022-08-11T07:00:00Z"
+      },
+      {
+        "position": 56,
+        "title": "संतकबीरनगर में 4 नए अस्पताल आयुष्मान योजना से जुड़े: अब 45 अस्पतालों में लाभार्थी करा सकेंगे इलाज, इसके पहल...",
+        "source": {
+          "name": "Dainik Bhaskar",
+          "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.bhaskar.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.bhaskar.com/local/uttar-pradesh/sant-kabir-nagar/news/4-new-hospitals-in-sant-kabir-nagar-are-connected-with-ayushman-yojana-133969387.html",
+        "thumbnail": "https://images.bhaskarassets.com/thumb/1200x900/web2images/521/2024/11/16/30642d39-3ce9-4324-97f6-6d88a9cee50c_1731754371918.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVlha1J4V1RGaVJHZ3RhR3RsVFJEZ0F4aUFCU2dLTWdhcE5aek5tUWs",
+        "date": "11/16/2024, 12:02 PM, +0000 UTC",
+        "iso_date": "2024-11-16T12:02:33Z"
+      },
+      {
+        "position": 57,
+        "title": "Ghaziabad News: मां की किडनी से रोशन हुई बेटी की जिंदगी, आयुष्मान कार्ड बना ईद पर तोहफा",
+        "source": {
+          "name": "Amar Ujala",
+          "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.amarujala.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.amarujala.com/delhi-ncr/ghaziabad/daughters-life-brightened-by-mothers-kidney-ayushman-card-became-a-gift-on-eid-shahibabad-news-c-134-1-sbd1008-147-2023-06-29",
+        "thumbnail": "https://staticimg.amarujala.com/assets/images/2021/10/25/ghaziabad_1635142488.jpeg?w=1200",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDFUVzV5Y2xjMFdqbDVaVmhYVFJESEF4aWlCU2dLTWdZbGhZNnNyUVU",
+        "date": "06/29/2023, 07:00 AM, +0000 UTC",
+        "iso_date": "2023-06-29T07:00:00Z"
+      },
+      {
+        "position": 58,
+        "title": "Ayushman Bharat Yojana: अस्पताल अगर आयुष्मान कार्ड पर फ्री इलाज से करे इंकार, तो तुरंत लें ये एक्शन",
+        "source": {
+          "name": "NDTV India",
+          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://ndtv.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "authors": [
+            "Anisha Kumari"
+          ]
+        },
+        "link": "https://ndtv.in/utility-news/what-to-do-if-hospital-denies-treatment-under-ayushman-bharat-yojana-free-health-insurance-schemes-5987969",
+        "thumbnail": "https://c.ndtvimg.com/2024-06/t81c6nqo_ayushman-yojana_625x300_28_June_24.jpg?im=FeatureCrop,algorithm=dnn,width=400,height=225&q=70",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNTVPVXh0YUZWTFdrdGFRa2hZVFJEaEFSaVFBeWdLTWdrRlFaQm1ubWg3clFF",
+        "date": "06/28/2024, 07:00 AM, +0000 UTC",
+        "iso_date": "2024-06-28T07:00:00Z"
+      },
+      {
+        "position": 59,
+        "title": "आयुष्मान को इलाज से मना नहीं कर सकते अस्पताल",
+        "source": {
+          "name": "Hindustan",
+          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.livehindustan.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.livehindustan.com/uttar-pradesh/prayagraj/story-ayushman-cardholders-must-be-admitted-by-hospitals-on-sundays-guidelines-201751001634267.html",
+        "date": "06/27/2025, 07:00 AM, +0000 UTC",
+        "iso_date": "2025-06-27T07:00:00Z"
+      },
+      {
+        "position": 60,
+        "title": "बस्ती में आयुष्मान का लाभ देने वाले अस्पताल सम्मानित: एक निजी, एक सरकारी हॉस्पिटल ने 7 माह में 5 हजार से ज्...",
+        "source": {
+          "name": "Dainik Bhaskar",
+          "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.bhaskar.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.bhaskar.com/local/uttar-pradesh/basti/news/a-private-a-government-hospital-made-a-record-by-doing-more-than-five-thousand-surgeries-in-7-months-130193199.html",
+        "thumbnail": "https://images.bhaskarassets.com/thumb/1200x900/web2images/521/2022/08/16/c4da557a-bf10-427e-a75c-b6074461c7ad_1660647217001.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUhMWFZzVURJemFUTkRNRTlIVFJEZ0F4aUFCU2dLTWdZZEU1cHFHUW8",
+        "date": "08/16/2022, 01:05 PM, +0000 UTC",
+        "iso_date": "2022-08-16T13:05:25Z"
+      },
+      {
+        "position": 61,
+        "title": "आयुष्मान कार्ड बनाने से मना करने पर विवाद: मेदांता अस्पताल की डॉक्टर को ग्राम प्रधान ने समझाया, 70 वर्षीय ब...",
+        "source": {
+          "name": "Dainik Bhaskar",
+          "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.bhaskar.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.bhaskar.com/local/uttar-pradesh/lucknow/gauraiya/news/controversy-over-refusal-to-make-ayushman-card-135276426.html",
+        "thumbnail": "https://images.bhaskarassets.com/thumb/1200x900/web2images/521/2025/06/20/6a4cffca-e11f-4035-bb53-32245f0aeeaf_1750424607984.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNDVRM05HU1VaTlNqaEJXbFJDVFJEZ0F4aUFCU2dLTWdB",
+        "date": "06/20/2025, 02:23 PM, +0000 UTC",
+        "iso_date": "2025-06-20T14:23:36Z"
+      },
+      {
+        "position": 62,
+        "title": "बरेली के दीपमाला अस्पताल में आयुष्मान कार्ड धारक से अभद्रता: फ्री में इलाज कराना है तो जिला अस्पताल में चूर...",
+        "source": {
+          "name": "Dainik Bhaskar",
+          "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.bhaskar.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.bhaskar.com/local/uttar-pradesh/bareilly/news/bareilly-deepmala-hospital-misbehaves-with-ayushman-cardholder-free-treatment-district-hospital-viral-video-133964327.html",
+        "thumbnail": "https://images.bhaskarassets.com/thumb/1200x900/web2images/521/2024/11/15/whatsapp-image-2024-11-15-at-181019080e9dac_1731675265.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTNZa1kyTFhkTGJsODNjRWhXVFJEZ0F4aUFCU2dLTWdZQklJRmcyd0k",
+        "date": "11/15/2024, 08:00 AM, +0000 UTC",
+        "iso_date": "2024-11-15T08:00:00Z"
+      },
+      {
+        "position": 63,
+        "title": "परिवार हॉस्पिटल में नि:शुल्क स्वास्थ्य कैंप कल: आयुष्मान कार्ड धारकों को मिलेगा मुफ्त इलाज, विशेषज्ञ देंगे ...",
+        "source": {
+          "name": "Dainik Bhaskar",
+          "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.bhaskar.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.bhaskar.com/local/uttar-pradesh/ambedkarnagar/bhiyaon/news/ambedkar-nagar-free-health-camp-family-hospital-ayushman-card-136977825.html",
+        "thumbnail": "https://images.bhaskarassets.com/thumb/1200x900/web2images/521/2026/01/18/958a1a30-8125-473d-a529-657e815e9179_1768721087391.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXVZa2sxV21kb2RGVm1iamhSVFJEZ0F4aUFCU2dLTWdhZG9JVE9NQU0",
+        "date": "01/18/2026, 09:51 AM, +0000 UTC",
+        "iso_date": "2026-01-18T09:51:10Z"
+      },
+      {
+        "position": 64,
+        "title": "गुजरात के अस्पताल में आयुष्मान कार्ड घोटाले का भंडाफोड़, पुलिस का ही नकली कार्ड बनाकर दिखा दिया",
+        "source": {
+          "name": "Hindustan",
+          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.livehindustan.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.livehindustan.com/gujarat/ahmedabad-crime-branch-busted-multi-crore-ayushman-card-fraud-linked-to-khyati-hospital-201734464691149.html",
+        "thumbnail": "https://www.livehindustan.com/lh-img/smart/img/2024/12/17/1600x900/KHYATI_HOSPITAL_AHEMDABAD_1734464713836_1734464723669.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNVJValI0T1RscFVFdEJZVUpaVFJDZkF4ampCU2dLTWdNTkV3QQ",
+        "date": "12/18/2024, 08:00 AM, +0000 UTC",
+        "iso_date": "2024-12-18T08:00:00Z"
+      },
+      {
+        "position": 65,
+        "title": "गाजियाबाद: मौत को मात देकर लौटे यूट्यूबर सलीम वास्तिक, अस्पताल से आया पहला वीडियो, डॉक्टरों ने दिया बड़ा हेल्थ अपडेट",
+        "source": {
+          "name": "Aaj Tak",
+          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.aajtak.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.aajtak.in/uttar-pradesh/story/ghaziabad-youtuber-salim-wastik-returns-after-defeating-death-first-video-from-hospital-know-health-update-lclam-strc-2487561-2026-03-06",
+        "thumbnail": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202603/69aa73e063ae8-youtuber-and-tv-panelist-salim-wastik-photo--screengrab-062738691-16x9.jpg?size=1280:720",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVRhbWc1TlhORlYxbEdWMWh1VFJDZkF4ampCU2dLTWdZMUZKNXdHUW8",
+        "date": "03/06/2026, 08:00 AM, +0000 UTC",
+        "iso_date": "2026-03-06T08:00:00Z"
+      },
+      {
+        "position": 66,
+        "title": "अब 14 घंटे खुलेंगे BHU के आयुष्मान काउंटर: अस्पताल में सुबह 7 बजे से रात 9 बजे तक बनेगा आयुष्मान कार्ड",
+        "source": {
+          "name": "Dainik Bhaskar",
+          "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.bhaskar.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.bhaskar.com/local/uttar-pradesh/varanasi/news/ayushman-card-will-be-made-in-varanasis-bhu-hospital-from-7-am-to-9-pm-131091168.html",
+        "thumbnail": "https://images.bhaskarassets.com/thumb/1200x900/web2images/521/2023/03/27/bhu-hospital1_1679923076.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXJkV2xrZDNsd1kwRmhkMnd5VFJEZ0F4aUFCU2dLTWdZQlVJb3V0UVk",
+        "date": "03/27/2023, 01:20 PM, +0000 UTC",
+        "iso_date": "2023-03-27T13:20:54Z"
+      },
+      {
+        "position": 67,
+        "title": "पानीपत में फ्रैक्चर का इलाज कराने आई महिला के दिल में डाला स्टेंट, मौत के बाद निजी अस्पताल पर फर्जीवाड़े के आरोप",
+        "source": {
+          "name": "ETV Bharat",
+          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.etvbharat.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.etvbharat.com/hi/state/fracture-patient-dies-after-heart-stent-procedure-private-hospital-faces-fraud-and-negligence-allegations-in-panipat-hrs26072800996",
+        "thumbnail": "https://imgs.etvbharat.com/etvbharat/prod-images/28-07-2026/1200-675-27251073-thumbnail-16x9-pop-aspera.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXBVV2h5UVVFelFYTm1RbVpQVFJDZkF4ampCU2dLTWdZSllKUUdxQWc",
+        "date": "07/28/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-07-28T07:00:00Z"
+      },
+      {
+        "position": 68,
+        "title": "आयुष्मान वय वंदना कार्ड - central ayushman vay vandana card for senior citizens aged 70 - Navbharat Times",
+        "source": {
+          "name": "Navbharat Times",
+          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://navbharattimes.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://navbharattimes.indiatimes.com/government-schemes/central-ayushman-vay-vandana-card-for-senior-citizens-aged-70",
+        "thumbnail": "https://static.langimg.com/nbt/thumb/122988939/ayushman-vay-vandana-card.jpg?imgsize=20132&width=1600&height=900&resizemode=75",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXdUM2hVVjFORGJUUmFORE5xVFJDZkF4ampCU2dLTWdrRlFaRFJKR2lwaGdJ",
+        "date": "07/30/2025, 07:00 AM, +0000 UTC",
+        "iso_date": "2025-07-30T07:00:00Z"
+      },
+      {
+        "position": 69,
+        "title": "आयुष्‍मान योजना में कौन-कौन सी बीमार‍ियां नहीं हैं कवर? यहां देखें पूरी लिस्ट",
+        "source": {
+          "name": "Navbharat Times",
+          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://navbharattimes.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://navbharattimes.indiatimes.com/government-schemes/central/ayushman-card-will-not-work-in-these-diseases-treatment-see-abpmjay-exclusion-policy/articleshow/119244572.cms",
+        "thumbnail": "https://static.langimg.com/nbt/thumb/119245537/ayushman-card-will-not-work-in-these-diseases-treatment-see-abpmjay-exclusion-policy.jpg?imgsize=46354&width=1600&height=900&resizemode=75",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXJhM280T1ZGTVVpMTNkVmRaVFJDZkF4ampCU2dLTWdZVlZZam9wUWM",
+        "date": "04/10/2025, 07:00 AM, +0000 UTC",
+        "iso_date": "2025-04-10T07:00:00Z"
+      },
+      {
+        "position": 70,
+        "title": "प्रयागराज...31 अंत्योदय कार्ड धारकों को मिला आयुष्मान कार्ड: अधिकारियों ने मुफ्त इलाज का किया दावा- स्वरूपर...",
+        "source": {
+          "name": "Dainik Bhaskar",
+          "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.bhaskar.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.bhaskar.com/local/uttar-pradesh/prayagraj/news/officials-claimed-free-treatment-patients-were-seen-wandering-for-treatment-with-ayushman-card-in-swarooprani-nehru-hospital-129012859.html",
+        "thumbnail": "https://images.bhaskarassets.com/thumb/1200x900/web2images/521/2021/10/11/new-project-44_1633954921.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVZVRVpTVGtGd2VtSnNjR3MzVFJEZ0F4aUFCU2dLTWdZQmdJWXd4QVE",
+        "date": "10/11/2021, 12:28 PM, +0000 UTC",
+        "iso_date": "2021-10-11T12:28:32Z"
+      },
+      {
+        "position": 71,
+        "title": "Unique Digital Health ID: कैसे बनवाएं डिजिटल हेल्थ कार्ड, अस्पतालों में कैसे आएगा काम? हर सवाल का जवाब",
+        "source": {
+          "name": "Aaj Tak",
+          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.aajtak.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.aajtak.in/india/news/story/unique-digital-health-id-how-to-make-benefits-where-to-use-ayushman-bharat-digital-mission-ntc-1333839-2021-09-29",
+        "thumbnail": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202109/unique_health_card-sixteen_nine.jpg?size=1280:720",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNWhRVVpLVjE5aGQzaFBPRk5DVFJDZkF4ampCU2dLTWdrQmNvNGxzaWRya2dF",
+        "date": "09/29/2021, 07:00 AM, +0000 UTC",
+        "iso_date": "2021-09-29T07:00:00Z"
+      },
+      {
+        "position": 72,
+        "title": "नए सॉफ्टवेयर के बाद बस्ती के प्रधान डाकघर में काम काज ठप",
+        "source": {
+          "name": "Amar Ujala",
+          "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.amarujala.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.amarujala.com/video/uttar-pradesh/basti/video-after-the-new-software-work-in-bastis-main-post-office-has-come-to-a-standstill-2025-08-06",
+        "thumbnail": "https://posterimage.amarujala.com/1UJBWEG.0000000.jpg?w=414&dpr=1.0&q=80",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVlhMEY2ZUhvM1ltbEdSR0ZFVFJEcEFSaWVBeWdLTWdZQlFKaEdJQWs",
+        "date": "08/06/2025, 07:00 AM, +0000 UTC",
+        "iso_date": "2025-08-06T07:00:00Z"
+      },
+      {
+        "position": 73,
+        "title": "रानीगंज में आर्टिगा कार और टेंपो की भिड़ंत में एक की मौत, कई लोग घायल",
+        "source": {
+          "name": "Amar Ujala",
+          "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.amarujala.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.amarujala.com/video/uttar-pradesh/pratapgarh/video-two-people-died-and-many-were-injured-in-a-collision-between-an-ertiga-car-and-a-tempo-in-raniganj-2025-08-06",
+        "thumbnail": "https://posterimage.amarujala.com/1UJyurb.0000000.jpg?w=1200",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNHlVMGt3YmtsRVZtTXhUV1pQVFJDZkF4ampCU2dLTWdtQlE0S0xYZUtnaUFJ",
+        "date": "08/06/2025, 07:00 AM, +0000 UTC",
+        "iso_date": "2025-08-06T07:00:00Z"
+      },
+      {
+        "position": 74,
+        "title": "UP News: यूपी में सरकारी कर्मचारियों और पेंशनरों को कैशलेस इलाज की सुविधा, जानिए क्‍या हैं विशेषताएं",
+        "source": {
+          "name": "Navbharat Times",
+          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://navbharattimes.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "authors": [
+            "आलोक भदौरिया"
+          ]
+        },
+        "link": "https://navbharattimes.indiatimes.com/metro/lucknow/development/pandit-deendayal-upadhyay-rajya-karmchari-cashless-chikitsa-yojna-important-features-latest-news/articleshow/94724206.cms",
+        "thumbnail": "https://static.langimg.com/nbt/thumb/94724277/pandit-deendayal-upadhyay-rajya-karmchari-cashless-chikitsa-yojna-important-features-latest-news.jpg?imgsize=118638&width=1600&height=900&resizemode=75",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWthRFJ6UTNaWVVHZFlXWFp5VFJDZkF4ampCU2dLTWdhQllJUUl3UVE",
+        "date": "10/08/2022, 07:00 AM, +0000 UTC",
+        "iso_date": "2022-10-08T07:00:00Z"
+      },
+      {
+        "position": 75,
+        "title": "आयुष्मान योजना कार्ड है लेकिन इलाज नहीं! भुगतान अटका तो अस्पताल ने बंद की सेवाएं",
+        "source": {
+          "name": "Zee News",
+          "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://zeenews.india.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://zeenews.india.com/hindi/india/haryana/have-an-ayushman-scheme-card-but-no-treatment-hospital-suspends-services-after-payments-get-stuck/3155679",
+        "thumbnail": "https://hindi.cdn.zeenews.com/hindi/sites/default/files/2026/03/27/4400648-delhi-2026-03-27t141853.914.png",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNXBRMDVJU0ZoeWRtOVZZMVpzVFJEZ0F4aUFCU2dLTWdB",
+        "date": "03/27/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-03-27T07:00:00Z"
+      },
+      {
+        "position": 76,
+        "title": "हरियाणा में आयुष्मान कार्ड धारकों के लिए बुरी खबर! 20 अप्रैल के बाद अस्पतालों में नहीं होगा मुफ्त इलाज?",
+        "source": {
+          "name": "Zee News",
+          "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://zeenews.india.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://zeenews.india.com/hindi/india/haryana/haryana-major-crisis-appears-looming-in-haryana-regarding-ayushman-bharat-scheme/3174640",
+        "thumbnail": "https://hindi.cdn.zeenews.com/hindi/sites/default/files/2026/04/11/4418633-haryana-53.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNXRSMUZDYUZWMVprWjFURVp1VFJEZ0F4aUFCU2dLTWdB",
+        "date": "04/11/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-04-11T07:00:00Z"
+      },
+      {
+        "position": 77,
+        "title": "Haryana News: आयुष्मान कार्ड वाली महिला से लिए नाजायज पैसे, कोर्ट ने अस्पताल पर लगाया 5 लाख का जुर्माना",
+        "source": {
+          "name": "Zee News",
+          "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://zeenews.india.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://zeenews.india.com/hindi/india/delhi-ncr-haryana/illegal-money-taken-from-a-woman-with-ayushman-card-court-imposed-a-fine-of-rs-5-lakh-on-hospital/2776522",
+        "thumbnail": "https://hindi.cdn.zeenews.com/hindi/sites/default/files/2025/05/28/3944460-hospital-2.png",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNW1RMmxqT1ZOSk56QnpaMUpNVFJEZ0F4aUFCU2dLTWdZVkFKUXFNZ2M",
+        "date": "05/28/2025, 07:00 AM, +0000 UTC",
+        "iso_date": "2025-05-28T07:00:00Z"
+      },
+      {
+        "position": 78,
+        "title": "Haryana News: IMA का ऐलान, 1 जुलाई से निजी अस्पताल नहीं करेगा आयुष्मान कार्ड धारकों का इलाज",
+        "source": {
+          "name": "Zee News",
+          "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://zeenews.india.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://zeenews.india.com/hindi/india/delhi-ncr-haryana/haryana-government-ayushman-card-scheme-private-hospitals-will-not-provide-treatment-from-july-1/2312582",
+        "date": "06/28/2024, 07:00 AM, +0000 UTC",
+        "iso_date": "2024-06-28T07:00:00Z"
+      },
+      {
+        "position": 79,
+        "title": "Haryana News: हरियाणा के 650 अस्पतालों ने केंद्र सरकार की एक योजना का विरोध क्यों किया? जानें",
+        "source": {
+          "name": "Zee News",
+          "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://zeenews.india.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://zeenews.india.com/hindi/india/delhi-ncr-haryana/haryana/news-650-hospitals-are-against-ayushman-bharat-yojana-proceedings-in-haryana/2894563",
+        "thumbnail": "https://hindi.cdn.zeenews.com/hindi/sites/default/files/2025/08/24/4111516-haryana-news.png",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNXFPVFo1UzNaQlMwUlhla0pyVFJEZ0F4aUFCU2dLTWdB",
+        "date": "08/24/2025, 07:00 AM, +0000 UTC",
+        "iso_date": "2025-08-24T07:00:00Z"
+      }
+    ],
+    "menu_links": [
+      {
+        "title": "भारत",
+        "topic_token": "CAAqIQgKIhtDQkFTRGdvSUwyMHZNRE55YXpBU0FtaHBLQUFQAQ",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqIQgKIhtDQkFTRGdvSUwyMHZNRE55YXpBU0FtaHBLQUFQAQ"
+      },
+      {
+        "title": "दुनिया",
+        "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtaHBHZ0pKVGlnQVAB",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtaHBHZ0pKVGlnQVAB"
+      },
+      {
+        "title": "आपकी स्थानीय खबरें",
+        "topic_token": "CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE"
+      },
+      {
+        "title": "कारोबार",
+        "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FtaHBHZ0pKVGlnQVAB",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FtaHBHZ0pKVGlnQVAB"
+      },
+      {
+        "title": "मनोरंजन",
+        "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNREpxYW5RU0FtaHBHZ0pKVGlnQVAB",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNREpxYW5RU0FtaHBHZ0pKVGlnQVAB"
+      },
+      {
+        "title": "खेल",
+        "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp1ZEdvU0FtaHBHZ0pKVGlnQVAB",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp1ZEdvU0FtaHBHZ0pKVGlnQVAB"
+      }
+    ]
+  }
+}

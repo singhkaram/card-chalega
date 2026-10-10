@@ -1,0 +1,172 @@
+{
+  "version": 1,
+  "key": "8f8798e5641a35827581ddeb",
+  "engine": "google_maps",
+  "params": {
+    "hl": "en",
+    "ll": "@25.5941,85.1376,13z",
+    "q": "dialysis hospital",
+    "type": "search"
+  },
+  "fetchedAt": "2026-10-03T08:30:00.000Z",
+  "note": "SYNTHETIC SAMPLE DATA — dev only",
+  "response": {
+    "search_metadata": {
+      "status": "Success",
+      "created_at": "2026-10-03 08:30:00 UTC",
+      "total_time_taken": 1.42
+    },
+    "search_parameters": {
+      "engine": "google_maps",
+      "type": "search",
+      "q": "dialysis hospital",
+      "ll": "@25.5941,85.1376,13z",
+      "hl": "en"
+    },
+    "local_results": [
+      {
+        "position": 1,
+        "title": "Sone Sample Multispeciality Hospital (Sample)",
+        "place_id": "ChIJ_SAMPLE_pat_03",
+        "data_id": "0x00000000005a2003:0x00000000000fa203",
+        "data_cid": "1000000144203",
+        "gps_coordinates": {
+          "latitude": 25.6081,
+          "longitude": 85.1266
+        },
+        "rating": 4.2,
+        "reviews": 980,
+        "type": "Private hospital",
+        "types": [
+          "Private hospital"
+        ],
+        "address": "12 Sample Marg, Patna, Bihar (Sample)",
+        "phone": "+91 00000 00003",
+        "website": "https://example.com/sample-hospital/pat-3"
+      },
+      {
+        "position": 2,
+        "title": "Bodh Sample Nephrology & Multispeciality Hospital (Sample)",
+        "place_id": "ChIJ_SAMPLE_pat_04",
+        "data_id": "0x00000000005a2004:0x00000000000fa204",
+        "data_cid": "1000000144204",
+        "gps_coordinates": {
+          "latitude": 25.5781,
+          "longitude": 85.1506
+        },
+        "rating": 4,
+        "reviews": 720,
+        "type": "Hospital",
+        "types": [
+          "Hospital",
+          "Nephrologist"
+        ],
+        "address": "13 Sample Marg, Patna, Bihar (Sample)",
+        "phone": "+91 00000 00004",
+        "website": "https://example.com/sample-hospital/pat-4"
+      },
+      {
+        "position": 3,
+        "title": "Ganga Sample Kidney & Dialysis Centre (Sample)",
+        "place_id": "ChIJ_SAMPLE_pat_05",
+        "data_id": "0x00000000005a2005:0x00000000000fa205",
+        "data_cid": "1000000144205",
+        "gps_coordinates": {
+          "latitude": 25.5971,
+          "longitude": 85.1226
+        },
+        "rating": 4.3,
+        "reviews": 640,
+        "type": "Dialysis center",
+        "types": [
+          "Dialysis center",
+          "Medical Center"
+        ],
+        "address": "14 Sample Marg, Patna, Bihar (Sample)",
+        "phone": "+91 00000 00005",
+        "website": "https://example.com/sample-hospital/pat-5"
+      },
+      {
+        "position": 4,
+        "title": "Kadam Sample Nursing Home (Sample)",
+        "place_id": "ChIJ_SAMPLE_pat_06",
+        "data_id": "0x00000000005a2006:0x00000000000fa206",
+        "data_cid": "1000000144206",
+        "gps_coordinates": {
+          "latitude": 25.6131,
+          "longitude": 85.1436
+        },
+        "rating": 3.7,
+        "reviews": 300,
+        "type": "Nursing home",
+        "types": [
+          "Nursing home"
+        ],
+        "address": "15 Sample Marg, Patna, Bihar (Sample)",
+        "phone": "+91 00000 00006",
+        "website": "https://example.com/sample-hospital/pat-6"
+      },
+      {
+        "position": 5,
+        "title": "Sample Kidney Diagnostics (Sample)",
+        "place_id": "ChIJ_SAMPLE_pat_90",
+        "data_id": "0x00000000005a205a:0x00000000000fa25a",
+        "data_cid": "1000000144290",
+        "gps_coordinates": {
+          "latitude": 25.5951,
+          "longitude": 85.1366
+        },
+        "rating": 4.5,
+        "reviews": 820,
+        "type": "Diagnostic center",
+        "types": [
+          "Diagnostic center"
+        ],
+        "address": "50 Sample Bazaar, Patna, Bihar (Sample)",
+        "phone": "+91 00000 00100"
+      },
+      {
+        "position": 6,
+        "title": "Patliputra Sample Hospital (Sample)",
+        "place_id": "ChIJ_SAMPLE_pat_02",
+        "data_id": "0x00000000005a2002:0x00000000000fa202",
+        "data_cid": "1000000144202",
+        "gps_coordinates": {
+          "latitude": 25.5851,
+          "longitude": 85.1306
+        },
+        "rating": 4.5,
+        "reviews": 1890,
+        "type": "Private hospital",
+        "types": [
+          "Private hospital",
+          "Hospital"
+        ],
+        "address": "11 Sample Marg, Patna, Bihar (Sample)",
+        "phone": "+91 00000 00002",
+        "website": "https://example.com/sample-hospital/pat-2"
+      },
+      {
+        "position": 7,
+        "title": "Sample Medical College Hospital, Patna (Sample)",
+        "place_id": "ChIJ_SAMPLE_pat_01",
+        "data_id": "0x00000000005a2001:0x00000000000fa201",
+        "data_cid": "1000000144201",
+        "gps_coordinates": {
+          "latitude": 25.6001,
+          "longitude": 85.1476
+        },
+        "rating": 3.8,
+        "reviews": 4210,
+        "type": "Government hospital",
+        "types": [
+          "Government hospital",
+          "Hospital"
+        ],
+        "address": "10 Sample Marg, Patna, Bihar (Sample)",
+        "phone": "+91 00000 00001",
+        "website": "https://example.com/sample-hospital/pat-1"
+      }
+    ]
+  }
+}

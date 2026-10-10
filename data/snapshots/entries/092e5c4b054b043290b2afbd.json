@@ -1,0 +1,54 @@
+{
+  "version": 1,
+  "key": "092e5c4b054b043290b2afbd",
+  "engine": "google_maps_reviews",
+  "params": {
+    "data_id": "0x396db5e2958ac373:0x20db688f984cae39",
+    "hl": "en",
+    "num": "20",
+    "query": "ayushman",
+    "sort_by": "newestFirst"
+  },
+  "fetchedAt": "2026-10-10T10:51:15.769Z",
+  "response": {
+    "search_metadata": {
+      "status": "Success",
+      "created_at": "2026-10-10 10:51:19 UTC",
+      "total_time_taken": 0.45
+    },
+    "search_parameters": {
+      "engine": "google_maps_reviews",
+      "data_id": "0x396db5e2958ac373:0x20db688f984cae39",
+      "hl": "en",
+      "num": "20",
+      "sort_by": "newestFirst",
+      "query": "ayushman"
+    },
+    "reviews": [
+      {
+        "position": 1,
+        "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25kblJqUm1XVTA1VVVsWFJUbHFTa2xZZFcxWllrRRAB!2m1!1s0x0:0x20db688f984cae39!3m1!1s2@1:CAIQACodChtycF9oOndnRjRmWU05UUlXRTlqSklYdW1ZYkE%7C%7C?hl=en",
+        "rating": 5,
+        "date": "6 months ago",
+        "iso_date": "2026-03-18T09:37:59Z",
+        "iso_date_of_last_edit": "2026-03-18T09:41:46Z",
+        "source": "Google",
+        "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25kblJqUm1XVTA1VVVsWFJUbHFTa2xZZFcxWllrRRAB",
+        "snippet": "My father mr navratan was admitted  502 under doctor mahendra  gupta\nAll staff is good\nNursing head ms. Nidhi incharge\nBhoopender\nAnkit\nNitin\nAyushman\nHousekeeping  GDA and resident doctor  all were good  and helpful  and supportive",
+        "extracted_snippet": {
+          "original": "My father mr navratan was admitted  502 under doctor mahendra  gupta\nAll staff is good\nNursing head ms. Nidhi incharge\nBhoopender\nAnkit\nNitin\nAyushman\nHousekeeping  GDA and resident doctor  all were good  and helpful  and supportive"
+        },
+        "likes": 0,
+        "response": {
+          "date": "6 months ago",
+          "iso_date": "2026-03-18T10:06:54Z",
+          "iso_date_of_last_edit": "2026-03-18T10:06:54Z",
+          "snippet": "Thank you for acknowledging your experience with us. We constantly look forward to your feedback! For any other medical assistance or information, connect with us at +91 9549158888 for the Extra Care you deserve. Regards, Team Eternal Hospital",
+          "extracted_snippet": {
+            "original": "Thank you for acknowledging your experience with us. We constantly look forward to your feedback! For any other medical assistance or information, connect with us at +91 9549158888 for the Extra Care you deserve. Regards, Team Eternal Hospital"
+          }
+        }
+      }
+    ]
+  }
+}

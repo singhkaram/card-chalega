@@ -1,0 +1,54 @@
+{
+  "version": 1,
+  "key": "b54d22ba0d1c5233024efb49",
+  "engine": "google_maps_reviews",
+  "params": {
+    "data_id": "0x39ed58975f07c0a3:0x10fc27d63db60243",
+    "hl": "en",
+    "num": "20",
+    "query": "ayushman",
+    "sort_by": "newestFirst"
+  },
+  "fetchedAt": "2026-10-10T10:50:47.228Z",
+  "response": {
+    "search_metadata": {
+      "status": "Success",
+      "created_at": "2026-10-10 10:50:51 UTC",
+      "total_time_taken": 0.48
+    },
+    "search_parameters": {
+      "engine": "google_maps_reviews",
+      "data_id": "0x39ed58975f07c0a3:0x10fc27d63db60243",
+      "hl": "en",
+      "num": "20",
+      "sort_by": "newestFirst",
+      "query": "ayushman"
+    },
+    "reviews": [
+      {
+        "position": 1,
+        "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2t0UWRFWXliVGhqTW1kblJXNXBaR293VldKV04wRRAB!2m1!1s0x0:0x10fc27d63db60243!3m1!1s2@1:CAIQACodChtycF9oOktQdEYybThjMmdnRW5pZGowVWJWN0E%7C%7C?hl=en",
+        "rating": 1,
+        "date": "a year ago",
+        "iso_date": "2025-09-28T03:07:59Z",
+        "iso_date_of_last_edit": "2025-09-28T03:07:59Z",
+        "source": "Google",
+        "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t0UWRFWXliVGhqTW1kblJXNXBaR293VldKV04wRRAB",
+        "snippet": "Worst experience, staff don't know what they are staying. Enrolled in Ayshman but refusing to treat on Ayushman Bharat card.\nJust a good building, no empathy for patients.",
+        "extracted_snippet": {
+          "original": "Worst experience, staff don't know what they are staying. Enrolled in Ayshman but refusing to treat on Ayushman Bharat card.\nJust a good building, no empathy for patients."
+        },
+        "likes": 0,
+        "response": {
+          "date": "a year ago",
+          "iso_date": "2025-09-29T13:13:28Z",
+          "iso_date_of_last_edit": "2025-09-29T13:13:28Z",
+          "snippet": "We’re sorry to hear about your experience. Could you please share more details with us at 9798251613, so we can address your concerns and work towards a resolution. We’re committed to addressing your concerns. Thank you",
+          "extracted_snippet": {
+            "original": "We’re sorry to hear about your experience. Could you please share more details with us at 9798251613, so we can address your concerns and work towards a resolution. We’re committed to addressing your concerns. Thank you"
+          }
+        }
+      }
+    ]
+  }
+}

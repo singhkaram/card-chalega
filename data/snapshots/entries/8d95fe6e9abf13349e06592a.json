@@ -1,0 +1,766 @@
+{
+  "version": 1,
+  "key": "8d95fe6e9abf13349e06592a",
+  "engine": "google_news",
+  "params": {
+    "gl": "in",
+    "hl": "en",
+    "q": "Ayushman card hospital Indore"
+  },
+  "fetchedAt": "2026-10-10T10:51:09.161Z",
+  "response": {
+    "search_metadata": {
+      "status": "Success",
+      "created_at": "2026-10-10 10:51:11 UTC",
+      "total_time_taken": 2.6
+    },
+    "search_parameters": {
+      "engine": "google_news",
+      "gl": "in",
+      "hl": "en",
+      "q": "Ayushman card hospital Indore"
+    },
+    "news_results": [
+      {
+        "position": 1,
+        "title": "Four-Year-Old Acid Attack Victim Gets Relief As MP High Court Orders Specialized Care",
+        "source": {
+          "name": "LawBeat",
+          "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://lawbeat.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "authors": [
+            "Himanshi Hans"
+          ]
+        },
+        "link": "https://lawbeat.in/news-updates/four-year-old-acid-attack-victim-gets-relief-as-mp-high-court-orders-specialized-care-1607975",
+        "thumbnail": "https://lawbeat.in/h-upload/2026/07/01/2212036-mp-high-court-acid-attack-survivor.webp",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXJTMXB2ZDJKclJIRlNabkJqVFJDZkF4amlCU2dLTWdaUmdJSjRzQVk",
+        "date": "07/01/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-07-01T07:00:00Z"
+      },
+      {
+        "position": 2,
+        "title": "Linear accelerator reaches Indore cancer hospital: Precisely destroys cancer cells, offers advanced radiati...",
+        "source": {
+          "name": "Bhaskar English",
+          "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.bhaskarenglish.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.bhaskarenglish.in/local/mp/indore/news/indore-government-cancer-hospital-linear-accelerator-machine-arrival-138905783.html",
+        "thumbnail": "https://images.bhaskarassets.com/thumb/1200x900/web2images/1884/2026/09/01/dbgifmagic-55_1788273569.gif",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVpjbGRYTW5sbWJEaEpUV2xEVFJEZ0F4al9CQ2dLTWdZUkk0aXNMUWM",
+        "date": "09/02/2026, 04:31 AM, +0000 UTC",
+        "iso_date": "2026-09-02T04:31:57Z"
+      },
+      {
+        "position": 3,
+        "title": "MP High Court Directs Private Hospital To Treat 4-Year-Old Acid Attack Survivor, Expenses To Be Covered...",
+        "source": {
+          "name": "Live Law",
+          "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.livelaw.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "authors": [
+            "Jayanti Pahwa"
+          ]
+        },
+        "link": "https://www.livelaw.in/high-court/madhya-pradesh-high-court/4-year-old-acid-attack-survivor-free-treatment-private-hospital-539302",
+        "thumbnail": "https://www.livelaw.in/h-upload/2025/12/10/1500x900_635840-justice-deepak-khot-with-jabalpur-bench-of-high-court-of-madhya-pradesh.webp",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVVWeTA1YmpNd1RWOWhWbmhYVFJDdEF4akxCU2dLTWdhQm1vWUR0d1k",
+        "date": "06/29/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-06-29T07:00:00Z"
+      },
+      {
+        "position": 4,
+        "title": "Fungus, rats in burn ward: Court moves child acid attack survivor to private hospital",
+        "source": {
+          "name": "The Indian Express",
+          "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://indianexpress.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://indianexpress.com/article/legal-news/fungus-rats-burn-ward-court-child-acid-attack-private-hospital-10768314/",
+        "thumbnail": "https://images.indianexpress.com/2026/07/Madhya-Pradesh-High-Court-acid-attack-survivor-hospital-unhygienic.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iMkNnNHpRVEJqV0ZGQk1FVTJOMU41VFJDZkF4ampCU2dLTWdzQklJclJJQ2pBYnBsb2N3",
+        "date": "07/03/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-07-03T07:00:00Z"
+      },
+      {
+        "position": 5,
+        "title": "Fake Ayushman cards racket spreads across MP: Ineligible people declared eligible as agents bypass OTP and ...",
+        "source": {
+          "name": "Bhaskar English",
+          "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.bhaskarenglish.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.bhaskarenglish.in/local/mp/bhopal/news/mp-ayushman-card-scam-agents-cheat-rs-15000-samagra-record-breach-137812724.html",
+        "thumbnail": "https://images.bhaskarassets.com/thumb/1200x900/web2images/1884/2026/04/29/2_1777434465.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNVRNM1ZDZWpaZlZrbFBaRVZvVFJEZ0F4aUFCU2dLTWdrQllJb3lLQ2pZQ1FJ",
+        "date": "04/28/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-04-28T07:00:00Z"
+      },
+      {
+        "position": 6,
+        "title": "Family Gets Health Insurance Card 2 Days After Child Dies Waiting In Indore",
+        "source": {
+          "name": "NDTV",
+          "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.ndtv.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "authors": [
+            "anurag dwary"
+          ]
+        },
+        "link": "https://www.ndtv.com/india-news/family-gets-ayushman-bharat-health-insurance-card-2-days-after-child-dies-waiting-in-indore-10995092",
+        "thumbnail": "https://c.ndtvimg.com/2025-07/etbf8ltg_hospital-generic-reuters_625x300_10_July_25.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVdla0pHWXpSRWRFSjJRMVpZVFJDeUF4akNCU2dLTWdZbFJvenNwUWM",
+        "date": "02/12/2026, 08:00 AM, +0000 UTC",
+        "iso_date": "2026-02-12T08:00:00Z"
+      },
+      {
+        "position": 7,
+        "title": "Ayushman Bharat: Indore hospital loses empanelment over irregularities",
+        "source": {
+          "name": "ET HealthWorld",
+          "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://health.economictimes.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://health.economictimes.indiatimes.com/news/hospitals/ayushman-bharat-indore-hospital-loses-empanelment-over-irregularities/98907625",
+        "thumbnail": "https://etimg.etb2bimg.com/photo/98907677.cms",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXpSaTF0TjIxTGJXbDRlaTFEVFJEMUFoamZCQ2dLTWdrQk1KSlJuT200aGdJ",
+        "date": "03/22/2023, 07:00 AM, +0000 UTC",
+        "iso_date": "2023-03-22T07:00:00Z"
+      },
+      {
+        "position": 8,
+        "title": "Ayushman Card Made Simple: Eligibility & Documents",
+        "source": {
+          "name": "HDFC ERGO General Insurance",
+          "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.hdfcergo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.hdfcergo.com/blogs/health-insurance/ayushman-card-documents-eligibility-application",
+        "thumbnail": "https://customer-portal-assets.hdfcergo.com//images/ayushman-card-documents-eligibility-and-application-guide-359658648540-1200.webp?q=75",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNWFhV05hY0dWbVoxQTVObTEyVFJDdUFSaWlBaWdCTWdtVkpJeVBsU3FpYVFJ",
+        "date": "01/22/2026, 08:00 AM, +0000 UTC",
+        "iso_date": "2026-01-22T08:00:00Z"
+      },
+      {
+        "position": 9,
+        "title": "Indore water tragedy: A family mourns death of 2-year-old girl born after many prayers",
+        "source": {
+          "name": "The New Indian Express",
+          "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.newindianexpress.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.newindianexpress.com/india/2026/Feb/13/indore-water-tragedy-a-family-mourns-death-of-2-year-old-girl-born-after-many-prayers-2",
+        "thumbnail": "https://cf-images.assettype.com/newindianexpress%2F2026-01-04%2Fj3gs9nlg%2Fnewindianexpress2026-01-02ka4mkr7qPTI01012026000165A.avif?rect=0%2C0%2C1024%2C576&w=1200&h=675&auto=format%2Ccompress&fit=crop",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXlUbnBUUW1KR1VIRXhjR3g2VFJDZkF4ampCU2dLTWdrQklKQ1JHR3F4U0FJ",
+        "date": "02/13/2026, 08:00 AM, +0000 UTC",
+        "iso_date": "2026-02-13T08:00:00Z"
+      },
+      {
+        "position": 10,
+        "title": "PM Modi launches projects worth Rs 12,850 crore, extends Ayushman Bharat for people above 70 years",
+        "source": {
+          "name": "DD News",
+          "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://ddnews.gov.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://ddnews.gov.in/en/pm-modi-launches-projects-worth-rs-12850-crore-extends-ayushman-bharat-for-people-above-70-years/",
+        "thumbnail": "https://ddnews.gov.in/wp-content/uploads/2024/10/20241029127L-scaled.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHdObkZsTUZWSmRXOVFNblZ4VFJDakF4amNCU2dLTWdZZE1vNE5NUWM",
+        "date": "10/29/2024, 07:00 AM, +0000 UTC",
+        "iso_date": "2024-10-29T07:00:00Z"
+      },
+      {
+        "position": 11,
+        "title": "Minor Acid Attack Survivor Allowed Free Treatment at Bombay Hospital: MP High Court Orders Immediate Admission",
+        "source": {
+          "name": "Court Book",
+          "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://courtbook.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://courtbook.in/posts/minor-acid-attack-survivor-allowed-free-treatment-at-bombay-hospital-mp-high-court-orders-immediate-admission",
+        "thumbnail": "https://s3.courtbook.in/2025/04/3ar6v4f_mp-high-court-indore-bench_625x300_16_January_24.webp",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWhSVGMzT0RoU2JYVjBhbk5CVFJDZkF4ampCU2dLTWdhUm9ZYU11UVk",
+        "date": "06/30/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-06-30T07:00:00Z"
+      },
+      {
+        "position": 12,
+        "title": "Ayushman Card Arrives After Toddler’s Death, Spotlight Returns To Gaps In Health Insurance Access",
+        "source": {
+          "name": "Outlook Money",
+          "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.outlookmoney.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.outlookmoney.com/personal-finance/ayushman-card-arrives-after-toddlers-death-spotlight-returns-to-gaps-in-health-insurance-access",
+        "thumbnail": "https://media.assettype.com/outlookmoney/2026-02-13/txr9dr86/Ayushman-Bharat-Coverage.png?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNUdXVmcyVkRWVmMybHZabmhaVFJERUF4aW1CU2dLTWdtSk1ZcnpKR2k1cFFJ",
+        "date": "02/13/2026, 08:00 AM, +0000 UTC",
+        "iso_date": "2026-02-13T08:00:00Z"
+      },
+      {
+        "position": 13,
+        "title": "Ayushman recognition cancelled for 126 hospitals in MP: 51 in Bhopal and 30 in Indore affected; free treatm...",
+        "source": {
+          "name": "Bhaskar English",
+          "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.bhaskarenglish.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "authors": [
+            "Shashank Awasthi"
+          ]
+        },
+        "link": "https://www.bhaskarenglish.in/local/mp/bhopal/news/mp-ayushman-hospital-recognition-cancelled-nabh-certificate-bhopal-indore-137617850.html",
+        "thumbnail": "https://images.bhaskarassets.com/thumb/1200x900/web2images/1884/2026/04/04/whatsappvideo2025-05-20at19443801d45b58-ezgifcom-o_1775326277.gif",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNXpORWRCWkRRMFdIVktUVVZqVFJEZ0F4al9CQ2dLTWdPQkpBUQ",
+        "date": "04/04/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-04-04T07:00:00Z"
+      },
+      {
+        "position": 14,
+        "title": "Ayushman Bharat brings relief in Delhi, but glitches remain: ‘Saved lakhs on my mother’s knee surgery’",
+        "source": {
+          "name": "The Indian Express",
+          "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://indianexpress.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "authors": [
+            "Ankita Upadhyay"
+          ]
+        },
+        "link": "https://indianexpress.com/article/cities/delhi/delhi-hardlook-ayushman-card-helped-my-mother-get-timely-treatment-months-after-launch-how-has-the-scheme-fared-in-delhi-10108755/",
+        "thumbnail": "https://images.indianexpress.com/2025/07/Ayushman-card-1.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXNaa0ZtUlRkS1gwVllZMjgyVFJDZkF4ampCU2dLTWdhQm9aQVR1UVU",
+        "date": "07/06/2025, 07:00 AM, +0000 UTC",
+        "iso_date": "2025-07-06T07:00:00Z"
+      },
+      {
+        "position": 15,
+        "title": "Indore: Private hospital refuses to treat Ayushman Bharat beneficiaries, loses registration",
+        "source": {
+          "name": "The Times of India",
+          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://timesofindia.indiatimes.com/city/indore/indore-private-hospital-refuses-to-treat-ayushman-bharat-beneficiaries-loses-registration/articleshow/82998283.cms",
+        "thumbnail": "https://static.toiimg.com/thumb/msid-82998274,width-1280,height-720,resizemode-72/82998274.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNUlSVTg1WjNGMGQyaDVMVTF1VFJDZkF4ampCU2dLTWdB",
+        "date": "05/27/2021, 07:00 AM, +0000 UTC",
+        "iso_date": "2021-05-27T07:00:00Z"
+      },
+      {
+        "position": 16,
+        "title": "Denied hospital refund despite husband’s Ayushman card, widow wins Rs 5.5 lakh",
+        "source": {
+          "name": "The Indian Express",
+          "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://indianexpress.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "authors": [
+            "Jagriti Rai"
+          ]
+        },
+        "link": "https://indianexpress.com/article/legal-news/hospital-refund-husbands-ayushman-card-widow-wins-rs-5-5-lakh-10751843/",
+        "thumbnail": "https://images.indianexpress.com/2026/06/pmjay-Ayushman-Bharat-beneficiary-refund-rule-cashless-consumer-complaint_20260622110350.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXpSMlJzVW1OaE1USXRXRXBqVFJDZkF4ampCU2dLTWdZQkJvYnNSUVE",
+        "date": "06/23/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-06-23T07:00:00Z"
+      },
+      {
+        "position": 17,
+        "title": "Phoenix Hospital probe exposes Ayushman fraud: Indore CMHO inspection finds no doctors, illegal constructio...",
+        "source": {
+          "name": "Bhaskar English",
+          "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.bhaskarenglish.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "authors": [
+            "tarun tiwari"
+          ]
+        },
+        "link": "https://www.bhaskarenglish.in/local/mp/news/phoenix-hospital-probe-exposes-ayushman-fraud-indore-cmho-finds-no-doctors-illegal-construction-safety-lapses-notice-served-135719039.html",
+        "thumbnail": "https://images.bhaskarassets.com/thumb/1200x900/web2images/1884/2025/08/20/screenshot-2025-08-20-155107_1755685316.png",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXVkekZ6TTBGeE0xOVhVVVpCVFJEZ0F4aUFCU2dLTWdZQjBKQ0ZRQVk",
+        "date": "08/20/2025, 11:22 AM, +0000 UTC",
+        "iso_date": "2025-08-20T11:22:42Z"
+      },
+      {
+        "position": 18,
+        "title": "Ayushman Bharat scam in Madhya Pradesh: Private hospitals in MP forcing patients to pay despite free treatm...",
+        "source": {
+          "name": "Bhaskar English",
+          "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.bhaskarenglish.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.bhaskarenglish.in/local/mp/bhopal/news/ayushman-bharat-scam-in-madhyapradesh-private-hospitals-in-mp-forcing-patients-to-pay-despite-free-treatment-scheme-134605425.html",
+        "thumbnail": "https://images.bhaskarassets.com/thumb/1200x900/web2images/1884/2025/03/08/comp-38_1741373067.gif",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXRSbDl0YldZM2RraEtNbVIwVFJEZ0F4al9CQ2dLTWdhUlJKcXBKUWs",
+        "date": "03/07/2025, 08:00 AM, +0000 UTC",
+        "iso_date": "2025-03-07T08:00:00Z"
+      },
+      {
+        "position": 19,
+        "title": "India marks Ayushman Bharat Diwas: Treatment given worth Rs 81,979 crore; 35.45 crore cards issued; UP, MP,...",
+        "source": {
+          "name": "Bhaskar English",
+          "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.bhaskarenglish.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "authors": [
+            "tarun tiwari"
+          ]
+        },
+        "link": "https://www.bhaskarenglish.in/national/news/india-marks-ayushman-bharat-diwas-134939236.html",
+        "thumbnail": "https://images.bhaskarassets.com/thumb/1200x900/web2images/1884/2025/04/30/ayushman-card_1746011306.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNUVOMWxwVDJob01FeHROR0ZzVFJEZ0F4aUFCU2dLTWdNRlFndw",
+        "date": "04/30/2025, 07:00 AM, +0000 UTC",
+        "iso_date": "2025-04-30T07:00:00Z"
+      },
+      {
+        "position": 20,
+        "title": "Patients at MY Hospital diverted to private hospitals in Indore: Probe exposes doctors, CMO and ambulance d...",
+        "source": {
+          "name": "Bhaskar English",
+          "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.bhaskarenglish.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.bhaskarenglish.in/local/mp/indore/news/my-hospital-patients-diverted-to-private-hospitals-in-indore-28-march-2025-madhya-pradesh-top-news-headlines-134724513.html",
+        "thumbnail": "https://images.bhaskarassets.com/thumb/1200x900/web2images/1884/2025/03/28/comp-15_1743132335.gif",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNURkVkpQYmpSTlVEWjVPSFJYVFJEZ0F4al9CQ2dLTWdZUkZJVkpVZ00",
+        "date": "03/28/2025, 07:00 AM, +0000 UTC",
+        "iso_date": "2025-03-28T07:00:00Z"
+      },
+      {
+        "position": 21,
+        "title": "Ayushman scheme irregularities flagged: NH-MMI Hospital accused of charging patients despite Ayushman cards...",
+        "source": {
+          "name": "Bhaskar English",
+          "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.bhaskarenglish.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.bhaskarenglish.in/local/chhattisgarh/news/nh-mmi-hospital-ayushman-card-patients-charged-notice-issued-137642598.html",
+        "thumbnail": "https://images.bhaskarassets.com/thumb/1200x900/web2images/1884/2026/04/08/aayush_1775618192.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXNTazVpYmsxMWRHaEJhVUp4VFJEZ0F4aUFCU2dLTWdsQk1JUzJ5T1F0aHdJ",
+        "date": "04/07/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-04-07T07:00:00Z"
+      },
+      {
+        "position": 22,
+        "title": "Free Hospital Treatment For Seniors Over 70: PM Modi",
+        "source": {
+          "name": "Kashmir Observer",
+          "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://kashmirobserver.net&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://kashmirobserver.net/2024/10/29/free-hospital-treatment-for-seniors-over-70-pm-modi/",
+        "thumbnail": "https://kashmirobserver.net/wp-content/uploads/2024/10/PM-Modi-Health-Card-Elder-Woman.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVFaRXRzZFcxU05IVTVhRWQ1VFJDMkF4aThCU2dLTWdZQlFvNHRJUWs",
+        "date": "10/29/2024, 07:00 AM, +0000 UTC",
+        "iso_date": "2024-10-29T07:00:00Z"
+      },
+      {
+        "position": 23,
+        "title": "Pothole-ridden Indore–Khandwa highway triggers airlift of elderly woman: Doctors cited severe spine risk on...",
+        "source": {
+          "name": "Bhaskar English",
+          "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.bhaskarenglish.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "authors": [
+            "tarun tiwari"
+          ]
+        },
+        "link": "https://www.bhaskarenglish.in/local/mp/news/pothole-ridden-indore-khandwa-highway-forces-airlift-of-senior-doctors-warn-spine-risk-speeding-move-to-ssh-136452632.html",
+        "thumbnail": "https://images.bhaskarassets.com/thumb/1200x900/web2images/1884/2025/11/18/whatsappvideo2025-11-18at1408341-ezgifcom-optimize_1763479820.gif",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHljekJSZW1WdmRXaHBhVzVDVFJEZ0F4al9CQ2dLTWdZVkJZUXFBZzA",
+        "date": "11/18/2025, 04:05 PM, +0000 UTC",
+        "iso_date": "2025-11-18T16:05:43Z"
+      },
+      {
+        "position": 24,
+        "title": "Senior citizens above 70 can now get free treatment at empanelled hospitals in Delhi with Ayushman cards",
+        "source": {
+          "name": "The Indian Express",
+          "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://indianexpress.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "authors": [
+            "Ankita Upadhyay"
+          ]
+        },
+        "link": "https://indianexpress.com/article/cities/delhi/union-minister-puri-delhi-cm-hand-out-first-38-health-cards-under-pmvvy-9971208/",
+        "thumbnail": "https://images.indianexpress.com/2025/04/Ayushman-Bharat-health-cards.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNHdTMVJVUTFVNExUSnRZVmc1VFJDZkF4ampCU2dLTWdtQkFJNldCS3k0U0FJ",
+        "date": "04/28/2025, 07:00 AM, +0000 UTC",
+        "iso_date": "2025-04-28T07:00:00Z"
+      },
+      {
+        "position": 25,
+        "title": "MY running sans albumin injection for two months",
+        "source": {
+          "name": "The Times of India",
+          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://timesofindia.indiatimes.com/city/indore/news/my-running-sans-albumin-injection-for-two-months/articleshow/106139444.cms",
+        "thumbnail": "https://static.toiimg.com/thumb/resizemode-4,width-1280,msid-33486062/33486062.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNUVSbFZUWWxSa04wZEpWWGQ0VFJERUF4aW1CU2dLTWdNSmt4SQ",
+        "date": "12/20/2023, 08:00 AM, +0000 UTC",
+        "iso_date": "2023-12-20T08:00:00Z"
+      },
+      {
+        "position": 26,
+        "title": "Patients trouble due to non-approval under PMJAY: Gujarat MLA demands swift action on Ayushman Card for gen...",
+        "source": {
+          "name": "Bhaskar English",
+          "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.bhaskarenglish.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.bhaskarenglish.in/local/gujarat/surat/news/patients-trouble-due-to-non-approval-under-pmjay-134246555.html",
+        "thumbnail": "https://images.bhaskarassets.com/thumb/1200x900/web2images/1884/2025/01/06/unnamed-25_1736151634.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXJaVXRFVkVFNVlWaHJhRU4yVFJEZ0F4aUFCU2dLTWdZUmM1U0lzZ1k",
+        "date": "03/30/2025, 07:29 AM, +0000 UTC",
+        "iso_date": "2025-03-30T07:29:42Z"
+      },
+      {
+        "position": 27,
+        "title": "Woman dies by suicide, husband slits throat in Khudel area",
+        "source": {
+          "name": "The Times of India",
+          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://timesofindia.indiatimes.com/city/indore/woman-dies-by-suicide-husband-slits-throat-in-khudel-area/articleshow/131858432.cms",
+        "thumbnail": "https://static.toiimg.com/thumb/msid-33486062,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNXlZVWxXVlhWcWNGcENVVEZFVFJDZkF4ampCU2dLTWdNRm94QQ",
+        "date": "06/19/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-06-19T07:00:00Z"
+      },
+      {
+        "position": 28,
+        "title": "PM Modi hits out at Delhi, WB government for not implementing Ayushman Bharat scheme",
+        "source": {
+          "name": "The New Indian Express",
+          "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.newindianexpress.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "authors": [
+            "Kavita Bajeli Datt"
+          ]
+        },
+        "link": "https://www.newindianexpress.com/india/2024/Oct/29/pm-modi-hits-out-at-delhi-wb-government-for-not-implementing-ayushman-bharat-scheme-2",
+        "thumbnail": "https://cf-images.assettype.com/TNIE%2Fimport%2F2021%2F5%2F29%2Foriginal%2FBeFunky-collage_21.jpg?rect=48%2C0%2C800%2C450&w=1200&h=675&auto=format%2Ccompress&fit=crop",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNUJhakpSWWxGYWRGTTJTR1Z1VFJDZkF4ampCU2dLTWdrSlVaQ21wdWdsS0FJ",
+        "date": "10/29/2024, 07:00 AM, +0000 UTC",
+        "iso_date": "2024-10-29T07:00:00Z"
+      },
+      {
+        "position": 29,
+        "title": "Ahmedabad crime branch busts Ayushman Card fraud linked to Khyati Hospital | Hindustan Times",
+        "source": {
+          "name": "Hindustan Times",
+          "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.hindustantimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "authors": [
+            "Ht Correspondent"
+          ]
+        },
+        "link": "https://www.hindustantimes.com/cities/others/ahmedabad-crime-branch-busts-ayushman-card-fraud-linked-to-khyati-hospital-101734452205203.html",
+        "thumbnail": "https://www.hindustantimes.com/ht-img/img/2024/12/17/1600x900/The-Ahmedabad-crime-branch-has-arrested-eight-pers_1734452196079.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDViSGhzVXpGMFJtNUhhRlpQVFJDZkF4ampCU2dLTWdZSk5ZakhPUVU",
+        "date": "12/17/2024, 08:00 AM, +0000 UTC",
+        "iso_date": "2024-12-17T08:00:00Z"
+      },
+      {
+        "position": 30,
+        "title": "25K senior citizens get Ayushman cards in Prayagraj | Hindustan Times",
+        "source": {
+          "name": "Hindustan Times",
+          "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.hindustantimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "authors": [
+            "Ht Correspondent"
+          ]
+        },
+        "link": "https://www.hindustantimes.com/cities/others/25k-senior-citizens-get-ayushman-cards-in-prayagraj-101741791492414.html",
+        "thumbnail": "https://www.hindustantimes.com/ht-img/img/2025/03/12/original/For-representation-only--HT-FIle-Photo-_1741791485145.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUViMnBOZHpKWFdqTk1PVFppVFJEU0FoakpCU2dLTWdZSmNKS3ZNQWM",
+        "date": "03/12/2025, 07:00 AM, +0000 UTC",
+        "iso_date": "2025-03-12T07:00:00Z"
+      },
+      {
+        "position": 31,
+        "title": "Woman dies due to surgical negligence in Khandwa, doctor booked: Kidney operation done without tests; legs ...",
+        "source": {
+          "name": "Bhaskar English",
+          "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.bhaskarenglish.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.bhaskarenglish.in/local/mp/news/khandwa-doctor-performs-kidney-operation-without-tests-woman-dies-fir-registered-135309090.html",
+        "thumbnail": "https://images.bhaskarassets.com/thumb/1200x900/web2images/1884/2025/06/25/comp-21-1_1750844758.gif",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNUtPWE5sWTA0d1NtMHpXaTB4VFJEZ0F4al9CQ2dLTWdrQmNJWlp5S1BJTVFF",
+        "date": "06/25/2025, 07:00 AM, +0000 UTC",
+        "iso_date": "2025-06-25T07:00:00Z"
+      },
+      {
+        "position": 32,
+        "title": "In first for govt sector in MP, obesity clinic started in Indores Maharaja Yashwantrao Hospital",
+        "source": {
+          "name": "The Tribune",
+          "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.tribuneindia.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.tribuneindia.com/news/madhya-pradesh/in-first-for-govt-sector-in-mp-obesity-clinic-started-in-indores-maharaja-yashwantrao-hospital/",
+        "thumbnail": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWZmYjBhOGIwLTEwYTItMTFmMS1hN2NkLWExNzYyOTNmNDNjZS5qcGc=",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNTZYMEYwYjBGVldrYzFXRGt6VFJERUF4aW5CU2dLTWdB",
+        "date": "02/23/2026, 08:00 AM, +0000 UTC",
+        "iso_date": "2026-02-23T08:00:00Z"
+      },
+      {
+        "position": 33,
+        "title": "One-Day-Old Girl With Serious Heart Condition Airlifted From MP’s Ujjain To Ahmedabad",
+        "source": {
+          "name": "Free Press Journal",
+          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.freepressjournal.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.freepressjournal.in/indore/one-day-old-girl-with-serious-heart-condition-airlifted-from-mps-ujjain-to-ahmedabad",
+        "thumbnail": "https://media.assettype.com/freepressjournal/2026-09-25/atb6zy0d/Sept-25PIC-2Girl-child.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDNjMHB0U1hVdFRubDRVM1JsVFJDVkF4alFCU2dLTWdZQkFJZ1N5UVE",
+        "date": "09/25/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-09-25T07:00:00Z"
+      },
+      {
+        "position": 34,
+        "title": "MP Ayushman: 126 Hospitals Lose Recognition Over NABH",
+        "source": {
+          "name": "Dainik Jagran MP CG",
+          "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://english.dainikjagranmpcg.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://english.dainikjagranmpcg.com/states/madhya-pradesh/mp-ayushman-126-hospitals-lose-recognition-over-nabh/article-16547",
+        "thumbnail": "https://english.dainikjagranmpcg.com/media-webp/392/2026-04/mp-ayushman-126-hospitals-lose-recognition-over-nabh.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVRPV1ZaVGpOZmRYSXlSVU5pVFJDb0FSaXNBaWdCTWdZZEFJQTZDQXc",
+        "date": "04/05/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-04-05T07:00:00Z"
+      },
+      {
+        "position": 35,
+        "title": "आयुष्मान भारत हॉस्पिटल लिस्ट मध्य प्रदेश | Ayushman Bharat Hospital List MP",
+        "source": {
+          "name": "केंद्र एव राज्य की सरकारी योजनाओं की जानकारी in Hindi",
+          "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://easyhindi.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://easyhindi.in/ayushman-bharat/ayushman-bharat-hospital-list-mp/",
+        "thumbnail": "https://easyhindi.in/wp-content/uploads/2022/06/PMJAY-Hospital-List-16.png",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iMkNnNDVOV2xDYjFCdU1XRnpkbXRDVFJDNEF4aUFCU2dLTWdzQlVJQzFvT2loMU9oYW9n",
+        "date": "06/21/2022, 10:29 AM, +0000 UTC",
+        "iso_date": "2022-06-21T10:29:58Z"
+      },
+      {
+        "position": 36,
+        "title": "Indore: CMHO Raid Exposes Major Irregularities At Phoenix Hospital",
+        "source": {
+          "name": "Free Press Journal",
+          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.freepressjournal.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.freepressjournal.in/indore/indore-cmho-raid-exposes-major-irregularities-at-phoenix-hospital",
+        "thumbnail": "https://media.assettype.com/freepressjournal/2025-08-20/xehdqaxq/download.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNDBjM0JDZDAwMGJucGxRMmg2VFJDb0FSaXNBaWdLTWdB",
+        "date": "08/21/2025, 07:00 AM, +0000 UTC",
+        "iso_date": "2025-08-21T07:00:00Z"
+      },
+      {
+        "position": 37,
+        "title": "No Hospital De-Empaneled Under Ayushman Bharat In MP; Notices To 125, Hospitals, NABH Accreditation Deadline",
+        "source": {
+          "name": "Free Press Journal",
+          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.freepressjournal.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.freepressjournal.in/bhopal/no-hospital-de-empaneled-under-ayushman-bharat-in-mp-notices-to-125-hospitals-nabh-accreditation-deadline-extended-till-april-end",
+        "thumbnail": "https://media.assettype.com/freepressjournal/2026-01-20/4nkclaih/Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Queen-Of-All-Mayhem-4.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVpNelJpWkRZM1dUQjZXVVUxVFJDZkF4ampCU2dLTWdZQkFKd09rUW8",
+        "date": "04/09/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-04-09T07:00:00Z"
+      },
+      {
+        "position": 38,
+        "title": "Indores MY Hospital To Become First Govt Facility In MP To Offer Affordable IVF Treatment",
+        "source": {
+          "name": "Free Press Journal",
+          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.freepressjournal.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "authors": [
+            "Arsh Rafik"
+          ]
+        },
+        "link": "https://www.freepressjournal.in/indore/indores-my-hospital-to-become-first-govt-facility-in-mp-to-offer-affordable-ivf-treatment",
+        "thumbnail": "https://media.assettype.com/freepressjournal/2022-10/420571bb-b7ee-466c-99fa-b2ff26001129/MY_Hospital.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNVFVbmRSYkdoVldXOHhkV0Y1VFJDd0FoaWNCQ2dLTWdtSmNaWUlNYWc4aWdJ",
+        "date": "03/12/2025, 07:00 AM, +0000 UTC",
+        "iso_date": "2025-03-12T07:00:00Z"
+      },
+      {
+        "position": 39,
+        "title": "MP: 36 private hospitals in state de-listed from Ayushman Bharat Yojana",
+        "source": {
+          "name": "Free Press Journal",
+          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.freepressjournal.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.freepressjournal.in/bhopal/mp-36-private-hospitals-in-state-de-listed-from-ayushman-bharat-yojana",
+        "thumbnail": "https://media.assettype.com/freepressjournal/2022-10/a612dbce-5f72-4cf3-b15d-761e21c462e7/Ayushman_bharat.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNW1aRlkzWlRCcGNHc3RXR00wVFJDZkF4amlCU2dLTWdB",
+        "date": "04/18/2023, 07:00 AM, +0000 UTC",
+        "iso_date": "2023-04-18T07:00:00Z"
+      },
+      {
+        "position": 40,
+        "title": "Ayushman Bharat Hospital List | आयुष्मान भारत लिस्ट | PMJAY Hospital List",
+        "source": {
+          "name": "easyhindi.in",
+          "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://easyhindi.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://easyhindi.in/central-government-scheme/ayushman-bharat-hospital-list-up/",
+        "thumbnail": "https://easyhindi.in/wp-content/uploads/2022/06/PMJAY-Hospital-List-9.png",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNTJabnB1TUhoMlVtRmlUWEJVVFJDNEF4aUFCU2dLTWdrQlVZWmpUcU04U1FJ",
+        "date": "06/02/2022, 10:12 AM, +0000 UTC",
+        "iso_date": "2022-06-02T10:12:59Z"
+      },
+      {
+        "position": 41,
+        "title": "Indore News: Rape Convict Asaram Bapu Reaches Govt Super-Specialty Hospital For Medical Checkup Amid Tight",
+        "source": {
+          "name": "Free Press Journal",
+          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.freepressjournal.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.freepressjournal.in/indore/indore-news-rape-convict-asaram-bapu-reaches-govt-super-specialty-hospital-for-medical-checkup-amid-tight-security",
+        "thumbnail": "https://media.assettype.com/freepressjournal/2026-04-02/y5ztdwfl/6eaa142f-2733-455a-bf93-5d71843af1f6.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNWhlVk50YUZWQ01VaHJNbE50VFJES0FoakxCQ2dLTWdB",
+        "date": "04/02/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-04-02T07:00:00Z"
+      },
+      {
+        "position": 42,
+        "title": "Indore: Construction Of New Building Begins 321-Bed Cancer Hospital To Be Built At A Cost Of Rs 60 Crore",
+        "source": {
+          "name": "Free Press Journal",
+          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.freepressjournal.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.freepressjournal.in/bhopal/indore-construction-of-new-building-begins321-bed-cancer-hospital-to-be-built-at-a-cost-of-rs-60-crore",
+        "thumbnail": "https://media.assettype.com/freepressjournal/2023-10/1dcba181-e90e-4c53-80d8-6dcca8f3518e/Cancer_hospital_building.jfif",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNURSMFJOTWtocGRFRjJZVjgwVFJDZkF4ampCU2dLTWdB",
+        "date": "10/08/2023, 07:00 AM, +0000 UTC",
+        "iso_date": "2023-10-08T07:00:00Z"
+      },
+      {
+        "position": 43,
+        "title": "2-Year-Old Girls Body Exhumed After Family Alleges Medical Negligence In Indore",
+        "source": {
+          "name": "Free Press Journal",
+          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.freepressjournal.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.freepressjournal.in/indore/2-year-old-girls-body-exhumed-after-family-alleges-medical-negligence-in-indore",
+        "thumbnail": "https://media.assettype.com/freepressjournal/2023-03/0c5a4efb-c6e8-4fc9-b166-c4398785469c/child_death_1_1580205.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVpaWGRRUXpaQlJ6Z3daemh4VFJEZUFoanVCQ2dLTWdZQklJN2pGZ28",
+        "date": "06/03/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-06-03T07:00:00Z"
+      },
+      {
+        "position": 44,
+        "title": "Indore News: Girl Molested, Beaten By 4 Drunkards Outside Firangi Cafe; Saved By Friends -- Shocking VIDEO",
+        "source": {
+          "name": "Free Press Journal",
+          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.freepressjournal.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "authors": [
+            "Kajal Kumari"
+          ]
+        },
+        "link": "https://www.freepressjournal.in/indore/indore-news-girl-molested-beaten-by-4-drunkards-outside-firangi-cafe-saved-by-friends-shocking-video-viral",
+        "thumbnail": "https://media.assettype.com/freepressjournal/2026-02-14/t5x6883v/Add-a-subheading-2026-02-14T122431.592.png",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVBZek5sYlY5alIwWldUVVZCVFJDZkF4ampCU2dLTWdZQlFaWmdKd2s",
+        "date": "02/14/2026, 08:00 AM, +0000 UTC",
+        "iso_date": "2026-02-14T08:00:00Z"
+      },
+      {
+        "position": 45,
+        "title": "Indore: Commissioner Inspects MY Hospital: 8 Doctors Served Show-Cause Notice For Absence From OPD",
+        "source": {
+          "name": "Free Press Journal",
+          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.freepressjournal.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.freepressjournal.in/indore/indore-commissioner-inspects-my-hospital-8-doctors-served-show-causenotice-for-absence-from-opd",
+        "thumbnail": "https://media.assettype.com/freepressjournal/2023-08/7b48be78-0ed4-4020-9c3c-a4d031e25264/Arsh_Hospital.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUVhakphY2xsV2FVUjFOR1JJVFJDb0F4alRCU2dLTWdhaFFJcDRHQW8",
+        "date": "08/03/2023, 07:00 AM, +0000 UTC",
+        "iso_date": "2023-08-03T07:00:00Z"
+      },
+      {
+        "position": 46,
+        "title": "MP CM Mohan Yadav Lays Foundation Stone Of Indore’s Historic Lalbagh Palace",
+        "source": {
+          "name": "Free Press Journal",
+          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.freepressjournal.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.freepressjournal.in/indore/mp-cm-mohan-yadav-lays-foundation-stone-of-indores-historic-lalbagh-palace",
+        "thumbnail": "https://media.assettype.com/freepressjournal/2025-05-20/m0bg4ztp/GrYEUxAWgAEHDqf.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNDJUSEJhVVVOZmJFNWtZWEY1VFJDZkF4ampCU2dLTWdB",
+        "date": "05/20/2025, 07:00 AM, +0000 UTC",
+        "iso_date": "2025-05-20T07:00:00Z"
+      },
+      {
+        "position": 47,
+        "title": "MP: Air Ambulance Service Rolls Out, Will Be Free For Ayushman Card Holders Within And Outside The State",
+        "source": {
+          "name": "Free Press Journal",
+          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.freepressjournal.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.freepressjournal.in/bhopal/mp-air-ambulance-service-rolls-out-will-be-free-for-ayushman-card-holders-within-and-outside-the-state",
+        "thumbnail": "https://media.assettype.com/freepressjournal/2023-03/d8ec1ae2-9999-42b3-8199-9c3f3667a96f/Doctor_Pixabay.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWxlVlphUm1kMlVXOHpOa3h1VFJDMEFSakFBaWdLTWdZQlFJS1EzUU0",
+        "date": "06/12/2024, 07:00 AM, +0000 UTC",
+        "iso_date": "2024-06-12T07:00:00Z"
+      },
+      {
+        "position": 48,
+        "title": "Jhabua Collector Yogesh Bharsat Inspects Hospital, Stresses Patient Care; Focus On Efficiency, Hygiene And",
+        "source": {
+          "name": "Free Press Journal",
+          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.freepressjournal.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.freepressjournal.in/indore/jhabua-collector-yogesh-bharsat-inspects-hospital-stresses-patient-care-focus-on-efficiency-hygiene-and-service-quality",
+        "thumbnail": "https://media.assettype.com/freepressjournal/2026-04-14/hfasdg2d/14-April-%E2%80%93-Jhabua-%E2%80%93-collector.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTJaa2xMVUVKVFJVcHRNa1ZLVFJDZkF4ampCU2dLTWdZRklJeDNFQXM",
+        "date": "04/14/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-04-14T07:00:00Z"
+      },
+      {
+        "position": 49,
+        "title": "Indore: 4-Month-Old Baby Undergoes Laser Surgery As Her Intestines Entered Chest",
+        "source": {
+          "name": "Free Press Journal",
+          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.freepressjournal.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.freepressjournal.in/indore/indore-4-month-old-baby-undergoes-laser-surgery-as-her-intestines-entered-chest",
+        "date": "11/21/2023, 08:00 AM, +0000 UTC",
+        "iso_date": "2023-11-21T08:00:00Z"
+      },
+      {
+        "position": 50,
+        "title": "MP: Revenue Dept Seals Mewar Hospital In Dhar",
+        "source": {
+          "name": "Free Press Journal",
+          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.freepressjournal.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.freepressjournal.in/indore/mp-revenue-dept-seals-mewar-hospital-in-dhar",
+        "thumbnail": "https://media.assettype.com/freepressjournal/2023-11/3d5477e1-f79c-49fd-9237-b6a0d4865765/4.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNVdiREpLWm1NemJGRkhTbFJ3VFJEZkF4aUFCU2dLTWdB",
+        "date": "11/28/2023, 08:00 AM, +0000 UTC",
+        "iso_date": "2023-11-28T08:00:00Z"
+      }
+    ],
+    "menu_links": [
+      {
+        "title": "India",
+        "topic_token": "CAAqJQgKIh9DQkFTRVFvSUwyMHZNRE55YXpBU0JXVnVMVWRDS0FBUAE",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqJQgKIh9DQkFTRVFvSUwyMHZNRE55YXpBU0JXVnVMVWRDS0FBUAE"
+      },
+      {
+        "title": "World",
+        "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx1YlY4U0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx1YlY4U0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+      },
+      {
+        "title": "Your local news",
+        "topic_token": "CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE"
+      },
+      {
+        "title": "Business",
+        "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx6TVdZU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx6TVdZU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+      },
+      {
+        "title": "Technology",
+        "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRGRqTVhZU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRGRqTVhZU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+      },
+      {
+        "title": "Entertainment",
+        "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNREpxYW5RU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNREpxYW5RU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+      },
+      {
+        "title": "Sports",
+        "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp1ZEdvU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp1ZEdvU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+      },
+      {
+        "title": "Science",
+        "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp0Y1RjU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp0Y1RjU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+      },
+      {
+        "title": "Health",
+        "topic_token": "CAAqJQgKIh9DQkFTRVFvSUwyMHZNR3QwTlRFU0JXVnVMVWRDS0FBUAE",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqJQgKIh9DQkFTRVFvSUwyMHZNR3QwTlRFU0JXVnVMVWRDS0FBUAE"
+      }
+    ]
+  }
+}

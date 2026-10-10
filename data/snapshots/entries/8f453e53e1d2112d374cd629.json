@@ -1,0 +1,55 @@
+{
+  "version": 1,
+  "key": "8f453e53e1d2112d374cd629",
+  "engine": "google_maps_reviews",
+  "params": {
+    "data_id": "0x399be2c94da83907:0x2a73095003dbbf46",
+    "hl": "en",
+    "num": "20",
+    "query": "ayushman",
+    "sort_by": "newestFirst"
+  },
+  "fetchedAt": "2026-10-10T10:50:20.694Z",
+  "response": {
+    "search_metadata": {
+      "status": "Success",
+      "created_at": "2026-10-10 10:50:19 UTC",
+      "total_time_taken": 5.49
+    },
+    "search_parameters": {
+      "engine": "google_maps_reviews",
+      "data_id": "0x399be2c94da83907:0x2a73095003dbbf46",
+      "hl": "en",
+      "num": "20",
+      "sort_by": "newestFirst",
+      "query": "ayushman"
+    },
+    "reviews": [
+      {
+        "position": 1,
+        "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2pacldIaFNTMlp6ZUVsd1QzSjZNR1ZwYTBKaVIyYxAB!2m1!1s0x0:0x2a73095003dbbf46!3m1!1s2@1:CAIQACodChtycF9oOjZrWHhSS2ZzeElwT3J6MGVpa0JiR2c%7C%7C?hl=en",
+        "rating": 5,
+        "date": "8 months ago",
+        "iso_date": "2026-01-28T07:43:25Z",
+        "iso_date_of_last_edit": "2026-01-28T07:46:17Z",
+        "source": "Google",
+        "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pacldIaFNTMlp6ZUVsd1QzSjZNR1ZwYTBKaVIyYxAB",
+        "snippet": "Mera opretion Dr.K.B.jain sir ne kiya hai golbledar me mere stone ho gai thi to  mera operation Ayushman dwara hua Hai yahan per doctors bahut acche Hain sabhi staff bahut acche Hain thank you Dr KB Jain sir is the best doctors bahut acche Hain thankyou so much 🙏 and another staff thanks",
+        "extracted_snippet": {
+          "original": "Mera opretion Dr.K.B.jain sir ne kiya hai golbledar me mere stone ho gai thi to  mera operation Ayushman dwara hua Hai yahan per doctors bahut acche Hain sabhi staff bahut acche Hain thank you Dr KB Jain sir is the best doctors bahut acche Hain thankyou so much 🙏 and another staff thanks",
+          "translated": "My operation was done by Dr. K.B. Jain sir. I had a stone in my bladder, so my operation was done by Ayushman. The doctors here are very good, all the staff are very good, thank you Dr. KB Jain sir, these are the best doctors, they are very good, thank you so much 🙏 and other staff thanks"
+        },
+        "likes": 0,
+        "response": {
+          "date": "8 months ago",
+          "iso_date": "2026-01-28T08:55:19Z",
+          "iso_date_of_last_edit": "2026-01-28T08:55:19Z",
+          "snippet": "Thank you so much for your feedback. This is very important for us. ",
+          "extracted_snippet": {
+            "original": "Thank you so much for your feedback. This is very important for us. "
+          }
+        }
+      }
+    ]
+  }
+}

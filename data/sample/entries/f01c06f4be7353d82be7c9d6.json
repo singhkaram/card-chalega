@@ -1,0 +1,132 @@
+{
+  "version": 1,
+  "key": "f01c06f4be7353d82be7c9d6",
+  "engine": "google_maps_reviews",
+  "params": {
+    "data_id": "0x00000000005a2005:0x00000000000fa205",
+    "hl": "en",
+    "num": "20",
+    "query": "ayushman"
+  },
+  "fetchedAt": "2026-10-03T08:35:00.000Z",
+  "note": "SYNTHETIC SAMPLE DATA — dev only",
+  "response": {
+    "search_metadata": {
+      "status": "Success",
+      "created_at": "2026-10-03 08:35:00 UTC",
+      "total_time_taken": 2.1
+    },
+    "search_parameters": {
+      "engine": "google_maps_reviews",
+      "data_id": "0x00000000005a2005:0x00000000000fa205",
+      "query": "ayushman",
+      "num": "20",
+      "hl": "en"
+    },
+    "place_info": {
+      "title": "Ganga Sample Kidney & Dialysis Centre (Sample)",
+      "address": "14 Sample Marg, Patna, Bihar (Sample)",
+      "rating": 4.3,
+      "reviews": 640,
+      "type": "Dialysis center"
+    },
+    "reviews": [
+      {
+        "link": "https://example.com/review/sample_pat_05_r01",
+        "rating": 5,
+        "date": "a month ago",
+        "iso_date": "2026-09-02T18:24:00Z",
+        "review_id": "sample_pat_05_r01",
+        "snippet": "(Translated by Google) Father's dialysis twice a week is free with the Ayushman card. The staff is good.\n\n(Original)\nपिताजी का हफ्ते में दो बार डायलिसिस आयुष्मान कार्ड से मुफ्त होता है। स्टाफ अच्छा है।",
+        "extracted_snippet": {
+          "original": "पिताजी का हफ्ते में दो बार डायलिसिस आयुष्मान कार्ड से मुफ्त होता है। स्टाफ अच्छा है।",
+          "translated": "Father's dialysis twice a week is free with the Ayushman card. The staff is good."
+        },
+        "likes": 0,
+        "response": {
+          "date": "3 weeks ago",
+          "iso_date": "2026-09-08T17:19:12Z",
+          "snippet": "धन्यवाद! हम आपके पिताजी के अच्छे स्वास्थ्य की कामना करते हैं।"
+        }
+      },
+      {
+        "link": "https://example.com/review/sample_pat_05_r02",
+        "rating": 5,
+        "date": "2 months ago",
+        "iso_date": "2026-08-03T07:48:00Z",
+        "review_id": "sample_pat_05_r02",
+        "snippet": "Dialysis sessions under Ayushman Bharat are completely cashless here. They even provide the dialyser kit.",
+        "extracted_snippet": {
+          "original": "Dialysis sessions under Ayushman Bharat are completely cashless here. They even provide the dialyser kit."
+        },
+        "likes": 3
+      },
+      {
+        "link": "https://example.com/review/sample_pat_05_r03",
+        "rating": 4,
+        "date": "4 months ago",
+        "iso_date": "2026-06-03T11:36:00Z",
+        "review_id": "sample_pat_05_r03",
+        "snippet": "Ayushman card se dialysis free hai, bas slot ke liye 2-3 din wait karna padta hai.",
+        "extracted_snippet": {
+          "original": "Ayushman card se dialysis free hai, bas slot ke liye 2-3 din wait karna padta hai."
+        },
+        "likes": 1
+      },
+      {
+        "link": "https://example.com/review/sample_pat_05_r04",
+        "rating": 4,
+        "date": "6 months ago",
+        "iso_date": "2026-04-03T15:24:00Z",
+        "review_id": "sample_pat_05_r04",
+        "snippet": "Good dialysis unit. Ayushman card accepted, no charges except parking.",
+        "extracted_snippet": {
+          "original": "Good dialysis unit. Ayushman card accepted, no charges except parking."
+        },
+        "likes": 4
+      },
+      {
+        "link": "https://example.com/review/sample_pat_05_r05",
+        "rating": 2,
+        "date": "9 months ago",
+        "iso_date": "2026-01-02T09:36:00Z",
+        "review_id": "sample_pat_05_r05",
+        "snippet": "They asked ₹500 per dialysis session for kit charges even though we have the Ayushman card.",
+        "extracted_snippet": {
+          "original": "They asked ₹500 per dialysis session for kit charges even though we have the Ayushman card."
+        },
+        "likes": 2,
+        "response": {
+          "date": "9 months ago",
+          "iso_date": "2026-01-08T08:31:12Z",
+          "snippet": "Kits are included in the PM-JAY dialysis package. We have refunded the amount and retrained the billing team. — Centre manager (sample)"
+        }
+      },
+      {
+        "link": "https://example.com/review/sample_pat_05_r06",
+        "rating": 5,
+        "date": "a year ago",
+        "iso_date": "2025-08-03T08:36:00Z",
+        "review_id": "sample_pat_05_r06",
+        "snippet": "(Translated by Google) Mother's kidney treatment and dialysis were free under the Ayushman scheme.\n\n(Original)\nआयुष्मान योजना से माँ का किडनी का इलाज और डायलिसिस मुफ्त हुआ।",
+        "extracted_snippet": {
+          "original": "आयुष्मान योजना से माँ का किडनी का इलाज और डायलिसिस मुफ्त हुआ।",
+          "translated": "Mother's kidney treatment and dialysis were free under the Ayushman scheme."
+        },
+        "likes": 0
+      },
+      {
+        "link": "https://example.com/review/sample_pat_05_r07",
+        "rating": 3,
+        "date": "2 years ago",
+        "iso_date": "2024-09-02T22:00:00Z",
+        "review_id": "sample_pat_05_r07",
+        "snippet": "Ayushman dialysis was free but the waiting time was very long.",
+        "extracted_snippet": {
+          "original": "Ayushman dialysis was free but the waiting time was very long."
+        },
+        "likes": 3
+      }
+    ]
+  }
+}

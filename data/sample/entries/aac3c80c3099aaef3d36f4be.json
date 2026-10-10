@@ -1,0 +1,57 @@
+{
+  "version": 1,
+  "key": "aac3c80c3099aaef3d36f4be",
+  "engine": "google_news",
+  "params": {
+    "gl": "in",
+    "hl": "en",
+    "q": "Ayushman card hospital Lucknow"
+  },
+  "fetchedAt": "2026-10-03T08:12:00.000Z",
+  "note": "SYNTHETIC SAMPLE DATA — dev only",
+  "response": {
+    "search_metadata": {
+      "status": "Success",
+      "created_at": "2026-10-03 08:12:00 UTC",
+      "total_time_taken": 0.9
+    },
+    "search_parameters": {
+      "engine": "google_news",
+      "q": "Ayushman card hospital Lucknow",
+      "gl": "in",
+      "hl": "en"
+    },
+    "news_results": [
+      {
+        "position": 1,
+        "title": "Sample headline: District panel reviews Ayushman card claims at private hospitals",
+        "source": {
+          "name": "Sample News Desk"
+        },
+        "link": "https://example.com/news/sample-lko-en-1",
+        "date": "09/30/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-09-30T05:02:24Z"
+      },
+      {
+        "position": 2,
+        "title": "Sample headline: Ayushman card registration camp held at community centre",
+        "source": {
+          "name": "Sample News Desk"
+        },
+        "link": "https://example.com/news/sample-lko-en-2",
+        "date": "09/27/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-09-27T03:04:48Z"
+      },
+      {
+        "position": 3,
+        "title": "Sample headline: Health department reminds hospitals of PM-JAY cashless rules",
+        "source": {
+          "name": "Sample News Desk"
+        },
+        "link": "https://example.com/news/sample-lko-en-3",
+        "date": "09/24/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-09-24T01:07:12Z"
+      }
+    ]
+  }
+}

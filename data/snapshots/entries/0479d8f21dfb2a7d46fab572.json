@@ -1,0 +1,172 @@
+{
+  "version": 1,
+  "key": "0479d8f21dfb2a7d46fab572",
+  "engine": "google_maps_reviews",
+  "params": {
+    "data_id": "0x399be342ab9377f7:0xbab197a93f5a2c9d",
+    "hl": "en",
+    "num": "20",
+    "query": "ayushman",
+    "sort_by": "newestFirst"
+  },
+  "fetchedAt": "2026-10-10T10:50:15.723Z",
+  "response": {
+    "search_metadata": {
+      "status": "Success",
+      "created_at": "2026-10-10 10:50:19 UTC",
+      "total_time_taken": 0.5
+    },
+    "search_parameters": {
+      "engine": "google_maps_reviews",
+      "data_id": "0x399be342ab9377f7:0xbab197a93f5a2c9d",
+      "hl": "en",
+      "num": "20",
+      "sort_by": "newestFirst",
+      "query": "ayushman"
+    },
+    "reviews": [
+      {
+        "position": 1,
+        "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21NdFZFeDRUazVvTkZkak5ISk1TakZhV0Y4eVZsRRAB!2m1!1s0x0:0xbab197a93f5a2c9d!3m1!1s2@1:CAIQACodChtycF9oOmMtVEx4Tk5oNFdjNHJMSjFaWF8yVlE%7C%7C?hl=en",
+        "rating": 4,
+        "date": "4 months ago",
+        "iso_date": "2026-05-18T09:41:02Z",
+        "iso_date_of_last_edit": "2026-05-18T09:41:02Z",
+        "source": "Google",
+        "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21NdFZFeDRUazVvTkZkak5ISk1TakZhV0Y4eVZsRRAB",
+        "snippet": "I was great experience with this hospital. Dr is good and take care of patients.\nOnly before coming just confirm for Ayushman card facility because in my case proper information was not provided. Rest all things are good.",
+        "extracted_snippet": {
+          "original": "I was great experience with this hospital. Dr is good and take care of patients.\nOnly before coming just confirm for Ayushman card facility because in my case proper information was not provided. Rest all things are good."
+        },
+        "likes": 0
+      },
+      {
+        "position": 2,
+        "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21GRFVtNXFlRFY0TW1OYWFVZHJTMjlYZUhoVGNVRRAB!2m1!1s0x0:0xbab197a93f5a2c9d!3m1!1s2@1:CAIQACodChtycF9oOmFDUm5qeDV4MmNaaUdrS29XeHhTcUE%7C%7C?hl=en",
+        "rating": 1,
+        "date": "a year ago",
+        "iso_date": "2025-09-14T13:49:48Z",
+        "iso_date_of_last_edit": "2025-09-14T13:52:56Z",
+        "source": "Google",
+        "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21GRFVtNXFlRFY0TW1OYWFVZHJTMjlYZUhoVGNVRRAB",
+        "snippet": "During our recent visit for Ayushman approval, we had an unpleasant experience at the concerned counter. The behavior of the operator was completely opposite to the warmth and sensitivity we otherwise experience in the hospital. His way of speaking felt disrespectful and indifferent, making us feel as though we were standing in an insensitive government office. While the entire hospital always feels like “home” and gives us peace of mind, this particular encounter left us with discomfort and humiliation.\nI hope the management will take some action on this.",
+        "extracted_snippet": {
+          "original": "During our recent visit for Ayushman approval, we had an unpleasant experience at the concerned counter. The behavior of the operator was completely opposite to the warmth and sensitivity we otherwise experience in the hospital. His way of speaking felt disrespectful and indifferent, making us feel as though we were standing in an insensitive government office. While the entire hospital always feels like “home” and gives us peace of mind, this particular encounter left us with discomfort and humiliation.\nI hope the management will take some action on this."
+        },
+        "likes": 0
+      },
+      {
+        "position": 3,
+        "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUR2MVpxaEFREAE!2m1!1s0x0:0xbab197a93f5a2c9d!3m1!1s2@1:CIHM0ogKEICAgIDv1ZqhAQ%7C%7C?hl=en",
+        "rating": 1,
+        "date": "a year ago",
+        "iso_date": "2024-12-22T14:15:35Z",
+        "iso_date_of_last_edit": "2024-12-22T14:15:35Z",
+        "source": "Google",
+        "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR2MVpxaEFREAE",
+        "snippet": "This hospital is good  mara capf ayushman card hote hue be doctor or admin or management  mare patient se alag se pasa magte ha or 2 lack rupe  be lya ha or  bill be nahi dya patient ko",
+        "extracted_snippet": {
+          "original": "This hospital is good  mara capf ayushman card hote hue be doctor or admin or management  mare patient se alag se pasa magte ha or 2 lack rupe  be lya ha or  bill be nahi dya patient ko",
+          "translated": "This hospital is good. Despite having my CAPF Ayushman card, the doctor, admin or management take money separately from my patient and take Rs 2 lakh and do not even give the bill to the patient."
+        },
+        "likes": 0
+      },
+      {
+        "position": 4,
+        "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURYcTZ6X2lBRRAB!2m1!1s0x0:0xbab197a93f5a2c9d!3m1!1s2@1:CIHM0ogKEICAgIDXq6z_iAE%7C%7C?hl=en",
+        "rating": 1,
+        "date": "a year ago",
+        "iso_date": "2024-10-31T05:21:19Z",
+        "iso_date_of_last_edit": "2024-10-31T05:21:19Z",
+        "source": "Google",
+        "review_id": "ChdDSUhNMG9nS0VJQ0FnSURYcTZ6X2lBRRAB",
+        "snippet": "It was a very bad experience, they took 2 days just to complete the discharge process and you have to run to different floors to get it complete. No one can stay with the patient, they will only allow you to visit 1 hour in the morning and 1 hour in the evening. No sitting arrangement for visitors, you have to stand all the time while visiting the patient. Most of the staff members are rude and ignorant. Doctors don't have clarity on what needs to be done exactly, different doctors have different views. Ayushman card - they will not start the process before operation and will try to delay as much as possible and eventually you have to pay all the amount.\nI think you should visit any government hospital instead of this.",
+        "extracted_snippet": {
+          "original": "It was a very bad experience, they took 2 days just to complete the discharge process and you have to run to different floors to get it complete. No one can stay with the patient, they will only allow you to visit 1 hour in the morning and 1 hour in the evening. No sitting arrangement for visitors, you have to stand all the time while visiting the patient. Most of the staff members are rude and ignorant. Doctors don't have clarity on what needs to be done exactly, different doctors have different views. Ayushman card - they will not start the process before operation and will try to delay as much as possible and eventually you have to pay all the amount.\nI think you should visit any government hospital instead of this."
+        },
+        "likes": 4,
+        "response": {
+          "date": "Edited a year ago",
+          "iso_date": "2024-11-06T16:13:07Z",
+          "iso_date_of_last_edit": "2025-04-23T07:32:47Z",
+          "snippet": "We are still waiting for your patient's UHID. \nFor your kind information. No hospital in this universe will allow visitors to be with patient 24 hour. In case of ICU and CCU even visitors are not allowed at all.\nNow coming to sitting arrangements. We have sitting arrangements on ground floor, no hospital keep waiting area in ICU and CCU or OT area.\nThe image which you have posted is of lift area where wheel chairs, patient on strechers get shifted. Where have you seen waiting chairs in front of lift area.\nOur floor incharge keep requesting to be on the ground floor in waiting area all the time. We call attendent in case of need ourself as we have numbers of patient attendent.\nRegarding clarity of doctors, either you are faking your experience or you yourself not understood their words. Our doctors are highly experienced and renowned doctors studied from premier institutions like AIIMS, SGPGI, KGMU, PGI Chandigarh and worked in International and top hospitals of India.\nNow coming to Ayushman Card, verification and authentication awnd verification process is must. It is a must process and we can't skip. Without confirmation we can't start the process unless it is emergency. Even patient with insurance they need to wait for insurance company's nod before starting the treatment.\nAyushman process sometime takes longer time to get a nod.\nNow coming to discharge process. Again we need to follow the rules and a patient can get as quickly as cash patient. All paper work need to be completed before discharge. We never deny any Ayushman Patient. We were the first super speciality hospital in Lucknow who started admitting Ayushman patient. \nWe never stops anyone in visiting other hospital. \nBut we surely expects to get UHID of patient so that we resolve the issue. Correct our short coming and improve patient and their family's experience.\n-----------\nOld Reply\nHi,\n\nKindly share your patient name along with the UHID (registration number). Will look into this, resolve the issue and take the best corrective measures further.\n\nSorry for the inconvenience.",
+          "extracted_snippet": {
+            "original": "We are still waiting for your patient's UHID. \nFor your kind information. No hospital in this universe will allow visitors to be with patient 24 hour. In case of ICU and CCU even visitors are not allowed at all.\nNow coming to sitting arrangements. We have sitting arrangements on ground floor, no hospital keep waiting area in ICU and CCU or OT area.\nThe image which you have posted is of lift area where wheel chairs, patient on strechers get shifted. Where have you seen waiting chairs in front of lift area.\nOur floor incharge keep requesting to be on the ground floor in waiting area all the time. We call attendent in case of need ourself as we have numbers of patient attendent.\nRegarding clarity of doctors, either you are faking your experience or you yourself not understood their words. Our doctors are highly experienced and renowned doctors studied from premier institutions like AIIMS, SGPGI, KGMU, PGI Chandigarh and worked in International and top hospitals of India.\nNow coming to Ayushman Card, verification and authentication awnd verification process is must. It is a must process and we can't skip. Without confirmation we can't start the process unless it is emergency. Even patient with insurance they need to wait for insurance company's nod before starting the treatment.\nAyushman process sometime takes longer time to get a nod.\nNow coming to discharge process. Again we need to follow the rules and a patient can get as quickly as cash patient. All paper work need to be completed before discharge. We never deny any Ayushman Patient. We were the first super speciality hospital in Lucknow who started admitting Ayushman patient. \nWe never stops anyone in visiting other hospital. \nBut we surely expects to get UHID of patient so that we resolve the issue. Correct our short coming and improve patient and their family's experience.\n-----------\nOld Reply\nHi,\n\nKindly share your patient name along with the UHID (registration number). Will look into this, resolve the issue and take the best corrective measures further.\n\nSorry for the inconvenience."
+          }
+        }
+      },
+      {
+        "position": 5,
+        "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUQ3aU9yTHV3RRAB!2m1!1s0x0:0xbab197a93f5a2c9d!3m1!1s2@1:CIHM0ogKEICAgID7iOrLuwE%7C%7C?hl=en",
+        "rating": 1,
+        "date": "2 years ago",
+        "iso_date": "2024-08-20T14:38:00Z",
+        "iso_date_of_last_edit": "2024-08-20T14:38:00Z",
+        "source": "Google",
+        "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQ3aU9yTHV3RRAB",
+        "snippet": "Tender Palm has been the most agonizing experience for me during my son's treatment. This hospital is solely based on commercialization of people's miseries. I will summarise a few things. The ICU charge per day is 15k and the doctor consultation is 2k per visist. But the catch is that the visit only constitutes of the doctor comes strolling around the patient's beds. The attendants have no access to their patient's report, and you will never know what they are doing with your patient. To top it all , one cannot claim the benefits of Ayushman card, or Deendayal Employee assistance. My son who is on dialysis was diagnosed with acute pneumonia and despite staying 3 whole days in the ICU, they could not manage to provide an ounce of relief in the coughing. My son is doing better now when I took him to another hospital. But my experience with Tender Palm has taught me that hospital is often a place to loot money from poor patients taking advantage of their illiteracy and obliviousness. Tender Palm is the pioneer of them all.",
+        "extracted_snippet": {
+          "original": "Tender Palm has been the most agonizing experience for me during my son's treatment. This hospital is solely based on commercialization of people's miseries. I will summarise a few things. The ICU charge per day is 15k and the doctor consultation is 2k per visist. But the catch is that the visit only constitutes of the doctor comes strolling around the patient's beds. The attendants have no access to their patient's report, and you will never know what they are doing with your patient. To top it all , one cannot claim the benefits of Ayushman card, or Deendayal Employee assistance. My son who is on dialysis was diagnosed with acute pneumonia and despite staying 3 whole days in the ICU, they could not manage to provide an ounce of relief in the coughing. My son is doing better now when I took him to another hospital. But my experience with Tender Palm has taught me that hospital is often a place to loot money from poor patients taking advantage of their illiteracy and obliviousness. Tender Palm is the pioneer of them all."
+        },
+        "likes": 4,
+        "response": {
+          "date": "2 years ago",
+          "iso_date": "2024-08-23T11:46:52Z",
+          "iso_date_of_last_edit": "2024-08-23T11:46:52Z",
+          "snippet": "Kindly share your patient name along with the UHID (registration number). Will look into this, resolve the issue and take the best corrective measures further.\n\nSorry for the inconvenience.",
+          "extracted_snippet": {
+            "original": "Kindly share your patient name along with the UHID (registration number). Will look into this, resolve the issue and take the best corrective measures further.\n\nSorry for the inconvenience."
+          }
+        }
+      },
+      {
+        "position": 6,
+        "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURGLXB1bUNBEAE!2m1!1s0x0:0xbab197a93f5a2c9d!3m1!1s2@1:CIHM0ogKEICAgIDF-pumCA%7C%7C?hl=en",
+        "rating": 5,
+        "date": "2 years ago",
+        "iso_date": "2023-11-06T12:05:43Z",
+        "iso_date_of_last_edit": "2023-11-06T12:05:43Z",
+        "source": "Google",
+        "review_id": "ChZDSUhNMG9nS0VJQ0FnSURGLXB1bUNBEAE",
+        "snippet": "Here ayushman card accept\nNeat and clean hospital",
+        "extracted_snippet": {
+          "original": "Here ayushman card accept\nNeat and clean hospital"
+        },
+        "likes": 0,
+        "response": {
+          "date": "2 years ago",
+          "iso_date": "2023-12-25T19:25:44Z",
+          "iso_date_of_last_edit": "2023-12-25T19:25:44Z",
+          "snippet": "\nThank you for the feedback\n\nTender Palm Hospital",
+          "extracted_snippet": {
+            "original": "\nThank you for the feedback\n\nTender Palm Hospital"
+          }
+        }
+      },
+      {
+        "position": 7,
+        "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURaeG9LODVnRRAB!2m1!1s0x0:0xbab197a93f5a2c9d!3m1!1s2@1:CIHM0ogKEICAgIDZxoK85gE%7C%7C?hl=en",
+        "rating": 1,
+        "date": "3 years ago",
+        "iso_date": "2023-09-29T18:38:47Z",
+        "iso_date_of_last_edit": "2023-09-29T18:44:11Z",
+        "source": "Google",
+        "review_id": "ChdDSUhNMG9nS0VJQ0FnSURaeG9LODVnRRAB",
+        "snippet": "They are taking money from Ayushman patient for blood security and didn't giving receipt to the patient,the said thay what's need of receipt for Ayushman patient it was not under our rules and guidelines.",
+        "extracted_snippet": {
+          "original": "They are taking money from Ayushman patient for blood security and didn't giving receipt to the patient,the said thay what's need of receipt for Ayushman patient it was not under our rules and guidelines."
+        },
+        "likes": 4,
+        "response": {
+          "date": "3 years ago",
+          "iso_date": "2023-09-30T03:39:58Z",
+          "iso_date_of_last_edit": "2023-09-30T03:39:58Z",
+          "snippet": "Tender Palm Hospital is very serious in the field of health care. Patient's health is paramount for us.\n\nStill, if there is any issue you face, kindly share your contact details. Our team will connect you and resolve the issue as well.\n\nThank you ",
+          "extracted_snippet": {
+            "original": "Tender Palm Hospital is very serious in the field of health care. Patient's health is paramount for us.\n\nStill, if there is any issue you face, kindly share your contact details. Our team will connect you and resolve the issue as well.\n\nThank you "
+          }
+        }
+      }
+    ]
+  }
+}

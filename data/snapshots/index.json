@@ -1,0 +1,227 @@
+{
+  "version": 1,
+  "generatedAt": "2026-10-10T10:51:57.012Z",
+  "reviewsNum": 20,
+  "combos": {
+    "lucknow:general": {
+      "city": "lucknow",
+      "treatment": "general",
+      "mapsKey": "104bea08081bda17e55bc17e",
+      "fetchedAt": "2026-10-10T10:50:14.862Z",
+      "hospitals": [
+        {
+          "dataId": "0x399957dbd750a9bd:0x70d6f590f73a2866",
+          "reviewsKey": "6f5ac9947c6c1b7a8791694e"
+        },
+        {
+          "dataId": "0x399be342ab9377f7:0xbab197a93f5a2c9d",
+          "reviewsKey": "0479d8f21dfb2a7d46fab572"
+        },
+        {
+          "dataId": "0x399be2c94da83907:0x2a73095003dbbf46",
+          "reviewsKey": "8f453e53e1d2112d374cd629"
+        },
+        {
+          "dataId": "0x399bfd64f2bcc1a5:0x45c18f03f9d6f7a3",
+          "reviewsKey": "69f18ec4aec0f9c5e27e37f5"
+        },
+        {
+          "dataId": "0x399be2f3d2796549:0x449251352fb3e3a6",
+          "reviewsKey": "c635d63e2f95750f340c9eec"
+        },
+        {
+          "dataId": "0x399bfd7b47f26f41:0xde21ace3c83c05d0",
+          "reviewsKey": "7470e2472acda9068dc8ac69"
+        },
+        {
+          "dataId": "0x39995634bc482633:0xeba1b4bbd6710d23",
+          "reviewsKey": "6c0776933a0f5da4e7dcd484"
+        },
+        {
+          "dataId": "0x399bfd94942a5565:0xbe405d569fde9b03",
+          "reviewsKey": "5c22f69aeb986ac052932cba"
+        }
+      ],
+      "newsKeys": {
+        "en": "aac3c80c3099aaef3d36f4be",
+        "hi": "e199a387d01919f2be03312a"
+      }
+    },
+    "patna:general": {
+      "city": "patna",
+      "treatment": "general",
+      "mapsKey": "ca95dd0a8ef0b7291ab1742f",
+      "fetchedAt": "2026-10-10T10:50:46.413Z",
+      "hospitals": [
+        {
+          "dataId": "0x39ed5843b8e5cac7:0x2870e50b5d18fd58",
+          "reviewsKey": "28980c86342d02fa67844fa8"
+        },
+        {
+          "dataId": "0x39ed58975f07c0a3:0x10fc27d63db60243",
+          "reviewsKey": "b54d22ba0d1c5233024efb49"
+        },
+        {
+          "dataId": "0x39ed590fdf81b18d:0xa1a3f41898479285",
+          "reviewsKey": "a1b7815bf07ad05c655199d5"
+        },
+        {
+          "dataId": "0x39ed58a0b631989d:0x17acc585f61d0b68",
+          "reviewsKey": "5d2efc92fe7510b0fc40083a"
+        },
+        {
+          "dataId": "0x39ed582b586ec055:0x4bdbe8813044fc2d",
+          "reviewsKey": "e4064b0c83b55f3aeadeca06"
+        },
+        {
+          "dataId": "0x39ed578f44deaf4d:0x5d08fef82eb3a95c",
+          "reviewsKey": "78d5d900c9dd9dc0913b3680"
+        },
+        {
+          "dataId": "0x39ed588e3e2514a7:0x8a3c470ef8e11ea0",
+          "reviewsKey": "7ceae4f6f6fd2064f7541d24"
+        },
+        {
+          "dataId": "0x39ed59d531e4194b:0x9f807c41c8cf952d",
+          "reviewsKey": "174032520a2a0cf9583868b0"
+        }
+      ],
+      "newsKeys": {
+        "en": "95eaf5497da260151392a49f",
+        "hi": "254d03c2de3741f233a28000"
+      }
+    },
+    "ghaziabad:general": {
+      "city": "ghaziabad",
+      "treatment": "general",
+      "mapsKey": "b6afdc3318051f044f71e45b",
+      "fetchedAt": "2026-10-10T10:50:54.446Z",
+      "hospitals": [
+        {
+          "dataId": "0x390cf202e418049d:0x496e4e07711af556",
+          "reviewsKey": "c64cacfa350087966a737513"
+        },
+        {
+          "dataId": "0x390cf124d9287501:0x9969065a789c602e",
+          "reviewsKey": "40e2f9b99af38b3595de93ce"
+        },
+        {
+          "dataId": "0x390cfb45a9fad971:0x8fe6c7b5686c64c3",
+          "reviewsKey": "5fab7ac9ff6f4def458b5066"
+        },
+        {
+          "dataId": "0x390cfbb22eb2aa61:0x6e0b3a04d2081eaf",
+          "reviewsKey": "564746678082d6274a52fdca"
+        },
+        {
+          "dataId": "0x390ce5035eaaaaab:0x2dd548f41f1a66b",
+          "reviewsKey": "6dbb5ddcdfab6dc35c396723"
+        },
+        {
+          "dataId": "0x390cfb5d828eeed5:0x910a26fd6f8efb5",
+          "reviewsKey": "9a048c3ea82a79e1603cec99"
+        },
+        {
+          "dataId": "0x390cf1136f6a697d:0xd028f05d7b46c3",
+          "reviewsKey": "eec54cbdc7c41ab6e196231c"
+        },
+        {
+          "dataId": "0x390cfbafb7688723:0x85b36c2240c39dc8",
+          "reviewsKey": "d8ca6e4eb59061d975cf08cd"
+        }
+      ],
+      "newsKeys": {
+        "en": "37cdf4dde5f542cb076c17c8",
+        "hi": "3fb52001cf6bd1d404819086"
+      }
+    },
+    "indore:general": {
+      "city": "indore",
+      "treatment": "general",
+      "mapsKey": "041aeb605f2f273376529dbe",
+      "fetchedAt": "2026-10-10T10:51:02.402Z",
+      "hospitals": [
+        {
+          "dataId": "0x3962fd41a51a4d29:0xd3ab2459a9410cb",
+          "reviewsKey": "988ba51e0b7b4c635e977021"
+        },
+        {
+          "dataId": "0x3962fd4f4dca1777:0x62bc8f8b155a8bd8",
+          "reviewsKey": "896af573a5746030c83d250e"
+        },
+        {
+          "dataId": "0x3962fd5596143bb7:0xa0053666a6c0dd5f",
+          "reviewsKey": "e4f3168fae97c001f1464f0f"
+        },
+        {
+          "dataId": "0x396302a8893efb37:0xdccf05a77b7ff3eb",
+          "reviewsKey": "71fc16140a4d3819b0fc512e"
+        },
+        {
+          "dataId": "0x3962fc4c567f5df7:0xb35b3d2fff7b49cd",
+          "reviewsKey": "f29994f9198588098ed46b2f"
+        },
+        {
+          "dataId": "0x3962fd072fc57783:0x87cd7c50fde2db84",
+          "reviewsKey": "df8a2a367ce4c0cae78ebc2f"
+        },
+        {
+          "dataId": "0x3962fd0bbd8c1735:0x4010adec7b446fd1",
+          "reviewsKey": "0139a44c50a80d1c15097a4c"
+        },
+        {
+          "dataId": "0x3962fd377801896d:0xed14096c6c9dc86a",
+          "reviewsKey": "db84904d9f92b1bec94c6228"
+        }
+      ],
+      "newsKeys": {
+        "en": "8d95fe6e9abf13349e06592a",
+        "hi": "8cdd921fce0e74343292cbaf"
+      }
+    },
+    "jaipur:general": {
+      "city": "jaipur",
+      "treatment": "general",
+      "mapsKey": "983c74e4c1b9a4c25f8c627a",
+      "fetchedAt": "2026-10-10T10:51:14.962Z",
+      "hospitals": [
+        {
+          "dataId": "0x396db4a4585f1267:0x1a772cfdc188beb8",
+          "reviewsKey": "bdf38716baed338a42038eb9"
+        },
+        {
+          "dataId": "0x396db5e2958ac373:0x20db688f984cae39",
+          "reviewsKey": "092e5c4b054b043290b2afbd"
+        },
+        {
+          "dataId": "0x396db66b6d706811:0xcd772b82cdece6c4",
+          "reviewsKey": "346dcd67963a596e86b9dd56"
+        },
+        {
+          "dataId": "0x396db69ecfd32ee7:0x3423f6c55d37fd06",
+          "reviewsKey": "6c96552f7b6fee587295fa4e"
+        },
+        {
+          "dataId": "0x396db5a253fd9edb:0x76da252ec3e87e10",
+          "reviewsKey": "fe96763a61f7addaf966dacf"
+        },
+        {
+          "dataId": "0x396db5d959acfaab:0xc1f9740077a2f97f",
+          "reviewsKey": "06cf020f6b4be6735f3e10e4"
+        },
+        {
+          "dataId": "0x396db5a19b43fe4b:0x65132521df20778c",
+          "reviewsKey": "c45b5ffe83d793372cd470f4"
+        },
+        {
+          "dataId": "0x396db2cd80532bb3:0xe1991c8be77bd447",
+          "reviewsKey": "ee50ea43e0b0e7e76ea44335"
+        }
+      ],
+      "newsKeys": {
+        "en": "027566e2c44774ff473f0767",
+        "hi": "5a7248aa74d28990df21e8c0"
+      }
+    }
+  }
+}

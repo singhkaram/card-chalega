@@ -1,0 +1,1015 @@
+{
+  "version": 1,
+  "key": "ca95dd0a8ef0b7291ab1742f",
+  "engine": "google_maps",
+  "params": {
+    "hl": "en",
+    "ll": "@25.5941,85.1376,13z",
+    "q": "hospital",
+    "type": "search"
+  },
+  "fetchedAt": "2026-10-10T10:50:46.413Z",
+  "response": {
+    "search_metadata": {
+      "status": "Success",
+      "created_at": "2026-10-10 10:50:50 UTC",
+      "total_time_taken": 0.88
+    },
+    "search_parameters": {
+      "engine": "google_maps",
+      "type": "search",
+      "q": "hospital",
+      "ll": "@25.5941,85.1376,13z",
+      "google_domain": "google.com",
+      "hl": "en"
+    },
+    "search_information": {
+      "local_results_state": "Results for exact spelling",
+      "query_displayed": "hospital"
+    },
+    "local_results": [
+      {
+        "position": 1,
+        "title": "Paras HMRI Hospital | Best Hospital in Patna",
+        "place_id": "ChIJx8rluENY7TkRWP0YXQvlcCg",
+        "data_id": "0x39ed5843b8e5cac7:0x2870e50b5d18fd58",
+        "data_cid": "2914080795878030680",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x39ed5843b8e5cac7%3A0x2870e50b5d18fd58&engine=google_maps_reviews&hl=en",
+        "photos_link": "https://serpapi.com/search.json?data_id=0x39ed5843b8e5cac7%3A0x2870e50b5d18fd58&engine=google_maps_photos&hl=en",
+        "gps_coordinates": {
+          "latitude": 25.605646099999998,
+          "longitude": 85.08258699999999
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJx8rluENY7TkRWP0YXQvlcCg",
+        "provider_id": "/g/1tvw3bpx",
+        "rating": 4.4,
+        "reviews": 17331,
+        "type": "General hospital",
+        "types": [
+          "General hospital",
+          "Hospital",
+          "Private hospital"
+        ],
+        "address": "NH 30, Bailey Rd, MLA Colony, Raja Bazar, Indrapuri, Patna, Bihar 800014, India",
+        "country": "India",
+        "open_state": "Open 24 hours",
+        "hours": "Open 24 hours",
+        "operating_hours": {
+          "saturday": "Open 24 hours",
+          "sunday": "Open 24 hours",
+          "monday": "Open 24 hours",
+          "tuesday": "Open 24 hours",
+          "wednesday": "Open 24 hours",
+          "thursday": "Open 24 hours",
+          "friday": "Open 24 hours"
+        },
+        "phone": "+91 78350 84931",
+        "website": "https://www.parashospitals.com/patna/doctor-near-me/",
+        "extensions": [
+          {
+            "accessibility": [
+              "Wheelchair accessible entrance",
+              "Wheelchair accessible parking lot"
+            ]
+          }
+        ],
+        "book_online": "https://www.parashospitals.com/patna/doctor-near-me/?utm_campaign=rightchoice-google-reserve&utm_source=google-reserve&utm_medium=11873279090802996996&rwg_token=AE37R_h3Kk3lehcSdIyYQMfP9sEHRbUKmpP4BBgHd1v30dRovFjKKQ965iiut6rkcj-LQTtrp4rLoGyS73WHyp5WYVNf6_3udA%3D%3D",
+        "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLfJcu_HVQTZ73gRNXlTbqRQegxcZV60c77CRqJyfME6tZfH2Mcn5Wwg1ZoB_wU_Y9oX_emr4nK0L-lc5tOPsYLf0pnEQl9fxK95Fu-j0cEPEGO17bmCwaPdBZJkRnpQYvY3RR7DKg=w1000-h1000-c-n",
+        "serpapi_thumbnail": "https://serpapi.com/images/url/Eo0zUHicHcRRboIwGADgE1XKGDYs8UEcmwFUaByTvhD915bM0iItwx3RI3gbE7-H735rnevtm-epNphJY6Tio-UDGO24djMwnSeHo7UIrLdcxucuFymMzboq94wEkm4Pan-60JLLK7BqjoGQFb2k_2KTzB0T65cN6PB7kj4zcTN9NXVkDg3vhled4RwpCN2usHUucK-TUkXimkXhx4h-MSRF8rnzyalbTcfiJ2bpmeq-rP_qgFLynsnF5GOMUfsckH4ABvxFCg"
+      },
+      {
+        "position": 2,
+        "title": "BIG Apollo Spectra Hospitals",
+        "place_id": "ChIJo8AHX5dY7TkRQwK2PdYn_BA",
+        "data_id": "0x39ed58975f07c0a3:0x10fc27d63db60243",
+        "data_cid": "1223896999849755203",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x39ed58975f07c0a3%3A0x10fc27d63db60243&engine=google_maps_reviews&hl=en",
+        "photos_link": "https://serpapi.com/search.json?data_id=0x39ed58975f07c0a3%3A0x10fc27d63db60243&engine=google_maps_photos&hl=en",
+        "gps_coordinates": {
+          "latitude": 25.5878069,
+          "longitude": 85.1959298
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJo8AHX5dY7TkRQwK2PdYn_BA",
+        "provider_id": "/g/11b6v9grnd",
+        "rating": 4.7,
+        "reviews": 16887,
+        "type": "Hospital",
+        "types": [
+          "Hospital",
+          "Cancer treatment center",
+          "Cardiologist",
+          "Gastroenterologist",
+          "Nephrologist",
+          "Neurologist",
+          "Private hospital",
+          "Urologist"
+        ],
+        "address": "Sheetla Mandir Road, near Sump House, Agam Kuan, Patna, Bihar 800030, India",
+        "country": "India",
+        "open_state": "Open 24 hours",
+        "hours": "Open 24 hours",
+        "operating_hours": {
+          "saturday": "Open 24 hours",
+          "sunday": "Open 24 hours",
+          "monday": "Open 24 hours",
+          "tuesday": "Open 24 hours",
+          "wednesday": "Open 24 hours",
+          "thursday": "Open 24 hours",
+          "friday": "Open 24 hours"
+        },
+        "phone": "+91 612 354 0100",
+        "website": "https://www.bigapollospectra.com/",
+        "extensions": [
+          {
+            "accessibility": [
+              "Wheelchair accessible entrance",
+              "Wheelchair accessible parking lot"
+            ]
+          }
+        ],
+        "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLffhWVPRyIrp2HIWON4mY0MqXiea0WayS2BBkMaFCNcnZaQooGeMU_yzAwiabx81qtwSptth6TQoazB22P4O5yKtf6qgiAWqi0dctVAZVrdrMwjc-UU37c5Z6251hJ3DpQVIoTDAw=w1000-h1000-c-n",
+        "serpapi_thumbnail": "https://serpapi.com/images/url/QxIxpXicHcRRboIwGADgEwGlCFuW-FA029gGiAooL0tXCmUKhfY3FW_oEXabJX4P399dAIz6xXHOwrNbKdszv2iumByAD2Az2TutolpbTDuEhKf-q2lEWWy2c6RG_B6VabLojyieDh2nqKTzDofhKaavq4QNFc2kfONx_j3fiOnoz_XZncDsRgAR7DNJbyHGm0Xqz5_QBFPbkXLqUM2gIFWhahWbX2bluffE_CrAvis-vPWYFZHcr4lZGhchZInHzBr-AXGnRgo"
+      },
+      {
+        "position": 3,
+        "title": "Central Super Speciality Hospital",
+        "place_id": "ChIJK4s_VWZY7TkRhbDxsm8Zqdg",
+        "data_id": "0x39ed5866553f8b2b:0xd8a9196fb2f1b085",
+        "data_cid": "15612037550790783109",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x39ed5866553f8b2b%3A0xd8a9196fb2f1b085&engine=google_maps_reviews&hl=en",
+        "photos_link": "https://serpapi.com/search.json?data_id=0x39ed5866553f8b2b%3A0xd8a9196fb2f1b085&engine=google_maps_photos&hl=en",
+        "gps_coordinates": {
+          "latitude": 25.602908499999998,
+          "longitude": 85.1401618
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJK4s_VWZY7TkRhbDxsm8Zqdg",
+        "provider_id": "/g/1hdz_n2fy",
+        "rating": 3.5,
+        "reviews": 257,
+        "unclaimed_listing": true,
+        "type": "General hospital",
+        "types": [
+          "General hospital",
+          "Doctor",
+          "Hospital"
+        ],
+        "address": "J43R+537, Chiraiyatand Flyover, Maruti Nagar, Mithapur Farm Area, Mithapur, Patna, Bihar 800001, India",
+        "country": "India",
+        "open_state": "Open 24 hours",
+        "hours": "Open 24 hours",
+        "operating_hours": {
+          "saturday": "Open 24 hours",
+          "sunday": "Open 24 hours",
+          "monday": "Open 24 hours",
+          "tuesday": "Open 24 hours",
+          "wednesday": "Open 24 hours",
+          "thursday": "Open 24 hours",
+          "friday": "Open 24 hours"
+        },
+        "phone": "+91 89293 00172",
+        "website": "http://www.ecr.indianrailways.gov.in/view_section.jsp?lang=0&id=0,2,324,1428",
+        "extensions": [
+          {
+            "accessibility": [
+              "Wheelchair accessible entrance",
+              "Wheelchair accessible parking lot",
+              "Wheelchair accessible restroom"
+            ]
+          }
+        ],
+        "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLcYLSwyYpf9lC3AV2AWtjFihxLE4R06xbTYeuuAtHDZAiUXKc8n1sQ7DIuH_6aMOKy-RSTh4oQbh6abEy2gGH1B1OIGjpjaAwgSNRrSKnK2VUEA11N2wt_cI_CDPbrrIbgZuqvTDg=w1000-h1000-c-n",
+        "serpapi_thumbnail": "https://serpapi.com/images/url/jUPbznicHcRJDoIwAADAFyEUDS6JhwooBNwAF7wQ2mArYotdRJ7oE_yNiXOY74cq1cqZaTZ0OCCck6bSshKYM1UxNcD8YRJRSmlgaUK4uD9inMdp1-ftddq4Q3i04UnVyxt9x_4osZw3yvJKa6gC7wJvh3OEJwzI_dgLdVA45Xob9UaSZnTE94g6JfJ7m6wCsADbcFW3dQk7km4SkUYsso8HHwKwsTtV4LBwvR0SIkTkop-vzCPzDliWZdD_2GA_5e1FGg"
+      },
+      {
+        "position": 4,
+        "title": "Ruban Memorial Hospital",
+        "place_id": "ChIJVcBuWCtY7TkRLfxEMIHo20s",
+        "data_id": "0x39ed582b586ec055:0x4bdbe8813044fc2d",
+        "data_cid": "5466218214302481453",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x39ed582b586ec055%3A0x4bdbe8813044fc2d&engine=google_maps_reviews&hl=en",
+        "photos_link": "https://serpapi.com/search.json?data_id=0x39ed582b586ec055%3A0x4bdbe8813044fc2d&engine=google_maps_photos&hl=en",
+        "gps_coordinates": {
+          "latitude": 25.6277348,
+          "longitude": 85.11187559999999
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJVcBuWCtY7TkRLfxEMIHo20s",
+        "provider_id": "/g/124yd0cw5",
+        "rating": 3.4,
+        "reviews": 2938,
+        "type": "General hospital",
+        "types": [
+          "General hospital",
+          "Private hospital"
+        ],
+        "address": "19 and 17, Patliputra Colony Rd, near New Patliputra Colony, Patliputra Colony, Patna, Bihar 800013, India",
+        "country": "India",
+        "open_state": "Open 24 hours",
+        "hours": "Open 24 hours",
+        "operating_hours": {
+          "saturday": "Open 24 hours",
+          "sunday": "Open 24 hours",
+          "monday": "Open 24 hours",
+          "tuesday": "Open 24 hours",
+          "wednesday": "Open 24 hours",
+          "thursday": "Open 24 hours",
+          "friday": "Open 24 hours"
+        },
+        "website": "https://www.rubanhospitals.com/",
+        "extensions": [
+          {
+            "accessibility": [
+              "Wheelchair accessible entrance",
+              "Wheelchair accessible parking lot",
+              "Wheelchair accessible restroom",
+              "Wheelchair accessible seating"
+            ]
+          }
+        ],
+        "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLfIpBX66eXX5i57bvfql0_LZGz5l9dK-SwPv_u_y_tPiMXG0x6wu-Jn83FSNd9xKmENloXa4l0szbxw5pUS5PPog8nK0CVt2o52CuHDBtYHVFlQBSxhwxm-hAs4ws_8Lfwkl9v4=w1000-h1000-c-n",
+        "serpapi_thumbnail": "https://serpapi.com/images/url/q42873icHcTbDoIgAADQLyKpxLStB-2e1mwuR72wvNJCsEChfrBv6G_aOg_n-6FKtXJqWYyOB7UQNSs7WT5zwVXJ1SAXjVU_r1KCXFq-H9ybqNq2AXacEmN0Q5Osrx4MkuiyfiPmFSFIdNyTjryIim97vIbG0R3YcXe8Sg6FZ8JmeWACX20G5TszGrWnBMWxqF0ewnmqRgKN5t1mEajzJl2xY5AYqk0DqC9tLYkbVfrOvN6e6SGEEND_OeA_jrNFOg"
+      },
+      {
+        "position": 5,
+        "title": "Ford Hospital and Research Center",
+        "place_id": "ChIJnZgxtqBY7TkRaAsd9oXFrBc",
+        "data_id": "0x39ed58a0b631989d:0x17acc585f61d0b68",
+        "data_cid": "1705955538016996200",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x39ed58a0b631989d%3A0x17acc585f61d0b68&engine=google_maps_reviews&hl=en",
+        "photos_link": "https://serpapi.com/search.json?data_id=0x39ed58a0b631989d%3A0x17acc585f61d0b68&engine=google_maps_photos&hl=en",
+        "gps_coordinates": {
+          "latitude": 25.584498999999997,
+          "longitude": 85.16307669999999
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJnZgxtqBY7TkRaAsd9oXFrBc",
+        "provider_id": "/m/0hzn0tw",
+        "rating": 4.7,
+        "reviews": 6968,
+        "type": "Hospital",
+        "types": [
+          "Hospital",
+          "Health consultant"
+        ],
+        "address": "New Bypass, NH-30, Khemnichak, New Jaganpura, PS, Ramkrishan Nagar, Patna, Bihar 800030, India",
+        "country": "India",
+        "open_state": "Open 24 hours",
+        "hours": "Open 24 hours",
+        "operating_hours": {
+          "saturday": "Open 24 hours",
+          "sunday": "Open 24 hours",
+          "monday": "Open 24 hours",
+          "tuesday": "Open 24 hours",
+          "wednesday": "Open 24 hours",
+          "thursday": "Open 24 hours",
+          "friday": "Open 24 hours"
+        },
+        "phone": "+91 97982 15884",
+        "website": "http://www.fordhospital.org/",
+        "extensions": [
+          {
+            "accessibility": [
+              "Assistive hearing loop",
+              "Wheelchair accessible entrance",
+              "Wheelchair accessible parking lot",
+              "Wheelchair accessible restroom",
+              "Wheelchair accessible seating"
+            ]
+          }
+        ],
+        "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLeZEe2mZeYmQyb_UzopWvCyfTkVxVqYqvDME7kregvbGd6dZXATAIrfNwMIpMekdngTyz4WkG0JrxKsR1naM81BF4LSDR9E-rLut8vekMQx9qsMJgY7DGFfagARWfCPFAoMmls4=w1000-h1000-c-n",
+        "serpapi_thumbnail": "https://serpapi.com/images/url/2pUqnnicHcRbjoIwFADQFSGgxFcyH1UeUakZEUX4MQiXkpS20FYEN-gaZjeTeD7O36fWulVr02zq2YQIQRp4KpCF4Bq4nhSCmUTmShmFMhHaUBZC5sGUZZCy0_i4X96iTfrtWMX0Oly7tOtd7C2oBNI_gnJeZjcUo52sji-8azHQkpN4fDsJDay9HA4qsnmOl_bGd8KzG608Q4ZPveyB4tOw6hTek3ThBn6VExQl1fbXRwKzRjk_L9uyLKP-Xhj8H1kpRl8"
+      },
+      {
+        "position": 6,
+        "title": "Chand Memorial Hospital",
+        "place_id": "ChIJxc2JG4BX7TkRVAwh4Md4jOU",
+        "data_id": "0x39ed57801b89cdc5:0xe58c78c7e0210c54",
+        "data_cid": "16540728331279076436",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x39ed57801b89cdc5%3A0xe58c78c7e0210c54&engine=google_maps_reviews&hl=en",
+        "photos_link": "https://serpapi.com/search.json?data_id=0x39ed57801b89cdc5%3A0xe58c78c7e0210c54&engine=google_maps_photos&hl=en",
+        "gps_coordinates": {
+          "latitude": 25.6283492,
+          "longitude": 85.1051773
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJxc2JG4BX7TkRVAwh4Md4jOU",
+        "provider_id": "/g/124t2f2sm",
+        "rating": 3,
+        "reviews": 57,
+        "type": "General hospital",
+        "types": [
+          "General hospital",
+          "Hospital"
+        ],
+        "address": "Chand memorial hospital, patliputra, Patliputra Colony, Patna, Bihar 800013, India",
+        "country": "India",
+        "open_state": "Open 24 hours",
+        "hours": "Open 24 hours",
+        "operating_hours": {
+          "saturday": "Open 24 hours",
+          "sunday": "Open 24 hours",
+          "monday": "Open 24 hours",
+          "tuesday": "Open 24 hours",
+          "wednesday": "Open 24 hours",
+          "thursday": "Open 24 hours",
+          "friday": "Open 24 hours"
+        },
+        "phone": "+91 612 226 2137",
+        "extensions": [
+          {
+            "accessibility": [
+              "Wheelchair accessible entrance",
+              "Wheelchair accessible parking lot"
+            ]
+          }
+        ],
+        "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLfXVyb1S5134SqTBMFSXnyyUsXqLTS3kROCA6Y3Mn8JJvfQTAKm8HsFq4i1RxZ1NJv0wCmn-to1e43fL5B-vsO9kUMMxxSXPqiNaA5NGlUmqJO3Hh3f1p1-CH4tzudbMfhc2pnSEQ=w1000-h1000-c-n",
+        "serpapi_thumbnail": "https://serpapi.com/images/url/VrE86XicHcRRboIwAADQE1XoCotbso9CdIRRmBYM-ocdpQbaUlsRvKFH2G2W7H2836dwbrTvnjcItOq07ob2Ztsr08q1yq2Yll53bawFzHoYR73MeH1YzpCGEAXUlBHZ0lotS2Vrk5UU9fsixq9HRNQ6TSe-K_GXXCd2a4IL3M8nmKeTf4-lAk7DNkA8CyMw2eKtrwiZZ1p_m0ve4DD_HCpp0gIlAnE4QhAngXvcfs6EC_YyKrrZfdyh7_tA_M-A-gOUd0RH"
+      },
+      {
+        "position": 7,
+        "title": "Curis Hospital Patna",
+        "place_id": "ChIJeQqlTGZW7TkRFAGc8ZKC0EA",
+        "data_id": "0x39ed56664ca50a79:0x40d08292f19c0114",
+        "data_cid": "4670376381213573396",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x39ed56664ca50a79%3A0x40d08292f19c0114&engine=google_maps_reviews&hl=en",
+        "photos_link": "https://serpapi.com/search.json?data_id=0x39ed56664ca50a79%3A0x40d08292f19c0114&engine=google_maps_photos&hl=en",
+        "gps_coordinates": {
+          "latitude": 25.6163278,
+          "longitude": 85.04149629999999
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJeQqlTGZW7TkRFAGc8ZKC0EA",
+        "provider_id": "/g/11c3292pgh",
+        "rating": 3.4,
+        "reviews": 182,
+        "type": "General hospital",
+        "types": [
+          "General hospital",
+          "Hospital",
+          "Private hospital"
+        ],
+        "address": "R.K. Puram More, Saguna Khagaul Rd, Danapur, Patna, Bihar 801503, India",
+        "country": "India",
+        "open_state": "Open 24 hours",
+        "hours": "Open 24 hours",
+        "operating_hours": {
+          "saturday": "Open 24 hours",
+          "sunday": "Open 24 hours",
+          "monday": "Open 24 hours",
+          "tuesday": "Open 24 hours",
+          "wednesday": "Open 24 hours",
+          "thursday": "Open 24 hours",
+          "friday": "Open 24 hours"
+        },
+        "phone": "+91 86511 80007",
+        "website": "https://www.curishospital.com/",
+        "extensions": [
+          {
+            "accessibility": [
+              "Wheelchair accessible entrance",
+              "Wheelchair accessible parking lot"
+            ]
+          }
+        ],
+        "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLeNsQEGXha668YY8fbGNabcYBZDjFwFjf4fH1L6sqZRpS8dS24dX93YeBfUsVHS-vZKz-b2EFIPZrTT8l85puW4Mwej6mb1TNC6TloNVdkrKvnU4KhKrUnP5TzgRa_v35nHoJ3z=w1000-h1000-c-n",
+        "serpapi_thumbnail": "https://serpapi.com/images/url/0XkQjHicHcRRDoIgAADQE5Gayqitj6zMslwlVvrTFFFmCgammxfsDN2mrffxvh_Wda2aa1rNzEkpRFnTt6KSCN5R3k2IaLRSpkoBorTl0nk2Bxqo82Z7ZymEKI5RkW2DNCOxk6wrd3Crwio84wDVK7m0IcrDqZXfZ2ZMnSJSVy8EfeKPIJtu3N0pkRijGtnt-2YdB1rBJjNwsIK4FsE1f0q_55HlM19G_GTjsbykj960uSf25rgYDF3XAftPAP8BHptEGA"
+      },
+      {
+        "position": 8,
+        "title": "Tara Hospital and Medical Research Centre Pvt Ltd - Best Multi speciality Hospital in Patna",
+        "place_id": "ChIJWX-LDVBY7TkRrki_b3JfbV4",
+        "data_id": "0x39ed58500d8b7f59:0x5e6d5f726fbf48ae",
+        "data_cid": "6804199557132404910",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x39ed58500d8b7f59%3A0x5e6d5f726fbf48ae&engine=google_maps_reviews&hl=en",
+        "photos_link": "https://serpapi.com/search.json?data_id=0x39ed58500d8b7f59%3A0x5e6d5f726fbf48ae&engine=google_maps_photos&hl=en",
+        "gps_coordinates": {
+          "latitude": 25.6183962,
+          "longitude": 85.1386662
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJWX-LDVBY7TkRrki_b3JfbV4",
+        "provider_id": "/g/1tf6f14x",
+        "rating": 3.3,
+        "reviews": 173,
+        "type": "Hospital",
+        "types": [
+          "Hospital"
+        ],
+        "address": "B.P. Koirala Marg, Bank Rd, Raja Ji Salai, Lodipur, Patna, Bihar 800001, India",
+        "country": "India",
+        "open_state": "Open 24 hours",
+        "hours": "Open 24 hours",
+        "operating_hours": {
+          "saturday": "Open 24 hours",
+          "sunday": "Open 24 hours",
+          "monday": "Open 24 hours",
+          "tuesday": "Open 24 hours",
+          "wednesday": "Open 24 hours",
+          "thursday": "Open 24 hours",
+          "friday": "Open 24 hours"
+        },
+        "phone": "+91 612 221 8476",
+        "website": "http://www.tarahospital.com/",
+        "extensions": [
+          {
+            "accessibility": [
+              "Wheelchair accessible entrance",
+              "Wheelchair accessible parking lot"
+            ]
+          }
+        ],
+        "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLcm0U4XRPqJToLEDH-wunumL7lAhGQKjC7tgeb3tmN72BL-kbnlkaMif2Mq3hKQmSJQrIsuoh67eYI_xKl0ElfoNrNqo9ngDymNDiXCtbmphIVKgayv51iB3TLKcaXXXWUEFoCR=w1000-h1000-c-n",
+        "serpapi_thumbnail": "https://serpapi.com/images/url/_BBWoXicHcTbbsIgGADgJ8Ki3dZosouetlWwWT1seGVagtAV-G2hHp7QZ_BtTPZdfI-78v7kFkGgVTiRAFKL0YmBg_XC-gkHE8ihdg5xF8Rx0hnKDd69sPV3v9wCzbMvdBntaGikY_VZkb808lI0oTdlNEso6hqru3rVHmerPlSkMptlNRRuBPUWiX1xuBKNc32Ecih7mFuZ3UyZtSz1jTmp4ofI-nZ-nbZJuKWE14yx313-Aen6_TLFGCP1P0f2CbZURaM"
+      },
+      {
+        "position": 9,
+        "title": "Asian City Hospital - Best Hospital in Patna",
+        "place_id": "ChIJTa_eRI9X7TkRXKmzLvj-CF0",
+        "data_id": "0x39ed578f44deaf4d:0x5d08fef82eb3a95c",
+        "data_cid": "6703888387229854044",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x39ed578f44deaf4d%3A0x5d08fef82eb3a95c&engine=google_maps_reviews&hl=en",
+        "photos_link": "https://serpapi.com/search.json?data_id=0x39ed578f44deaf4d%3A0x5d08fef82eb3a95c&engine=google_maps_photos&hl=en",
+        "gps_coordinates": {
+          "latitude": 25.6358195,
+          "longitude": 85.1040469
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJTa_eRI9X7TkRXKmzLvj-CF0",
+        "provider_id": "/g/11h3nnjqbt",
+        "rating": 4.6,
+        "reviews": 2921,
+        "type": "Hospital",
+        "types": [
+          "Hospital",
+          "Blood bank",
+          "Cardiologist",
+          "Dentist",
+          "Dermatologist",
+          "Oncologist",
+          "Orthodontist",
+          "Pharmacy",
+          "Radiologist"
+        ],
+        "address": "Mall, behind P& M, Patliputra Industrial Area, Patliputra Colony, Patna, Bihar 800013, India",
+        "country": "India",
+        "open_state": "Open 24 hours",
+        "hours": "Open 24 hours",
+        "operating_hours": {
+          "saturday": "Open 24 hours",
+          "sunday": "Open 24 hours",
+          "monday": "Open 24 hours",
+          "tuesday": "Open 24 hours",
+          "wednesday": "Open 24 hours",
+          "thursday": "Open 24 hours",
+          "friday": "Open 24 hours"
+        },
+        "phone": "+91 96963 96896",
+        "website": "https://asianpatna.aimsindia.com/",
+        "extensions": [
+          {
+            "accessibility": [
+              "Wheelchair accessible entrance",
+              "Wheelchair accessible parking lot"
+            ]
+          }
+        ],
+        "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLeWdlYTvNb4lpy2et_mmxU3vlSt3BJCUxgfZPi_0Qq8AgmuIHMXzR9xXUB-o5v2RJNYastBLa0GPFcmDxUUp6WpiFzcD-hm52PzEOfOytkXB_GvDcuFky88g1jZTy59EHjDw1aZ=w1000-h1000-c-n",
+        "serpapi_thumbnail": "https://serpapi.com/images/url/4nsb0XicHcRJDoIwAADAF1UKiEETD1TEJS64NCIXgrUWpaVoCwIf9A3-xsQ5zPeTaV2qkWHwzO4xKRmnlaIvIgtNC90jUhjslSoFiDI8D-ViRU9Xfj7Wm0ufl61FdSJEg-2aH7SNlhPcsFsc3hO4e7oeE9Vivo66_bCJMALSqa39cnNOlUarFM7CgAi_wbgcnMp70BEfZMKxwm66vW1bnUcomdU-qYK8dV1mPuJj6wyn84f_NtN4_DYhhCD7T0DxAwUaRcU"
+      },
+      {
+        "position": 10,
+        "title": "New Citizen Emergency Hospital :- Emergency Hospital || Best Hospital In Patna || Top Hospital in Patna",
+        "place_id": "ChIJS9adfAFZ7TkRgV6v9R3Re2c",
+        "data_id": "0x39ed59017c9dd64b:0x677bd11df5af5e81",
+        "data_cid": "7456783534648155777",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x39ed59017c9dd64b%3A0x677bd11df5af5e81&engine=google_maps_reviews&hl=en",
+        "photos_link": "https://serpapi.com/search.json?data_id=0x39ed59017c9dd64b%3A0x677bd11df5af5e81&engine=google_maps_photos&hl=en",
+        "gps_coordinates": {
+          "latitude": 25.585003399999998,
+          "longitude": 85.1743256
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJS9adfAFZ7TkRgV6v9R3Re2c",
+        "provider_id": "/g/11t53bdpvx",
+        "rating": 4.9,
+        "reviews": 11,
+        "type": "Hospital",
+        "types": [
+          "Hospital"
+        ],
+        "address": "H5PF+2PM, Ashochak, baypass, near hp petrol pump, East Lakshmi Nagar, Ramkrishan Nagar, Patna, Bihar 800030, India",
+        "country": "India",
+        "open_state": "Open 24 hours",
+        "hours": "Open 24 hours",
+        "operating_hours": {
+          "saturday": "Open 24 hours",
+          "sunday": "Open 24 hours",
+          "monday": "Open 24 hours",
+          "tuesday": "Open 24 hours",
+          "wednesday": "Open 24 hours",
+          "thursday": "Open 24 hours",
+          "friday": "Open 24 hours"
+        },
+        "phone": "+91 81025 35145",
+        "extensions": [
+          {
+            "accessibility": [
+              "Wheelchair accessible entrance",
+              "Wheelchair accessible parking lot"
+            ]
+          }
+        ],
+        "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLe50LkC7v6qsiHEx3gYNCZl_mDNPxhAfSTWgnDolqtr0XvoIXr9IK7pT_FLpjUTj6IGrdmrFp71kpZLPBPShq8EsUT4YICRWwKDm9m6OkLvPDda7RBXL2F-o-Fyl3rnYtdFMps=w1000-h1000-c-n",
+        "serpapi_thumbnail": "https://serpapi.com/images/url/CxPaI3icHcTbDsEwAADQL6qVsSHxsIuyKBYmNi8i27Sst7U1_KB_8DcS5-F8P9RaZaaOw6jbI1ISVj9MrUspbC1sr5TcIfpiDCiNEwRhw3E9griJ_M5rzW05f7mk2EQndubxJn3R4LrPjkTEkrVWw7yTSa4nycpX2RlhdT9kdy9Z6IprpPx-o044DdM9bcdzc8iGRRLtjs9VzCfc2za4S-Pq4u_CHA8QkAC9matFYSu0Vmb27EMIAf1fAvEDZXtExg"
+      },
+      {
+        "position": 11,
+        "title": "Tripolia Hospital",
+        "place_id": "ChIJNUJ1UDNf7TkRfcr9rwkf77Y",
+        "data_id": "0x39ed5f3350754235:0xb6ef1f09affdca7d",
+        "data_cid": "13181788760804543101",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x39ed5f3350754235%3A0xb6ef1f09affdca7d&engine=google_maps_reviews&hl=en",
+        "photos_link": "https://serpapi.com/search.json?data_id=0x39ed5f3350754235%3A0xb6ef1f09affdca7d&engine=google_maps_photos&hl=en",
+        "gps_coordinates": {
+          "latitude": 25.6138887,
+          "longitude": 85.1900151
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJNUJ1UDNf7TkRfcr9rwkf77Y",
+        "provider_id": "/g/1wrtb88y",
+        "rating": 3.5,
+        "reviews": 375,
+        "type": "General hospital",
+        "types": [
+          "General hospital",
+          "Emergency care service"
+        ],
+        "address": "P.O, Ashok Rajpath Rd, Gulzarbagh, Alamganj, Patna, Bihar 800007, India",
+        "country": "India",
+        "open_state": "Open 24 hours",
+        "hours": "Open 24 hours",
+        "operating_hours": {
+          "saturday": "Open 24 hours",
+          "sunday": "Open 24 hours",
+          "monday": "Open 24 hours",
+          "tuesday": "Open 24 hours",
+          "wednesday": "Open 24 hours",
+          "thursday": "Open 24 hours",
+          "friday": "Open 24 hours"
+        },
+        "phone": "+91 94720 40244",
+        "extensions": [
+          {
+            "accessibility": [
+              "Wheelchair accessible entrance",
+              "Wheelchair accessible parking lot",
+              "Wheelchair accessible restroom"
+            ]
+          }
+        ],
+        "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLd4tjidh3o4vWJ04P1sCchCPNL9WkXyd9RXepx9PWvlmbAo0IF80ikLMogdzJJ8SKbcfCU-3NgK2wqvKizoC7VtNyGyEyxKaUFP-ab5NHUucNo121RjeKlDVxMKch5lghyuge4=w1000-h1000-c-n",
+        "serpapi_thumbnail": "https://serpapi.com/images/url/kwHRg3icHcRBjoIwFADQE1WKYEZMXCCOoxQbokHcQum0SOGrLUg9oHfwNia-xXu_pDFXvXAcJb2JABCK95rfGXSGd2bCoHXEvdAaMe2E4appk8o3l7qSHvhDHmM_dXXEZJTSJMibs62Cw5lfxyDNB9WWIeDdZo7rJtmDqJ5xPD-Skv1HGfKoINPHbSD1E6Kfk6H2z_7akRTZJkVFOaPbrGcU3Kl7uHCi1qdxT5icKSFtL7i_fLgYYyS_M9R9AEiRRO0"
+      },
+      {
+        "position": 12,
+        "title": "Sahyog Hospital",
+        "place_id": "ChIJSxnkMdVZ7TkRLZXPyEF8gJ8",
+        "data_id": "0x39ed59d531e4194b:0x9f807c41c8cf952d",
+        "data_cid": "11493322871033271597",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x39ed59d531e4194b%3A0x9f807c41c8cf952d&engine=google_maps_reviews&hl=en",
+        "photos_link": "https://serpapi.com/search.json?data_id=0x39ed59d531e4194b%3A0x9f807c41c8cf952d&engine=google_maps_photos&hl=en",
+        "gps_coordinates": {
+          "latitude": 25.629125799999997,
+          "longitude": 85.1082552
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJSxnkMdVZ7TkRLZXPyEF8gJ8",
+        "provider_id": "/g/124sr0cx2",
+        "rating": 4.4,
+        "reviews": 1502,
+        "type": "General hospital",
+        "types": [
+          "General hospital",
+          "Doctor",
+          "Private hospital"
+        ],
+        "address": "40, Patliputra Colony, Patna, Bihar 800013, India",
+        "country": "India",
+        "open_state": "Open 24 hours",
+        "hours": "Open 24 hours",
+        "operating_hours": {
+          "saturday": "Open 24 hours",
+          "sunday": "Open 24 hours",
+          "monday": "Open 24 hours",
+          "tuesday": "Open 24 hours",
+          "wednesday": "Open 24 hours",
+          "thursday": "Open 24 hours",
+          "friday": "Open 24 hours"
+        },
+        "phone": "+91 612 226 2642",
+        "website": "http://www.sahyoghospital.com/",
+        "extensions": [
+          {
+            "accessibility": [
+              "Wheelchair accessible entrance",
+              "Wheelchair accessible parking lot"
+            ]
+          }
+        ],
+        "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLdi_pnKdNUIyBx2z_Dm-x0zXVdsBkMEiVO-7PH-4JV2iqJUoHQMLv-UCLPDgeKJ2imFAo2QqBhw_16nhV_KvJbbUv-Cuad2nmee2KKUzf19_PoMBaT41BogoluWD1uFA0jSvwGH0w=w1000-h1000-c-n",
+        "serpapi_thumbnail": "https://serpapi.com/images/url/ljCrDXicHcTdboIwGADQJ6q01cxsyS6ozDEKDuOKu2sQasuk_dTy43hDH2Fvs8Rzcf7upuvO_iUIWjOfaQDdqt6rawWuU66bVWADfS29R5UPwpCdbFo38ux4vREfv-xGJxlZdMPTd1F7dsremuITLfMYLZKCNpdEQLzN0gGJVZpHWvGENnYdAt1emBkleXKmkHxIDgcxoFVf1tRZpSjnYjqSZ5lDxsqvBWGgoe33EenXIf7ZDeN7jMfXkWCMkXlcIfcP-C5FDQ"
+      },
+      {
+        "position": 13,
+        "title": "KAMY General HOSPITAL LLP",
+        "place_id": "ChIJx6y6wQGo8jkRMkW7sdT2dYM",
+        "data_id": "0x39f2a801c1baacc7:0x8375f6d4b1bb4532",
+        "data_cid": "9472748784619046194",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x39f2a801c1baacc7%3A0x8375f6d4b1bb4532&engine=google_maps_reviews&hl=en",
+        "photos_link": "https://serpapi.com/search.json?data_id=0x39f2a801c1baacc7%3A0x8375f6d4b1bb4532&engine=google_maps_photos&hl=en",
+        "gps_coordinates": {
+          "latitude": 25.5799643,
+          "longitude": 85.1024963
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJx6y6wQGo8jkRMkW7sdT2dYM",
+        "provider_id": "/g/11f15jw__b",
+        "rating": 4.8,
+        "reviews": 544,
+        "type": "Hospital",
+        "types": [
+          "Hospital",
+          "Abortion clinic",
+          "Health consultant",
+          "Medical Center",
+          "Orthopedic clinic",
+          "Surgeon"
+        ],
+        "address": "2, Vishnupuri Rd, Shivpuri, Chitkohra, Patna, Bihar 800002, India",
+        "country": "India",
+        "open_state": "Open · Closes 7 PM",
+        "hours": "Open · Closes 7 PM",
+        "operating_hours": {
+          "saturday": "9 AM–7 PM",
+          "sunday": "11 AM–5 PM",
+          "monday": "9 AM–7 PM",
+          "tuesday": "9 AM–7 PM",
+          "wednesday": "9 AM–7 PM",
+          "thursday": "9 AM–7 PM",
+          "friday": "9 AM–7 PM"
+        },
+        "phone": "+91 82948 26333",
+        "extensions": [
+          {
+            "accessibility": [
+              "Wheelchair accessible entrance",
+              "Wheelchair accessible parking lot"
+            ]
+          }
+        ],
+        "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLfFF80bsMXnTSS1qAFRJ14qxM7yUH0anIHPXSUmbI8bBzXAH8Ma9AW0dCb7_-lYMNaW8puAccaF3j4B8QgF0Q37lkNoXRl9Qi36pVFz2TVP7rFLFqEpLgpE_IHIn-f2g3CsHrM7=w1000-h1000-c-n",
+        "serpapi_thumbnail": "https://serpapi.com/images/url/qCvPF3icHcRLjsIgAADQE2GpGEGTWVAjoZNirPVTV4ZipaMUaKmZGS_oGbyNiW_xXs9mGHyYR5Fp0Eg7p019D3WvnB1qO4yUayPdyxCAChGlya3NLowRWAVR2m1RxB1lm-940v0J_L_jUNqUr8ti11YpqZJHSTkRckYP8Lyo8AmYo1jJA_F3qpRk6DpJSK4ZzBE2t5UrN2aW_6Cp37PHeLtf455lrFv6TPvlKeWpBZexRovAe4G_fmMIIWg-K2DfqSRCRw"
+      },
+      {
+        "position": 14,
+        "title": "Shri Sai Hospital",
+        "place_id": "ChIJpxQlPo5Y7TkRoB7h-A5HPIo",
+        "data_id": "0x39ed588e3e2514a7:0x8a3c470ef8e11ea0",
+        "data_cid": "9960914605467311776",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x39ed588e3e2514a7%3A0x8a3c470ef8e11ea0&engine=google_maps_reviews&hl=en",
+        "photos_link": "https://serpapi.com/search.json?data_id=0x39ed588e3e2514a7%3A0x8a3c470ef8e11ea0&engine=google_maps_photos&hl=en",
+        "gps_coordinates": {
+          "latitude": 25.5992551,
+          "longitude": 85.1571824
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJpxQlPo5Y7TkRoB7h-A5HPIo",
+        "provider_id": "/g/1hc383tqm",
+        "rating": 4.4,
+        "reviews": 1909,
+        "type": "General hospital",
+        "types": [
+          "General hospital",
+          "Private hospital",
+          "Hospital"
+        ],
+        "address": "H5X4+QQG, Plot no DS/2, behind Geological Survey Of India, Housing Board Colony, Kankarbagh, Patrakar Nagar, Patna, Bihar 800020, India",
+        "country": "India",
+        "open_state": "Open 24 hours",
+        "hours": "Open 24 hours",
+        "operating_hours": {
+          "saturday": "Open 24 hours",
+          "sunday": "Open 24 hours",
+          "monday": "Open 24 hours",
+          "tuesday": "Open 24 hours",
+          "wednesday": "Open 24 hours",
+          "thursday": "Open 24 hours",
+          "friday": "Open 24 hours"
+        },
+        "phone": "+91 77008 85566",
+        "website": "http://www.shrisaihospital.in/",
+        "extensions": [
+          {
+            "accessibility": [
+              "Wheelchair accessible entrance",
+              "Wheelchair accessible parking lot"
+            ]
+          }
+        ],
+        "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLfLQzSUPjo-xr_XUDKH5X9t_vG53s6CZeQjJI7aVfphw-8HwK5v6MwblXt840ffBJkm1PS5ctgYT1WGc9oCHxqUimEdHhHCeVMSzXmzljksOmKUmolhJ-peGeP9N2gsN_J4sA=w1000-h1000-c-n",
+        "serpapi_thumbnail": "https://serpapi.com/images/url/CqFA63icHcRRboIwGADgE1VAxImJD8gWOlDEMBR9IVpLO2gp8lch3G-H8DZL_B6-1x_XuoWlYQhuT5hSTNAH0I6oRtNGT4iSBusuAIiA4XnrWm7KzX5Ms6RSaOiKPPuMsJO7ungGjg1z_0z3Vfj9cTmULe_RAveR85xv-6vI9WJmluU6rKWVpA7R7PRjHQPiKh8P9-xXft0wxz49bNMxl6OoatjJKJNK8BC1NKCJG08ZxEU4A2_VW6ZpIv6eoOYfBLNEnQ"
+      },
+      {
+        "position": 15,
+        "title": "Central Hospital Patna",
+        "place_id": "ChIJW8-ejrtf7TkRthUbhHX8Mmk",
+        "data_id": "0x39ed5fbb8e9ecf5b:0x6932fc75841b15b6",
+        "data_cid": "7580398704475706806",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x39ed5fbb8e9ecf5b%3A0x6932fc75841b15b6&engine=google_maps_reviews&hl=en",
+        "photos_link": "https://serpapi.com/search.json?data_id=0x39ed5fbb8e9ecf5b%3A0x6932fc75841b15b6&engine=google_maps_photos&hl=en",
+        "gps_coordinates": {
+          "latitude": 25.5998125,
+          "longitude": 85.1911875
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJW8-ejrtf7TkRthUbhHX8Mmk",
+        "provider_id": "/g/11n963jxrx",
+        "rating": 4,
+        "reviews": 101,
+        "unclaimed_listing": true,
+        "type": "Hospital",
+        "types": [
+          "Hospital"
+        ],
+        "address": "H5XR+WF, Sardar Patel Colony, Patna, Bihar 800026, India",
+        "country": "India",
+        "open_state": "Open 24 hours",
+        "hours": "Open 24 hours",
+        "operating_hours": {
+          "saturday": "Open 24 hours",
+          "sunday": "Open 24 hours",
+          "monday": "Open 24 hours",
+          "tuesday": "Open 24 hours",
+          "wednesday": "Open 24 hours",
+          "thursday": "Open 24 hours",
+          "friday": "Open 24 hours"
+        },
+        "phone": "+91 96933 33336",
+        "extensions": [
+          {
+            "accessibility": [
+              "Wheelchair accessible entrance",
+              "Wheelchair accessible parking lot"
+            ]
+          }
+        ],
+        "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLfEIEdeLpYr6tLLhhRimnN8XtWw_cyTlWang-3qRecQE-idbNNlouZEAu_4EB-Ufh1fHhWkuGv_oUOLAgXhlUwBv24jiWJbpPAAvdZh8ET0LV1lH2lpfPfjiDcI5fxwqPnaiQ=w1000-h1000-c-n",
+        "serpapi_thumbnail": "https://serpapi.com/images/url/pVftVHicHcTbboIwGADgJyoHTzFLdlFio5gG0chw3hAsbf9qaZEW0AfcQ-xtluy7-H5_wPvOfYShhnkgrZWaD473zBrPjQ-YbUPZ184h5kKMk0dLBUlJw2n33a88pQAn1ZpsffHlVLH3WZe1kWj-PHF2JEg1tyzTdrgSPFQLkqBCQCx2UD6G7VjZ4kCxvIAupmScLe6q3N-6HOOxucKanCP6FevdTHciF3e1YelSvKZnbmp1_JziKIoQ_M-Q-QOBM0W3"
+      },
+      {
+        "position": 16,
+        "title": "Himalaya hospital",
+        "place_id": "ChIJMRcdwian8jkRwfog0klnVBc",
+        "data_id": "0x39f2a726c21d1731:0x17546749d220fac1",
+        "data_cid": "1681082127671687873",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x39f2a726c21d1731%3A0x17546749d220fac1&engine=google_maps_reviews&hl=en",
+        "photos_link": "https://serpapi.com/search.json?data_id=0x39f2a726c21d1731%3A0x17546749d220fac1&engine=google_maps_photos&hl=en",
+        "gps_coordinates": {
+          "latitude": 25.580897,
+          "longitude": 85.1172967
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJMRcdwian8jkRwfog0klnVBc",
+        "provider_id": "/g/11fkn0mfys",
+        "rating": 4.2,
+        "reviews": 306,
+        "type": "Hospital",
+        "types": [
+          "Hospital"
+        ],
+        "address": "indian oil road, 70 Feet BPCL Rd, Adarsh Nagar, mahavir nagar, Sipara, Patna, Bihar 800032, India",
+        "country": "India",
+        "open_state": "Open 24 hours",
+        "hours": "Open 24 hours",
+        "operating_hours": {
+          "saturday": "Open 24 hours",
+          "sunday": "Open 24 hours",
+          "monday": "Open 24 hours",
+          "tuesday": "Open 24 hours",
+          "wednesday": "Open 24 hours",
+          "thursday": "Open 24 hours",
+          "friday": "Open 24 hours"
+        },
+        "phone": "+91 90310 40321",
+        "website": "https://www.himalayahospital.org.in/",
+        "extensions": [
+          {
+            "accessibility": [
+              "Wheelchair accessible entrance",
+              "Wheelchair accessible parking lot",
+              "Wheelchair accessible restroom",
+              "Wheelchair accessible seating"
+            ]
+          }
+        ],
+        "unsupported_extensions": [
+          {
+            "accessibility": [
+              "Assistive hearing loop"
+            ]
+          }
+        ],
+        "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLf_J1zPt6NdZcrU49JlzKMA4CVBnTPRuHdgLJyhimWYxOGTd4kqLdxCcuOeup82zqyOrtzhwNlbTSArr9JQVatwLCv6n0yhEmnPITnTD2YEilzNsoUJr5a_SA5RiYBw9CU7KzXB=w1000-h1000-c-n",
+        "serpapi_thumbnail": "https://serpapi.com/images/url/AMyA23icHcTvEoEwAADwJ0ohf3Lnw4rDpMJCvristM7a2Ja0F_QM3sad34ff90OUesiJaVLS7xScFzSvZS4wZypnqoN5ZRYildLA0gTAvVf-7QK7OlLDIDtjEdsOpHq9AbZ3cBmKdvUyK3zYkrI6Ju9wgTL7_vSzt4frMK8f455-tqFQmjQBvaI9EMKB20OqGt97DZnVknnFohViaNZL5iXVgeQxFIP0sgeDXZm4jePFo7U-udOma1mWQf5jg_0AIDlGhw"
+      },
+      {
+        "position": 17,
+        "title": "Patliputra Downtown Hospital",
+        "place_id": "ChIJAwFU4zZf7TkRbARIR3AjpFE",
+        "data_id": "0x39ed5f36e3540103:0x51a423704748046c",
+        "data_cid": "5882865978391921772",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x39ed5f36e3540103%3A0x51a423704748046c&engine=google_maps_reviews&hl=en",
+        "photos_link": "https://serpapi.com/search.json?data_id=0x39ed5f36e3540103%3A0x51a423704748046c&engine=google_maps_photos&hl=en",
+        "gps_coordinates": {
+          "latitude": 25.599926399999998,
+          "longitude": 85.19900369999999
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJAwFU4zZf7TkRbARIR3AjpFE",
+        "provider_id": "/g/11t7fbmb_0",
+        "rating": 4.9,
+        "reviews": 30,
+        "type": "Hospital",
+        "types": [
+          "Hospital"
+        ],
+        "address": "Agam Kuan Flyover, near NMCH (RMRI) Road, Sadikpur, Patna, Bihar 800007, India",
+        "country": "India",
+        "open_state": "Open 24 hours",
+        "hours": "Open 24 hours",
+        "operating_hours": {
+          "saturday": "Open 24 hours",
+          "sunday": "Open 24 hours",
+          "monday": "Open 24 hours",
+          "tuesday": "Open 24 hours",
+          "wednesday": "Open 24 hours",
+          "thursday": "Open 24 hours",
+          "friday": "Open 24 hours"
+        },
+        "phone": "+91 94305 44534",
+        "extensions": [
+          {
+            "accessibility": [
+              "Wheelchair accessible entrance",
+              "Wheelchair accessible parking lot"
+            ]
+          }
+        ],
+        "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLcPZn4KsIrbGbcAJCUojTyeliWD4FgMYK5DWvFXKZG-bx8CO6sqKMG5L2uyTNdkl3V8PHXW9ue-AdV72aOB6BMh42JxnEeiV6TcRm54JtuKJDV-3h6G7hWarrfgx4VVmkN4GPhlTQ=w1000-h1000-c-n",
+        "serpapi_thumbnail": "https://serpapi.com/images/url/1g_gEnicHcTRdoIgAADQLyKdorXO6UGz2CTLdgyrNyWCJsIGWPaJ-4T9zc7Zfbi_P8K5Lzv3PCnCCdeaSzZYZqhWjik3obr3uGmsBdR6SZJ2_YaWZwWxfTctammSLw_6s3oyeaszuObFCUdZfV8f8RmBdpwtd7H9xgWKNsHwrLaXToZkVr4d69eBgeRCpkGzS-O0EDDIR7ViNxJX9KOPYO4GnGcEhCJGU1E3xlz5CAnpuy1EpZDVfvF48X0fiP8pUH-ng0QU"
+      },
+      {
+        "position": 18,
+        "title": "Sparsh Heritage Hospital",
+        "place_id": "ChIJu0s5FnBY7TkR70FN1Rln_Gk",
+        "data_id": "0x39ed587016394bbb:0x69fc6719d54d41ef",
+        "data_cid": "7637092428763972079",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x39ed587016394bbb%3A0x69fc6719d54d41ef&engine=google_maps_reviews&hl=en",
+        "photos_link": "https://serpapi.com/search.json?data_id=0x39ed587016394bbb%3A0x69fc6719d54d41ef&engine=google_maps_photos&hl=en",
+        "gps_coordinates": {
+          "latitude": 25.5932681,
+          "longitude": 85.1364435
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJu0s5FnBY7TkR70FN1Rln_Gk",
+        "provider_id": "/g/11bc96hgl7",
+        "rating": 3.9,
+        "reviews": 52,
+        "unclaimed_listing": true,
+        "type": "General hospital",
+        "types": [
+          "General hospital",
+          "Hospital"
+        ],
+        "address": "Samta Path, Mithapur Bus Stand Road, Bangali Tola Bus Stand Rd, Patna, Bihar 800001, India",
+        "country": "India",
+        "open_state": "Open 24 hours",
+        "hours": "Open 24 hours",
+        "operating_hours": {
+          "saturday": "Open 24 hours",
+          "sunday": "Open 24 hours",
+          "monday": "Open 24 hours",
+          "tuesday": "Open 24 hours",
+          "wednesday": "Open 24 hours",
+          "thursday": "Open 24 hours",
+          "friday": "Open 24 hours"
+        },
+        "phone": "+91 93088 60277",
+        "extensions": [
+          {
+            "accessibility": [
+              "Wheelchair accessible entrance",
+              "Wheelchair accessible parking lot",
+              "Wheelchair accessible restroom"
+            ]
+          }
+        ],
+        "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLdaSPBZdqj0lQqmwQwEAVG9_Il3NDcsrTgDP-9sU_6IGTmoP6rVshEnSLqetjYxWXlEtJnvFFizv68QTXvHj-CAPmY6xNWBDaQvhthtYFmjGXWkf6L2F0hgpnoso150MdNniAMm=w1000-h1000-c-n",
+        "serpapi_thumbnail": "https://serpapi.com/images/url/XWFB93icHcTbboIwGADgJ6rUGZtpsosih2GQQESB3RhSWAv2IPwVjC-4Z_BtlvhdfK8_Ye0Nto4jxWrBjeGyvUM7MqNtq-2CGeXwsQZADBxK3auKm_qYuj_N0GOZDWrOZp-ew80lkqvEYzDm3EvRBk4XEoW5MikZzyB8fYyH1vbVoyilb_d6CoLuOZHPLC-n7x7taKoq8kgK16uzSVhhq0D1YVlcf0n8EWDBb9qAWa7xoUl0Rw_qa15ijJF4z5D-B-7MRgY"
+      },
+      {
+        "position": 19,
+        "title": "Udayan Hospital",
+        "place_id": "ChIJ19qaq3x-DRQRb40njcMy8pQ",
+        "data_id": "0x140d7e7cab9adad7:0x94f232c38d278d6f",
+        "data_cid": "10732696677445504367",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x140d7e7cab9adad7%3A0x94f232c38d278d6f&engine=google_maps_reviews&hl=en",
+        "photos_link": "https://serpapi.com/search.json?data_id=0x140d7e7cab9adad7%3A0x94f232c38d278d6f&engine=google_maps_photos&hl=en",
+        "gps_coordinates": {
+          "latitude": 25.6210073,
+          "longitude": 85.1229554
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ19qaq3x-DRQRb40njcMy8pQ",
+        "provider_id": "/g/11f_j3stf3",
+        "rating": 4,
+        "reviews": 1116,
+        "type": "General hospital",
+        "types": [
+          "General hospital",
+          "Hospital",
+          "Otolaryngologist",
+          "Private hospital"
+        ],
+        "address": "J4CC+JQ6, West Boring Canal Rd, near Rajapur Pul, North Anandpuri, Anandpuri, Patna, Bihar 800001, India",
+        "country": "India",
+        "open_state": "Open 24 hours",
+        "hours": "Open 24 hours",
+        "operating_hours": {
+          "saturday": "Open 24 hours",
+          "sunday": "Open 24 hours",
+          "monday": "Open 24 hours",
+          "tuesday": "Open 24 hours",
+          "wednesday": "Open 24 hours",
+          "thursday": "Open 24 hours",
+          "friday": "Open 24 hours"
+        },
+        "phone": "+91 84078 04726",
+        "website": "http://udayanhospital.com/",
+        "extensions": [
+          {
+            "accessibility": [
+              "Wheelchair accessible entrance",
+              "Wheelchair accessible parking lot"
+            ]
+          }
+        ],
+        "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLfNIqAx3pt9kupOjIDslA_RZdsPmJFAgKbiq5ktsYfFThB6CuEcZYMCj1uZD2dxCmy7Sdut3gUeSslIpggpihfy2r7M4KJER420sxO7Fw9-O3fa8ZDeGNG0tsRVCHQ7gJDcI31f=w1000-h1000-c-n",
+        "serpapi_thumbnail": "https://serpapi.com/images/url/wV-0y3icHcTbboIwGADgJwIKdaJLdlFAFJyy4bZEbgyWHpRT5W8jPKHPsLcx8bv4_h9SawXvjtNIbIu-Fw0zwAbad5p12qZ964ihBLAoOIQEdfvJ98mNjFjpZW1Udk0iaMgpLyr4atOYiO35cnurNRx5_CODeWhWtDjuwqtrisirxrCd_ENlNBa_7ABNooRQF8knb_B3s226ymcegjHz4_vSyjAvF0XE1vs10pD_hZtvX6QRTbDLP-4uQsiSr6nVPQHmskTK"
+      },
+      {
+        "position": 20,
+        "title": "Jay Prabha Medanta Super Specialty Hospital | Best Hospital in Patna",
+        "place_id": "ChIJjbGB3w9Z7TkRhZJHmBj0o6E",
+        "data_id": "0x39ed590fdf81b18d:0xa1a3f41898479285",
+        "data_cid": "11647421447781454469",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x39ed590fdf81b18d%3A0xa1a3f41898479285&engine=google_maps_reviews&hl=en",
+        "photos_link": "https://serpapi.com/search.json?data_id=0x39ed590fdf81b18d%3A0xa1a3f41898479285&engine=google_maps_photos&hl=en",
+        "gps_coordinates": {
+          "latitude": 25.5994745,
+          "longitude": 85.15274
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJjbGB3w9Z7TkRhZJHmBj0o6E",
+        "provider_id": "/g/11gnp2tyvf",
+        "rating": 4.5,
+        "reviews": 15337,
+        "type": "Hospital",
+        "types": [
+          "Hospital",
+          "Cancer treatment center",
+          "Cardiologist",
+          "Doctor",
+          "Health consultant",
+          "Heart hospital",
+          "Private hospital"
+        ],
+        "address": "Housing Board Colony, Kankarbagh, Patrakar Nagar, Patna, Bihar 800020, India",
+        "country": "India",
+        "open_state": "Open 24 hours",
+        "hours": "Open 24 hours",
+        "operating_hours": {
+          "saturday": "Open 24 hours",
+          "sunday": "Open 24 hours",
+          "monday": "Open 24 hours",
+          "tuesday": "Open 24 hours",
+          "wednesday": "Open 24 hours",
+          "thursday": "Open 24 hours",
+          "friday": "Open 24 hours"
+        },
+        "phone": "+91 612 350 5050",
+        "website": "https://www.medanta.org/hospitals-near-me/patna-hospital?utm_source=google&utm_medium=gmb",
+        "extensions": [
+          {
+            "accessibility": [
+              "Wheelchair accessible entrance",
+              "Wheelchair accessible parking lot",
+              "Wheelchair accessible seating"
+            ]
+          }
+        ],
+        "book_online": "https://www.medanta.org/hospitals-near-me/patna-hospital?utm_campaign=rightchoice-google-reserve&utm_source=google-reserve&utm_medium=1520478332866100430&rwg_token=AE37R_hNzX7m-Xy8h2rbs55sDMHjpK8vK_8WZqfU11e7F1d2krDI6ZfM-_rEYolKpnzGeW3AwFpk-4vKgh96Eg_5sF6NI72zjA%3D%3D",
+        "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLcrJ5u9BUunyEYTJCjVz0iJnWWYimNfPWHewY2X97wbOomuTSjKb0NhgEJY1iGzqi83HNA5u7kRWQajsK-kq-oxDQh0he0RQYaU8p3PCAX-3GiwVQbfKYAYDHckSJuGRBLjaTjT=w1000-h1000-c-n",
+        "serpapi_thumbnail": "https://serpapi.com/images/url/CPBPFHicHcTbDoIgAADQL0Ix17psPWA1HTbzVsajMhIwoURm9YN9Q3_T1nk43w8fx7tZu-6N-06rdXtj1rCBajUyNTpU92471MYAalyEgq4_0AHP7So4WfXakxJv5fkNBVZVRUSfXNMqYhOZXVaLqTnq3paFjBuY8HaPiSfC90Ms_ShBc7vo8iqrpYlB9wD6ucs45AzmGalPy7ufbtEF-KGYzllzjQkiu4h2BbZhHhxkXcpyM3kQQsD_U6B-nVpEqA"
+      }
+    ],
+    "serpapi_pagination": {
+      "next": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&ll=%4025.5941%2C85.1376%2C13z&q=hospital&start=20&type=search"
+    }
+  }
+}

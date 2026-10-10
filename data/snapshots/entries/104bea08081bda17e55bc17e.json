@@ -1,0 +1,1514 @@
+{
+  "version": 1,
+  "key": "104bea08081bda17e55bc17e",
+  "engine": "google_maps",
+  "params": {
+    "hl": "en",
+    "ll": "@26.8467,80.9462,13z",
+    "q": "hospital",
+    "type": "search"
+  },
+  "fetchedAt": "2026-10-10T10:50:14.862Z",
+  "response": {
+    "search_metadata": {
+      "status": "Success",
+      "created_at": "2026-10-10 10:50:19 UTC",
+      "total_time_taken": 0.46
+    },
+    "search_parameters": {
+      "engine": "google_maps",
+      "type": "search",
+      "q": "hospital",
+      "ll": "@26.8467,80.9462,13z",
+      "google_domain": "google.com",
+      "hl": "en"
+    },
+    "search_information": {
+      "local_results_state": "Results for exact spelling",
+      "query_displayed": "hospital"
+    },
+    "local_results": [
+      {
+        "position": 1,
+        "title": "Lucknow Hospital",
+        "place_id": "ChIJO_rhCK_-mzkR_VZNPq6NoRw",
+        "data_id": "0x399bfeaf08e1fa3b:0x1ca18dae3e4d56fd",
+        "data_cid": "2063085883821479677",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x399bfeaf08e1fa3b%3A0x1ca18dae3e4d56fd&engine=google_maps_reviews&hl=en",
+        "photos_link": "https://serpapi.com/search.json?data_id=0x399bfeaf08e1fa3b%3A0x1ca18dae3e4d56fd&engine=google_maps_photos&hl=en",
+        "gps_coordinates": {
+          "latitude": 26.795475,
+          "longitude": 80.89065
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJO_rhCK_-mzkR_VZNPq6NoRw",
+        "provider_id": "/g/1vmq_t0f",
+        "rating": 4,
+        "reviews": 536,
+        "type": "Private hospital",
+        "types": [
+          "Private hospital"
+        ],
+        "type_id": "private_hospital",
+        "type_ids": [
+          "private_hospital"
+        ],
+        "address": "B-1, Kanpur - Lucknow Rd, behind Krishna Nagar, Sindhu Nagar, Krishna Nagar Village, Krishna Nagar, Kotwali, Lucknow, Uttar Pradesh 226023, India",
+        "country": "India",
+        "open_state": "Open 24 hours",
+        "hours": "Open 24 hours",
+        "operating_hours": {
+          "saturday": "Open 24 hours",
+          "sunday": "Open 24 hours",
+          "monday": "Open 24 hours",
+          "tuesday": "Open 24 hours",
+          "wednesday": "Open 24 hours",
+          "thursday": "Open 24 hours",
+          "friday": "Open 24 hours"
+        },
+        "phone": "+91 522 402 6448",
+        "extensions": [
+          {
+            "accessibility": [
+              "Wheelchair accessible entrance",
+              "Wheelchair accessible parking lot"
+            ]
+          },
+          {
+            "offerings": [
+              "Medication disposal"
+            ]
+          },
+          {
+            "payments": [
+              "Credit cards",
+              "Debit cards",
+              "NFC mobile payments"
+            ]
+          }
+        ],
+        "user_review": "\"Very good facility and impressive treatment by doctors n hospital staff.\"",
+        "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLd3IJ2RX1aShEeXNTmvAwj4zPDp7eqSGZIYSI5TXf6fKx6Mz-OuMpJ32a0NfpMs_Lk_ZrBPbiq5_zgZbQv0FmPSjGDE3ncUH8L-y9pWrJsG6UnvTBxkpjOhAzj6qIOf2aA1PnhWLLipNMo=w1000-h1000-c-n",
+        "serpapi_thumbnail": "https://serpapi.com/images/url/JNvaYXicHcTNboIwAADgJ6oUUOaW7FCiIqz8TDAiF4K1UEHaQhGVh_Tu2yzZd_jeLzYMUn1p2pWZs0qI6kpvivZE8IHyYUZEq1V9oRQgSkPIblp8Nl3P2KV6EbM1TYOkHdG9nk_RSn7QLnYy9xi7iyQtrfLnYfkTCG--9EyjgEEpfZXjJs96OzpdukU-Vdnpd4SbNoprZ7U2Odlvlxg8P-Wh95Rj7fmY2I9G1iFDU211blgaBdIjzg4YX2Tgi--7DiEE7H8C-B9g7kdV"
+      },
+      {
+        "position": 2,
+        "title": "Tender Palm Super Speciality Hospital",
+        "place_id": "ChIJ93eTq0LjmzkRnSxaP6mXsbo",
+        "data_id": "0x399be342ab9377f7:0xbab197a93f5a2c9d",
+        "data_cid": "13452700315100523677",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x399be342ab9377f7%3A0xbab197a93f5a2c9d&engine=google_maps_reviews&hl=en",
+        "photos_link": "https://serpapi.com/search.json?data_id=0x399be342ab9377f7%3A0xbab197a93f5a2c9d&engine=google_maps_photos&hl=en",
+        "gps_coordinates": {
+          "latitude": 26.8048692,
+          "longitude": 81.0098672
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ93eTq0LjmzkRnSxaP6mXsbo",
+        "provider_id": "/g/11c0qhr87z",
+        "rating": 4.6,
+        "reviews": 2931,
+        "type": "General hospital",
+        "types": [
+          "General hospital",
+          "Hospital"
+        ],
+        "type_id": "general_hospital",
+        "type_ids": [
+          "general_hospital",
+          "hospital"
+        ],
+        "address": "Amar Shaheed Path, near Ekana International Cricket Stadium Road, Sector-7, Gomti Nagar, Lucknow, Ahmamau, Uttar Pradesh 226002, India",
+        "country": "India",
+        "open_state": "Open 24 hours",
+        "hours": "Open 24 hours",
+        "operating_hours": {
+          "saturday": "Open 24 hours",
+          "sunday": "Open 24 hours",
+          "monday": "Open 24 hours",
+          "tuesday": "Open 24 hours",
+          "wednesday": "Open 24 hours",
+          "thursday": "Open 24 hours",
+          "friday": "Open 24 hours"
+        },
+        "phone": "+91 90769 72161",
+        "website": "https://www.tenderpalm.com/",
+        "extensions": [
+          {
+            "from_the_business": [
+              "Identifies as women-owned"
+            ]
+          },
+          {
+            "accessibility": [
+              "Wheelchair accessible entrance",
+              "Wheelchair accessible parking lot"
+            ]
+          },
+          {
+            "offerings": [
+              "Medication disposal"
+            ]
+          },
+          {
+            "amenities": [
+              "Gender-neutral restroom"
+            ]
+          },
+          {
+            "crowd": [
+              "LGBTQ+ friendly"
+            ]
+          },
+          {
+            "payments": [
+              "Credit cards",
+              "Debit cards",
+              "NFC mobile payments"
+            ]
+          },
+          {
+            "children": [
+              "Nursing room"
+            ]
+          },
+          {
+            "parking": [
+              "Free street parking",
+              "On-site parking",
+              "Paid parking lot"
+            ]
+          }
+        ],
+        "unsupported_extensions": [
+          {
+            "service_options": [
+              "Onsite services"
+            ]
+          }
+        ],
+        "service_options": {
+          "onsite_services": false
+        },
+        "user_review": "\"The hospital presented a clean and pleasant environment.\"",
+        "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLfIJml9J0C4CLRmPLSTLULrGBswvCJqFfAW5HzEbeuCGbeRNqZKTefrNIYxCx_48SAnjGMydO0Ewf1zBHlP9yPbVhf3CeuU4oECHm5M8BkJjKXtCfzrJLlkDRvFDo7LCGRYD3VNaN_fCoJt=w1000-h1000-c-n",
+        "serpapi_thumbnail": "https://serpapi.com/images/url/J4HBPnicHcTdboIwGADQJ0JqwKhLdgEfCNbKCP5MvSGALURaOtsiykt6vbdZsnNxft-NMT_6w7Z540xqKWtOe01VJTtDOzOppLBrVWhtVdr2PL8VhK2x4EuMwAWSiZTs9uRAVOTr4QH4vmLe9ywew5L2EJU0S-6XzZ4ylazPT3jm7mLndbdo-7p-oXBg09GPebp8peWxYQ7Q_uDKEGIx2y78Ft82JwNsVJjwNsgeq0DOCUTZOXCOSZHkDCQ2n8MUIWQ1_1dW9weeskct"
+      },
+      {
+        "position": 3,
+        "title": "HealthCity Trauma Centre & Superspeciality Hospital",
+        "place_id": "ChIJBzmoTcnimzkRRr_bA1AJcyo",
+        "data_id": "0x399be2c94da83907:0x2a73095003dbbf46",
+        "data_cid": "3058798811181465414",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x399be2c94da83907%3A0x2a73095003dbbf46&engine=google_maps_reviews&hl=en",
+        "photos_link": "https://serpapi.com/search.json?data_id=0x399be2c94da83907%3A0x2a73095003dbbf46&engine=google_maps_photos&hl=en",
+        "gps_coordinates": {
+          "latitude": 26.8566497,
+          "longitude": 80.9936055
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJBzmoTcnimzkRRr_bA1AJcyo",
+        "provider_id": "/g/11cjnnhd_0",
+        "rating": 4.5,
+        "reviews": 2310,
+        "type": "General hospital",
+        "types": [
+          "General hospital",
+          "Heart hospital",
+          "Hospital",
+          "Neurologist",
+          "Orthopedic surgeon",
+          "Plastic surgeon",
+          "Urologist"
+        ],
+        "type_id": "general_hospital",
+        "type_ids": [
+          "general_hospital",
+          "heart_hospital",
+          "hospital",
+          "neurologist",
+          "orthopedic_surgeon",
+          "plastic_surgeon",
+          "urologist"
+        ],
+        "address": "Health City Hospital Road, NH-A/B, Vijay Khand Marg, Vijay Khand 2, Gomti Nagar, Lucknow, Uttar Pradesh 226010, India",
+        "country": "India",
+        "open_state": "Open 24 hours",
+        "hours": "Open 24 hours",
+        "operating_hours": {
+          "saturday": "Open 24 hours",
+          "sunday": "Open 24 hours",
+          "monday": "Open 24 hours",
+          "tuesday": "Open 24 hours",
+          "wednesday": "Open 24 hours",
+          "thursday": "Open 24 hours",
+          "friday": "Open 24 hours"
+        },
+        "phone": "+91 94553 35566",
+        "website": "http://www.lucknowhealthcity.com/",
+        "extensions": [
+          {
+            "service_options": [
+              "Onsite services"
+            ]
+          },
+          {
+            "accessibility": [
+              "Wheelchair accessible entrance",
+              "Wheelchair accessible parking lot",
+              "Wheelchair accessible restroom"
+            ]
+          },
+          {
+            "offerings": [
+              "Medication disposal"
+            ]
+          },
+          {
+            "amenities": [
+              "Restroom"
+            ]
+          },
+          {
+            "crowd": [
+              "LGBTQ+ friendly"
+            ]
+          },
+          {
+            "payments": [
+              "Credit cards",
+              "Debit cards",
+              "NFC mobile payments"
+            ]
+          },
+          {
+            "children": [
+              "Nursing room"
+            ]
+          },
+          {
+            "parking": [
+              "Free parking lot",
+              "Free street parking",
+              "On-site parking"
+            ]
+          }
+        ],
+        "service_options": {
+          "onsite_services": true
+        },
+        "book_online": "https://book.healthplix.com/dr-ronak-patel-cardiologist-lucknow-division?utm_source=gmb_cta&rwg_token=AE37R_g0sNsn9jKNgujW8H4zLEuWApdnm31BysEWwf0HEO2BYBHAMu9wKPqsjChda-fI1r3zQexXpLr8UFY6JzKXksZ1HtyW8g%3D%3D",
+        "user_review": "\"The hospital was really nice with friendly staff and clean surroundings.\"",
+        "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLcDAXGaOZ5WF-I379gRy6hr5N2wXstYI7Ujiddvpu8rE0LURzbNxJ3OIDzX2CBtdf3jchpe1TRtpK9TSFFFhmJBqECAF0vlvY5euOVs-Dbel_i_WhzUfbog6D5e0j5W6puLcPfQ=w1000-h1000-c-n",
+        "serpapi_thumbnail": "https://serpapi.com/images/url/TifWy3icHcRLjoIwAADQE1WqpPhJXIDYCUpEEQacjZFSWhFopQWVC3oGb2Myb_E-b661VAvDqLg5YkKwinaKtkQ0mjZ6RERtsPaiFCDKsG3nVvvEtdOfS_CHEgw8czpn4cviLdpNHqnSJ28al9c872U3a9fQj8Mh2z03ZuC5QzpZOTovzJJwScdRqOV2Hh0xxrzeOPf1ysawr_oTol3wq4Cb0ep8PSd8iItMMMtFFJYosWTnk31xWD7GEELA_yeg-QJIhkSl"
+      },
+      {
+        "position": 4,
+        "title": "Lucknow City Hospital",
+        "place_id": "ChIJxWVOKh9XmTkRVzt65Od_1mI",
+        "data_id": "0x3999571f2a4e65c5:0x62d67fe7e47a3b57",
+        "data_cid": "7122020494680406871",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x3999571f2a4e65c5%3A0x62d67fe7e47a3b57&engine=google_maps_reviews&hl=en",
+        "photos_link": "https://serpapi.com/search.json?data_id=0x3999571f2a4e65c5%3A0x62d67fe7e47a3b57&engine=google_maps_photos&hl=en",
+        "gps_coordinates": {
+          "latitude": 26.8546321,
+          "longitude": 80.8597691
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJxWVOKh9XmTkRVzt65Od_1mI",
+        "provider_id": "/g/11mwzcrt9c",
+        "rating": 4.8,
+        "reviews": 227,
+        "type": "Hospital",
+        "types": [
+          "Hospital"
+        ],
+        "type_id": "hospital",
+        "type_ids": [
+          "hospital"
+        ],
+        "address": "laxmi city, opp Lalabagh, Dubagga, kanpur, ring road, Lucknow, Uttar Pradesh 226017, India",
+        "country": "India",
+        "open_state": "Open 24 hours",
+        "hours": "Open 24 hours",
+        "operating_hours": {
+          "saturday": "Open 24 hours",
+          "sunday": "Open 24 hours",
+          "monday": "Open 24 hours",
+          "tuesday": "Open 24 hours",
+          "wednesday": "Open 24 hours",
+          "thursday": "Open 24 hours",
+          "friday": "Open 24 hours"
+        },
+        "phone": "+91 94536 36302",
+        "extensions": [
+          {
+            "accessibility": [
+              "Wheelchair accessible entrance",
+              "Wheelchair accessible parking lot"
+            ]
+          },
+          {
+            "offerings": [
+              "Medication disposal"
+            ]
+          },
+          {
+            "payments": [
+              "Credit cards",
+              "Debit cards",
+              "NFC mobile payments"
+            ]
+          }
+        ],
+        "user_review": "\"Best hospital in Lucknow and helpful staff\"",
+        "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLflF4e5B-8c4aBvTZrGaK27WJgIaxoBWMxjZzZbJmHSfjAFyKUb1xm-sySFRaJTvH3i8z1eNycTo5KU664AQIWNA9ifgGDDrBPMfreWjXWZqCes2eXPE1TCUCVTg9GuoZJtlf5v5w=w1000-h1000-c-n",
+        "serpapi_thumbnail": "https://serpapi.com/images/url/qT4FNXicHcRdboIwAADgE1VAwb9kDy0KCmqcltX0rTZtkQHd2orgDXcEb2Oy7-F7_ZXO_dil59XlZKS0VrW4W2G4bp1o3YjrxlOGWQu49SBE381O1kkoIgTmPGSow9SkLB_PSKa2rNeI7PuKPuk1azZnWcFkyItr0DfADufkxDLcbSa3-TMQh4FjHeXFdBrCzy05wMVNqnS1Mui4l0aQ6kLobyzsWFyO6wDHRfyF1SK9a5q5WkZd9Ph4BL7vg_J_Dto32elFDg"
+      },
+      {
+        "position": 5,
+        "title": "New City Hospital",
+        "place_id": "ChIJ_Xmz3939mzkRL9719kpNbno",
+        "data_id": "0x399bfddddfb379fd:0x7a6e4d4af6f5de2f",
+        "data_cid": "8822073704431607343",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x399bfddddfb379fd%3A0x7a6e4d4af6f5de2f&engine=google_maps_reviews&hl=en",
+        "photos_link": "https://serpapi.com/search.json?data_id=0x399bfddddfb379fd%3A0x7a6e4d4af6f5de2f&engine=google_maps_photos&hl=en",
+        "gps_coordinates": {
+          "latitude": 26.8550981,
+          "longitude": 80.9043466
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ_Xmz3939mzkRL9719kpNbno",
+        "provider_id": "/g/124sv88lb",
+        "rating": 4.7,
+        "reviews": 274,
+        "type": "Hospital",
+        "types": [
+          "Hospital"
+        ],
+        "type_id": "hospital",
+        "type_ids": [
+          "hospital"
+        ],
+        "address": "VV3X+3PP, 292/144, Victoria Street, Tulsidas Marg, Turiya Ganj, Old Labour Colony, Lucknow, Uttar Pradesh 226004, India",
+        "country": "India",
+        "open_state": "Open 24 hours",
+        "hours": "Open 24 hours",
+        "operating_hours": {
+          "saturday": "Open 24 hours",
+          "sunday": "Open 24 hours",
+          "monday": "Open 24 hours",
+          "tuesday": "Open 24 hours",
+          "wednesday": "Open 24 hours",
+          "thursday": "Open 24 hours",
+          "friday": "Open 24 hours"
+        },
+        "phone": "+91 93352 34586",
+        "extensions": [
+          {
+            "accessibility": [
+              "Wheelchair accessible parking lot"
+            ]
+          }
+        ],
+        "user_review": "\"Amazing response from specialist doctors and super-trained nursing staff.\"",
+        "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLd0cnai-aG_5k9Of8rgtkJUTRMIp0rS21q-ygzhxn5IzksZZbXOSEgbZElE3M8LgvLFRhxYIpXRr88vevBlonYOYPTgMyaZ-p-pHZ_IE9-cnEblsx-hqk1Cz8v4G_rYdJstIHoG=w1000-h1000-c-n",
+        "serpapi_thumbnail": "https://serpapi.com/images/url/HR5_CHicHcRRbsIgGADgE_2W6kzQxAddWMW06VJdYnlpWuzAgIDAau0FPcNus2Tfw_f7kjG6sE4SLRczYa3Q_U_oPbcm9ibOuL0lwrchAA_JdrtTt_yCuGmv0GbNUq3Kb-xFVIevU1VQh_xxnt7hKSY5miWdVGCsO5dHIjpGNFkUOBdD_lHJsabuXHmMh37YaWvqsv48ieLZMnDg9qyhZAXckE6HEeRdpe8THt6yxteXQ4h0b7PNI0UIgfyfg_kD1BFF6g"
+      },
+      {
+        "position": 6,
+        "title": "Shekhar Hospital, Lucknow",
+        "place_id": "ChIJvalQ19tXmTkRZig695D11nA",
+        "data_id": "0x399957dbd750a9bd:0x70d6f590f73a2866",
+        "data_cid": "8130956180235888742",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x399957dbd750a9bd%3A0x70d6f590f73a2866&engine=google_maps_reviews&hl=en",
+        "photos_link": "https://serpapi.com/search.json?data_id=0x399957dbd750a9bd%3A0x70d6f590f73a2866&engine=google_maps_photos&hl=en",
+        "gps_coordinates": {
+          "latitude": 26.8762008,
+          "longitude": 80.9855086
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJvalQ19tXmTkRZig695D11nA",
+        "provider_id": "/g/1hhw58b_4",
+        "rating": 4.4,
+        "reviews": 3295,
+        "type": "Private hospital",
+        "types": [
+          "Private hospital"
+        ],
+        "type_id": "private_hospital",
+        "type_ids": [
+          "private_hospital"
+        ],
+        "address": "Shekhar Hospital, Church Rd, B Block, Indira Nagar, Lucknow, Uttar Pradesh 226016, India",
+        "country": "India",
+        "open_state": "Open 24 hours",
+        "hours": "Open 24 hours",
+        "operating_hours": {
+          "saturday": "Open 24 hours",
+          "sunday": "Open 24 hours",
+          "monday": "Open 24 hours",
+          "tuesday": "Open 24 hours",
+          "wednesday": "Open 24 hours",
+          "thursday": "Open 24 hours",
+          "friday": "Open 24 hours"
+        },
+        "phone": "+91 90890 83333",
+        "website": "https://shekharhospital.com/",
+        "extensions": [
+          {
+            "service_options": [
+              "Onsite services"
+            ]
+          },
+          {
+            "accessibility": [
+              "Wheelchair accessible entrance",
+              "Wheelchair accessible parking lot"
+            ]
+          },
+          {
+            "amenities": [
+              "Gender-neutral restroom"
+            ]
+          },
+          {
+            "payments": [
+              "Credit cards",
+              "Debit cards",
+              "NFC mobile payments"
+            ]
+          },
+          {
+            "children": [
+              "Nursing room"
+            ]
+          },
+          {
+            "parking": [
+              "Free parking lot",
+              "On-site parking",
+              "Paid parking lot"
+            ]
+          }
+        ],
+        "service_options": {
+          "onsite_services": true
+        },
+        "user_review": "\"Verry well educated doctors and well trained nursing staff.\"",
+        "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLcfkAUFeWiexTxPcQK6B5I7vYVhEHb7QpvAZkfC9XukO7klSucIEmrojGm-FU83GgOV5rPMVinc8kcuAoM6DwL1lGB2XO9WmS2MXf2_kNGRJoJnIXK5jFkS9TZ8xpFfJXXGB5iJ=w1000-h1000-c-n",
+        "serpapi_thumbnail": "https://serpapi.com/images/url/YsFFRXicHcTdEoFAGADQJ0rJpDLjYkOrSChZbgzfbD-23W3aojf0DN7GjHNxvp-y6xo10_W6nIwKKYua9oq2IEVHRTcCyfWivSulgdIR8hjfQs7Qyafnig7psIfDZupZgf26ZOVq_bAPzQtdWb5wSc9im9VJD8GKt_KJueafnAku4sxq91FWCXAY9EhG0-V7O66xZ5LYPfPEjEhu3tgOH0MZioBsrKfPEje9OkPj5yEh2LOqcP4eG4ahlf9BEz99a0Qm"
+      },
+      {
+        "position": 7,
+        "title": "Midland Healthcare & Research Center",
+        "place_id": "ChIJQW_yR3v9mzkR0AU8yOOsId4",
+        "data_id": "0x399bfd7b47f26f41:0xde21ace3c83c05d0",
+        "data_cid": "16006264644968383952",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x399bfd7b47f26f41%3A0xde21ace3c83c05d0&engine=google_maps_reviews&hl=en",
+        "photos_link": "https://serpapi.com/search.json?data_id=0x399bfd7b47f26f41%3A0xde21ace3c83c05d0&engine=google_maps_photos&hl=en",
+        "gps_coordinates": {
+          "latitude": 26.8802174,
+          "longitude": 80.9502432
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJQW_yR3v9mzkR0AU8yOOsId4",
+        "provider_id": "/g/11b66jxsrz",
+        "rating": 3.7,
+        "reviews": 1532,
+        "type": "General hospital",
+        "types": [
+          "General hospital",
+          "Child health care center",
+          "Diagnostic center",
+          "Dialysis center",
+          "Hospital",
+          "Heart hospital",
+          "Medical diagnostic imaging center",
+          "Private hospital",
+          "Sleep clinic"
+        ],
+        "type_id": "general_hospital",
+        "type_ids": [
+          "general_hospital",
+          "child_health_care_centre",
+          "diagnostic_center",
+          "dialysis_center",
+          "hospital",
+          "heart_hospital",
+          "medical_diagnostic_imaging_center",
+          "private_hospital",
+          "sleep_clinic"
+        ],
+        "address": "C-42 & B-55, Mandir Marg, Mahanagar Extension, Mahanagar, Lucknow, Uttar Pradesh 226006, India",
+        "country": "India",
+        "open_state": "Open 24 hours",
+        "hours": "Open 24 hours",
+        "operating_hours": {
+          "saturday": "Open 24 hours",
+          "sunday": "Open 24 hours",
+          "monday": "Open 24 hours",
+          "tuesday": "Open 24 hours",
+          "wednesday": "Open 24 hours",
+          "thursday": "Open 24 hours",
+          "friday": "Open 24 hours"
+        },
+        "phone": "+91 91960 24365",
+        "website": "https://midlandhealthcare.org/",
+        "extensions": [
+          {
+            "service_options": [
+              "Onsite services"
+            ]
+          },
+          {
+            "accessibility": [
+              "Wheelchair accessible entrance",
+              "Wheelchair accessible parking lot",
+              "Wheelchair accessible seating"
+            ]
+          },
+          {
+            "offerings": [
+              "Medication disposal"
+            ]
+          },
+          {
+            "crowd": [
+              "LGBTQ+ friendly"
+            ]
+          },
+          {
+            "payments": [
+              "Credit cards",
+              "Debit cards",
+              "NFC mobile payments"
+            ]
+          }
+        ],
+        "service_options": {
+          "onsite_services": true
+        },
+        "user_review": "\"The service was amazing,the hospital was very cleanand safe\"",
+        "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLdVfJFlsbn9GJi_Wh_T0Fe8Z0CYbEfq8sYoobNyRkLhWG7Po3Qc13WORg01zyMmLnzg97GW7Cm2iEztTAuyhB2eWJX5-kkcZJfgJ5JHCTyGicft9D9YH3v9dwuvusBYnKxj1W2mYw=w1000-h1000-c-n",
+        "serpapi_thumbnail": "https://serpapi.com/images/url/GAStF3icHcRdboMgAADgE1lR01iW9EGd2jC3_sSM0RczEcEpsBas1Rv2CL3Nkn0P3_MhrP01L647iGDFteYDGw27Uq0sU3ZFtXT59dsYhxo3iuJeFs1ni7LB1ArmqKuwqEqQsc0ZJKRO28vGEK3rj_nUFwLn4UEHR-oFeH_iwFvmd1mohcMwx2Ei_S5dbBmNs4h9htHX2ul7ekYtR2u0S8o572hr4Ssku-AGm2m8jSYm6u3-42Ffkmk7eQAAR_xPHfUHGM5F0Q"
+      },
+      {
+        "position": 8,
+        "title": "UNIQUE HOSPITAL (A MULTI SPECIALTY HOSPITAL)",
+        "place_id": "ChIJI3u_XBn-mzkRMW835s2QZOs",
+        "data_id": "0x399bfe195cbf7b23:0xeb6490cde6376f31",
+        "data_cid": "16961841310589218609",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x399bfe195cbf7b23%3A0xeb6490cde6376f31&engine=google_maps_reviews&hl=en",
+        "photos_link": "https://serpapi.com/search.json?data_id=0x399bfe195cbf7b23%3A0xeb6490cde6376f31&engine=google_maps_photos&hl=en",
+        "gps_coordinates": {
+          "latitude": 26.8726624,
+          "longitude": 80.8781977
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJI3u_XBn-mzkRMW835s2QZOs",
+        "provider_id": "/g/11byx8q20x",
+        "rating": 4.9,
+        "reviews": 434,
+        "type": "General hospital",
+        "types": [
+          "General hospital"
+        ],
+        "type_id": "general_hospital",
+        "type_ids": [
+          "general_hospital"
+        ],
+        "address": "Bullet Showroom, Hardoi Rd, near Lal Masjid, Azad Nagar, Balaganj, Lucknow, Uttar Pradesh 226003, India",
+        "country": "India",
+        "open_state": "Open 24 hours",
+        "hours": "Open 24 hours",
+        "operating_hours": {
+          "saturday": "Open 24 hours",
+          "sunday": "Open 24 hours",
+          "monday": "Open 24 hours",
+          "tuesday": "Open 24 hours",
+          "wednesday": "Open 24 hours",
+          "thursday": "Open 24 hours",
+          "friday": "Open 24 hours"
+        },
+        "phone": "+91 94520 04222",
+        "website": "http://www.uniquehospitallko.com/",
+        "extensions": [
+          {
+            "accessibility": [
+              "Assistive hearing loop",
+              "Wheelchair accessible entrance",
+              "Wheelchair accessible parking lot",
+              "Wheelchair accessible seating"
+            ]
+          },
+          {
+            "amenities": [
+              "Restroom"
+            ]
+          },
+          {
+            "payments": [
+              "Credit cards",
+              "Debit cards",
+              "NFC mobile payments"
+            ]
+          }
+        ],
+        "user_review": "\"Best Hospital 🏥 👌 Best service very low budget Dr are very polite...\"",
+        "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLdgGdCPAhLQ-ufZDtCY8QyJG_saZuIEEJpXHTUAbQ3lI6ec5zSC10w9eGrbYBg62antJ-M32CpgXTYFiN6eY_0vVdK76XP6YtLYz9qIbe4y4bXsijjStcTgAKCs9uO1rEul2cBb4w=w1000-h1000-c-n",
+        "serpapi_thumbnail": "https://serpapi.com/images/url/OyKXNnicHcRdboIwAADgE1XKj3Us8aF0iCA6iWyhvhhaalERGG0lekOP4G1M9j18r2etda8-Laup3YnsOtkIo8TAu1aLVk94d7XkUCoFuLIwDi7XtJJRRba4TjNgjvsvTehHdk-igyr3Jg7DpC-W-Q9mmdvESPDpY0dsOPoiGhgNJHLKVidg7Tqkl0VOF6cNEvQAb7_VaoaKLaI6pQ__L2bCu3usUKfzead5LvGKKN9820NoGocHzBvnow0hBPX_HLRvurNEww"
+      },
+      {
+        "position": 9,
+        "title": "Medwell Hospital",
+        "place_id": "ChIJv1Diw679mzkRCut4oJ2oNq0",
+        "data_id": "0x399bfdaec3e250bf:0xad36a89da078eb0a",
+        "data_cid": "12481348812259519242",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x399bfdaec3e250bf%3A0xad36a89da078eb0a&engine=google_maps_reviews&hl=en",
+        "photos_link": "https://serpapi.com/search.json?data_id=0x399bfdaec3e250bf%3A0xad36a89da078eb0a&engine=google_maps_photos&hl=en",
+        "gps_coordinates": {
+          "latitude": 26.8416017,
+          "longitude": 80.9369493
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJv1Diw679mzkRCut4oJ2oNq0",
+        "provider_id": "/g/1tdcpykk",
+        "rating": 3.5,
+        "reviews": 109,
+        "type": "General hospital",
+        "types": [
+          "General hospital",
+          "Hospital"
+        ],
+        "type_id": "general_hospital",
+        "type_ids": [
+          "general_hospital",
+          "hospital"
+        ],
+        "address": "Burlington Crossing, 37, Cantonment Rd, Lalbagh, Lucknow, Uttar Pradesh 226001, India",
+        "country": "India",
+        "open_state": "Open 24 hours",
+        "hours": "Open 24 hours",
+        "operating_hours": {
+          "saturday": "Open 24 hours",
+          "sunday": "Open 24 hours",
+          "monday": "Open 24 hours",
+          "tuesday": "Open 24 hours",
+          "wednesday": "Open 24 hours",
+          "thursday": "Open 24 hours",
+          "friday": "Open 24 hours"
+        },
+        "phone": "+91 522 405 6111",
+        "extensions": [
+          {
+            "accessibility": [
+              "Wheelchair accessible entrance",
+              "Wheelchair accessible parking lot",
+              "Wheelchair accessible restroom"
+            ]
+          },
+          {
+            "amenities": [
+              "Restroom"
+            ]
+          },
+          {
+            "payments": [
+              "Credit cards",
+              "Debit cards",
+              "NFC mobile payments"
+            ]
+          }
+        ],
+        "user_review": "\"Very good, treatment is well taken care of!!!\"",
+        "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLexF7zR2LM5HzOyFxNcm6m-8qQ6LkePa4mDegPEuy_0tllEHBr2e28-FhF5Y_bMp9bNdcZ-kUhdNoJWN3-lnBFJHpLk0IUDjF7riaXBC1L728wQo-LZvcu4Q-A3Jycfh6--KtUdmA=w1000-h1000-c-n",
+        "serpapi_thumbnail": "https://serpapi.com/images/url/jD9qW3icHcRBjoIwFADQE32poIAmLmC0QawoJmRm3BgslSotRVpUvKFH8DYmvsV7v7gxjZ5aluDOoFSqFKzTrKWqNqw2A6qkVba51kC1FQRhJQl7YO-5s8l6HD03PX4kVLoS_Gvqkopt85Gcs3K76PoDMkIsorC1me0D5nj8fzium8kxKegeqowXiYp_EwdEHeI4akiFltn8gr32nP-FP0Pi2f49VUD2N9qNUgicuKcn7gKsTFbIYHYfIoSAf6dQfwCnG0O_"
+      },
+      {
+        "position": 10,
+        "title": "SKD Hospital",
+        "place_id": "ChIJ4_yFtQL8mzkR9wKKi8iTRKg",
+        "data_id": "0x399bfc02b585fce3:0xa84493c88b8a02f7",
+        "data_cid": "12124978586332037879",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x399bfc02b585fce3%3A0xa84493c88b8a02f7&engine=google_maps_reviews&hl=en",
+        "photos_link": "https://serpapi.com/search.json?data_id=0x399bfc02b585fce3%3A0xa84493c88b8a02f7&engine=google_maps_photos&hl=en",
+        "gps_coordinates": {
+          "latitude": 26.7978456,
+          "longitude": 80.9000772
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ4_yFtQL8mzkR9wKKi8iTRKg",
+        "provider_id": "/g/11c52kjs1j",
+        "rating": 4.3,
+        "reviews": 648,
+        "type": "General hospital",
+        "types": [
+          "General hospital",
+          "Hospital"
+        ],
+        "type_id": "general_hospital",
+        "type_ids": [
+          "general_hospital",
+          "hospital"
+        ],
+        "address": "KBC-27, Road, opp. Phoenix Mall, Sector B, Bargawan, LDA Colony, Lucknow, Uttar Pradesh 226012, India",
+        "country": "India",
+        "open_state": "Open 24 hours",
+        "hours": "Open 24 hours",
+        "operating_hours": {
+          "saturday": "Open 24 hours",
+          "sunday": "Open 24 hours",
+          "monday": "Open 24 hours",
+          "tuesday": "Open 24 hours",
+          "wednesday": "Open 24 hours",
+          "thursday": "Open 24 hours",
+          "friday": "Open 24 hours"
+        },
+        "phone": "+91 522 402 1010",
+        "website": "https://www.skdhospital.com/",
+        "extensions": [
+          {
+            "service_options": [
+              "Onsite services"
+            ]
+          },
+          {
+            "accessibility": [
+              "Wheelchair accessible entrance",
+              "Wheelchair accessible parking lot",
+              "Wheelchair accessible restroom"
+            ]
+          },
+          {
+            "amenities": [
+              "Restroom"
+            ]
+          },
+          {
+            "payments": [
+              "Credit cards",
+              "Debit cards",
+              "NFC mobile payments"
+            ]
+          },
+          {
+            "parking": [
+              "Free parking lot",
+              "Free street parking"
+            ]
+          }
+        ],
+        "service_options": {
+          "onsite_services": true
+        },
+        "user_review": "\"The facilities and the doctors in opd are good and quite helpful.\"",
+        "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLcg2NUq8HKReb0Z-1LTk3Svz95uvqY1m3fJSEmHzDFqwo3jX5nyFsI6jMhWKaDflSAFpTM5icmfLqyYnGWk9YePm79udv1lxDM7jUDdDjFgN7kuUiMVvoAzWyZCnwdkyxUySCm_=w1000-h1000-c-n",
+        "serpapi_thumbnail": "https://serpapi.com/images/url/HRtf-3icHcRJDoIwAADAFyEgQcTEA1pxA2JERLwYLaVIaSuUxfJB3-BvTJzDfD9507zETFXL3BhhznGJWoFqyFmDWDOCnKq4vguhQKE6zoJQD-JxEFXTzf6IHtpV0b0TMcJusM22qxKdGtkuXNHNANyq50ZxMZl0xXZS-Hm8v4OsDB33dfLNJ6SZV8mErWNiJ-hALbtNO718A98qIpCCwsWBRdro6Z877gyxvC5ZnxL5jmS4pLd5r2uapuT_ocJ-pHZGTQ"
+      },
+      {
+        "position": 11,
+        "title": "Northern Railway Divisional Hospital, Lucknow",
+        "place_id": "ChIJZQx4OEb8mzkRWTkPzaiblME",
+        "data_id": "0x399bfc4638780c65:0xc1949ba8cd0f3959",
+        "data_cid": "13948945095170406745",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x399bfc4638780c65%3A0xc1949ba8cd0f3959&engine=google_maps_reviews&hl=en",
+        "photos_link": "https://serpapi.com/search.json?data_id=0x399bfc4638780c65%3A0xc1949ba8cd0f3959&engine=google_maps_photos&hl=en",
+        "gps_coordinates": {
+          "latitude": 26.8214923,
+          "longitude": 80.9247968
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJZQx4OEb8mzkRWTkPzaiblME",
+        "provider_id": "/g/1tghm_yh",
+        "rating": 3.4,
+        "reviews": 204,
+        "type": "Government hospital",
+        "types": [
+          "Government hospital"
+        ],
+        "type_id": "government_hospital",
+        "type_ids": [
+          "government_hospital"
+        ],
+        "address": "Cariappa Rd, Cantonment, Lucknow, Uttar Pradesh 226005, India",
+        "country": "India",
+        "open_state": "Open 24 hours",
+        "hours": "Open 24 hours",
+        "operating_hours": {
+          "saturday": "Open 24 hours",
+          "sunday": "Open 24 hours",
+          "monday": "Open 24 hours",
+          "tuesday": "Open 24 hours",
+          "wednesday": "Open 24 hours",
+          "thursday": "Open 24 hours",
+          "friday": "Open 24 hours"
+        },
+        "phone": "+91 70078 15039",
+        "website": "http://www.indianrailways.gov.in/railwayboard/view_section.jsp?id=0,1,304,366,519,751",
+        "extensions": [
+          {
+            "accessibility": [
+              "Wheelchair accessible entrance",
+              "Wheelchair accessible parking lot",
+              "Wheelchair accessible restroom"
+            ]
+          },
+          {
+            "offerings": [
+              "Medication disposal"
+            ]
+          },
+          {
+            "amenities": [
+              "Restroom"
+            ]
+          }
+        ],
+        "user_review": "\"Very supportive and well mannered nursing staff.👏👏\"",
+        "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLcIC-vW6ou0MaoalaWAluZUKfrVYxMk3C2PbcsUcNjXnG85YElfa4Mv9RuFZfevhnSPV3FHpqiJRyqgIpXwMJ4wKZIiJFmINqIk1H5vwXOktksE32qN0X8TImYBMWea-OiMKlg=w1000-h1000-c-n",
+        "serpapi_thumbnail": "https://serpapi.com/images/url/JiYnjHicHcRLjoIwAADQE1WqiHFMXKABLUzR6CifXW1KwZYWaAG9oHeY20wyb_F-P5W1rdk4jqzcGdeaSzYY1lOtLFN2RnXj8J4YA6hxfH8nmm-K9mBMV3qAmGgiSerLobjFZX_PX1i4-8X5Qc2NJs9MHdZeHsiSLPH4dRnComRjpa7nuxse266OLu-OozabcLSc4gLVUdigpENifvTGKTsJK0zgLroEZusf1OQ7nDICTjWOJd9OcwghqP6nQP0Bj_lFNg"
+      },
+      {
+        "position": 12,
+        "title": "K.K. Hospital, Lucknow",
+        "place_id": "ChIJZVUqlJT9mzkRA5ven1ZdQL4",
+        "data_id": "0x399bfd94942a5565:0xbe405d569fde9b03",
+        "data_cid": "13709059892346526467",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x399bfd94942a5565%3A0xbe405d569fde9b03&engine=google_maps_reviews&hl=en",
+        "photos_link": "https://serpapi.com/search.json?data_id=0x399bfd94942a5565%3A0xbe405d569fde9b03&engine=google_maps_photos&hl=en",
+        "gps_coordinates": {
+          "latitude": 26.8645173,
+          "longitude": 80.92337959999999
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJZVUqlJT9mzkRA5ven1ZdQL4",
+        "provider_id": "/g/1trcdv6h",
+        "rating": 4.1,
+        "reviews": 794,
+        "type": "Hospital",
+        "types": [
+          "Hospital"
+        ],
+        "type_id": "hospital",
+        "type_ids": [
+          "hospital"
+        ],
+        "address": "87, 88, Nabiullah Rd, opp. SSP Office, River Bank Colony, Kaiser Bagh, Lucknow, Uttar Pradesh 226018, India",
+        "country": "India",
+        "open_state": "Open 24 hours",
+        "hours": "Open 24 hours",
+        "operating_hours": {
+          "saturday": "Open 24 hours",
+          "sunday": "Open 24 hours",
+          "monday": "Open 24 hours",
+          "tuesday": "Open 24 hours",
+          "wednesday": "Open 24 hours",
+          "thursday": "Open 24 hours",
+          "friday": "Open 24 hours"
+        },
+        "phone": "+91 91619 03777",
+        "website": "http://kkhospitallucknow.com/",
+        "extensions": [
+          {
+            "accessibility": [
+              "Assistive hearing loop",
+              "Wheelchair accessible entrance",
+              "Wheelchair accessible parking lot",
+              "Wheelchair accessible restroom",
+              "Wheelchair accessible seating"
+            ]
+          },
+          {
+            "offerings": [
+              "Medication disposal"
+            ]
+          },
+          {
+            "amenities": [
+              "Gender-neutral restroom"
+            ]
+          },
+          {
+            "payments": [
+              "Debit cards",
+              "NFC mobile payments"
+            ]
+          },
+          {
+            "children": [
+              "Nursing room"
+            ]
+          }
+        ],
+        "book_online": "https://book.healthplix.com/dr-manju-shukla-obgy-nabiulla-road-lucknow?utm_source=gmb_cta&rwg_token=AE37R_hIDP9LB1QyvPN8iPeGXpFBBVjTW6xPVcD1UihE4r9Q1_aQJ6DZfqa03K_A1ywLOnY0bf_Toey3qefuQmrIz6GE81pgrQ%3D%3D",
+        "user_review": "\"Very good hospital and nursing staff excellent and doctor very excellent\"",
+        "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLconbFZFFbcmwpawi0ZPyuMV_eYQDhCAVMaijFVDdM3CeLSIK0N8BK0QupMAu0WhMClPZzVxG-Fqd2gEubC0zzdPI_p5O6TVpyAuURmLH1h9jOgc6zhrmkKuZxwinyek1E1Lkambw=w1000-h1000-c-n",
+        "serpapi_thumbnail": "https://serpapi.com/images/url/dWVmN3icHclRboIwAADQEyFlRuOW7KOAVQMV2FyN_BgoTYtQqJSmwA13hN1my37ez_v5FuOo9JvrtmK94n3PW2Y0G2jfjawbV7SXLh8KrR2qXQj9RsZ_VaIcoZJKqwpbgzydDSZ3dstCEUCCi_qBSFjhdcDiz1MEzjs_AplRGBpwFTho03wh08FBz-qF700ZgGWp0tNdbZLthagZmq8PGR898fpION0uYpBNZPLJ1t3MGm_vxU0hS_tuPQCAI_6lTvcLYuJG3Q"
+      },
+      {
+        "position": 13,
+        "title": "Vivekanand Hospital Lucknow",
+        "place_id": "ChIJpcG88mT9mzkRo_fW-QOPwUU",
+        "data_id": "0x399bfd64f2bcc1a5:0x45c18f03f9d6f7a3",
+        "data_cid": "5026455906361472931",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x399bfd64f2bcc1a5%3A0x45c18f03f9d6f7a3&engine=google_maps_reviews&hl=en",
+        "photos_link": "https://serpapi.com/search.json?data_id=0x399bfd64f2bcc1a5%3A0x45c18f03f9d6f7a3&engine=google_maps_photos&hl=en",
+        "gps_coordinates": {
+          "latitude": 26.8753061,
+          "longitude": 80.94275069999999
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJpcG88mT9mzkRo_fW-QOPwUU",
+        "provider_id": "/g/11h3mcxqzz",
+        "rating": 3.2,
+        "reviews": 1590,
+        "type": "Hospital",
+        "types": [
+          "Hospital"
+        ],
+        "type_id": "hospital",
+        "type_ids": [
+          "hospital"
+        ],
+        "address": "A-6, A-6, Kursi Rd, Vivekanandapuri Hydel Colony, Nirala Nagar, Lucknow, Uttar Pradesh 226020, India",
+        "country": "India",
+        "open_state": "Open now",
+        "phone": "+91 522 232 1277",
+        "website": "http://www.rkml.org/",
+        "extensions": [
+          {
+            "service_options": [
+              "Onsite services"
+            ]
+          },
+          {
+            "accessibility": [
+              "Wheelchair accessible entrance",
+              "Wheelchair accessible parking lot",
+              "Wheelchair accessible restroom"
+            ]
+          },
+          {
+            "offerings": [
+              "Medication disposal"
+            ]
+          },
+          {
+            "payments": [
+              "Credit cards",
+              "Debit cards",
+              "NFC mobile payments"
+            ]
+          },
+          {
+            "parking": [
+              "Free parking lot",
+              "Free street parking"
+            ]
+          }
+        ],
+        "service_options": {
+          "onsite_services": true
+        },
+        "user_review": "\"The facility is very clean, well-organized, and emergency handling is swift.\"",
+        "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLd8FWpVPvdosi7PTV5cRRYThIrm3qvoA9Pnl7ZDABaxe5Y3ld3lHA4fTkFh4KPHD_Pb6zUb0pWbGbmq00EPJrI66I54HNi5H0YaSCwDR_cgO7UNmCdwgPT9mSy9iTSJUatkJjQUfA=w1000-h1000-c-n",
+        "serpapi_thumbnail": "https://serpapi.com/images/url/5bqo7nicHcRdboIwAADgEyE1_MmSPVRQAY2rUDTsxUDBFmkp0k7UG3qE3WbJvofv9820HtSHaXJmzaiUlDc_qhmJ7HXT6xmRwqRjqZRBlAnhshO7erE-DUd0r6VqPYSPDknTArN4FNbtLqGPeu59h3BZPhqnsHht8QjaF9ytmb1FUXhGlfvKKzCcqk0lbgCsUDLGrhs7drRvnQgUZRZMYXom9MvL9yKoJ4qwL7Kn3-IsyUvdJddDfoGf0xwAYLD_idH_AdSZRJ4"
+      },
+      {
+        "position": 14,
+        "title": "A S HEALTH CITY HOSPITAL AND TRAUMA CENTER PRIVATE LIMITED",
+        "place_id": "ChIJTVeRZrn9mzkR6SGQzM1l93c",
+        "data_id": "0x399bfdb96691574d:0x77f765cdcc9021e9",
+        "data_cid": "8644489944335655401",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x399bfdb96691574d%3A0x77f765cdcc9021e9&engine=google_maps_reviews&hl=en",
+        "photos_link": "https://serpapi.com/search.json?data_id=0x399bfdb96691574d%3A0x77f765cdcc9021e9&engine=google_maps_photos&hl=en",
+        "gps_coordinates": {
+          "latitude": 26.876756999999998,
+          "longitude": 80.9422483
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJTVeRZrn9mzkR6SGQzM1l93c",
+        "provider_id": "/g/11nxt2j6vv",
+        "rating": 3.8,
+        "reviews": 286,
+        "type": "Hospital",
+        "types": [
+          "Hospital"
+        ],
+        "type_id": "hospital",
+        "type_ids": [
+          "hospital"
+        ],
+        "address": "A-9-a, Officers Colony, Nirala Nagar, Lucknow, Uttar Pradesh 226020, India",
+        "country": "India",
+        "open_state": "Open 24 hours",
+        "hours": "Open 24 hours",
+        "operating_hours": {
+          "saturday": "Open 24 hours",
+          "sunday": "Open 24 hours",
+          "monday": "Open 24 hours",
+          "tuesday": "Open 24 hours",
+          "wednesday": "Open 24 hours",
+          "thursday": "Open 24 hours",
+          "friday": "Open 24 hours"
+        },
+        "phone": "+91 70071 94312",
+        "website": "http://ashealthcityhospital.in/",
+        "extensions": [
+          {
+            "service_options": [
+              "Onsite services"
+            ]
+          },
+          {
+            "accessibility": [
+              "Assistive hearing loop",
+              "Wheelchair accessible entrance",
+              "Wheelchair accessible parking lot",
+              "Wheelchair accessible restroom",
+              "Wheelchair accessible seating"
+            ]
+          },
+          {
+            "offerings": [
+              "Medication disposal"
+            ]
+          },
+          {
+            "amenities": [
+              "Gender-neutral restroom"
+            ]
+          },
+          {
+            "crowd": [
+              "LGBTQ+ friendly"
+            ]
+          },
+          {
+            "payments": [
+              "Credit cards",
+              "Debit cards",
+              "NFC mobile payments"
+            ]
+          },
+          {
+            "children": [
+              "Nursing room"
+            ]
+          },
+          {
+            "parking": [
+              "Free street parking",
+              "On-site parking"
+            ]
+          }
+        ],
+        "service_options": {
+          "onsite_services": true
+        },
+        "user_review": "\"Very supportive medical staff and affordable service at this hospital\"",
+        "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLe28fAul_wIQvZjv_5GUVAR1_4Z3IrDzVo4-F7B0OTdgVMBr6t_CxDu-32PLV67D2yfXCHOKzlNIpZNRBYjqwg5c0uC7HA-JsCkYnqiPBtOOkRJaxPhBFHMi25VNMMDcA9J6AA=w1000-h1000-c-n",
+        "serpapi_thumbnail": "https://serpapi.com/images/url/WlqDZ3icHcRJDoIwAADAFxUqCKiJhxaigLJItFEuxFQoClKlZdEH-gd_Y-Ic5vsppXyIharWpa4wzlmddyJvKW9k3kiF8rvK2rMQgAoVIVzdt7k2K1BXZ4O369NbnxnrA0HJJJumutc6b8KnYGVhGO0vjAS4NWVmj04HdC3eEtNytFdxtN1o865D75GGCT7dngMzKOxsy0XAF3Z1ap7XGMsoqhL_PMYlXrnBVTNIGAQORXPfRGg5TCCEoPxPQfMDpl1CVQ"
+      },
+      {
+        "position": 15,
+        "title": "Lucknow Heritage Hospital",
+        "place_id": "ChIJ78eICu_9mzkRxSJi3hB-ORs",
+        "data_id": "0x399bfdef0a88c7ef:0x1b397e10de6222c5",
+        "data_cid": "1961737723612111557",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x399bfdef0a88c7ef%3A0x1b397e10de6222c5&engine=google_maps_reviews&hl=en",
+        "photos_link": "https://serpapi.com/search.json?data_id=0x399bfdef0a88c7ef%3A0x1b397e10de6222c5&engine=google_maps_photos&hl=en",
+        "gps_coordinates": {
+          "latitude": 26.8726605,
+          "longitude": 80.8945083
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ78eICu_9mzkRxSJi3hB-ORs",
+        "provider_id": "/g/11c2ntqjqj",
+        "rating": 4.2,
+        "reviews": 73,
+        "type": "Hospital",
+        "types": [
+          "Hospital"
+        ],
+        "type_id": "hospital",
+        "type_ids": [
+          "hospital"
+        ],
+        "address": "Kanchan Market Complex, निम्बू पार्क मार्ग, Phool Mandi, Chowk, Lucknow, Uttar Pradesh 226003, India",
+        "country": "India",
+        "open_state": "Open 24 hours",
+        "hours": "Open 24 hours",
+        "operating_hours": {
+          "saturday": "Open 24 hours",
+          "sunday": "Open 24 hours",
+          "monday": "Open 24 hours",
+          "tuesday": "Open 24 hours",
+          "wednesday": "Open 24 hours",
+          "thursday": "Open 24 hours",
+          "friday": "Open 24 hours"
+        },
+        "extensions": [
+          {
+            "accessibility": [
+              "Wheelchair accessible entrance",
+              "Wheelchair accessible parking lot"
+            ]
+          },
+          {
+            "payments": [
+              "Credit cards",
+              "Debit cards",
+              "NFC mobile payments"
+            ]
+          }
+        ],
+        "user_review": "\"The hospital was clean, well-maintained, and had good facilities💫\"",
+        "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLfN7_TJigDAcp0r0Vaedri7D-FcfjG20mLxQ9zBv067LvW5C---3t5X7y54BPH2rJCcLCi-asDddOM-IL5Jbcncv1am2lkCyWx-J40n7wacpaUxqvQQ83m0uy7_6bveTiJ1motM9A=w1000-h1000-c-n",
+        "serpapi_thumbnail": "https://serpapi.com/images/url/K1oplHicHcTdTsIwGADQJ_pYtzEqJl7sJ6BNUZegeEfKt7JN1na2pWy-oY_g25h4Ls7vT-f96O6jaOjSRWtMO8irkxaN9lL7BRoVtVY4B-iiPC8uip-f6XHP-rbKcSSWvAvZ2J5WsMHz5zYhik_1-rsIZEV5OGQlAKQ--6BztixeHxPLSuRlD8JVTfOygyeesRNqDLFQyXAp58MEbEk0vQkcxdv0Fer6LlXkOtPj6hTkvmexMn63zh9uMSEEuv8R9B9IGEO7"
+      },
+      {
+        "position": 16,
+        "title": "Virat Medicity - Super Specialty Hospital & Diabetes Care Center",
+        "place_id": "ChIJX5GTIC37mzkRpU24wnZC7JU",
+        "data_id": "0x399bfb2d2093915f:0x95ec4276c2b84da5",
+        "data_cid": "10803082683995409829",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x399bfb2d2093915f%3A0x95ec4276c2b84da5&engine=google_maps_reviews&hl=en",
+        "photos_link": "https://serpapi.com/search.json?data_id=0x399bfb2d2093915f%3A0x95ec4276c2b84da5&engine=google_maps_photos&hl=en",
+        "gps_coordinates": {
+          "latitude": 26.7830153,
+          "longitude": 80.9625018
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJX5GTIC37mzkRpU24wnZC7JU",
+        "provider_id": "/g/11t6ks7kzb",
+        "rating": 4.8,
+        "reviews": 198,
+        "type": "General hospital",
+        "types": [
+          "General hospital"
+        ],
+        "type_id": "general_hospital",
+        "type_ids": [
+          "general_hospital"
+        ],
+        "address": "Kharika, Vrindavan yojna, Nagram - Nilmatha Rd, near Bala ji mandir, Sector 6C, Lucknow, Uttar Pradesh 226002, India",
+        "country": "India",
+        "open_state": "Open 24 hours",
+        "hours": "Open 24 hours",
+        "operating_hours": {
+          "saturday": "Open 24 hours",
+          "sunday": "Open 24 hours",
+          "monday": "Open 24 hours",
+          "tuesday": "Open 24 hours",
+          "wednesday": "Open 24 hours",
+          "thursday": "Open 24 hours",
+          "friday": "Open 24 hours"
+        },
+        "phone": "+91 87078 50170",
+        "website": "http://viratmedicity.com/",
+        "extensions": [
+          {
+            "accessibility": [
+              "Wheelchair accessible entrance",
+              "Wheelchair accessible parking lot",
+              "Wheelchair accessible restroom"
+            ]
+          },
+          {
+            "amenities": [
+              "Gender-neutral restroom",
+              "Restroom"
+            ]
+          },
+          {
+            "crowd": [
+              "LGBTQ+ friendly"
+            ]
+          },
+          {
+            "payments": [
+              "Credit cards",
+              "Debit cards",
+              "NFC mobile payments"
+            ]
+          }
+        ],
+        "user_review": "\"neat and Clean hospital staff was very polite and friendly budget\"",
+        "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLenZaj57TeoNSeLrFrL6Le8ufezCl9nURP6awxBNGoXtFvGa5PQje0k3i1JQtlN_cFKUQSlHfhyHDCw5EAuCbgLzS4R3f16vbvK9kHLpC9IdNCuc_ZvOe0VuThHIGvFal8LmqQQ3g=w1000-h1000-c-n",
+        "serpapi_thumbnail": "https://serpapi.com/images/url/Lv0AjHicHcTdboIwGADQJ0JKGEyW7ALrAGfDrOhivDG1-yiT0jr6w-Yb-gh7myU7F-f33ll7NU9hKLt4JrQWEpyBkWtlQdkZ10MoRmZMwE2Y54t-IKCO7JI87kDXDZCxGElKYO5auGGZqf12k7Lpe1GX-mALX7JkQy-A-vgzeqVW1iderPe0kVXb_VRLPCUvucNnQW7NwzZuo9Sf_TrrK3LF2eqjxo6fjv4N0LvbddWq9AWTczJ8URqL5ylCCAXd_zxQf0AIRcY"
+      },
+      {
+        "position": 17,
+        "title": "Divine Heart & Multispeciality Hospital",
+        "place_id": "ChIJSWV50vPimzkRpuOzLzVRkkQ",
+        "data_id": "0x399be2f3d2796549:0x449251352fb3e3a6",
+        "data_cid": "4941101030054290342",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x399be2f3d2796549%3A0x449251352fb3e3a6&engine=google_maps_reviews&hl=en",
+        "photos_link": "https://serpapi.com/search.json?data_id=0x399be2f3d2796549%3A0x449251352fb3e3a6&engine=google_maps_photos&hl=en",
+        "gps_coordinates": {
+          "latitude": 26.8588016,
+          "longitude": 81.02359849999999
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJSWV50vPimzkRpuOzLzVRkkQ",
+        "provider_id": "/g/1tdz7tv0",
+        "rating": 4.4,
+        "reviews": 1545,
+        "type": "General hospital",
+        "types": [
+          "General hospital",
+          "Heart hospital",
+          "Private hospital",
+          "Specialized hospital"
+        ],
+        "type_id": "general_hospital",
+        "type_ids": [
+          "general_hospital",
+          "heart_hospital",
+          "private_hospital",
+          "specialized_hospital"
+        ],
+        "address": "Viraj Khand Rd, Viraj Khand - 5, Institutional Area, Gomti Nagar, Lucknow, Uttar Pradesh 226010, India",
+        "country": "India",
+        "open_state": "Open 24 hours",
+        "hours": "Open 24 hours",
+        "operating_hours": {
+          "saturday": "Open 24 hours",
+          "sunday": "Open 24 hours",
+          "monday": "Open 24 hours",
+          "tuesday": "Open 24 hours",
+          "wednesday": "Open 24 hours",
+          "thursday": "Open 24 hours",
+          "friday": "Open 24 hours"
+        },
+        "phone": "+91 522 272 1992",
+        "website": "https://divinehearthospital.com/",
+        "extensions": [
+          {
+            "service_options": [
+              "Onsite services"
+            ]
+          },
+          {
+            "accessibility": [
+              "Wheelchair accessible entrance",
+              "Wheelchair accessible parking lot"
+            ]
+          },
+          {
+            "offerings": [
+              "Medication disposal"
+            ]
+          },
+          {
+            "payments": [
+              "Credit cards",
+              "Debit cards",
+              "NFC mobile payments"
+            ]
+          },
+          {
+            "parking": [
+              "Paid parking lot",
+              "Paid street parking"
+            ]
+          }
+        ],
+        "service_options": {
+          "onsite_services": true
+        },
+        "user_review": "\"The hospital is clean, well-organized, and gives a comfortable feeling.\"",
+        "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLd6MIuZKLwDeJrbI2PTPz78g_WWz8m1Sy1Nyi3zrlfnOG8ZrSuJkWAfvV9I3VkXvstkja-dHqGZtfXZW-gbrcBrw7bhYYUCkIqKP95etTINof6zDFFyqbF2I3yBJQ5L3qrJqRek=w1000-h1000-c-n",
+        "serpapi_thumbnail": "https://serpapi.com/images/url/dtzyanicHcRdEoFAAADgE63KDmLGQzGxCRGiF6O1bWy19idNXdAZ3MaM7-H7fnKtX2piGEUOe5RzWpBaEYl5pUmle5iXBpU3pQBWhuO4rAzuwzWqk1XQzIkvU9QPD2E3suk1jju7tKLW2rQP2Mkiq7YLO5FR7bPYyd6nMYIndn4rzZ43cF-KRaKzcxIDmkrsymaU5pfLccaQWIXjAdEHtOHZsJt7XitSr49g6_q7QQCF9MWesGljmaYJ8v8YVD_aQkXC"
+      },
+      {
+        "position": 18,
+        "title": "Indu Medical Centre",
+        "place_id": "ChIJMyZIvDRWmTkRIw1x1ru0oes",
+        "data_id": "0x39995634bc482633:0xeba1b4bbd6710d23",
+        "data_cid": "16979050789013097763",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x39995634bc482633%3A0xeba1b4bbd6710d23&engine=google_maps_reviews&hl=en",
+        "photos_link": "https://serpapi.com/search.json?data_id=0x39995634bc482633%3A0xeba1b4bbd6710d23&engine=google_maps_photos&hl=en",
+        "gps_coordinates": {
+          "latitude": 26.9009961,
+          "longitude": 80.9416957
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJMyZIvDRWmTkRIw1x1ru0oes",
+        "provider_id": "/g/11b7gnqgwj",
+        "rating": 4.8,
+        "reviews": 897,
+        "type": "General hospital",
+        "types": [
+          "General hospital",
+          "Gynecologist",
+          "Hospital"
+        ],
+        "type_id": "general_hospital",
+        "type_ids": [
+          "general_hospital",
+          "gynecologist_only",
+          "hospital"
+        ],
+        "address": "b 1 31 69, B-1-31/69, Sector K, Aliganj, Lucknow, Uttar Pradesh 226024, India",
+        "country": "India",
+        "open_state": "Open 24 hours",
+        "hours": "Open 24 hours",
+        "operating_hours": {
+          "saturday": "Open 24 hours",
+          "sunday": "Open 24 hours",
+          "monday": "Open 24 hours",
+          "tuesday": "Open 24 hours",
+          "wednesday": "Open 24 hours",
+          "thursday": "Open 24 hours",
+          "friday": "Open 24 hours"
+        },
+        "phone": "+91 522 406 9800",
+        "website": "http://www.indumedicalcentre.in/",
+        "extensions": [
+          {
+            "accessibility": [
+              "Wheelchair accessible entrance",
+              "Wheelchair accessible parking lot",
+              "Wheelchair accessible restroom"
+            ]
+          },
+          {
+            "amenities": [
+              "Restroom"
+            ]
+          },
+          {
+            "payments": [
+              "Credit cards",
+              "Debit cards",
+              "NFC mobile payments"
+            ]
+          }
+        ],
+        "user_review": "\"The hospital environment is clean, and the staff is polite and helpful.\"",
+        "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLeEj1uhOiERfIy3aKDSOOsnckLI6xVDrJstz_ZMI48k-htsavoGicLs96BNaWHXxL9crOfEUCxWo3v-PZpBr_5ks7BepDQN_W4qVkJPuRO-_q5Nl8ksbx73tcijbB1GkSUXDLyH=w1000-h1000-c-n",
+        "serpapi_thumbnail": "https://serpapi.com/images/url/wmKYLHicHcRJDoIwFADQE5UhKA6JCytE0Uodohg2BJtKsUixvyh6Qc_gbUx8i_f9CGMaGNt2JTyrUKqoeAtcM1UbXhuLqZtd6BwAMbCnUyxvhIdXtxW0DHeX6OXlq2BPKdRMksjvjoFegnln6TrqDSUSBvKHmpeMwMjHcZ4sTh0ZMU0v4WHWJcp7oE3aYJ31JQwwb4JtnCW9-1EuN-2Oouzej6uhhHM38Awrr2fszuX-cArIazF5uo7jIPGfofoH0i1FiA"
+      },
+      {
+        "position": 19,
+        "title": "City Hospital and Trauma Centre",
+        "place_id": "ChIJr5GTayT8mzkR4hh8NCXyBR0",
+        "data_id": "0x399bfc246b9391af:0x1d05f225347c18e2",
+        "data_cid": "2091343843591723234",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x399bfc246b9391af%3A0x1d05f225347c18e2&engine=google_maps_reviews&hl=en",
+        "photos_link": "https://serpapi.com/search.json?data_id=0x399bfc246b9391af%3A0x1d05f225347c18e2&engine=google_maps_photos&hl=en",
+        "gps_coordinates": {
+          "latitude": 26.816598,
+          "longitude": 80.9050506
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJr5GTayT8mzkR4hh8NCXyBR0",
+        "provider_id": "/g/1q62bcnvq",
+        "rating": 4.3,
+        "reviews": 138,
+        "type": "General hospital",
+        "types": [
+          "General hospital",
+          "Hospital"
+        ],
+        "type_id": "general_hospital",
+        "type_ids": [
+          "general_hospital",
+          "hospital"
+        ],
+        "address": "BUS STAND, CHTC Building C1-C2 CINDER DUMP COMPLEX CINDER DUMP COMPLEX, Kanpur Rd, near ALAMBAGH, Lucknow, Uttar Pradesh 226005, India",
+        "country": "India",
+        "open_state": "Open 24 hours",
+        "hours": "Open 24 hours",
+        "operating_hours": {
+          "saturday": "Open 24 hours",
+          "sunday": "Open 24 hours",
+          "monday": "Open 24 hours",
+          "tuesday": "Open 24 hours",
+          "wednesday": "Open 24 hours",
+          "thursday": "Open 24 hours",
+          "friday": "Open 24 hours"
+        },
+        "phone": "+91 91199 00861",
+        "website": "http://www.cityhospitallko.com/",
+        "extensions": [
+          {
+            "accessibility": [
+              "Wheelchair accessible entrance",
+              "Wheelchair accessible parking lot",
+              "Wheelchair accessible restroom"
+            ]
+          },
+          {
+            "amenities": [
+              "Restroom"
+            ]
+          },
+          {
+            "payments": [
+              "Credit cards",
+              "Debit cards",
+              "NFC mobile payments"
+            ]
+          }
+        ],
+        "user_review": "\"The treatment was excellent, and the hospital was clean and well maintained.\"",
+        "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLdZaeeOfspOCd12p5lT1fVHCmK1z3XJkokjJ-nn0SPs5sTlEaVPerBuiMyFnhXOLEkKa93jp9MbfEabOnEe1gn1MVEFJF8jWu-dWAQWJpttDAbWWYbaCnOkTlDb3pQl_vxLbyZ2Qg=w1000-h1000-c-n",
+        "serpapi_thumbnail": "https://serpapi.com/images/url/7NoPxHicHcRRboMgGADgE1Glpkm7ZA_WYhqroWZGur4soIgT_CGC27ob7gi7zZJ9D9_vzxiC809RZMZko6xVRq5eLp2FICFsOjtHauHeo85HaXrUc9nfuZR08I5mPd66nWnw0J6z-YK_k1uhrZ4KBBC_XP3ON4bw9iqX4_pePXIYb7Qk-sIPyeQOlRgIFxSIxApw1ZK8yPcTW1HP0poVLoRTKhh7FTwDqhtzEomrzdvHVyke922tnj9xHMdo_L9D8Ac6EkYs"
+      },
+      {
+        "position": 20,
+        "title": "Amrapali Hospital Lucknow",
+        "place_id": "ChIJN3RO14NVmTkRzknqaMoSuV0",
+        "data_id": "0x39995583d74e7437:0x5db912ca68ea49ce",
+        "data_cid": "6753449776771647950",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x39995583d74e7437%3A0x5db912ca68ea49ce&engine=google_maps_reviews&hl=en",
+        "photos_link": "https://serpapi.com/search.json?data_id=0x39995583d74e7437%3A0x5db912ca68ea49ce&engine=google_maps_photos&hl=en",
+        "gps_coordinates": {
+          "latitude": 26.8866657,
+          "longitude": 80.8607476
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJN3RO14NVmTkRzknqaMoSuV0",
+        "provider_id": "/g/11c52nn3vj",
+        "rating": 4.2,
+        "reviews": 55,
+        "unclaimed_listing": true,
+        "type": "General hospital",
+        "types": [
+          "General hospital",
+          "Hospital"
+        ],
+        "type_id": "general_hospital",
+        "type_ids": [
+          "general_hospital",
+          "hospital"
+        ],
+        "address": "E-3, NH1, Amrapali Yojana Hardoi Road Bypass Infront of Jagras Park, Dubagga, Lucknow, Uttar Pradesh 226003, India",
+        "country": "India",
+        "open_state": "Open · Closes 11:55 PM",
+        "hours": "Open · Closes 11:55 PM",
+        "operating_hours": {
+          "saturday": "8 AM–11:55 PM",
+          "sunday": "8 AM–11:55 PM",
+          "monday": "8 AM–11:55 PM",
+          "tuesday": "8 AM–11:55 PM",
+          "wednesday": "8 AM–11:55 PM",
+          "thursday": "8 AM–11:55 PM",
+          "friday": "8 AM–11:55 PM"
+        },
+        "phone": "+91 93356 03127",
+        "website": "http://amrapalihospital.com/",
+        "extensions": [
+          {
+            "accessibility": [
+              "Wheelchair accessible entrance",
+              "Wheelchair accessible parking lot",
+              "Wheelchair accessible restroom"
+            ]
+          },
+          {
+            "amenities": [
+              "Restroom"
+            ]
+          },
+          {
+            "payments": [
+              "Debit cards",
+              "NFC mobile payments"
+            ]
+          }
+        ],
+        "user_review": "\"Good behavier staff with better service\"",
+        "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLf-FoQ7Fd8QLUG0rfbDNswqvUp10VWSJ80c4rEoptGjgS8W3ru0epTLTOiJefhp3qG1JuTStMebdXJKbV-S6IA7DPNvP5v0GPqSfWnt-lB3bIcXLzNIon5naKQHOpB6uXRvT9A=w1000-h1000-c-n",
+        "serpapi_thumbnail": "https://serpapi.com/images/url/RjD6NnicHcRdDoIgAADgE6E4S62tB11l_mQalr4qoVYKCGhbB-wO3aat7-H7fjqluFzret-ZWstY25NJEoEZVYQqDbNBb0UlJcBSd13vOcQN2LPM3t-cLL74UDT1NpGvcb5wA14LFDoQL8SOceU_WuQUppgg4Xmcn-4haTpujr4RTjlSR1LfyjCqrwBZgWtv02ROlzP00xE1BVWg98w6wGX8TgJGl7SKssOJe9ZUnud85W5eBoQQdP8xoD_7ykO9"
+      }
+    ],
+    "serpapi_pagination": {
+      "next": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&ll=%4026.8467%2C80.9462%2C13z&q=hospital&start=20&type=search"
+    }
+  }
+}

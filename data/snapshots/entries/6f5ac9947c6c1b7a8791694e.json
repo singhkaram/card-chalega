@@ -1,0 +1,46 @@
+{
+  "version": 1,
+  "key": "6f5ac9947c6c1b7a8791694e",
+  "engine": "google_maps_reviews",
+  "params": {
+    "data_id": "0x399957dbd750a9bd:0x70d6f590f73a2866",
+    "hl": "en",
+    "num": "20",
+    "query": "ayushman",
+    "sort_by": "newestFirst"
+  },
+  "fetchedAt": "2026-10-10T10:50:15.707Z",
+  "response": {
+    "search_metadata": {
+      "status": "Success",
+      "created_at": "2026-10-10 10:50:19 UTC",
+      "total_time_taken": 0.52
+    },
+    "search_parameters": {
+      "engine": "google_maps_reviews",
+      "data_id": "0x399957dbd750a9bd:0x70d6f590f73a2866",
+      "hl": "en",
+      "num": "20",
+      "sort_by": "newestFirst",
+      "query": "ayushman"
+    },
+    "reviews": [
+      {
+        "position": 1,
+        "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURqNTlUSTN3RRAB!2m1!1s0x0:0x70d6f590f73a2866!3m1!1s2@1:CIHM0ogKEICAgIDj59TI3wE%7C%7C?hl=en",
+        "rating": 5,
+        "date": "2 years ago",
+        "iso_date": "2024-05-08T10:42:29Z",
+        "iso_date_of_last_edit": "2024-05-08T10:42:29Z",
+        "source": "Google",
+        "review_id": "ChdDSUhNMG9nS0VJQ0FnSURqNTlUSTN3RRAB",
+        "snippet": "Hospital axchha hai or yanha ke doctor bhi bahut aachhe hai or sabse badi baat ki kanha ayushman card bhi lag jata  Hai or ayushman wale bhaiya bhi bahut axchhe hai or dayalu hai or bahut hi axchhe se or ypaar",
+        "extracted_snippet": {
+          "original": "Hospital axchha hai or yanha ke doctor bhi bahut aachhe hai or sabse badi baat ki kanha ayushman card bhi lag jata  Hai or ayushman wale bhaiya bhi bahut axchhe hai or dayalu hai or bahut hi axchhe se or ypaar",
+          "translated": "The hospital is good and the doctors here are also very good and the biggest thing is that where can one get the Ayushman card and the Ayushman brothers are also very good and are dayalu and very good and business"
+        },
+        "likes": 0
+      }
+    ]
+  }
+}

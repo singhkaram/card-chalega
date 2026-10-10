@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "key": "ae197bf1588e5582e2f51e56",
+  "engine": "google_maps_reviews",
+  "params": {
+    "data_id": "0x00000000005a1007:0x00000000000fa107",
+    "hl": "en",
+    "num": "20",
+    "query": "ayushman"
+  },
+  "fetchedAt": "2026-10-03T08:07:00.000Z",
+  "note": "SYNTHETIC SAMPLE DATA — dev only",
+  "response": {
+    "search_metadata": {
+      "status": "Success",
+      "created_at": "2026-10-03 08:07:00 UTC",
+      "total_time_taken": 2.1
+    },
+    "search_parameters": {
+      "engine": "google_maps_reviews",
+      "data_id": "0x00000000005a1007:0x00000000000fa107",
+      "query": "ayushman",
+      "num": "20",
+      "hl": "en"
+    },
+    "place_info": {
+      "title": "Chowk Sample Nursing Home (Sample)",
+      "address": "16 Sample Marg, Lucknow, Uttar Pradesh (Sample)",
+      "rating": 3.9,
+      "reviews": 410,
+      "type": "Nursing home"
+    },
+    "reviews": [
+      {
+        "link": "https://example.com/review/sample_lko_07_r01",
+        "rating": 1,
+        "date": "4 months ago",
+        "iso_date": "2026-06-03T10:36:00Z",
+        "review_id": "sample_lko_07_r01",
+        "snippet": "Ayushman card dekh ke bola yahan nahi chalta. Very rude.",
+        "extracted_snippet": {
+          "original": "Ayushman card dekh ke bola yahan nahi chalta. Very rude."
+        },
+        "likes": 2
+      },
+      {
+        "link": "https://example.com/review/sample_lko_07_r02",
+        "rating": 4,
+        "date": "11 months ago",
+        "iso_date": "2025-11-02T14:24:00Z",
+        "review_id": "sample_lko_07_r02",
+        "snippet": "Small nursing home, they helped us with the Ayushman paperwork and the treatment was free.",
+        "extracted_snippet": {
+          "original": "Small nursing home, they helped us with the Ayushman paperwork and the treatment was free."
+        },
+        "likes": 0
+      }
+    ]
+  }
+}

@@ -1,0 +1,311 @@
+{
+  "version": 1,
+  "key": "28980c86342d02fa67844fa8",
+  "engine": "google_maps_reviews",
+  "params": {
+    "data_id": "0x39ed5843b8e5cac7:0x2870e50b5d18fd58",
+    "hl": "en",
+    "num": "20",
+    "query": "ayushman",
+    "sort_by": "newestFirst"
+  },
+  "fetchedAt": "2026-10-10T10:50:47.754Z",
+  "response": {
+    "search_metadata": {
+      "status": "Success",
+      "created_at": "2026-10-10 10:50:51 UTC",
+      "total_time_taken": 1.01
+    },
+    "search_parameters": {
+      "engine": "google_maps_reviews",
+      "data_id": "0x39ed5843b8e5cac7:0x2870e50b5d18fd58",
+      "hl": "en",
+      "num": "20",
+      "sort_by": "newestFirst",
+      "query": "ayushman"
+    },
+    "reviews": [
+      {
+        "position": 1,
+        "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25kd1VYQXhSMGR6YTNRelFYcHdaR0ZMTnpBM1pXYxAB!2m1!1s0x0:0x2870e50b5d18fd58!3m1!1s2@1:CAIQACodChtycF9oOndwUXAxR0dza3QzQXpwZGFLNzA3ZWc%7C%7C?hl=en",
+        "rating": 5,
+        "date": "10 months ago",
+        "iso_date": "2025-12-03T05:21:37Z",
+        "iso_date_of_last_edit": "2025-12-03T05:21:37Z",
+        "source": "Google",
+        "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25kd1VYQXhSMGR6YTNRelFYcHdaR0ZMTnpBM1pXYxAB",
+        "snippet": "I am very grateful to Dr. Mosarat, one of the best medical oncologists. My patient is currently undergoing chemotherapy, and the care we have received has been excellent. I would also like to appreciate Riya, the coordinator, for her exceptional support. She has helped us a lot throughout the Ayushman process, making everything smooth and stress-free.\nHighly recommend their service!",
+        "extracted_snippet": {
+          "original": "I am very grateful to Dr. Mosarat, one of the best medical oncologists. My patient is currently undergoing chemotherapy, and the care we have received has been excellent. I would also like to appreciate Riya, the coordinator, for her exceptional support. She has helped us a lot throughout the Ayushman process, making everything smooth and stress-free.\nHighly recommend their service!"
+        },
+        "likes": 0,
+        "response": {
+          "date": "10 months ago",
+          "iso_date": "2025-12-03T05:31:41Z",
+          "iso_date_of_last_edit": "2025-12-03T06:42:27Z",
+          "snippet": "We are thankful for your appreciation. This feedback encourages us to take better care of you and your family members. To enhance your experience at Paras Health we request you to write us at centralcallcenter@parashospitals.com.\n",
+          "extracted_snippet": {
+            "original": "We are thankful for your appreciation. This feedback encourages us to take better care of you and your family members. To enhance your experience at Paras Health we request you to write us at centralcallcenter@parashospitals.com.\n"
+          }
+        }
+      },
+      {
+        "position": 2,
+        "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25GVmQxaDNjV0p6UVVJMlRsb3RVMncyTUdGWmJVRRAB!2m1!1s0x0:0x2870e50b5d18fd58!3m1!1s2@1:CAIQACodChtycF9oOnFVd1h3cWJzQUI2TlotU2w2MGFZbUE%7C%7C?hl=en",
+        "rating": 5,
+        "date": "a year ago",
+        "iso_date": "2025-09-12T09:41:02Z",
+        "iso_date_of_last_edit": "2025-09-12T09:41:02Z",
+        "source": "Google",
+        "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25GVmQxaDNjV0p6UVVJMlRsb3RVMncyTUdGWmJVRRAB",
+        "snippet": "Dr Harihar nath Tiwari se mere patient ka ktretment chal rha h Dr bahaut acche hain Ayushman card se treatment chal rha h parsa me treatme karakr mere patient acche h",
+        "extracted_snippet": {
+          "original": "Dr Harihar nath Tiwari se mere patient ka ktretment chal rha h Dr bahaut acche hain Ayushman card se treatment chal rha h parsa me treatme karakr mere patient acche h",
+          "translated": "My patient is undergoing treatment from Dr Harihar Nath Tiwari. The doctor is very good. Treatment is going on through Ayushman card. My patient is doing well after getting treatment in Parsa."
+        },
+        "likes": 0,
+        "response": {
+          "date": "a year ago",
+          "iso_date": "2025-09-15T06:30:04Z",
+          "iso_date_of_last_edit": "2025-09-15T06:30:04Z",
+          "snippet": "Thank you for your kind words. Your feedback helps us to strive for better care of you & your loved ones. We would love to hear more about how can we improve your experience. We look forward to an opportunity to serve you even better.\n",
+          "extracted_snippet": {
+            "original": "Thank you for your kind words. Your feedback helps us to strive for better care of you & your loved ones. We would love to hear more about how can we improve your experience. We look forward to an opportunity to serve you even better.\n"
+          }
+        }
+      },
+      {
+        "position": 3,
+        "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2psbVRWTnVlVWRaU0haUWJHaEpia3BuYVdocGRYYxAB!2m1!1s0x0:0x2870e50b5d18fd58!3m1!1s2@1:CAIQACodChtycF9oOjlmTVNueUdZSHZQbGhJbkpnaWhpdXc%7C%7C?hl=en",
+        "rating": 5,
+        "date": "a year ago",
+        "iso_date": "2025-08-27T10:55:28Z",
+        "iso_date_of_last_edit": "2025-08-27T10:55:28Z",
+        "source": "Google",
+        "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psbVRWTnVlVWRaU0haUWJHaEpia3BuYVdocGRYYxAB",
+        "snippet": "Good hospital paras hmri\nAyushman bharat",
+        "extracted_snippet": {
+          "original": "Good hospital paras hmri\nAyushman bharat",
+          "translated": "Good hospital paras hmri\nAyushman Bharat"
+        },
+        "likes": 0,
+        "response": {
+          "date": "a year ago",
+          "iso_date": "2025-08-27T23:19:51Z",
+          "iso_date_of_last_edit": "2025-08-27T23:19:51Z",
+          "snippet": "Thank you for your kind words. Your feedback helps us to strive for better care of you & your loved ones. We would love to hear more about how can we improve your experience. We look forward to an opportunity to serve you even better.",
+          "extracted_snippet": {
+            "original": "Thank you for your kind words. Your feedback helps us to strive for better care of you & your loved ones. We would love to hear more about how can we improve your experience. We look forward to an opportunity to serve you even better."
+          }
+        }
+      },
+      {
+        "position": 4,
+        "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNfeWJleHVnRRAB!2m1!1s0x0:0x2870e50b5d18fd58!3m1!1s2@1:CIHM0ogKEICAgIC_ybexugE%7C%7C?hl=en",
+        "rating": 1,
+        "date": "Edited a year ago",
+        "iso_date": "2025-01-17T07:15:39Z",
+        "iso_date_of_last_edit": "2025-07-12T08:57:04Z",
+        "source": "Google",
+        "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNfeWJleHVnRRAB",
+        "snippet": "I had Edited my review because at Paras HMRI Hospital everything looks very Good Excellent but as you spend days in treatment they start Over treatment which is not required. They start misguide you in treatment if you notice and complaint about it everyone staff , management and the Doctor even HOD of the department also first ignore you and if you again try to communicate with them they start misbehaving you only because they have plenty of CGHS card and BPL card or Ayushman card holders patients.\nIT'S VERY DANGEROUS HOSPITAL\nif it's Possible Please Ignore this Hospital and Save your LIFE and Money.",
+        "extracted_snippet": {
+          "original": "I had Edited my review because at Paras HMRI Hospital everything looks very Good Excellent but as you spend days in treatment they start Over treatment which is not required. They start misguide you in treatment if you notice and complaint about it everyone staff , management and the Doctor even HOD of the department also first ignore you and if you again try to communicate with them they start misbehaving you only because they have plenty of CGHS card and BPL card or Ayushman card holders patients.\nIT'S VERY DANGEROUS HOSPITAL\nif it's Possible Please Ignore this Hospital and Save your LIFE and Money."
+        },
+        "likes": 1,
+        "response": {
+          "date": "Edited a year ago",
+          "iso_date": "2025-01-17T07:22:29Z",
+          "iso_date_of_last_edit": "2025-07-12T10:43:36Z",
+          "snippet": "We’re sorry to hear that we didn’t meet your expectations. Please provide your Patient UHID and mobile number to further assist you. We are committed to improving and providing better care in the future.\n ",
+          "extracted_snippet": {
+            "original": "We’re sorry to hear that we didn’t meet your expectations. Please provide your Patient UHID and mobile number to further assist you. We are committed to improving and providing better care in the future.\n "
+          }
+        }
+      },
+      {
+        "position": 5,
+        "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xKT1ZUVnlhM1J3T1U1SWQwVlhiRjlGWDJoVGMxRRAB!2m1!1s0x0:0x2870e50b5d18fd58!3m1!1s2@1:CAIQACodChtycF9oOlJOVTVya3RwOU5Id0VXbF9FX2hTc1E%7C%7C?hl=en",
+        "rating": 5,
+        "date": "a year ago",
+        "iso_date": "2025-06-11T04:41:51Z",
+        "iso_date_of_last_edit": "2025-06-11T04:41:51Z",
+        "source": "Google",
+        "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xKT1ZUVnlhM1J3T1U1SWQwVlhiRjlGWDJoVGMxRRAB",
+        "snippet": "I'm very happy with my pt treatment at Paras hospital,my pt went through a bypass surgery and I'm extremely satisfied, the hospital also provided ayushman facilities with quality care. Especially thanks to Pratiksha ma'am for all the help and make my stay in Paras very comforting",
+        "extracted_snippet": {
+          "original": "I'm very happy with my pt treatment at Paras hospital,my pt went through a bypass surgery and I'm extremely satisfied, the hospital also provided ayushman facilities with quality care. Especially thanks to Pratiksha ma'am for all the help and make my stay in Paras very comforting"
+        },
+        "likes": 0,
+        "response": {
+          "date": "a year ago",
+          "iso_date": "2025-06-11T04:52:08Z",
+          "iso_date_of_last_edit": "2025-06-11T04:52:08Z",
+          "snippet": "We are thankful for your appreciation. This feedback encourages us to take better care of you and your family members. To enhance your experience at Paras Health we request you to write us at centralcallcenter@parashospitals.com. ",
+          "extracted_snippet": {
+            "original": "We are thankful for your appreciation. This feedback encourages us to take better care of you and your family members. To enhance your experience at Paras Health we request you to write us at centralcallcenter@parashospitals.com. "
+          }
+        }
+      },
+      {
+        "position": 6,
+        "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChRDSUhNMG9nS0VLS3gzWmZOb2JwSRAB!2m1!1s0x0:0x2870e50b5d18fd58!3m1!1s2@1:CIHM0ogKEKKx3ZfNobpI%7C%7C?hl=en",
+        "rating": 5,
+        "date": "a year ago",
+        "iso_date": "2025-05-19T05:04:03Z",
+        "iso_date_of_last_edit": "2025-05-19T05:04:03Z",
+        "source": "Google",
+        "review_id": "ChRDSUhNMG9nS0VLS3gzWmZOb2JwSRAB",
+        "snippet": "Mere marij ka ayushman card se opration huaa or bahut achha huaa",
+        "extracted_snippet": {
+          "original": "Mere marij ka ayushman card se opration huaa or bahut achha huaa",
+          "translated": "My patient underwent surgery using the Ayushman card and it went very well."
+        },
+        "likes": 0,
+        "response": {
+          "date": "a year ago",
+          "iso_date": "2025-05-19T05:14:23Z",
+          "iso_date_of_last_edit": "2025-05-19T05:14:23Z",
+          "snippet": "Thank you for your kind review! We're delighted that your experience was positive. Providing excellent care is our top priority, and your feedback motivates us to continue improving. If you ever need assistance, feel free to reach out to us again.",
+          "extracted_snippet": {
+            "original": "Thank you for your kind review! We're delighted that your experience was positive. Providing excellent care is our top priority, and your feedback motivates us to continue improving. If you ever need assistance, feel free to reach out to us again."
+          }
+        }
+      },
+      {
+        "position": 7,
+        "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnTURnNWM3Rkx3EAE!2m1!1s0x0:0x2870e50b5d18fd58!3m1!1s2@1:CIHM0ogKEICAgMDg5c7FLw%7C%7C?hl=en",
+        "rating": 5,
+        "date": "a year ago",
+        "iso_date": "2025-02-26T05:58:36Z",
+        "iso_date_of_last_edit": "2025-02-26T05:58:36Z",
+        "source": "Google",
+        "review_id": "ChZDSUhNMG9nS0VJQ0FnTURnNWM3Rkx3EAE",
+        "snippet": "Over all the services are very good and well maintained organization. Im a Ayushman card holder and my wife surgery is plan here in ctvs department. All the process have been smoothly explained by Pratiksha maam here and every thing is up to the mark so far.",
+        "extracted_snippet": {
+          "original": "Over all the services are very good and well maintained organization. Im a Ayushman card holder and my wife surgery is plan here in ctvs department. All the process have been smoothly explained by Pratiksha maam here and every thing is up to the mark so far."
+        },
+        "likes": 0,
+        "response": {
+          "date": "a year ago",
+          "iso_date": "2025-02-26T06:08:56Z",
+          "iso_date_of_last_edit": "2025-02-26T06:08:56Z",
+          "snippet": "Thank you for your kind review! We're delighted that your experience was positive. Providing excellent care is our top priority, and your feedback motivates us to continue improving. If you ever need assistance, feel free to reach out to us again.",
+          "extracted_snippet": {
+            "original": "Thank you for your kind review! We're delighted that your experience was positive. Providing excellent care is our top priority, and your feedback motivates us to continue improving. If you ever need assistance, feel free to reach out to us again."
+          }
+        }
+      },
+      {
+        "position": 8,
+        "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUN2OHJ2UTdBRRAB!2m1!1s0x0:0x2870e50b5d18fd58!3m1!1s2@1:CIHM0ogKEICAgICv8rvQ7AE%7C%7C?hl=en",
+        "rating": 5,
+        "date": "Edited a year ago",
+        "iso_date": "2024-12-09T19:34:46Z",
+        "iso_date_of_last_edit": "2024-12-21T07:57:19Z",
+        "source": "Google",
+        "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN2OHJ2UTdBRRAB",
+        "snippet": "Really .. PARAS HMRI treatment is best in India... M pahle bahut Dara hua tha ki PARAS m loota jata hai... But really sahi time p sahi treatment agar kahin h toh PARAS HMRI Patna m he hai.... M mere father ka treatment karaya Heart ka.... Aaplog Bina koi doubt ka PARAS HMRI Patna m apna aur apne parijano ka ilaj karwa skte hai... Aur yahan Ayushman CAPF and ECHS and CGHS se cashless treatment bhi hota hai... Cashless means fully Cashless...yahan ke staff kafi cooperative hai.. Coordinator Arpita ne kafi sahyog kiya... Arpita ji kafi helpful thee jinhone mere lagbhag saare doubts dur karti gayi... Thank u PARAS HMRI",
+        "extracted_snippet": {
+          "original": "Really .. PARAS HMRI treatment is best in India... M pahle bahut Dara hua tha ki PARAS m loota jata hai... But really sahi time p sahi treatment agar kahin h toh PARAS HMRI Patna m he hai.... M mere father ka treatment karaya Heart ka.... Aaplog Bina koi doubt ka PARAS HMRI Patna m apna aur apne parijano ka ilaj karwa skte hai... Aur yahan Ayushman CAPF and ECHS and CGHS se cashless treatment bhi hota hai... Cashless means fully Cashless...yahan ke staff kafi cooperative hai.. Coordinator Arpita ne kafi sahyog kiya... Arpita ji kafi helpful thee jinhone mere lagbhag saare doubts dur karti gayi... Thank u PARAS HMRI",
+          "translated": "Really .. PARAS HMRI treatment is the best in India... I was very scared earlier that I get looted in PARAS... But really, if the right treatment at the right time is anywhere, then it is in PARAS HMRI Patna... I got my father treated for heart... You can get yourself and your family treated in PARAS HMRI Patna without any doubt... And here cashless treatment is also done by Ayushman CAPF and ECHS and CGHS... Cashless means completely Cashless... The staff here is very cooperative... Coordinator Arpita helped a lot... Arpita ji was very helpful who cleared almost all my doubts... Thank you PARAS HMRI"
+        },
+        "likes": 1,
+        "response": {
+          "date": "Edited a year ago",
+          "iso_date": "2024-12-11T03:19:14Z",
+          "iso_date_of_last_edit": "2024-12-21T08:18:50Z",
+          "snippet": "Thank you for your wonderful review! We’re glad that our team made the process seamless and comfortable for you. Your positive experience is what we aim for, and we’re here for anything you need in the future, feel free to reach out to us again.",
+          "extracted_snippet": {
+            "original": "Thank you for your wonderful review! We’re glad that our team made the process seamless and comfortable for you. Your positive experience is what we aim for, and we’re here for anything you need in the future, feel free to reach out to us again."
+          }
+        }
+      },
+      {
+        "position": 9,
+        "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUQzZ29HNTNBRRAB!2m1!1s0x0:0x2870e50b5d18fd58!3m1!1s2@1:CIHM0ogKEICAgID3goG53AE%7C%7C?hl=en",
+        "rating": 5,
+        "date": "a year ago",
+        "iso_date": "2024-11-13T10:45:50Z",
+        "iso_date_of_last_edit": "2024-11-13T10:46:32Z",
+        "source": "Google",
+        "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQzZ29HNTNBRRAB",
+        "snippet": "Mere patient ka ilaaj Ayushman Bharat ke dwara Dr.Sidhnath Sir ke under hua mere patient admit the ccu 07 pe Treatment bahoot badhiya hua sir ke coordinator Mr.Harshit Sir ne bhi bahoot help Kiya hr jgh. Thanku Paras Hospital Patna",
+        "extracted_snippet": {
+          "original": "Mere patient ka ilaaj Ayushman Bharat ke dwara Dr.Sidhnath Sir ke under hua mere patient admit the ccu 07 pe Treatment bahoot badhiya hua sir ke coordinator Mr.Harshit Sir ne bhi bahoot help Kiya hr jgh. Thanku Paras Hospital Patna",
+          "translated": "My patient was treated by Ayushman Bharat under Dr. Siddhnath Sir. My patient was admitted in CCU 07. The treatment was very good. Sir's coordinator Mr. Harshit Sir also helped a lot at every place. Thank you Paras Hospital Patna"
+        },
+        "likes": 1,
+        "response": {
+          "date": "a year ago",
+          "iso_date": "2024-11-13T10:56:23Z",
+          "iso_date_of_last_edit": "2024-11-13T10:56:23Z",
+          "snippet": "Thank you for your kind review! We're delighted that your experience was positive. Providing excellent care is our top priority, and your feedback motivates us to continue improving. If you ever need assistance, feel free to reach out to us again.",
+          "extracted_snippet": {
+            "original": "Thank you for your kind review! We're delighted that your experience was positive. Providing excellent care is our top priority, and your feedback motivates us to continue improving. If you ever need assistance, feel free to reach out to us again."
+          }
+        }
+      },
+      {
+        "position": 10,
+        "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUN6aF8tWkR3EAE!2m1!1s0x0:0x2870e50b5d18fd58!3m1!1s2@1:CIHM0ogKEICAgICzh_-ZDw%7C%7C?hl=en",
+        "rating": 1,
+        "date": "2 years ago",
+        "iso_date": "2024-06-05T18:19:28Z",
+        "iso_date_of_last_edit": "2024-06-05T18:23:38Z",
+        "source": "Google",
+        "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN6aF8tWkR3EAE",
+        "snippet": "Doctors are good but management is very poor.Security staffs are very rude.Staffs are not efficient to manage the crowd.ICU services is very poor.They only allowed two attendents in private room.ECHS and CGHS Service is not available.Do not had any tie up with Bihar governmentfor benefit of ppoor patient.They not treated ayushman Bharat patients.There mainly motive to looting the patients.They fixed monetary targets to Parking facility is not proper.In house MRI facility is not present in hospital.If u wants dictatorship on ur patient or urself then goes to this hospital.",
+        "extracted_snippet": {
+          "original": "Doctors are good but management is very poor.Security staffs are very rude.Staffs are not efficient to manage the crowd.ICU services is very poor.They only allowed two attendents in private room.ECHS and CGHS Service is not available.Do not had any tie up with Bihar governmentfor benefit of ppoor patient.They not treated ayushman Bharat patients.There mainly motive to looting the patients.They fixed monetary targets to Parking facility is not proper.In house MRI facility is not present in hospital.If u wants dictatorship on ur patient or urself then goes to this hospital."
+        },
+        "likes": 3
+      },
+      {
+        "position": 11,
+        "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURUcjctSzF3RRAB!2m1!1s0x0:0x2870e50b5d18fd58!3m1!1s2@1:CIHM0ogKEICAgIDTr7-K1wE%7C%7C?hl=en",
+        "rating": 5,
+        "date": "2 years ago",
+        "iso_date": "2024-05-29T10:05:08Z",
+        "iso_date_of_last_edit": "2024-05-29T10:05:08Z",
+        "source": "Google",
+        "review_id": "ChdDSUhNMG9nS0VJQ0FnSURUcjctSzF3RRAB",
+        "snippet": "I came for heart blockage treatment I don't have money when I was came to the Paras hospital but thank God I was carrying my Ayushman card.from this card I got treated with out pay any amount",
+        "extracted_snippet": {
+          "original": "I came for heart blockage treatment I don't have money when I was came to the Paras hospital but thank God I was carrying my Ayushman card.from this card I got treated with out pay any amount"
+        },
+        "likes": 0
+      },
+      {
+        "position": 12,
+        "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURUNjZfOVhBEAE!2m1!1s0x0:0x2870e50b5d18fd58!3m1!1s2@1:CIHM0ogKEICAgIDT66_9XA%7C%7C?hl=en",
+        "rating": 5,
+        "date": "2 years ago",
+        "iso_date": "2024-05-28T08:00:48Z",
+        "iso_date_of_last_edit": "2024-05-28T08:00:48Z",
+        "source": "Google",
+        "review_id": "ChZDSUhNMG9nS0VJQ0FnSURUNjZfOVhBEAE",
+        "snippet": "All the services are very good.\nMr Sushil ji in Ayushman counter helped us a lot in getting the service in time.",
+        "extracted_snippet": {
+          "original": "All the services are very good.\nMr Sushil ji in Ayushman counter helped us a lot in getting the service in time."
+        },
+        "likes": 0
+      },
+      {
+        "position": 13,
+        "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNkNmRUdFlBEAE!2m1!1s0x0:0x2870e50b5d18fd58!3m1!1s2@1:CIHM0ogKEICAgICd6dTtYA%7C%7C?hl=en",
+        "rating": 4,
+        "date": "2 years ago",
+        "iso_date": "2024-02-16T09:37:21Z",
+        "iso_date_of_last_edit": "2024-02-16T09:48:30Z",
+        "source": "Google",
+        "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNkNmRUdFlBEAE",
+        "snippet": "Multi-speciality   magnificent hospital with emergency facilities, staff are humble and polite , digital service like report received  on aap or WhatsApp, cost of medication (expenses) not commensurate with market , but worthy for it's facility\nBut it is too fancy for common bihari\n\nFor Capf Ayushman/CGHS,echs card   holder *needs referal for OPD and IPD,\n* token system is also required for card holder ,\n*for emergency not referal required ,\n* Medicine is not free for OPD of card holder\nOverall a good hospital for Bihar",
+        "extracted_snippet": {
+          "original": "Multi-speciality   magnificent hospital with emergency facilities, staff are humble and polite , digital service like report received  on aap or WhatsApp, cost of medication (expenses) not commensurate with market , but worthy for it's facility\nBut it is too fancy for common bihari\n\nFor Capf Ayushman/CGHS,echs card   holder *needs referal for OPD and IPD,\n* token system is also required for card holder ,\n*for emergency not referal required ,\n* Medicine is not free for OPD of card holder\nOverall a good hospital for Bihar"
+        },
+        "likes": 3
+      }
+    ]
+  }
+}

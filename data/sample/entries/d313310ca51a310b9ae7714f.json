@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "key": "d313310ca51a310b9ae7714f",
+  "engine": "google_maps_reviews",
+  "params": {
+    "data_id": "0x00000000005a2004:0x00000000000fa204",
+    "hl": "en",
+    "num": "20",
+    "query": "ayushman"
+  },
+  "fetchedAt": "2026-10-03T08:34:00.000Z",
+  "note": "SYNTHETIC SAMPLE DATA — dev only",
+  "response": {
+    "search_metadata": {
+      "status": "Success",
+      "created_at": "2026-10-03 08:34:00 UTC",
+      "total_time_taken": 2.1
+    },
+    "search_parameters": {
+      "engine": "google_maps_reviews",
+      "data_id": "0x00000000005a2004:0x00000000000fa204",
+      "query": "ayushman",
+      "num": "20",
+      "hl": "en"
+    },
+    "place_info": {
+      "title": "Bodh Sample Nephrology & Multispeciality Hospital (Sample)",
+      "address": "13 Sample Marg, Patna, Bihar (Sample)",
+      "rating": 4,
+      "reviews": 720,
+      "type": "Hospital"
+    },
+    "reviews": [
+      {
+        "link": "https://example.com/review/sample_pat_04_r01",
+        "rating": 5,
+        "date": "2 months ago",
+        "iso_date": "2026-08-03T04:48:00Z",
+        "review_id": "sample_pat_04_r01",
+        "snippet": "The nephrologist is excellent. Dialysis was done on the Ayushman card without any payment.",
+        "extracted_snippet": {
+          "original": "The nephrologist is excellent. Dialysis was done on the Ayushman card without any payment."
+        },
+        "likes": 4
+      },
+      {
+        "link": "https://example.com/review/sample_pat_04_r02",
+        "rating": 2,
+        "date": "7 months ago",
+        "iso_date": "2026-03-04T03:48:00Z",
+        "review_id": "sample_pat_04_r02",
+        "snippet": "They said the Ayushman card does not cover dialysis for patients registered outside the state.",
+        "extracted_snippet": {
+          "original": "They said the Ayushman card does not cover dialysis for patients registered outside the state."
+        },
+        "likes": 2
+      },
+      {
+        "link": "https://example.com/review/sample_pat_04_r03",
+        "rating": 1,
+        "date": "2 years ago",
+        "iso_date": "2024-06-03T17:12:00Z",
+        "review_id": "sample_pat_04_r03",
+        "snippet": "Charged for dialysis under Ayushman.",
+        "extracted_snippet": {
+          "original": "Charged for dialysis under Ayushman."
+        },
+        "likes": 0
+      }
+    ]
+  }
+}

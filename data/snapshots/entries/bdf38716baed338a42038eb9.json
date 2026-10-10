@@ -1,0 +1,69 @@
+{
+  "version": 1,
+  "key": "bdf38716baed338a42038eb9",
+  "engine": "google_maps_reviews",
+  "params": {
+    "data_id": "0x396db4a4585f1267:0x1a772cfdc188beb8",
+    "hl": "en",
+    "num": "20",
+    "query": "ayushman",
+    "sort_by": "newestFirst"
+  },
+  "fetchedAt": "2026-10-10T10:51:16.795Z",
+  "response": {
+    "search_metadata": {
+      "status": "Success",
+      "created_at": "2026-10-10 10:51:20 UTC",
+      "total_time_taken": 0.91
+    },
+    "search_parameters": {
+      "engine": "google_maps_reviews",
+      "data_id": "0x396db4a4585f1267:0x1a772cfdc188beb8",
+      "hl": "en",
+      "num": "20",
+      "sort_by": "newestFirst",
+      "query": "ayushman"
+    },
+    "reviews": [
+      {
+        "position": 1,
+        "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUN6MmVtOVlnEAE!2m1!1s0x0:0x1a772cfdc188beb8!3m1!1s2@1:CIHM0ogKEICAgICz2em9Yg%7C%7C?hl=en",
+        "rating": 5,
+        "date": "2 years ago",
+        "iso_date": "2024-06-03T09:51:08Z",
+        "iso_date_of_last_edit": "2024-06-03T09:51:08Z",
+        "source": "Google",
+        "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN6MmVtOVlnEAE",
+        "snippet": "The staff here is very good and the doctors here are also very good. I got my sister treated here which is going well. The facility of Ayushman card is also available here. You must come here once.",
+        "extracted_snippet": {
+          "original": "The staff here is very good and the doctors here are also very good. I got my sister treated here which is going well. The facility of Ayushman card is also available here. You must come here once."
+        },
+        "likes": 0
+      },
+      {
+        "position": 2,
+        "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNhdXFLRFJ3EAE!2m1!1s0x0:0x1a772cfdc188beb8!3m1!1s2@1:CIHM0ogKEICAgICauqKDRw%7C%7C?hl=en",
+        "rating": 5,
+        "date": "5 years ago",
+        "iso_date": "2021-07-29T11:13:41Z",
+        "iso_date_of_last_edit": "2021-07-29T11:13:41Z",
+        "source": "Google",
+        "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNhdXFLRFJ3EAE",
+        "snippet": "All good and special good services in ayushman department",
+        "extracted_snippet": {
+          "original": "All good and special good services in ayushman department"
+        },
+        "likes": 0,
+        "response": {
+          "date": "5 years ago",
+          "iso_date": "2021-07-30T11:00:40Z",
+          "iso_date_of_last_edit": "2021-07-30T11:00:40Z",
+          "snippet": "We immensely value your expression of appreciation on our healthcare services. It keeps us motivated to serve you better.",
+          "extracted_snippet": {
+            "original": "We immensely value your expression of appreciation on our healthcare services. It keeps us motivated to serve you better."
+          }
+        }
+      }
+    ]
+  }
+}

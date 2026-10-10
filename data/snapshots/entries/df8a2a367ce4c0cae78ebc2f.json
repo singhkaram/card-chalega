@@ -1,0 +1,55 @@
+{
+  "version": 1,
+  "key": "df8a2a367ce4c0cae78ebc2f",
+  "engine": "google_maps_reviews",
+  "params": {
+    "data_id": "0x3962fd072fc57783:0x87cd7c50fde2db84",
+    "hl": "en",
+    "num": "20",
+    "query": "ayushman",
+    "sort_by": "newestFirst"
+  },
+  "fetchedAt": "2026-10-10T10:51:06.199Z",
+  "response": {
+    "search_metadata": {
+      "status": "Success",
+      "created_at": "2026-10-10 10:51:09 UTC",
+      "total_time_taken": 1.58
+    },
+    "search_parameters": {
+      "engine": "google_maps_reviews",
+      "data_id": "0x3962fd072fc57783:0x87cd7c50fde2db84",
+      "hl": "en",
+      "num": "20",
+      "sort_by": "newestFirst",
+      "query": "ayushman"
+    },
+    "reviews": [
+      {
+        "position": 1,
+        "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25kNlEzRTNOeTFRU21wdVdUTjFSVkZGYlZNMlNtYxAB!2m1!1s0x0:0x87cd7c50fde2db84!3m1!1s2@1:CAIQACodChtycF9oOnd6Q3E3Ny1QSmpuWTN1RVFFbVM2Smc%7C%7C?hl=en",
+        "rating": 5,
+        "date": "a year ago",
+        "iso_date": "2025-08-02T10:02:26Z",
+        "iso_date_of_last_edit": "2025-08-02T10:02:26Z",
+        "source": "Google",
+        "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25kNlEzRTNOeTFRU21wdVdUTjFSVkZGYlZNMlNtYxAB",
+        "snippet": "Mene mere bete ka heart ke valve  badln ka ilaj Ayushman me karaya hai Yaha ka  ilaj bhut accha hai or yha pr hmare koi pese nhi lg meri jindgi m Phil bar kraya but muje bhut accha lga or yha k karmchari  bhut accha hai sir madam Dr bhi bhut acche hai m apna bete ko khusi khusi likr jari hu bilkul  thik kra kr",
+        "extracted_snippet": {
+          "original": "Mene mere bete ka heart ke valve  badln ka ilaj Ayushman me karaya hai Yaha ka  ilaj bhut accha hai or yha pr hmare koi pese nhi lg meri jindgi m Phil bar kraya but muje bhut accha lga or yha k karmchari  bhut accha hai sir madam Dr bhi bhut acche hai m apna bete ko khusi khusi likr jari hu bilkul  thik kra kr",
+          "translated": "I got my son's heart valve replacement treatment done at Ayushman. The treatment here is very good and it did not cost me any money. I did it for the first time in my life but I liked it very much and the staff here is very good. Sir, Madam, the doctor is also very good. I am happily taking my son home, he is absolutely fine."
+        },
+        "likes": 0,
+        "response": {
+          "date": "a year ago",
+          "iso_date": "2025-08-04T07:00:35Z",
+          "iso_date_of_last_edit": "2025-08-04T07:00:35Z",
+          "snippet": "Thank you for your superb rating! We're thrilled to know you had a positive experience.\n\nCall: 7880096006",
+          "extracted_snippet": {
+            "original": "Thank you for your superb rating! We're thrilled to know you had a positive experience.\n\nCall: 7880096006"
+          }
+        }
+      }
+    ]
+  }
+}

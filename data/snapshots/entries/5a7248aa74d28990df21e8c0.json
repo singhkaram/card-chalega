@@ -1,0 +1,1076 @@
+{
+  "version": 1,
+  "key": "5a7248aa74d28990df21e8c0",
+  "engine": "google_news",
+  "params": {
+    "gl": "in",
+    "hl": "hi",
+    "q": "आयुष्मान कार्ड अस्पताल जयपुर"
+  },
+  "fetchedAt": "2026-10-10T10:51:47.007Z",
+  "response": {
+    "search_metadata": {
+      "status": "Success",
+      "created_at": "2026-10-10 10:51:50 UTC",
+      "total_time_taken": 0.78
+    },
+    "search_parameters": {
+      "engine": "google_news",
+      "gl": "in",
+      "hl": "hi",
+      "q": "आयुष्मान कार्ड अस्पताल जयपुर"
+    },
+    "news_results": [
+      {
+        "position": 1,
+        "title": "राजस्थान जनाधार कार्ड: दूसरे राज्यों में भी करवा सकेंगे 25 लाख तक का इलाज, ये है नया नियम",
+        "source": {
+          "name": "Jagran",
+          "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.jagran.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "authors": [
+            "Garima Singh"
+          ]
+        },
+        "link": "https://www.jagran.com/news/national-rajasthan-janadhar-card-get-treatment-anywhere-40077237.html",
+        "thumbnail": "https://www.jagranimages.com/images/2025/12/18/article/image/Rajasthan-Janadhar-Card-1766077296461_m.webp",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVZkbkJ3VjBaRGNFTlRRbXBMVFJDMEFSakFBaWdLTWdZQms0SnVzUVU",
+        "date": "12/18/2025, 08:00 AM, +0000 UTC",
+        "iso_date": "2025-12-18T08:00:00Z"
+      },
+      {
+        "position": 2,
+        "title": "गहलोत ने MP की बालिका को SMS में समय पर इलाज नहीं मिलने के लगाए आरोप, कही ये बात",
+        "source": {
+          "name": "ETV Bharat",
+          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.etvbharat.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.etvbharat.com/hi/state/former-cm-ashok-gehlot-targets-bjp-over-alleged-delay-in-treatment-of-burn-case-in-sms-hospital-rajasthan-news-rjs26010501897",
+        "thumbnail": "https://imgs.etvbharat.com/etvbharat/prod-images/05-01-2026/1200-675-25746086-thumbnail-16x9-gehlot1.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNVlNM1J4U1RKU1VTMWhkWEJ2VFJDZkF4ampCU2dLTWdB",
+        "date": "01/05/2026, 08:00 AM, +0000 UTC",
+        "iso_date": "2026-01-05T08:00:00Z"
+      },
+      {
+        "position": 3,
+        "title": "राजस्थान: SMS अस्पताल में पहली बार CRS व HIPEC सर्जरी रही सफल, कैंसर मरीजों को मिलेगी राहत; ईलाज भी निशुल्क",
+        "source": {
+          "name": "Amar Ujala",
+          "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.amarujala.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.amarujala.com/rajasthan/jaipur/first-crs-hipec-surgery-successfully-performed-at-sms-hospital-jaipur-free-treatment-for-all-ayushman-card-holders-jaipur-news-c-1-1-noi1422-3698831-2025-12-04",
+        "thumbnail": "https://staticimg.amarujala.com/assets/images/2025/12/04/esaemaesa-asapatal-ma-pahal-bra-crs-oura-hipec-sarajara-safal_3130ce36a7bbe48f90c1a53dc53bc1da.jpeg?w=1200",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNTZTVkJaZGxGamVWQk9PSFV3VFJDZkF4ampCU2dLTWdB",
+        "date": "12/04/2025, 08:00 AM, +0000 UTC",
+        "iso_date": "2025-12-04T08:00:00Z"
+      },
+      {
+        "position": 4,
+        "title": "राजस्थान के मरीजों को गुजरात में भी मिलेगा फ्री इलाज: कल से आयुष्मान कार्ड से हो सकेगा कैशलेस ट्रीटमेंट, उद...",
+        "source": {
+          "name": "Dainik Bhaskar",
+          "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.bhaskar.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.bhaskar.com/local/rajasthan/udaipur/news/ayushman-card-will-also-provide-free-treatment-in-gujarat-136665551.html",
+        "thumbnail": "https://images.bhaskarassets.com/thumb/1200x900/web2images/521/2025/12/14/origorig2173010954617315396701735339376_1765690286.gif",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXJXVzlIZDBaMGNHbDFiRWg1VFJEM0FoajBBeWdLTWdrQk1JcVd0S2FDY0FF",
+        "date": "12/15/2025, 08:00 AM, +0000 UTC",
+        "iso_date": "2025-12-15T08:00:00Z"
+      },
+      {
+        "position": 5,
+        "title": "CM भजनलाल शर्मा की बड़ी घोषणा, अब UP और MP में राजस्थान के लोगों को मिलेगा मुफ्त इलाज, यहां जानें प्रोसेस",
+        "source": {
+          "name": "Navbharat Times",
+          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://navbharattimes.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://navbharattimes.indiatimes.com/state/rajasthan/jaipur/big-announcement-from-cm-bhajanlal-sharma-about-ayushman-arogya-yojana-rajasthan-patients-free-treatment/articleshow/126090692.cms",
+        "thumbnail": "https://static.langimg.com/nbt/thumb/126091349/cm-bhajan-lal-sharma-announced-about-ayushman-bharat.jpg?imgsize=1080077&width=1600&height=900&resizemode=75",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVlWVmx4UzNJdFUyOXRVbkp0VFJDZkF4ampCU2dLTWdZZHBZZ0x2Z1E",
+        "date": "12/20/2025, 08:00 AM, +0000 UTC",
+        "iso_date": "2025-12-20T08:00:00Z"
+      },
+      {
+        "position": 6,
+        "title": "जयपुर में बनेगी देश की सबसे बड़ी BMT यूनिट, 50 मरीजों का एक साथ होगा इलाज, मरीजों को मिलेगी मुफ्त सुविधा",
+        "source": {
+          "name": "News18 Hindi",
+          "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://hindi.news18.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://hindi.news18.com/news/rajasthan/jaipur-state-cancer-institute-50-bed-bone-marrow-transplant-unit-local18-10101698.html",
+        "thumbnail": "https://images.news18.com/ibnkhabar/uploads/2025/10/1759718598_3Y7w18P9UL-SMS-Hospital-jpg-Fat2osK7w2-scaled.jpg?im=FitAndFill,width=1200,height=900",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXVMVEZEWVVaUllVdElhV2MxVFJEZ0F4aUFCU2dLTWdZQlVJaHJ4UU0",
+        "date": "01/24/2026, 08:00 AM, +0000 UTC",
+        "iso_date": "2026-01-24T08:00:00Z"
+      },
+      {
+        "position": 7,
+        "title": "प्राइवेट अस्पताल आयुष्मान भारत योजना से जूझ रहे हैं—सरकार पर 1.2 लाख करोड़ रुपये बकाया है",
+        "source": {
+          "name": "ThePrint Hindi",
+          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://hindi.theprint.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://hindi.theprint.in/feature/ayushman-bharat-in-crisis-govt-owes-private-hospitals-1-2-lakh-cr-rupees/859749/",
+        "thumbnail": "https://staticprinthindi.theprint.in/wp-content/uploads/2025/08/Untitled-design-2025-08-25T184508.693.png",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUhOMGxOTkhBM2RIRkpSV2RRVFJDZkF4ampCU2dLTWdheFlvQXhKUWs",
+        "date": "08/25/2025, 07:00 AM, +0000 UTC",
+        "iso_date": "2025-08-25T07:00:00Z"
+      },
+      {
+        "position": 8,
+        "title": "जन आधार नहीं, तो सरकारी अस्पताल में नहीं होगा फ्री इलाज, बाहरी राज्यों के मरीजों के लिए ये है तरीका",
+        "source": {
+          "name": "ETV Bharat",
+          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.etvbharat.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.etvbharat.com/hi/state/jan-aadhaar-linked-with-aadhaar-mandatory-to-get-free-treatment-in-rajasthan-hospitals-rajasthan-news-rjs25112904830",
+        "thumbnail": "https://imgs.etvbharat.com/etvbharat/prod-images/29-11-2025/1200-675-25497726-244-25497726-1764422177980.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNHlha3B3VFRoSFdVdERjR0p6VFJDZkF4ampCU2dLTWdNQjRBUQ",
+        "date": "11/29/2025, 08:00 AM, +0000 UTC",
+        "iso_date": "2025-11-29T08:00:00Z"
+      },
+      {
+        "position": 9,
+        "title": "Ayushman Card: आपके आसपास कौन-से अस्पताल में मिलेगा कैशलेस इलाज? घर बैठे ऐसे चेक करें पूरी",
+        "source": {
+          "name": "ABP News",
+          "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.abplive.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.abplive.com/utility-news/ayushman-card-hospital-list-online-check-pmjay-registered-hospitals-cashless-treatment-3155379",
+        "thumbnail": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/07/05/e7b7d1f05616583acfc52e6734c3ab7c17832553689831241_original.png",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXFOVk5ZYzNWS2REUXlZMWxNVFJDZkF4ampCU2dLTWdhWmRwQUpzZ1k",
+        "date": "07/05/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-07-05T07:00:00Z"
+      },
+      {
+        "position": 10,
+        "title": "अब घर बैठे बनवा सकेंगे आयुष्मान कार्ड: आसान पोर्टल लॉन्च, सरकारी अस्पताल में 59 जांच होंगी नि:शुल्क",
+        "source": {
+          "name": "Dainik Bhaskar",
+          "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.bhaskar.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.bhaskar.com/local/rajasthan/jhunjhunu/news/now-ayushman-card-can-be-made-sitting-at-home-132266506.html",
+        "thumbnail": "https://images.bhaskarassets.com/thumb/1200x900/web2images/521/2023/12/10/images-6_1702204238.jpeg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNVhPR3RQVEhFMVJFMUhka3Q2VFJEZ0F4aUFCU2dLTWdNQkFCQQ",
+        "date": "12/10/2023, 10:31 AM, +0000 UTC",
+        "iso_date": "2023-12-10T10:31:44Z"
+      },
+      {
+        "position": 11,
+        "title": "दिल्ली के 1000 से ज्यादा अस्पतालों में से महज 67 में ही चल रहा आयुष्मान कार्ड!",
+        "source": {
+          "name": "Navbharat Times",
+          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://navbharattimes.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "authors": [
+            "Anuja Jaiswal"
+          ]
+        },
+        "link": "https://navbharattimes.indiatimes.com/government-schemes/delhi/delhi-prominent-private-hospitals-are-hesitant-to-joining-ayushman-bharat-yojana/articleshow/121287938.cms",
+        "thumbnail": "https://static.langimg.com/nbt/thumb/121288280/ayushman-bharat-scheme.jpg?imgsize=51450&width=1600&height=900&resizemode=75",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTJTMmhmTjJGb2FtbDFibWQ2VFJDZkF4ampCU2dLTWdZaEVZaHZTUVE",
+        "date": "05/20/2025, 07:00 AM, +0000 UTC",
+        "iso_date": "2025-05-20T07:00:00Z"
+      },
+      {
+        "position": 12,
+        "title": "Fatehabad News: सीएससी सेंटरों पर बनेंगे आयुष्मान कार्ड, ऐसे उठाएं लाभ; अब तक 42 हजार से ज्यादा मरीजों का हो चुका इलाज - Ayushman cards will be made at CSC centres more than 42 thousand patients have been treated i",
+        "source": {
+          "name": "Jagran",
+          "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.jagran.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "authors": [
+            "Deepak Saxena"
+          ]
+        },
+        "link": "https://www.jagran.com/haryana/fatehabad-ayushman-cards-will-be-made-at-csc-centres-more-than-42-thousand-patients-have-been-treated-in-fatehabad-23620999.html",
+        "thumbnail": "https://www.jagranimages.com/images/newimg/04012024/04_01_2024-ayushman_bharat_23620999_154635134_m.webp",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXJaV2huVjBnMWRWazVWSFJEVFJDS0F4aThCU2dLTWdZTlFKREdMQWM",
+        "date": "01/04/2024, 08:00 AM, +0000 UTC",
+        "iso_date": "2024-01-04T08:00:00Z"
+      },
+      {
+        "position": 13,
+        "title": "आयुष्मान कार्ड से इलाज नहीं कर रहा अस्पताल तो कहां करें शिकायत? जान लें काम की बात",
+        "source": {
+          "name": "ABP News",
+          "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.abplive.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.abplive.com/utility-news/ayushman-bharat-yojana-rules-how-to-file-complaint-if-hospital-denies-treatment-under-ayushman-bharat-card-3008849",
+        "thumbnail": "https://feeds.abplive.com/onecms/images/uploaded-images/2025/09/08/9602bd1932fa349845a15e0a1aa1524b17573172179021094_original.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNWFOMWxZY2poeGMxaGhjbTFJVFJDZkF4ampCU2dLTWdrTlFwQ21wbWc5YUFJ",
+        "date": "09/08/2025, 07:00 AM, +0000 UTC",
+        "iso_date": "2025-09-08T07:00:00Z"
+      },
+      {
+        "position": 14,
+        "title": "Ayushman Card: आयुष्मान कार्ड से आप अपने शहर के किस अस्पताल में करवा सकते हैं मुफ्त इलाज? यहां जानें",
+        "source": {
+          "name": "Amar Ujala",
+          "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.amarujala.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.amarujala.com/photo-gallery/utility/aby-in-which-hospital-of-your-city-can-you-get-free-treatment-with-ayushman-card-se-muft-ilaaj-kaise-karein-2025-08-23",
+        "thumbnail": "https://staticimg.amarujala.com/assets/images/2025/07/15/ayushman-card-new_cb041a3bbe0d21c1959e9471e4d47b35.jpeg?w=1200",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUlVR2RFUVdoRVVIVXlNakZYVFJDZkF4ampCU2dLTWdhWms1SlB0UVk",
+        "date": "08/23/2025, 07:00 AM, +0000 UTC",
+        "iso_date": "2025-08-23T07:00:00Z"
+      },
+      {
+        "position": 15,
+        "title": "आयुष्मान कार्ड होने के बाद भी नहीं मिलेगा कैशलेस इलाज, अगर कर दी ये गलती..पढ़ें ये न‍िर्देश",
+        "source": {
+          "name": "Navbharat Times",
+          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://navbharattimes.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://navbharattimes.indiatimes.com/government-schemes/central/blurry-photo-on-ayushman-card-can-lead-to-problem-to-avail-free-treatment-under-pmjay-scheme/articleshow/125106259.cms",
+        "thumbnail": "https://static.langimg.com/nbt/thumb/125106327/ayushman-card.jpg?imgsize=72408&width=1600&height=900&resizemode=75",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iNkNnNVNlVFZyVjNWWGNtaEdRa1JxVFJDZkF4ampCU2dLTWc2QkVZZ1N3ZVF0NG1vd21xb0pHdw",
+        "date": "11/05/2025, 08:00 AM, +0000 UTC",
+        "iso_date": "2025-11-05T08:00:00Z"
+      },
+      {
+        "position": 16,
+        "title": "क्या हर साल रिन्यू कराना पड़ता है आयुष्मान कार्ड, जानें किन-किन तरीकों से यूजर्स",
+        "source": {
+          "name": "ABP News",
+          "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.abplive.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.abplive.com/utility-news/does-ayushman-card-need-annual-renewal-and-how-fraudsters-cheat-people-in-the-name-of-ayushman-bharat-scheme-3059162",
+        "thumbnail": "https://feeds.abplive.com/onecms/images/uploaded-images/2025/12/16/372a9502ce017947965ad61e2356395d17658740027031094_original.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHdUWGxLUkdGcE5HNHdWblpRVFJDZkF4ampCU2dLTWdhWlFwSVJJUWs",
+        "date": "12/16/2025, 08:00 AM, +0000 UTC",
+        "iso_date": "2025-12-16T08:00:00Z"
+      },
+      {
+        "position": 17,
+        "title": "Ayushman Card: कैसे और कहां बनवाएं आयुष्मान कार्ड, जानें कैसे करना होगा आवेदन",
+        "source": {
+          "name": "ETV Bharat",
+          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.etvbharat.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.etvbharat.com/hindi/rajasthan/state/jaipur/how-to-apply-for-ayushman-card-know-all-details/rj20230120125839480480393",
+        "thumbnail": "https://imgs.etvbharat.com/etvbharat/prod-images/768-512-17533259-thumbnail-3x2-kkk.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDVVR05oU0VOMVlrRlZOMFpRVFJERUF4aW1CU2dLTWdhTk1aSnJNUWM",
+        "date": "01/20/2023, 08:00 AM, +0000 UTC",
+        "iso_date": "2023-01-20T08:00:00Z"
+      },
+      {
+        "position": 18,
+        "title": "दिल्ली में आयुष्मान से कराना है इलाज, तो पहले चेक कर लें अस्पताल की लिस्ट..जानें कहां नहीं चलेगा कार्ड",
+        "source": {
+          "name": "Navbharat Times",
+          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://navbharattimes.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://navbharattimes.indiatimes.com/government-schemes/delhi/how-many-hospitals-in-delhi-under-panel-of-ayushman-bharat-yojana-see-pmjay-hospital-list/articleshow/119844144.cms",
+        "thumbnail": "https://static.langimg.com/nbt/thumb/119844573/delhi-ayushman-card-hospital-list.jpg?imgsize=83506&width=1600&height=900&resizemode=75",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNU1kbTFYY3kxb2N6aGthV2RmVFJDZkF4ampCU2dLTWdZdEVaQ3ZHQW8",
+        "date": "06/06/2025, 07:00 AM, +0000 UTC",
+        "iso_date": "2025-06-06T07:00:00Z"
+      },
+      {
+        "position": 19,
+        "title": "आयुष्मान कार्ड होने के बाद भी अस्पताल कर रहे इलाज करने से मना, यहां कर सकते हैं शिकायत",
+        "source": {
+          "name": "ABP News",
+          "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.abplive.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.abplive.com/photo-gallery/utility-news/even-after-having-ayushman-card-hospitals-are-refusing-to-treat-you-you-can-complain-here-2999159",
+        "thumbnail": "https://feeds.abplive.com/onecms/images/uploaded-images/2025/08/21/faa0561c85e85edf98fd645e1847419b1755766498901907_original.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUxkVEF4WldzME5IUXpWRzR5VFJDZkF4ampCU2dLTWdZQk00NmpHZ2c",
+        "date": "08/21/2025, 07:00 AM, +0000 UTC",
+        "iso_date": "2025-08-21T07:00:00Z"
+      },
+      {
+        "position": 20,
+        "title": "आयुष्मान कार्ड होने पर भी फ्री इलाज से इनकार करे अस्पताल, यहां कर सकते हैं सीधी शिकायत",
+        "source": {
+          "name": "ABP News",
+          "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.abplive.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.abplive.com/utility-news/ayushman-card-if-hospitals-refuse-to-give-you-free-treatment-on-ayushman-card-this-is-how-you-can-complaint-know-the-details-3056405",
+        "thumbnail": "https://feeds.abplive.com/onecms/images/uploaded-images/2025/12/10/2e0bbf14808cb376c9b3af39421422331765371386459907_original.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXpkbEkyUzNOT1IxbzFRblJEVFJDZkF4ampCU2dLTWdZRlU0NUVzZ1U",
+        "date": "12/11/2025, 08:00 AM, +0000 UTC",
+        "iso_date": "2025-12-11T08:00:00Z"
+      },
+      {
+        "position": 21,
+        "title": "आयुष्मान कार्ड से अस्पताल में कैसे होगा मुफ्त इलाज? जान लें पूरा प्रोसेस",
+        "source": {
+          "name": "Navbharat Times",
+          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://navbharattimes.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://navbharattimes.indiatimes.com/government-schemes/delhi/ayushman-yojana-in-delhi-what-is-the-process-of-treatment-by-ayushman-card-package-list-of-pmjay/articleshow/120148400.cms",
+        "thumbnail": "https://static.langimg.com/nbt/thumb/120148851/ayushman-yojana-in-delhi-what-is-the-process-of-treatment-by-ayushman-card-package-list-of-pmjay.jpg?imgsize=81856&width=1600&height=900&resizemode=75",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iMkNnNXdZbmd0UTNWZlExWkNOV2hoVFJDZkF4ampCU2dLTWdzQk1JcUZGaXJnNmtrTmd3",
+        "date": "04/10/2025, 07:00 AM, +0000 UTC",
+        "iso_date": "2025-04-10T07:00:00Z"
+      },
+      {
+        "position": 22,
+        "title": "SMS में आयुष्मान आईपीडी टावर में दिसंबर-जनवरी से शुरू होंगे कुछ विभाग, तैयारी तेज",
+        "source": {
+          "name": "ETV Bharat",
+          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.etvbharat.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.etvbharat.com/hi/state/jaipur-some-departments-to-begin-operations-in-the-ayushman-ipd-tower-at-sms-hospital-starting-december-january-rjs26042905068",
+        "thumbnail": "https://imgs.etvbharat.com/etvbharat/prod-images/29-04-2026/1200-675-26583996-thumbnail-16x9-ipd-aspera.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXVOVWxaWlV0TmFGOTVkbUUwVFJDZkF4ampCU2dLTWdhSkFZak5rUXM",
+        "date": "04/29/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-04-29T07:00:00Z"
+      },
+      {
+        "position": 23,
+        "title": "Explainer: आयुष्मान स्कीम के लिए कैसे अपने माता-पिता का करा सकते हैं रजिस्ट्रेशन, जानें हर जरूरी बात",
+        "source": {
+          "name": "Navbharat Times",
+          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://navbharattimes.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "authors": [
+            "अशोक उपाध्याय"
+          ]
+        },
+        "link": "https://navbharattimes.indiatimes.com/india/how-can-you-register-your-parents-for-ayushman-scheme-know-every-important-point/articleshow/114813900.cms",
+        "thumbnail": "https://static.langimg.com/nbt/thumb/114817416/ayushman-scheme.jpg?imgsize=83220&width=1600&height=900&resizemode=75",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iMkNnNWhRa2hoU25KcWRIUXdTemh0VFJDZkF4ampCU2dLTWdzQklZNHVtU2N1NUtxa3NR",
+        "date": "10/31/2024, 07:00 AM, +0000 UTC",
+        "iso_date": "2024-10-31T07:00:00Z"
+      },
+      {
+        "position": 24,
+        "title": "दिल्ली में आयुष्मान कार्ड से मिलने लगा इलाज, लाखों का ट्रीटमेंट मुफ्त में, ऐसे देखें अस्पतालों की लिस्ट",
+        "source": {
+          "name": "Navbharat Times",
+          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://navbharattimes.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://navbharattimes.indiatimes.com/government-schemes/delhi/cashless-treatment-from-ayushman-card-started-in-delhi-under-ayushman-bharat-yojana-pmjay-scheme/articleshow/121119583.cms",
+        "thumbnail": "https://static.langimg.com/nbt/thumb/121119567/ayushman-yojana-treatment-started-in-delhi.jpg?imgsize=81884&width=1600&height=900&resizemode=75",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNVdRbEI0VkhFNFYwbE5TWEpwVFJDZkF4ampCU2dLTWdrTkVZZ0pHU2MyNndF",
+        "date": "05/13/2025, 07:00 AM, +0000 UTC",
+        "iso_date": "2025-05-13T07:00:00Z"
+      },
+      {
+        "position": 25,
+        "title": "कोरोना से लड़ाई में कितनी काम आई मोदी सरकार की आयुष्मान भारत -PMJAY योजना? बीबीसी पड़ताल",
+        "source": {
+          "name": "BBC",
+          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.bbc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.bbc.com/hindi/india-57132959",
+        "thumbnail": "https://ichef.bbci.co.uk/news/1024/branded_hindi/4D14/production/_118523791_ef10d15f-50b3-4553-8cfb-d611373afc7f.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXJiWG90U1hKVFUzbHhSVlJtVFJDZkF4ampCU2dLTWdtTlFvem1zbVE5aGdJ",
+        "date": "05/17/2021, 07:00 AM, +0000 UTC",
+        "iso_date": "2021-05-17T07:00:00Z"
+      },
+      {
+        "position": 26,
+        "title": "आयुष्‍मान योजना में कौन-कौन सी बीमार‍ियां नहीं हैं कवर? यहां देखें पूरी लिस्ट",
+        "source": {
+          "name": "Navbharat Times",
+          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://navbharattimes.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://navbharattimes.indiatimes.com/government-schemes/central/ayushman-card-will-not-work-in-these-diseases-treatment-see-abpmjay-exclusion-policy/articleshow/119244572.cms",
+        "thumbnail": "https://static.langimg.com/nbt/thumb/119245537/ayushman-card-will-not-work-in-these-diseases-treatment-see-abpmjay-exclusion-policy.jpg?imgsize=46354&width=1600&height=900&resizemode=75",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXJhM280T1ZGTVVpMTNkVmRaVFJDZkF4ampCU2dLTWdZVlZZam9wUWM",
+        "date": "04/10/2025, 07:00 AM, +0000 UTC",
+        "iso_date": "2025-04-10T07:00:00Z"
+      },
+      {
+        "position": 27,
+        "title": "भजनलाल सरकार में मरीजों को बड़ी राहत, इन दो राज्यों को छोड़कर सभी जगह मिलेगा कैशलेस इलाज, जानिए",
+        "source": {
+          "name": "Navbharat Times",
+          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://navbharattimes.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "authors": [
+            "अमित भारद्वाज"
+          ]
+        },
+        "link": "https://navbharattimes.indiatimes.com/state/rajasthan/jaipur/rajasthan-government-major-change-in-ayushman-arogya-yojana-cashless-treatment/articleshow/126122874.cms",
+        "thumbnail": "https://static.langimg.com/nbt/thumb/126123253/cm-bhajanlal-sharma.jpg?imgsize=111402&width=1600&height=900&resizemode=75",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUtSREEwVWtaRlNUQkpObU5mVFJDZkF4ampCU2dLTWdhVk5wb3BuZ2s",
+        "date": "12/22/2025, 08:00 AM, +0000 UTC",
+        "iso_date": "2025-12-22T08:00:00Z"
+      },
+      {
+        "position": 28,
+        "title": "Fatehabad News: आधे से अधिक लोग हुए ‘आयुष्मान’, 1.20 लाख ने नहीं बनवाए कार्ड",
+        "source": {
+          "name": "Amar Ujala",
+          "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.amarujala.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.amarujala.com/haryana/fatehabad/more-than-half-of-the-people-became-ayushman-120-lakh-did-not-get-the-cards-made-fatehabad-news-c-127-1-shsr1017-115107-2024-04-04",
+        "date": "04/04/2024, 07:00 AM, +0000 UTC",
+        "iso_date": "2024-04-04T07:00:00Z"
+      },
+      {
+        "position": 29,
+        "title": "फतेहाबाद में आयुष्मान भारत योजना से हजारों लोगों को मिला मुफ्त इलाज, खर्च हुए करोड़ों रुपये",
+        "source": {
+          "name": "Jagran",
+          "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.jagran.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.jagran.com/haryana/hisar-thousand-of-people-got-free-treatment-from-ayushman-bharat-scheme-in-fatehabad-22740273.html",
+        "thumbnail": "https://www.jagranimages.com/images/newimg/24052022/24_05_2022-ayushman_bharat_22740273_m.webp",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXFNRTFOU2tJNWEzRnFUVE5OVFJDS0F4aThCU2dLTWdrRkVaRFdLS2l4QkFN",
+        "date": "05/24/2022, 07:00 AM, +0000 UTC",
+        "iso_date": "2022-05-24T07:00:00Z"
+      },
+      {
+        "position": 30,
+        "title": "Ayushman Bharat Yojana: आयुष्मान कार्ड से किन अस्पतालों में फ्री इलाज मिलता है? ऐसे चेक करें अपने राज्य और जिले की लिस्ट",
+        "source": {
+          "name": "NDTV India",
+          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://ndtv.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "authors": [
+            "Shreya Tyagi"
+          ]
+        },
+        "link": "https://ndtv.in/utility-news/ayushman-bharat-yojana-hospital-list-how-to-know-which-hospital-accepts-ayushman-card-10936625",
+        "thumbnail": "https://c.ndtvimg.com/2026-02/vat8mdh4_ayushman-bharat-yojana_625x300_03_February_26.jpg?im=FitAndFill,algorithm=dnn,width=400,height=225&q=70",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNW1VbTFaWkZOVFNUaE9RWGRPVFJEaEFSaVFBeWdLTWdrQkFZaVBwU2VwSkFN",
+        "date": "02/03/2026, 08:00 AM, +0000 UTC",
+        "iso_date": "2026-02-03T08:00:00Z"
+      },
+      {
+        "position": 31,
+        "title": "राजस्थान: आयुष्मान वय वंदना कार्ड से 5 लाख रुपए तक का मिलेगा स्वास्थ्य बीमा, निजी अस्पतालों में भी फ्री होग...",
+        "source": {
+          "name": "News18 Hindi",
+          "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://hindi.news18.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "authors": [
+            "Rahul Manohar"
+          ]
+        },
+        "link": "https://hindi.news18.com/news/rajasthan/sikar-rajasthan-senior-citizens-of-rajasthan-ayushman-vayam-vandana-card-scheme-started-health-insurance-of-rs-5-lakh-will-be-available-local18-8852154.html",
+        "thumbnail": "https://images.news18.com/ibnkhabar/uploads/2024/11/HYP_4803803_cropped_19112024_175936_20241119_175816_watermark__1.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXhTazFyZG0xSk4xQkphbFJ1VFJEZ0F4aUFCU2dLTWdhQklJcEpGZ28",
+        "date": "11/22/2024, 08:00 AM, +0000 UTC",
+        "iso_date": "2024-11-22T08:00:00Z"
+      },
+      {
+        "position": 32,
+        "title": "Explainer: अपने माता-पिता को आयुष्मान योजना में कैसे 'पंजीकृत' करें, यहां जानें पूरा प्रॉसेस और सभी सवालों",
+        "source": {
+          "name": "India TV Hindi",
+          "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.indiatv.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.indiatv.in/explainers/explainer-how-to-register-your-parents-in-ayushman-yojana-know-the-complete-process-and-answers-to-all-questions-here-2024-10-31-1087413",
+        "thumbnail": "https://resize.indiatv.in/resize/newbucket/1200_675/2024/10/untitled-design-2024-10-31t110458-1730352894.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVliVmRtZFVsaWRrTnVWazFTVFJDZkF4ampCU2dLTWdhTkU1Uk1HUW8",
+        "date": "10/31/2024, 07:00 AM, +0000 UTC",
+        "iso_date": "2024-10-31T07:00:00Z"
+      },
+      {
+        "position": 33,
+        "title": "दिल्ली के इन अस्पतालों में चलता है आयुष्मान भारत कार्ड, यहां देख लें पूरी लिस्ट",
+        "source": {
+          "name": "ABP News",
+          "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.abplive.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.abplive.com/utility-news/ayushman-card-can-be-used-in-these-delhi-hospitals-see-the-full-list-2766705",
+        "thumbnail": "https://feeds.abplive.com/onecms/images/uploaded-images/2024/08/23/c37eeaf3269337cfdd6335210736b6311724390245226907_original.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNW9hM1JXTkd3eWFsaEpYMVJvVFJDZkF4ampCU2dLTWdZSkpJTm9XUUk",
+        "date": "08/23/2024, 07:00 AM, +0000 UTC",
+        "iso_date": "2024-08-23T07:00:00Z"
+      },
+      {
+        "position": 34,
+        "title": "भजन लाल सरकार में बदलेगा राजस्थान का स्वास्थ्य मॉडल, जानिए क्या होगा गहलोत की चिरंजीवी योजना का",
+        "source": {
+          "name": "Navbharat Times",
+          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://navbharattimes.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://navbharattimes.indiatimes.com/state/rajasthan/jaipur/rajasthan-health-model-will-change-under-bhajanlal-government-know-what-will-gehlot-chiranjeevi-scheme/articleshow/106229600.cms",
+        "thumbnail": "https://static.langimg.com/nbt/thumb/106229600/rajasthan.jpg?imgsize=50998&width=1600&height=900&resizemode=75",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNDBSVXBaY3pKYWVuZDFZMlJhVFJDZkF4ampCU2dLTWdB",
+        "date": "12/23/2023, 08:00 AM, +0000 UTC",
+        "iso_date": "2023-12-23T08:00:00Z"
+      },
+      {
+        "position": 35,
+        "title": "राजस्थान में अब आधार कार्ड से भी फ्री इलाज मिलेगा: सरकारी हॉस्पिटलों में मरीजों को मिलेगी राहत, अब तक जन आध...",
+        "source": {
+          "name": "Dainik Bhaskar",
+          "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.bhaskar.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.bhaskar.com/local/rajasthan/jaipur/news/now-verification-will-also-be-done-through-aadhaar-on-ihms-portal-135030738.html",
+        "thumbnail": "https://images.bhaskarassets.com/thumb/1200x900/web2images/521/2025/05/15/whatsapp-image-2025-05-15-at-122733-pm_1747292304.jpeg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWlSalpCUVZWMWEyVmtNMlpLVFJEZ0F4aUFCU2dLTWdZQmdJeUlOQVk",
+        "date": "05/14/2025, 07:00 AM, +0000 UTC",
+        "iso_date": "2025-05-14T07:00:00Z"
+      },
+      {
+        "position": 36,
+        "title": "देश में कहीं भी फ्री इलाज करा सकेंगे राजस्थानी: जनाधार कार्ड दिखाकर 25 लाख तक का ट्रीटमेंट, दूसरे राज्य के ...",
+        "source": {
+          "name": "Dainik Bhaskar",
+          "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.bhaskar.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.bhaskar.com/local/rajasthan/news/rajasthan-mukhyamantri-ayushman-arogya-yojana-free-treatment-explained-134744048.html",
+        "thumbnail": "https://images.bhaskarassets.com/thumb/1200x900/web2images/521/2025/03/30/monday-spl_1743339974.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNVpORTlCWVhOZk9ISjRUME5DVFJEZ0F4aUFCU2dLTWdtQllJNmd0S1pTa3dF",
+        "date": "04/01/2025, 07:00 AM, +0000 UTC",
+        "iso_date": "2025-04-01T07:00:00Z"
+      },
+      {
+        "position": 37,
+        "title": "महज 850 रुपये देकर 35 लाख रुपये का मुफ्त इलाज, इस राज्य के लोगों के लिए बंपर ऑफर",
+        "source": {
+          "name": "ABP News",
+          "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.abplive.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.abplive.com/utility-news/rajasthan-government-to-provide-benefits-of-up-to-rs-35-lakh-under-chief-minister-ayushman-arogya-yojana-2813046",
+        "thumbnail": "https://feeds.abplive.com/onecms/images/uploaded-images/2024/10/29/016bddec22ce69d19328b78ca285768d1730189068899855_original.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNUlZMHgwVmtKeVQzSm5Ua1pYVFJDZkF4ampCU2dLTWdrRk1acUhHdW8xcHdJ",
+        "date": "10/29/2024, 07:00 AM, +0000 UTC",
+        "iso_date": "2024-10-29T07:00:00Z"
+      },
+      {
+        "position": 38,
+        "title": "Kaithal News: पहली से आयुष्मान योजना के ऑपरेशन बंद करने का एलान",
+        "source": {
+          "name": "Amar Ujala",
+          "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.amarujala.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.amarujala.com/haryana/kaithal/announcement-of-stopping-the-operation-of-ayushman-yojana-from-1st-kaithal-news-c-18-1-knl1004-419973-2024-06-29",
+        "thumbnail": "https://staticimg.amarujala.com/assets/images/2021/11/03/kaithal_1635936309.jpeg?w=1200",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXlia3B3UXpacFRESjRTekUwVFJESEF4aWlCU2dLTWdZbGhZNnRMUVU",
+        "date": "06/29/2024, 07:00 AM, +0000 UTC",
+        "iso_date": "2024-06-29T07:00:00Z"
+      },
+      {
+        "position": 39,
+        "title": "किसी भी अस्पताल में फ्री में कराए 5 लाख रुपए तक का इलाज, ऐसे उठाए योजना का लाभ",
+        "source": {
+          "name": "India TV Hindi",
+          "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.indiatv.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.indiatv.in/india/national-ayushman-bharat-mahatma-gandhi-rajasthan-bima-yojana-pmjay-how-to-apply-rajasthan-gov-in-769138",
+        "thumbnail": "https://resize.indiatv.in/resize/newbucket/1200_675/2021/01/new-project-3-1612006550.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDBOM0pQYW5obWJVOXZWVUpXVFJERUF4aW1CU2dLTWdZQlVKWklwUWs",
+        "date": "01/30/2021, 08:00 AM, +0000 UTC",
+        "iso_date": "2021-01-30T08:00:00Z"
+      },
+      {
+        "position": 40,
+        "title": "आयुष्मान वय वंदना कार्ड - central ayushman vay vandana card for senior citizens aged 70 - Navbharat Times",
+        "source": {
+          "name": "Navbharat Times",
+          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://navbharattimes.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://navbharattimes.indiatimes.com/government-schemes/central-ayushman-vay-vandana-card-for-senior-citizens-aged-70",
+        "thumbnail": "https://static.langimg.com/nbt/thumb/122988939/ayushman-vay-vandana-card.jpg?imgsize=20132&width=1600&height=900&resizemode=75",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXdUM2hVVjFORGJUUmFORE5xVFJDZkF4ampCU2dLTWdrRlFaRFJKR2lwaGdJ",
+        "date": "07/30/2025, 07:00 AM, +0000 UTC",
+        "iso_date": "2025-07-30T07:00:00Z"
+      },
+      {
+        "position": 41,
+        "title": "42 सरकारी और 6 प्राइवेट हॉस्पिटलों में मरीजों को मिलेगा कैशलेस इलाज",
+        "source": {
+          "name": "ETV Bharat",
+          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.etvbharat.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.etvbharat.com/hindi/rajasthan/city/alwar/patients-will-get-cashless-treatment-in-42-government-and-6-private-hospitals/rj20210211125803556",
+        "thumbnail": "https://imgs.etvbharat.com/etvbharat/prod-images/768-512-10579577-thumbnail-3x2-a.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNXhWSEZDUldGTGVXVjZZbmR5VFJERUF4aW1CU2dLTWdPQlFBWQ",
+        "date": "02/11/2021, 08:00 AM, +0000 UTC",
+        "iso_date": "2021-02-11T08:00:00Z"
+      },
+      {
+        "position": 42,
+        "title": "इस कार्ड की मदद से मिलेगा 5 लाख रुपए तक मुफ्त इलाज, जानें पूरी प्रक्रिया",
+        "source": {
+          "name": "Tractor Junction",
+          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.tractorjunction.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.tractorjunction.com/sarkari-yojana-news/get-free-treatment-up-to-rs-5-lakh-with-the-help-of-this-card/",
+        "thumbnail": "https://assets.tractorjunction.com/tractor-junction/assets/images/images/news/sarkari-yojana-1703757762.webp",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNVFVSFV6UlVWR2RHWTROakJUVFJEQ0F4aWpCU2dLTWdtQklaUm1IbW85cFFJ",
+        "date": "12/28/2023, 08:00 AM, +0000 UTC",
+        "iso_date": "2023-12-28T08:00:00Z"
+      },
+      {
+        "position": 43,
+        "title": "मुफ्त में कैंसर का इलाज करा रही राजस्थान सरकार, मरीजों के लिए वरदान बनी सरकारी योजना",
+        "source": {
+          "name": "NDTV India",
+          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://ndtv.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://ndtv.in/utility-news/free-cancer-treatment-under-the-chief-minister-ayushman-arogya-yojana-in-rajasthan-7629079",
+        "thumbnail": "https://c.ndtvimg.com/2024-09/b359r2u_ayushman-patient_625x300_13_September_24.jpg?im=FeatureCrop,algorithm=dnn,width=400,height=225&q=70",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXFlRlpZVUhsalQyWk9hVU5mVFJEaEFSaVFBeWdLTWdZQkFKS0lpZ3M",
+        "date": "02/04/2025, 08:00 AM, +0000 UTC",
+        "iso_date": "2025-02-04T08:00:00Z"
+      },
+      {
+        "position": 44,
+        "title": "जयपुर: राजस्थान विधानसभा का बजट सत्र, विधायक रविन्द्र भाटी ने उठाया एमडी ड्रग्स का मामला, कहा-'उड़ता पंजाब की तरह उड़ता राजस्थान नहीं बन जाए '",
+        "source": {
+          "name": "First India News",
+          "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://firstindianews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://firstindianews.com/news/the-budget-session-of-the-rajasthan-legislative-assembly-is-underway-and-mla-ravindra-bhati-raised-the-issue-of-md-drugs",
+        "thumbnail": "https://storage.googleapis.com/storage.firstindianews.com/articleimage/images/articles/01-2026/176975984098.webp",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNWpTMlpNY2xaR2RsVjFkVFZxVFJEZUFoallCQ2dLTWdNQk1BWQ",
+        "date": "01/30/2026, 08:00 AM, +0000 UTC",
+        "iso_date": "2026-01-30T08:00:00Z"
+      },
+      {
+        "position": 45,
+        "title": "राजस्थान मुख्यमंत्री आयुष्मान आरोग्य योजना: हर परिवार को मिलेगा 25 लाख तक मुफ्त इलाज",
+        "source": {
+          "name": "News18 Hindi",
+          "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://hindi.news18.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://hindi.news18.com/news/rajasthan/jaipur-rajasthan-mukhyamantri-ayushman-arogya-yojana-9568908.html",
+        "thumbnail": "https://images.news18.com/ibnkhabar/uploads/2025/08/arogya-2025-08-b7f4f6ebdef05b47da22515ce2074a3b.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iMkNnNUVSVGRWZURsek0zZEhja014VFJEZ0F4aUFCU2dLTWdzSlJZUUlJcWx6MVZqdVJB",
+        "date": "08/31/2025, 07:00 AM, +0000 UTC",
+        "iso_date": "2025-08-31T07:00:00Z"
+      },
+      {
+        "position": 46,
+        "title": "राजस्थान: शाह ने की तनोट राय माता मंदिर में पूजा-अर्चना, सैनिक सम्मेलन में भी लिया हिस्सा, बीएसफ जवानों के साथ खाया खाना",
+        "source": {
+          "name": "Amar Ujala",
+          "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.amarujala.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.amarujala.com/rajasthan/rajasthan-amit-shah-offered-prayers-at-tanot-rai-mata-temple-also-took-part-in-military-conference-and-ate-food-with-bsf-jawans-latest-news-update",
+        "thumbnail": "https://staticimg.amarujala.com/assets/images/2021/12/04/amit-shah_1638629821.jpeg?w=1200",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNHdNVFpWT0Y5blJIaExTalpFVFJERkF4aWxCU2dLTWdB",
+        "date": "12/04/2021, 08:00 AM, +0000 UTC",
+        "iso_date": "2021-12-04T08:00:00Z"
+      },
+      {
+        "position": 47,
+        "title": "राजस्थानियों को अब गुजरात के अस्पतालों पर ज्यादा भरोसा, ‘मां’ योजना के आंकड़ों ने चौंकाया, मंत्री खींवसर ने बताया बड़ा कारण",
+        "source": {
+          "name": "Patrika News",
+          "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.patrika.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.patrika.com/jaipur-news/rajasthan-patients-prefer-gujarat-hospitals-maa-scheme-data-reveals-surge-in-interstate-treatment-demand-20454543",
+        "thumbnail": "https://cms.patrika.com/wp-content/uploads/2026/03/3_b836fb.webp",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNXNXVzlLTlhFM09XcHFVemx3VFJERUF4aW1CU2dLTWdB",
+        "date": "03/27/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-03-27T07:00:00Z"
+      },
+      {
+        "position": 48,
+        "title": "राजस्थान के लोगों के लिए खुशखबरी, अब प्रदेश के लोगों को गुजरात के अस्पताल में भी मिलेगा मुफ्त इलाज ",
+        "source": {
+          "name": "NDTV Rajasthan",
+          "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://rajasthan.ndtv.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://rajasthan.ndtv.in/rajasthan-news/good-news-for-the-people-of-rajasthan-now-the-people-of-the-state-will-also-get-the-benefit-of-free-treatment-in-the-hospitals-of-gujarat-9808524",
+        "thumbnail": "https://c.ndtvimg.com/2024-09/tjl7b4sg_jf_625x300_17_September_24.jpeg?im=FitAndFill,algorithm=dnn,width=1200,height=675",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUJTa1J5Umt4RVdqUm1NamR2VFJDZkF4ampCU2dLTWdZZFpvZ3FKZ2c",
+        "date": "12/14/2025, 08:00 AM, +0000 UTC",
+        "iso_date": "2025-12-14T08:00:00Z"
+      },
+      {
+        "position": 49,
+        "title": "Rajasthan Quiz: आधार की तरह जरूरी हुआ ABHA कार्ड, जानिए क्यों सरकार कर रही अनिवार्य",
+        "source": {
+          "name": "Zee News",
+          "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://zeenews.india.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "authors": [
+            "आरती पटेल"
+          ]
+        },
+        "link": "https://zeenews.india.com/hindi/india/rajasthan/photo-gallery-do-you-know-abha-id-card-kya-hai-fayde-kaise-banaye/1768899782475",
+        "thumbnail": "https://cdn1.zeenews.india.com/prod/zee-rajasthan/images/2026/20260120/image-1768902346440.png",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXNZa1ZxWkVOelh5MXdOVzFhVFJEZ0F4aUFCU2dLTWdZRk1aTGtPZ1k",
+        "date": "01/20/2026, 08:00 AM, +0000 UTC",
+        "iso_date": "2026-01-20T08:00:00Z"
+      },
+      {
+        "position": 50,
+        "title": "Rajasthan Government Scheme: गुजरात में भी राजस्थानियों का फ्री इलाज, कल से शुरू होगी कैशलेस सुविधा",
+        "source": {
+          "name": "Zee News",
+          "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://zeenews.india.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://zeenews.india.com/hindi/india/rajasthan/jaipur/rajasthan-government-scheme-gujarat-opens-doors-for-rajasthan-ayushman-beneficiaries-up-to-25-lakh-free-coverage-maa-mukhyamantri-ayushman-aarogy-yojana/1765779654646",
+        "thumbnail": "https://cdn1.zeenews.india.com/prod/zee-rajasthan/images/2025/20251215/image-1765780095777.png?rect=(0,0,1200,900)",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNHhSa1ZhYkRCV016QlJUbGx6VFJEZ0F4aUFCU2dLTWdB",
+        "date": "12/15/2025, 08:00 AM, +0000 UTC",
+        "iso_date": "2025-12-15T08:00:00Z"
+      },
+      {
+        "position": 51,
+        "title": "अब गुजरात में आयुष्मान कार्ड का लाभ ले सकेंगे राजस्थान के लोग",
+        "source": {
+          "name": "Patrika News",
+          "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.patrika.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "authors": [
+            "Omprakash Sharma"
+          ]
+        },
+        "link": "https://www.patrika.com/ahmedabad-news/now-people-of-rajasthan-will-be-able-to-avail-the-benefits-of-ayushman-card-in-gujarat-20164173",
+        "thumbnail": "https://cms.patrika.com/wp-content/uploads/2025/12/pppppp.webp",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVpUVzl3ZDBSV1MzZHdObDh6VFJERUF4aW1CU2dLTWdhRlpaRHRwUWM",
+        "date": "12/10/2025, 08:00 AM, +0000 UTC",
+        "iso_date": "2025-12-10T08:00:00Z"
+      },
+      {
+        "position": 52,
+        "title": "आयुष्मान भारत हॉस्पिटल लिस्ट जयपुर | Ayushman Bharat Hospital List Jaipur",
+        "source": {
+          "name": "केंद्र एव राज्य की सरकारी योजनाओं की जानकारी in Hindi",
+          "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://easyhindi.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://easyhindi.in/central-government-scheme/ayushman-bharat-hospital-list-jaipur/",
+        "thumbnail": "https://easyhindi.in/wp-content/uploads/2022/06/PMJAY-Hospital-List-5.png",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNVpRa2szVEZWS2FWcGtkRGxvVFJDNEF4aUFCU2dLTWdrQlVJampUV1ExYVFJ",
+        "date": "06/01/2022, 12:00 PM, +0000 UTC",
+        "iso_date": "2022-06-01T12:00:18Z"
+      },
+      {
+        "position": 53,
+        "title": "राजस्थान से बाहर भी आयुष्मान योजना से करा सकते हैं फ्री इलाज, दो राज्यों को छोड़ पूरे देश में लागू - जानिए प्रोसेस",
+        "source": {
+          "name": "NDTV Rajasthan",
+          "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://rajasthan.ndtv.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://rajasthan.ndtv.in/rajasthan-news/cashless-treatment-can-be-availed-under-the-ayushman-yojana-outside-rajasthan-as-well-if-it-is-applicable-across-the-country-except-for-two-states-kno-9868051",
+        "thumbnail": "https://c.ndtvimg.com/2025-12/jkmf4su4_hospital-doctors_625x300_22_December_25.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=675",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTRkemt0WlhoU1REbGxVbG95VFJDZkF4ampCU2dLTWdZQklwSUNrd28",
+        "date": "12/22/2025, 08:00 AM, +0000 UTC",
+        "iso_date": "2025-12-22T08:00:00Z"
+      },
+      {
+        "position": 54,
+        "title": "Ayushman Card : राजस्थान के मरीजों को गुजरात के अस्पताल में नहीं मिल रहा आयुष्मान कार्ड का लाभ, ये है सबसे बड़ी वजह",
+        "source": {
+          "name": "Patrika News",
+          "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.patrika.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "authors": [
+            "संजय कुमार"
+          ]
+        },
+        "link": "https://www.patrika.com/udaipur-news/rajasthan-patients-not-getting-ayushman-card-benefit-in-gujarat-hospital-this-is-biggest-reason-20028497",
+        "thumbnail": "https://cms.patrika.com/wp-content/uploads/2025/10/Ayushman-Card.webp",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNTBOVjl5WW1kZlozTnROMmRtVFJERUF4aW1CU2dLTWdtQlFKQXFvaWZnN1FF",
+        "date": "10/16/2025, 07:00 AM, +0000 UTC",
+        "iso_date": "2025-10-16T07:00:00Z"
+      },
+      {
+        "position": 55,
+        "title": "राजस्थान में आयुष्मान भारत योजना के तहत इस साल नहीं जुड़ा एक भी अस्पताल, लोकसभा में सवाल का मिला ये जवाब",
+        "source": {
+          "name": "Patrika News",
+          "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.patrika.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "authors": [
+            "Nirmal Pareek"
+          ]
+        },
+        "link": "https://www.patrika.com/jaipur-news/not-a-single-hospital-in-rajasthan-joined-ayushman-bharat-scheme-this-year-answer-received-in-lok-sabha-19212965",
+        "thumbnail": "https://cms.patrika.com/wp-content/uploads/2024/12/Rajasthan-Ayushman-Bharat-Yojana.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVJSWFZsWVhwaldYcFpWV3gyVFJERUF4aW1CU2dLTWdhRllaRDFNQVU",
+        "date": "12/07/2024, 08:00 AM, +0000 UTC",
+        "iso_date": "2024-12-07T08:00:00Z"
+      },
+      {
+        "position": 56,
+        "title": "एयर एंबुलेंस से लेकर स्काईवॉक तक...जानिए जयपुर के SMS हॉस्पिटल के आयुष्मान टावर की ये खासियतें",
+        "source": {
+          "name": "Moneycontrol Hindi",
+          "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://hindi.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://hindi.moneycontrol.com/india/jaipur-sawai-man-singh-sms-hospital-ipd-ayushman-tower-air-ambulance-facility-medical-hub-article-2442654.html",
+        "thumbnail": "https://images.moneycontrol.com/static-hindinews/2026/09/jaipur-Sawai-Man-Singh-sms-hospital-ipd-Ayushman-tower-air-ambulance.jpg?impolicy=website&width=1600&height=900",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNURWRWRGY2xKMVExRkRVRmhRVFJDZkF4ampCU2dLTWdZaEk0THRvUWM",
+        "date": "09/24/2026, 12:00 PM, +0000 UTC",
+        "iso_date": "2026-09-24T12:00:27Z"
+      },
+      {
+        "position": 57,
+        "title": "बड़ी खुशखबरी : आयुष्मान कार्ड से एमपी के मरीजों का अब राजस्थान में मिलेगा फ्री इलाज",
+        "source": {
+          "name": "Patrika News",
+          "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.patrika.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.patrika.com/rajgarh-news/patients-of-mp-will-now-get-free-treatment-in-rajasthan-with-ayushman-card-19545343",
+        "thumbnail": "https://cms.patrika.com/wp-content/uploads/2025/04/fdfasdsddg.png",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVZTbU42WjAxMFIyMXRjM3BQVFJERUF4aW1CU2dLTWdhWk00cFFJUWs",
+        "date": "04/21/2025, 07:00 AM, +0000 UTC",
+        "iso_date": "2025-04-21T07:00:00Z"
+      },
+      {
+        "position": 58,
+        "title": "चिरंजीवी योजना प्राइवेट हॉस्पिटल लिस्ट जयपुर | Jaipur Hospital List 2023",
+        "source": {
+          "name": "केंद्र एव राज्य की सरकारी योजनाओं की जानकारी in Hindi",
+          "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://easyhindi.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://easyhindi.in/government-schemes/chiranjeevi-yojana-hospital-list-jaipur/",
+        "thumbnail": "https://easyhindi.in/wp-content/uploads/2021/12/Chiranjeevi-Yojana-Hospital-List-Jaipur.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVNlSEJqTkhZNVJXaHVPV3AzVFJDNEF4aVVCU2dLTWdZQkFJREZpZ3c",
+        "date": "12/22/2021, 12:35 PM, +0000 UTC",
+        "iso_date": "2021-12-22T12:35:25Z"
+      },
+      {
+        "position": 59,
+        "title": "Bihar News: समस्तीपुर के इन 22 अस्पतालों में करवाएं 5 लाख तक का फ्री में इलाज, बस होना चाहिए आयुष्मान कार्ड",
+        "source": {
+          "name": "Zee News",
+          "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://zeenews.india.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://zeenews.india.com/hindi/india/bihar-jharkhand/samastipur/people-above-70-years-made-ayushman-card-they-will-get-free-treatment-worth-rs-5-lakh-annually-in-22-hospitals/2527789",
+        "thumbnail": "https://hindi.cdn.zeenews.com/hindi/sites/default/files/2024/11/23/3437792-samastipur-ayushman-card-news.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTFPVTlzTFhONE1ubE1VV0kyVFJEZUF4aUJCU2dLTWdhSmNwVGxxZ2M",
+        "date": "11/23/2024, 08:00 AM, +0000 UTC",
+        "iso_date": "2024-11-23T08:00:00Z"
+      },
+      {
+        "position": 60,
+        "title": "आयुष्मान कार्ड से 5 लाख का फ्री इलाज कहां मिलेगा? ऐसे पता करें अपने शहर के अस्पतालों के नाम",
+        "source": {
+          "name": "TV9 Hindi",
+          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.tv9hindi.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "authors": [
+            "विभव शुक्ला"
+          ]
+        },
+        "link": "https://www.tv9hindi.com/business/ayushman-card-hospital-list-check-online-pmjay-free-treatment-3745888.html",
+        "thumbnail": "https://images.tv9hindi.com/wp-content/uploads/2026/04/ayushman-card-hospital-list-check-online-pmjay-free-treatment.jpg?w=1280&q=51",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iMkNnNUlSVzVoZVhZeVlYUmlhVkJ2VFJDZkF4ampCU2dLTWd1TllZTFUwQ0tTQ2dyWlBR",
+        "date": "04/08/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-04-08T07:00:00Z"
+      },
+      {
+        "position": 61,
+        "title": "राजस्थान की इस योजना से देश के 26 राज्यों में लोग करा सकेंगे अपना कैशलेस इलाज! 31 हजार से ज्यादा अस्पतालों में मिलेगा लाभ",
+        "source": {
+          "name": "Zee News",
+          "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://zeenews.india.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://zeenews.india.com/hindi/india/rajasthan/photo-gallery-rajasthan-government-scheme-maa-linked-to-pm-jan-arogya-yojana-know-full-details/1766049677061",
+        "thumbnail": "https://cdn1.zeenews.india.com/prod/zee-rajasthan/images/2025/20251218/image-1766049714694.png",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHlTRzF2VFZKalEzQk1ha000VFJEZ0F4aUFCU2dLTWdZSlVvVE1xQWc",
+        "date": "12/18/2025, 08:00 AM, +0000 UTC",
+        "iso_date": "2025-12-18T08:00:00Z"
+      },
+      {
+        "position": 62,
+        "title": "राजस्थान के इस जिले में अब तक 7 लाख आयुष्मान कार्ड बने, आप भी घर बैठे बनवा सकते हैं आयुष्मान कार्ड",
+        "source": {
+          "name": "Patrika News",
+          "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.patrika.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "authors": [
+            "संतोष त्रिवेदी"
+          ]
+        },
+        "link": "https://www.patrika.com/barmer-news/aayushman-card-apply-so-far-7-lakh-ayushman-cards-have-been-made-in-rajasthan-you-can-also-apply-online-8687610",
+        "thumbnail": "https://cms.patrika.com/wp-content/uploads/2024/01/19/ayushman_card_online_appy.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNURZelJ0VUY5V1FVSjJhbVJUVFJDSEF4aVBCaWdLTWdhRlFwTEVwZ2c",
+        "date": "01/19/2024, 08:00 AM, +0000 UTC",
+        "iso_date": "2024-01-19T08:00:00Z"
+      },
+      {
+        "position": 63,
+        "title": "राजस्थान से बाहर देश के इन नामी अस्पतालों में मुफ्त इलाज की सुविधा; जानिए किस राज्य में कौनसा हॉस्पिटल शामिल",
+        "source": {
+          "name": "NDTV Rajasthan",
+          "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://rajasthan.ndtv.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://rajasthan.ndtv.in/rajasthan-news/mukhyamantri-ayushman-arogya-yojana-free-treatment-facilities-at-renowned-hospitals-outside-of-rajasthan-see-complete-list-10270982",
+        "thumbnail": "https://c.ndtvimg.com/2026-01/goa1meso_news_625x300_03_January_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=675",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXhkVmxmY2tGQk9IUk5ZMmR6VFJDZkF4ampCU2dLTWdhdFpZN09yUVk",
+        "date": "01/04/2026, 08:00 AM, +0000 UTC",
+        "iso_date": "2026-01-04T08:00:00Z"
+      },
+      {
+        "position": 64,
+        "title": "राजस्थान के सरकारी अस्पतालों का हाल, बिना उपचार कट रही पर्चियां, जांचें करवाकर गायब हो रहे मरीज",
+        "source": {
+          "name": "Patrika News",
+          "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.patrika.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.patrika.com/jaipur-news/registration-in-government-hospitals-of-rajasthan-to-avail-free-government-checkup-and-medicine-facilities-only-19359961",
+        "thumbnail": "https://cms.patrika.com/wp-content/uploads/2025/01/sms-hospital-jaipur.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNWpaWEk0UjI5c2RrUXdZMHN5VFJERUF4aW1CU2dLTWdB",
+        "date": "01/31/2025, 08:00 AM, +0000 UTC",
+        "iso_date": "2025-01-31T08:00:00Z"
+      },
+      {
+        "position": 65,
+        "title": "राजस्थान में अब हर परिवार को मिलेगा ₹25 लाख तक का फ्री इलाज और ₹10 लाख का बीमा! बस करना होगा ये एक काम",
+        "source": {
+          "name": "Zee News",
+          "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://zeenews.india.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://zeenews.india.com/hindi/india/rajasthan/photo-gallery-rajasthan-government-health-insurance-scheme-mukhyamantri-ayushman-arogya-yojana-know-how-to-apply/1759733129276",
+        "thumbnail": "https://cdn1.zeenews.india.com/prod/zee-rajasthan/images/2025/20251006/image-1759733124824.png",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVZRWGhwU3pFM00yUlpWVmxXVFJEZ0F4aUFCU2dLTWdZMVJKQnhuUWs",
+        "date": "10/06/2025, 07:00 AM, +0000 UTC",
+        "iso_date": "2025-10-06T07:00:00Z"
+      },
+      {
+        "position": 66,
+        "title": "ऐप से भी डाउनलोड कर सकते हैं आयुष्मान कार्ड, अस्पतालों में 5 लाख रुपए तक का मिलेगा स्वास्थ्य बीमा कवर",
+        "source": {
+          "name": "Patrika News",
+          "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.patrika.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.patrika.com/dholpur-news/ayushman-card-can-also-be-downloaded-from-the-app-health-insurance-co-8651136",
+        "thumbnail": "https://cms.patrika.com/wp-content/uploads/2023/12/24/5.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWZVVEJIWmpZeWVrUm1WbUZPVFJEQUF4aXNCU2dLTWdhQklZVDBwQU0",
+        "date": "12/24/2023, 08:00 AM, +0000 UTC",
+        "iso_date": "2023-12-24T08:00:00Z"
+      },
+      {
+        "position": 67,
+        "title": "मुख्यमंत्री चिरंजीवी योजना रजिस्ट्रेशन — Ayushman Chiranjeevi Card Yojana",
+        "source": {
+          "name": "jhagdenews.com",
+          "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://jhagdenews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://jhagdenews.com/ayushman-chiranjeevi-card-yojana-in-rajasthan/",
+        "thumbnail": "https://jhagdenews.com/wp-content/uploads/2024/04/Ayushman-Chiranjeevi-Card-EKYC-2024.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVRhMFpQVXpKbVFqSm9NalF4VFJDcEF4alNCU2dLTWdZSkpJNUdvZ1k",
+        "date": "04/02/2024, 07:00 AM, +0000 UTC",
+        "iso_date": "2024-04-02T07:00:00Z"
+      },
+      {
+        "position": 68,
+        "title": "Chiranjeevi Yojana Hospital List Jodhpur | जोधपुर के चिरंजीवी योजना हॉस्पिटल लिस्ट",
+        "source": {
+          "name": "केंद्र एव राज्य की सरकारी योजनाओं की जानकारी in Hindi",
+          "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://easyhindi.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://easyhindi.in/government-schemes/chiranjeevi-yojna-hospital-list-in-jodhpur/",
+        "thumbnail": "https://easyhindi.in/wp-content/uploads/2021/12/Chiranjeevi-Yojana-Hospital-List-Jodhpur.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXZlRzUwU1c1eldsQlFRVWt3VFJDNEF4aVVCU2dLTWdZQkFJREZpZ3c",
+        "date": "12/22/2021, 01:34 PM, +0000 UTC",
+        "iso_date": "2021-12-22T13:34:05Z"
+      },
+      {
+        "position": 69,
+        "title": "आयुष्मान भारत-महात्मा गांधी राजस्थान स्वास्थ्य बीमा योजना: गाइडलाइन जारी, आपके हर सवाल का मिलेगा जवाब",
+        "source": {
+          "name": "Patrika News",
+          "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.patrika.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.patrika.com/jaipur-news/about-ayushman-bharat-mahatma-gandhi-rajasthan-health-insurance-scheme-5035568",
+        "date": "09/01/2019, 07:00 AM, +0000 UTC",
+        "iso_date": "2019-09-01T07:00:00Z"
+      },
+      {
+        "position": 70,
+        "title": "Ayushman Card Hospital List : आयुष्मान लाभार्थी किन अस्पतालों में करवा सकते हैं इलाज? जानिए...",
+        "source": {
+          "name": "The Sootr",
+          "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://thesootr.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://thesootr.com/desh/ayushman-card-hospital-list-beneficiary-know-which-hospitals-treatment-can-be-done/articleshow/133819425.html",
+        "date": "04/17/2024, 07:00 AM, +0000 UTC",
+        "iso_date": "2024-04-17T07:00:00Z"
+      },
+      {
+        "position": 71,
+        "title": "70+ बुजुर्गों का बनेगा अलग आयुष्मान कार्ड, पहले से लाभार्थी फैमिली भी कर सकेगी अप्लाई, पढ़ें NHA की गाइडलाइन",
+        "source": {
+          "name": "NDTV Rajasthan",
+          "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://rajasthan.ndtv.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "authors": [
+            "पुलकित मित्तल"
+          ]
+        },
+        "link": "https://rajasthan.ndtv.in/utility-news/ab-pmjay-70-plus-ayushman-card-senior-citizen-registration-online-apply-check-nha-guidelines-6905168",
+        "thumbnail": "https://c.ndtvimg.com/2024-10/umcajqd_modi-ayushman-card_625x300_30_October_24.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=675",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iMkNnNTJSblZ3VWtOdVNHVk1Va1ppVFJDZkF4ampCU2dLTWd1SlFveHVwV2RGcDJwdW1n",
+        "date": "10/30/2024, 07:00 AM, +0000 UTC",
+        "iso_date": "2024-10-30T07:00:00Z"
+      },
+      {
+        "position": 72,
+        "title": "रतलाम जिला अस्पताल में मिलेगी सिटी स्कैन की सुविधा, जयपुर की कंपनी को मिला ठेका",
+        "source": {
+          "name": "Nai Dunia",
+          "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.naidunia.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.naidunia.com/madhya-pradesh/ratlam-city-scan-facility-to-be-provided-in-ratlam-district-hospital-jaipur-company-gets-contract-6595933",
+        "thumbnail": "https://img.naidunia.com/naidunia/ndnimg/03122020/03_12_2020-02rat19b.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXpUbTEzVERSalZuQjNNR2czVFJEOUFSajhBaWdLTWdZQllJQXk3UUE",
+        "date": "12/03/2020, 08:00 AM, +0000 UTC",
+        "iso_date": "2020-12-03T08:00:00Z"
+      },
+      {
+        "position": 73,
+        "title": "आयुष्मान योजना में दांतों का इलाज भी शामिल, फ्री पैकेज में शामिल",
+        "source": {
+          "name": "The Sootr",
+          "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://thesootr.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://thesootr.com/state/chhattisgarh/dental-treatment-included-ayushman-yojana-included-free-package/articleshow/134029761.html",
+        "date": "05/25/2025, 07:00 AM, +0000 UTC",
+        "iso_date": "2025-05-25T07:00:00Z"
+      },
+      {
+        "position": 74,
+        "title": "भामाशाह कार्ड की जगह अब बनेगा जनआधार कार्ड, आप पात्र हैं या नहीं, यहां जान लें",
+        "source": {
+          "name": "Patrika News",
+          "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.patrika.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.patrika.com/jaipur-news/bhamashah-yojana-ayushman-bharat-yojana-jan-aadhar-card-5029075",
+        "thumbnail": "https://cms.patrika.com/wp-content/uploads/2019/08/30/jan_aadhar_yojana.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iMkNnNUtUMGhMWmpWUmJsRkZkemM1VFJEQUF4aXNCU2dLTWdzQklJenN4V1FXRWlsMGln",
+        "date": "08/30/2019, 07:00 AM, +0000 UTC",
+        "iso_date": "2019-08-30T07:00:00Z"
+      },
+      {
+        "position": 75,
+        "title": "आरजीएचएस में प्राइवेट अस्पतालों का बड़ा स्कैम, जांच में खुला फर्जीवाड़ा, सरकार ने निकाली 30 करोड़ की रिकवरी",
+        "source": {
+          "name": "The Sootr",
+          "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://thesootr.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://thesootr.com/state/rajasthan/rajasthan-rghs-scam-recovery-government/articleshow/134107792.html",
+        "date": "10/13/2025, 07:00 AM, +0000 UTC",
+        "iso_date": "2025-10-13T07:00:00Z"
+      },
+      {
+        "position": 76,
+        "title": "मुख्यमंत्री आयुष्मान आरोग्य योजना में लापरवाही, बीमा क्लेम हो रहे है रिजेक्ट",
+        "source": {
+          "name": "The Sootr",
+          "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://thesootr.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://thesootr.com/state/rajasthan/ayushman-aarogya-scheme-claims-rejected-rajasthan/articleshow/134138356.html",
+        "date": "01/28/2026, 08:00 AM, +0000 UTC",
+        "iso_date": "2026-01-28T08:00:00Z"
+      }
+    ],
+    "menu_links": [
+      {
+        "title": "भारत",
+        "topic_token": "CAAqIQgKIhtDQkFTRGdvSUwyMHZNRE55YXpBU0FtaHBLQUFQAQ",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqIQgKIhtDQkFTRGdvSUwyMHZNRE55YXpBU0FtaHBLQUFQAQ"
+      },
+      {
+        "title": "दुनिया",
+        "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtaHBHZ0pKVGlnQVAB",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtaHBHZ0pKVGlnQVAB"
+      },
+      {
+        "title": "आपकी स्थानीय खबरें",
+        "topic_token": "CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE"
+      },
+      {
+        "title": "कारोबार",
+        "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FtaHBHZ0pKVGlnQVAB",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FtaHBHZ0pKVGlnQVAB"
+      },
+      {
+        "title": "मनोरंजन",
+        "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNREpxYW5RU0FtaHBHZ0pKVGlnQVAB",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNREpxYW5RU0FtaHBHZ0pKVGlnQVAB"
+      },
+      {
+        "title": "खेल",
+        "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp1ZEdvU0FtaHBHZ0pKVGlnQVAB",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp1ZEdvU0FtaHBHZ0pKVGlnQVAB"
+      }
+    ]
+  }
+}

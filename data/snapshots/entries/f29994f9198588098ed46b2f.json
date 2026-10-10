@@ -1,0 +1,116 @@
+{
+  "version": 1,
+  "key": "f29994f9198588098ed46b2f",
+  "engine": "google_maps_reviews",
+  "params": {
+    "data_id": "0x3962fc4c567f5df7:0xb35b3d2fff7b49cd",
+    "hl": "en",
+    "num": "20",
+    "query": "ayushman",
+    "sort_by": "newestFirst"
+  },
+  "fetchedAt": "2026-10-10T10:51:04.614Z",
+  "response": {
+    "search_metadata": {
+      "status": "Success",
+      "created_at": "2026-10-10 10:51:08 UTC",
+      "total_time_taken": 1.01
+    },
+    "search_parameters": {
+      "engine": "google_maps_reviews",
+      "data_id": "0x3962fc4c567f5df7:0xb35b3d2fff7b49cd",
+      "hl": "en",
+      "num": "20",
+      "sort_by": "newestFirst",
+      "query": "ayushman"
+    },
+    "reviews": [
+      {
+        "position": 1,
+        "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xJNVdFY3dkbU5hYVc0eFZVOHlkSFZwZWt0blRVRRAB!2m1!1s0x0:0xb35b3d2fff7b49cd!3m1!1s2@1:CAIQACodChtycF9oOlI5WEcwdmNaaW4xVU8ydHVpektnTUE%7C%7C?hl=en",
+        "rating": 5,
+        "date": "4 months ago",
+        "iso_date": "2026-05-16T02:47:56Z",
+        "iso_date_of_last_edit": "2026-05-16T02:47:56Z",
+        "source": "Google",
+        "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xJNVdFY3dkbU5hYVc0eFZVOHlkSFZwZWt0blRVRRAB",
+        "snippet": "My name is Nitesh Kumar Balwani From Satna A few days ago, I met with a major accident and was admitted for surgery at Unique Super Speciality Hospital Annapurna Indore the care of under Dr. Pramod ji Neema.\nFrom the day I was admitted until my discharge the entire hospital supported me like a younger brother. I especially want to thank Dr Nasim sir from the Radiology Department, Mr. Rahul sir surgery  department, the Head  of the Ayushman unit and Dr Nasim for their immense support and care.\nAfter my surgery , I had completely lost hope about my future, but the Unique family the doctors, nurses, and staff — held my hand and gave me hope and strength to move forward again.\nI sincerely express my heartfelt gratitude to everyone for helping me regain confidence in life.\nThank you so much🥰🥰",
+        "extracted_snippet": {
+          "original": "My name is Nitesh Kumar Balwani From Satna A few days ago, I met with a major accident and was admitted for surgery at Unique Super Speciality Hospital Annapurna Indore the care of under Dr. Pramod ji Neema.\nFrom the day I was admitted until my discharge the entire hospital supported me like a younger brother. I especially want to thank Dr Nasim sir from the Radiology Department, Mr. Rahul sir surgery  department, the Head  of the Ayushman unit and Dr Nasim for their immense support and care.\nAfter my surgery , I had completely lost hope about my future, but the Unique family the doctors, nurses, and staff — held my hand and gave me hope and strength to move forward again.\nI sincerely express my heartfelt gratitude to everyone for helping me regain confidence in life.\nThank you so much🥰🥰"
+        },
+        "likes": 0,
+        "response": {
+          "date": "4 months ago",
+          "iso_date": "2026-05-21T13:11:26Z",
+          "iso_date_of_last_edit": "2026-05-21T13:11:26Z",
+          "snippet": "Thank you, Nitesh Kumar Balwani, for sharing your heartfelt experience with us. We are truly glad to know that you received the care, support, and confidence you needed during your recovery journey. Your kind words for our doctors, nursing team, radiology department, surgery team, and hospital staff mean a lot to us.\n\nWishing you a healthy, happy, and speedy recovery ahead. Thank you for trusting Unique Super Speciality Hospital.\n",
+          "extracted_snippet": {
+            "original": "Thank you, Nitesh Kumar Balwani, for sharing your heartfelt experience with us. We are truly glad to know that you received the care, support, and confidence you needed during your recovery journey. Your kind words for our doctors, nursing team, radiology department, surgery team, and hospital staff mean a lot to us.\n\nWishing you a healthy, happy, and speedy recovery ahead. Thank you for trusting Unique Super Speciality Hospital.\n"
+          }
+        }
+      },
+      {
+        "position": 2,
+        "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNaeXVmQWRREAE!2m1!1s0x0:0xb35b3d2fff7b49cd!3m1!1s2@1:CIHM0ogKEICAgICZyufAdQ%7C%7C?hl=en",
+        "rating": 5,
+        "date": "3 years ago",
+        "iso_date": "2023-09-08T08:53:12Z",
+        "iso_date_of_last_edit": "2023-09-08T08:53:12Z",
+        "source": "Google",
+        "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNaeXVmQWRREAE",
+        "snippet": "Dr vaibhav Shukla\nAnd nursing staff\nAnd ayushman staff\nVery helpful 👌 ☺️\nTq so much for all hospital team",
+        "extracted_snippet": {
+          "original": "Dr vaibhav Shukla\nAnd nursing staff\nAnd ayushman staff\nVery helpful 👌 ☺️\nTq so much for all hospital team"
+        },
+        "likes": 0
+      },
+      {
+        "position": 3,
+        "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUR4c3VxWTBBRRAB!2m1!1s0x0:0xb35b3d2fff7b49cd!3m1!1s2@1:CIHM0ogKEICAgIDxsuqY0AE%7C%7C?hl=en",
+        "rating": 5,
+        "date": "3 years ago",
+        "iso_date": "2023-06-05T11:48:25Z",
+        "iso_date_of_last_edit": "2023-06-05T11:48:25Z",
+        "source": "Google",
+        "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR4c3VxWTBBRRAB",
+        "snippet": "Is hospital ka treatment or doctor best h. Kafi achi suvidha mili h. Yaha ka staff bahut supportive hai. Ayushman k through bahut kafi achi suvidha di gayi hai. Or Dr. Neema ji indore k best doctor hai kafi ache se treatment Kiya hai. Thank u unique hospital..",
+        "extracted_snippet": {
+          "original": "Is hospital ka treatment or doctor best h. Kafi achi suvidha mili h. Yaha ka staff bahut supportive hai. Ayushman k through bahut kafi achi suvidha di gayi hai. Or Dr. Neema ji indore k best doctor hai kafi ache se treatment Kiya hai. Thank u unique hospital..",
+          "translated": "The treatment and doctors at this hospital are excellent. The facilities are very good. The staff is very helpful. Excellent facilities are provided through Ayushman. Dr. Neema is the best doctor in Indore and treated me very well. Thank you, Unique Hospital."
+        },
+        "likes": 0
+      },
+      {
+        "position": 4,
+        "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURCaC1hUlJBEAE!2m1!1s0x0:0xb35b3d2fff7b49cd!3m1!1s2@1:CIHM0ogKEICAgIDBh-aRRA%7C%7C?hl=en",
+        "rating": 5,
+        "date": "3 years ago",
+        "iso_date": "2023-01-30T06:51:31Z",
+        "iso_date_of_last_edit": "2023-01-30T06:51:31Z",
+        "source": "Google",
+        "review_id": "ChZDSUhNMG9nS0VJQ0FnSURCaC1hUlJBEAE",
+        "snippet": "Good.....ayushman nurses staff ka behaviour bahut achcha hai",
+        "extracted_snippet": {
+          "original": "Good.....ayushman nurses staff ka behaviour bahut achcha hai",
+          "translated": "Good.....The behavior of Ayushman nurses staff is very good."
+        },
+        "likes": 0
+      },
+      {
+        "position": 5,
+        "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUQtZ2JPSFlBEAE!2m1!1s0x0:0xb35b3d2fff7b49cd!3m1!1s2@1:CIHM0ogKEICAgID-gbOHYA%7C%7C?hl=en",
+        "rating": 5,
+        "date": "3 years ago",
+        "iso_date": "2022-12-01T11:46:07Z",
+        "iso_date_of_last_edit": "2022-12-01T11:46:07Z",
+        "source": "Google",
+        "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQtZ2JPSFlBEAE",
+        "snippet": "Unique hospital good working pre care activity but in post care activity need to improve specially in Ayushman.",
+        "extracted_snippet": {
+          "original": "Unique hospital good working pre care activity but in post care activity need to improve specially in Ayushman."
+        },
+        "likes": 1
+      }
+    ]
+  }
+}

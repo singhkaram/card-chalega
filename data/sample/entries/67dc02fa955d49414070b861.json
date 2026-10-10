@@ -1,0 +1,85 @@
+{
+  "version": 1,
+  "key": "67dc02fa955d49414070b861",
+  "engine": "google_maps_reviews",
+  "params": {
+    "data_id": "0x00000000005a1006:0x00000000000fa106",
+    "hl": "en",
+    "num": "20",
+    "query": "ayushman"
+  },
+  "fetchedAt": "2026-10-03T08:06:00.000Z",
+  "note": "SYNTHETIC SAMPLE DATA — dev only",
+  "response": {
+    "search_metadata": {
+      "status": "Success",
+      "created_at": "2026-10-03 08:06:00 UTC",
+      "total_time_taken": 2.1
+    },
+    "search_parameters": {
+      "engine": "google_maps_reviews",
+      "data_id": "0x00000000005a1006:0x00000000000fa106",
+      "query": "ayushman",
+      "num": "20",
+      "hl": "en"
+    },
+    "place_info": {
+      "title": "Hazratganj Sample Eye & General Hospital (Sample)",
+      "address": "15 Sample Marg, Lucknow, Uttar Pradesh (Sample)",
+      "rating": 4.3,
+      "reviews": 520,
+      "type": "Hospital"
+    },
+    "reviews": [
+      {
+        "link": "https://example.com/review/sample_lko_06_r01",
+        "rating": 4,
+        "date": "2 months ago",
+        "iso_date": "2026-08-03T01:48:00Z",
+        "review_id": "sample_lko_06_r01",
+        "snippet": "Cataract operation for my mother under the Ayushman card. Free, but a lens upgrade was offered for ₹6,000 which we declined.",
+        "extracted_snippet": {
+          "original": "Cataract operation for my mother under the Ayushman card. Free, but a lens upgrade was offered for ₹6,000 which we declined."
+        },
+        "likes": 1
+      },
+      {
+        "link": "https://example.com/review/sample_lko_06_r02",
+        "rating": 2,
+        "date": "5 months ago",
+        "iso_date": "2026-05-03T20:00:00Z",
+        "review_id": "sample_lko_06_r02",
+        "snippet": "Ayushman card pe bola sirf aankh ka ilaaj hoga, general surgery ke liye mana kar diya.",
+        "extracted_snippet": {
+          "original": "Ayushman card pe bola sirf aankh ka ilaaj hoga, general surgery ke liye mana kar diya."
+        },
+        "likes": 4
+      },
+      {
+        "link": "https://example.com/review/sample_lko_06_r03",
+        "rating": 3,
+        "date": "10 months ago",
+        "iso_date": "2025-12-03T06:00:00Z",
+        "review_id": "sample_lko_06_r03",
+        "snippet": "Asked about Ayushman at reception, they told us to come back with Aadhaar next time.",
+        "extracted_snippet": {
+          "original": "Asked about Ayushman at reception, they told us to come back with Aadhaar next time."
+        },
+        "likes": 2
+      },
+      {
+        "link": "https://example.com/review/sample_lko_06_r04",
+        "rating": 1,
+        "date": "2 years ago",
+        "iso_date": "2024-08-03T19:24:00Z",
+        "review_id": "sample_lko_06_r04",
+        "snippet": "(Translated by Google) They took 7000 rupees even on the Ayushman card.\n\n(Original)\nआयुष्मान कार्ड पर भी 7000 रुपये लिए।",
+        "extracted_snippet": {
+          "original": "आयुष्मान कार्ड पर भी 7000 रुपये लिए।",
+          "translated": "They took 7000 rupees even on the Ayushman card."
+        },
+        "likes": 0
+      }
+    ]
+  }
+}

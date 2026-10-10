@@ -1,0 +1,54 @@
+{
+  "version": 1,
+  "key": "71fc16140a4d3819b0fc512e",
+  "engine": "google_maps_reviews",
+  "params": {
+    "data_id": "0x396302a8893efb37:0xdccf05a77b7ff3eb",
+    "hl": "en",
+    "num": "20",
+    "query": "ayushman",
+    "sort_by": "newestFirst"
+  },
+  "fetchedAt": "2026-10-10T10:51:04.294Z",
+  "response": {
+    "search_metadata": {
+      "status": "Success",
+      "created_at": "2026-10-10 10:51:08 UTC",
+      "total_time_taken": 0.87
+    },
+    "search_parameters": {
+      "engine": "google_maps_reviews",
+      "data_id": "0x396302a8893efb37:0xdccf05a77b7ff3eb",
+      "hl": "en",
+      "num": "20",
+      "sort_by": "newestFirst",
+      "query": "ayushman"
+    },
+    "reviews": [
+      {
+        "position": 1,
+        "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUN6LTlHYWZnEAE!2m1!1s0x0:0xdccf05a77b7ff3eb!3m1!1s2@1:CIHM0ogKEICAgICz-9Gafg%7C%7C?hl=en",
+        "rating": 2,
+        "date": "2 years ago",
+        "iso_date": "2024-06-05T15:02:37Z",
+        "iso_date_of_last_edit": "2024-06-05T15:02:37Z",
+        "source": "Google",
+        "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN6LTlHYWZnEAE",
+        "snippet": "Ayushman card not acceptable in this hospital",
+        "extracted_snippet": {
+          "original": "Ayushman card not acceptable in this hospital"
+        },
+        "likes": 0,
+        "response": {
+          "date": "2 years ago",
+          "iso_date": "2024-06-06T10:39:36Z",
+          "iso_date_of_last_edit": "2024-06-06T10:39:36Z",
+          "snippet": "Thank you for reaching out and sharing your concerns regarding the acceptance of Ayushman cards at our hospital. We truly value your feedback and apologize for any inconvenience this may have caused you.We are pleased to inform you that Ayushman cards are accepted at our another unit, Shri Aurobindo Hospital, Indore. Your feedback is immensely helpful, and we will take steps to ensure better alignment of policies.",
+          "extracted_snippet": {
+            "original": "Thank you for reaching out and sharing your concerns regarding the acceptance of Ayushman cards at our hospital. We truly value your feedback and apologize for any inconvenience this may have caused you.We are pleased to inform you that Ayushman cards are accepted at our another unit, Shri Aurobindo Hospital, Indore. Your feedback is immensely helpful, and we will take steps to ensure better alignment of policies."
+          }
+        }
+      }
+    ]
+  }
+}

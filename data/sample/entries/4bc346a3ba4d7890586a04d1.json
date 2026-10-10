@@ -1,0 +1,139 @@
+{
+  "version": 1,
+  "key": "4bc346a3ba4d7890586a04d1",
+  "engine": "google_maps_reviews",
+  "params": {
+    "data_id": "0x00000000005a1003:0x00000000000fa103",
+    "hl": "en",
+    "num": "20",
+    "query": "ayushman"
+  },
+  "fetchedAt": "2026-10-03T08:03:00.000Z",
+  "note": "SYNTHETIC SAMPLE DATA — dev only",
+  "response": {
+    "search_metadata": {
+      "status": "Success",
+      "created_at": "2026-10-03 08:03:00 UTC",
+      "total_time_taken": 2.1
+    },
+    "search_parameters": {
+      "engine": "google_maps_reviews",
+      "data_id": "0x00000000005a1003:0x00000000000fa103",
+      "query": "ayushman",
+      "num": "20",
+      "hl": "en"
+    },
+    "place_info": {
+      "title": "Gomti Sample Medical Centre (Sample)",
+      "address": "12 Sample Marg, Lucknow, Uttar Pradesh (Sample)",
+      "rating": 4.1,
+      "reviews": 1580,
+      "type": "Hospital"
+    },
+    "reviews": [
+      {
+        "link": "https://example.com/review/sample_lko_03_r01",
+        "rating": 5,
+        "date": "2 weeks ago",
+        "iso_date": "2026-09-17T15:12:00Z",
+        "review_id": "sample_lko_03_r01",
+        "snippet": "Got my wife's delivery done under Ayushman Bharat. Fully cashless, they even arranged the medicines. Not a single rupee paid.",
+        "extracted_snippet": {
+          "original": "Got my wife's delivery done under Ayushman Bharat. Fully cashless, they even arranged the medicines. Not a single rupee paid."
+        },
+        "likes": 3,
+        "response": {
+          "date": "1 weeks ago",
+          "iso_date": "2026-09-24T00:07:12Z",
+          "snippet": "Thank you for your kind words. Wishing your family good health."
+        }
+      },
+      {
+        "link": "https://example.com/review/sample_lko_03_r02",
+        "rating": 5,
+        "date": "2 months ago",
+        "iso_date": "2026-08-03T10:48:00Z",
+        "review_id": "sample_lko_03_r02",
+        "snippet": "(Translated by Google) Father's hernia operation was done with the Ayushman card, not a single paisa was spent. The staff at the Ayushman counter are very helpful.\n\n(Original)\nआयुष्मान कार्ड से पिताजी का हर्निया ऑपरेशन हुआ, एक भी पैसा नहीं लगा। आयुष्मान काउंटर का स्टाफ बहुत मददगार है।",
+        "extracted_snippet": {
+          "original": "आयुष्मान कार्ड से पिताजी का हर्निया ऑपरेशन हुआ, एक भी पैसा नहीं लगा। आयुष्मान काउंटर का स्टाफ बहुत मददगार है।",
+          "translated": "Father's hernia operation was done with the Ayushman card, not a single paisa was spent. The staff at the Ayushman counter are very helpful."
+        },
+        "likes": 1
+      },
+      {
+        "link": "https://example.com/review/sample_lko_03_r03",
+        "rating": 4,
+        "date": "3 months ago",
+        "iso_date": "2026-07-04T00:12:00Z",
+        "review_id": "sample_lko_03_r03",
+        "snippet": "Ayushman card se ilaaj free hua, bas approval me 1 din laga. Overall theek hai.",
+        "extracted_snippet": {
+          "original": "Ayushman card se ilaaj free hua, bas approval me 1 din laga. Overall theek hai."
+        },
+        "likes": 4
+      },
+      {
+        "link": "https://example.com/review/sample_lko_03_r04",
+        "rating": 5,
+        "date": "5 months ago",
+        "iso_date": "2026-05-04T04:00:00Z",
+        "review_id": "sample_lko_03_r04",
+        "snippet": "PMJAY golden card accepted without any hassle. Surgery and a 5 day stay were free.",
+        "extracted_snippet": {
+          "original": "PMJAY golden card accepted without any hassle. Surgery and a 5 day stay were free."
+        },
+        "likes": 2
+      },
+      {
+        "link": "https://example.com/review/sample_lko_03_r05",
+        "rating": 3,
+        "date": "8 months ago",
+        "iso_date": "2026-02-01T22:12:00Z",
+        "review_id": "sample_lko_03_r05",
+        "snippet": "Ayushman treatment was free but we bought some medicines from outside, about ₹1,200. Staff said those were not in the list.",
+        "extracted_snippet": {
+          "original": "Ayushman treatment was free but we bought some medicines from outside, about ₹1,200. Staff said those were not in the list."
+        },
+        "likes": 0
+      },
+      {
+        "link": "https://example.com/review/sample_lko_03_r06",
+        "rating": 5,
+        "date": "a year ago",
+        "iso_date": "2025-10-03T06:48:00Z",
+        "review_id": "sample_lko_03_r06",
+        "snippet": "(Translated by Google) Mother's treatment was free under the Ayushman scheme. The doctors are good.\n\n(Original)\nआयुष्मान योजना के तहत माँ का इलाज मुफ्त हुआ। डॉक्टर अच्छे हैं।",
+        "extracted_snippet": {
+          "original": "आयुष्मान योजना के तहत माँ का इलाज मुफ्त हुआ। डॉक्टर अच्छे हैं।",
+          "translated": "Mother's treatment was free under the Ayushman scheme. The doctors are good."
+        },
+        "likes": 3
+      },
+      {
+        "link": "https://example.com/review/sample_lko_03_r07",
+        "rating": 4,
+        "date": "a year ago",
+        "iso_date": "2025-06-03T15:24:00Z",
+        "review_id": "sample_lko_03_r07",
+        "snippet": "Used the Ayushman card for my uncle's appendix surgery. Cashless, though the ward was crowded.",
+        "extracted_snippet": {
+          "original": "Used the Ayushman card for my uncle's appendix surgery. Cashless, though the ward was crowded."
+        },
+        "likes": 1
+      },
+      {
+        "link": "https://example.com/review/sample_lko_03_r08",
+        "rating": 2,
+        "date": "2 years ago",
+        "iso_date": "2024-05-04T09:36:00Z",
+        "review_id": "sample_lko_03_r08",
+        "snippet": "Ayushman card was not accepted for my brother's treatment back then, they said the specialty is not empanelled.",
+        "extracted_snippet": {
+          "original": "Ayushman card was not accepted for my brother's treatment back then, they said the specialty is not empanelled."
+        },
+        "likes": 4
+      }
+    ]
+  }
+}

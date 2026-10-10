@@ -1,0 +1,894 @@
+{
+  "version": 1,
+  "key": "8cdd921fce0e74343292cbaf",
+  "engine": "google_news",
+  "params": {
+    "gl": "in",
+    "hl": "hi",
+    "q": "आयुष्मान कार्ड अस्पताल इंदौर"
+  },
+  "fetchedAt": "2026-10-10T10:51:12.360Z",
+  "response": {
+    "search_metadata": {
+      "status": "Success",
+      "created_at": "2026-10-10 10:51:14 UTC",
+      "total_time_taken": 2.61
+    },
+    "search_parameters": {
+      "engine": "google_news",
+      "gl": "in",
+      "hl": "hi",
+      "q": "आयुष्मान कार्ड अस्पताल इंदौर"
+    },
+    "news_results": [
+      {
+        "position": 1,
+        "title": "आयुष्मान योजना: इंदौर-जबलपुर समेत MP के 65 अस्पतालों पर कार्रवाई, इलाज से पहले चेक करें पूरी लिस्ट",
+        "source": {
+          "name": "Jagran",
+          "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.jagran.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.jagran.com/madhya-pradesh/indore-ayushman-bharat-65-mp-hospitals-delisted-indore-jabalpur-40399926.html",
+        "thumbnail": "https://www.jagranimages.com/images/2026/10/09/template/image/hospital-8596548-1791563004936_m.webp",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNTZjWEpCVDBoNlZUZGplV1ZwVFJDMEFSakFBaWdLTWdB",
+        "date": "10/09/2026, 04:31 PM, +0000 UTC",
+        "iso_date": "2026-10-09T16:31:00Z"
+      },
+      {
+        "position": 2,
+        "title": "​आयुष्मान कार्ड होने के बाद भी देना पड़ सकता है बिल, लिस्ट से बाहर होंगे बड़े-बड़े अस्पताल, जारी हुई गाइडला...",
+        "source": {
+          "name": "News18 Hindi",
+          "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://hindi.news18.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://hindi.news18.com/news/madhya-pradesh/bhopal-mp-ayushman-yojana-new-rule-full-nabh-certification-289-hospitals-at-risk-10806011.html",
+        "thumbnail": "https://images.news18.com/ibnkhabar/uploads/2026/09/mp-ayushman-yojana-new-rule-2026-09-425f5989327e202e32e543bd3feb901a-1200x900.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXlkR3BRWnpGUGJIWk5WMUJQVFJEZ0F4aUFCU2dLTWdhbFpaTE5xUVk",
+        "date": "09/04/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-09-04T07:00:00Z"
+      },
+      {
+        "position": 3,
+        "title": "सरकारी अस्पताल में चूहे और फंगस देख भड़के जज, 4 साल की एसिड अटैक सर्वाइवर को प्राइवेट में शिफ्ट करने का आदेश",
+        "source": {
+          "name": "Navbharat Times",
+          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://navbharattimes.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://navbharattimes.indiatimes.com/state/madhya-pradesh/indore/indore-mp-high-court-acid-attack-survivor-ayushman-card-private-hospital-bombay-hospital-treatment/articleshow/132107676.cms",
+        "thumbnail": "https://static.langimg.com/nbt/thumb/132109167/mp-high-court-news.jpg?imgsize=122291&width=1600&height=900&resizemode=75",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNXZiM2hCYjNGRGVtZFhia001VFJDZkF4ampCU2dLTWdNSmNSSQ",
+        "date": "07/01/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-07-01T07:00:00Z"
+      },
+      {
+        "position": 4,
+        "title": "Indore News: किशोर के दिल में था 27 एमएम का छेद,ओपन सर्जरी के बगैर कर दिया डाॅक्टरों ने बंद",
+        "source": {
+          "name": "Amar Ujala",
+          "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.amarujala.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "authors": [
+            "Abhishek Chendke"
+          ]
+        },
+        "link": "https://www.amarujala.com/madhya-pradesh/indore/indore-news-a-teenager-had-a-27mm-hole-in-his-heart-which-doctors-closed-without-open-surgery-2026-05-19",
+        "thumbnail": "https://staticimg.amarujala.com/assets/images/2026/05/19/yavaka-ka-bna-opana-harata-sarajara-ka-naya-javana-thaya_194f4529419075190beb6f286f084541.jpeg?w=1200",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUROVmhXTkdablNIRkRTMUJWVFJEQUF4aXRCU2dLTWdhQk00ckRsZ2s",
+        "date": "05/19/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-05-19T07:00:00Z"
+      },
+      {
+        "position": 5,
+        "title": "आयुष्मान योजना के लिए नई सूची जारी: इंदौर में अब 7 सरकारी सहित 56 अस्पतालों में होगा इलाज, कैंसर, हार्ट व न...",
+        "source": {
+          "name": "Dainik Bhaskar",
+          "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.bhaskar.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.bhaskar.com/local/mp/indore/news/many-diseases-can-be-treated-in-56-hospitals-including-seven-government-129401083.html",
+        "thumbnail": "https://images.bhaskarassets.com/thumb/1200x900/web2images/521/2022/02/14/_1644806412.png",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUNVa010VVZSck5YSmhaM1YzVFJEZ0F4aUFCU2dLTWdZUkFZNHhFUTA",
+        "date": "02/14/2022, 03:02 AM, +0000 UTC",
+        "iso_date": "2022-02-14T03:02:43Z"
+      },
+      {
+        "position": 6,
+        "title": "मौत के बाद आया 'आयुष्मान कार्ड' ! सिस्टम की देरी ने इंदौर में ली 2 साल की मासूम की जान",
+        "source": {
+          "name": "NDTV India",
+          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://ndtv.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "authors": [
+            "अनुराग ड्वैरी"
+          ]
+        },
+        "link": "https://ndtv.in/madhya-pradesh-chhattisgarh/ayushman-card-activated-after-child-death-indore-bhagirathpura-diarrhea-10994216",
+        "thumbnail": "https://c.ndtvimg.com/2026-02/nnlh0nng_indore-death-_625x300_12_February_26.jpeg?im=FaceCrop,algorithm=dnn,width=400,height=225&q=70",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iMkNnNW1UVTk0ZGpCR2NsWm5ibUpJVFJEaEFSaVFBeWdLTWdzSlFvYXN3U005ekZtdW9R",
+        "date": "02/12/2026, 08:00 AM, +0000 UTC",
+        "iso_date": "2026-02-12T08:00:00Z"
+      },
+      {
+        "position": 7,
+        "title": "इंदौर के सरकारी अस्पताल में मोटापे का फ्री इलाज, आयुष्मान योजना से बचेंगे 4 से 5 लाख",
+        "source": {
+          "name": "ETV Bharat",
+          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.etvbharat.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.etvbharat.com/hi/state/indore-maharaja-yashwantrao-hospital-free-treatment-for-obesity-ayushman-yojana-start-bariatric-metabolic-clinic-madhya-pradesh-news-mps26022402394",
+        "thumbnail": "https://imgs.etvbharat.com/etvbharat/prod-images/24-02-2026/1200-675-26111994-thumbnail-16x9-indore.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUJNV05TUjIxSFNtTXRaMEpNVFJDZkF4ampCU2dLTWdZUlFaYk5IUWs",
+        "date": "02/24/2026, 08:00 AM, +0000 UTC",
+        "iso_date": "2026-02-24T08:00:00Z"
+      },
+      {
+        "position": 8,
+        "title": "आयुष्मान कार्ड धारकों के लिए बड़ा झटका! MP के 126 अस्पतालों में फ्री इलाज बंद",
+        "source": {
+          "name": "News18 Hindi",
+          "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://hindi.news18.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://hindi.news18.com/news/madhya-pradesh/bhopal-mp-ayushman-bharat-126-hospitals-lose-empanelment-nabh-certificate-bhopal-indore-local18-ws-l-10340848.html",
+        "thumbnail": "https://images.news18.com/ibnkhabar/uploads/2026/04/ayusman-2026-04-0a08821b28f77369c0592a87ae266c73.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVRaREZOY1hRNVVUaG5TWEJLVFJEZ0F4aUFCU2dLTWdhVlZKcXBwUWc",
+        "date": "04/05/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-04-05T07:00:00Z"
+      },
+      {
+        "position": 9,
+        "title": "एमवाय हॉस्पिटल में बेरियाट्रिक सर्जरी अब पूरी तरह फ्री: आयुष्मान योजना में होगी 5 लाख रुपए तक की सर्जरी; 23...",
+        "source": {
+          "name": "Dainik Bhaskar",
+          "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.bhaskar.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.bhaskar.com/g/local/mp/indore/news/indore-ayushman-yojana-bariatric-surgery-free-2026-137248647.html",
+        "thumbnail": "https://images.bhaskarassets.com/thumb/1200x900/web2images/521/2026/02/19/myh_1771521767.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXNXRUZDVG5kQ1VWSkhSRkprVFJEZ0F4aUFCU2dLTWdZQklJQ1BwQUU",
+        "date": "02/19/2026, 08:00 AM, +0000 UTC",
+        "iso_date": "2026-02-19T08:00:00Z"
+      },
+      {
+        "position": 10,
+        "title": "MP News: प्रदेश के 126 निजी अस्पताल आयुष्मान योजना की सूची से बाहर, नहीं थी एनएबीएच की मान्यता",
+        "source": {
+          "name": "Amar Ujala",
+          "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.amarujala.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "authors": [
+            "Anand Pawar"
+          ]
+        },
+        "link": "https://www.amarujala.com/madhya-pradesh/bhopal/mp-news-126-private-hospitals-in-madhya-pradesh-have-lost-their-recognition-under-ayushman-leaving-the-poor-2026-04-05",
+        "thumbnail": "https://staticimg.amarujala.com/assets/images/2025/02/09/aayashhamana-karada_8c70c909c452ff8f568fd87649f47499.jpeg?w=1200",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXpYMFp6YzA1bk1qTnFURmxTVFJDZkF4ampCU2dLTWdhRlVwSXlKUWc",
+        "date": "04/05/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-04-05T07:00:00Z"
+      },
+      {
+        "position": 11,
+        "title": "बढ़ेंगी मरीजों की मुश्किलें: आयुष्मान से बाहर होंगे भोपाल, इंदौर, ग्वालियर, जबलपुर के 480 में से 295 अस्पताल",
+        "source": {
+          "name": "Dainik Bhaskar",
+          "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.bhaskar.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.bhaskar.com/g/local/mp/bhopal/news/295-out-of-480-hospitals-in-bhopal-indore-gwalior-and-jabalpur-will-be-excluded-from-ayushman-dbp-137394226.html",
+        "thumbnail": "https://images.bhaskarassets.com/thumb/1200x900/web2images/521/2026/03/10/orig_3-1_1773090640.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNU9jREp2V2pWeU1HcDBlVXd3VFJEZ0F4aUFCU2dLTWdZTlVKWm9KUWs",
+        "date": "03/10/2026, 12:54 AM, +0000 UTC",
+        "iso_date": "2026-03-10T00:54:16Z"
+      },
+      {
+        "position": 12,
+        "title": "Ayushman Card: सरकारी से दोगुने आयुष्मान लाभार्थियों ने निजी अस्पतालों में कराया उपचार, जानें क्या है कारण?",
+        "source": {
+          "name": "Jagran",
+          "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.jagran.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "authors": [
+            "पवन मिश्रा"
+          ]
+        },
+        "link": "https://www.jagran.com/bihar/patna-city-ayushman-bharat-scheme-a-boon-for-the-poor-in-bihar-23827338.html",
+        "thumbnail": "https://www.jagranimages.com/images/newimg/07112024/07_11_2024-ayushman_card_23827338_m.webp",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNW1NR1puYzNOR2JYQlhOelpmVFJDS0F4aThCU2dLTWdhSmdaWUZzUWM",
+        "date": "11/07/2024, 08:00 AM, +0000 UTC",
+        "iso_date": "2024-11-07T08:00:00Z"
+      },
+      {
+        "position": 13,
+        "title": "Indore News: मोटापे की 5 लाख रु की सर्जरी फ्री, एमवाय अस्पताल में शुरू हुई सुविधा",
+        "source": {
+          "name": "Amar Ujala",
+          "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.amarujala.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.amarujala.com/madhya-pradesh/indore/indore-news-my-hospital-offers-free-bariatric-surgery-under-ayushman-yojana-for-obesity-patients-2026-02-20",
+        "thumbnail": "https://staticimg.amarujala.com/assets/images/2026/01/17/emavaya-asapatal_a94ca9b75ced503cfeb104a2da69672d.jpeg?w=1200",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNU9iamh4WVVKMGNHVmljRjk0VFJDZkF4ampCU2dLTWdrQklJQ1FwT0doZVFB",
+        "date": "02/20/2026, 08:00 AM, +0000 UTC",
+        "iso_date": "2026-02-20T08:00:00Z"
+      },
+      {
+        "position": 14,
+        "title": "MP के 126 अस्पतालों की आयुष्मान मान्यता खत्म: इनमें भोपाल के 51, इंदौर के 30 अस्पताल; NABH सर्टिफिकेट नहीं ...",
+        "source": {
+          "name": "Dainik Bhaskar",
+          "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.bhaskar.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.bhaskar.com/local/mp/bhopal/news/mp-ayushman-hospitals-lose-nabh-certification-treatment-halted-137614815.html",
+        "thumbnail": "https://images.bhaskarassets.com/thumb/1200x900/web2images/521/2026/04/04/whatsappvideo2025-05-20at19443801d45b58-ezgifcom-o_1775326277.gif",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNXpORWRCWkRRMFdIVktUVVZqVFJEZ0F4al9CQ2dLTWdPQkpBUQ",
+        "date": "04/04/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-04-04T07:00:00Z"
+      },
+      {
+        "position": 15,
+        "title": "Ayushman Card: आयुष्मान कार्ड के नाम पर हो गया धोखा, इलाज के लिए पहुंचने पर हुआ खुलासा",
+        "source": {
+          "name": "Amar Ujala",
+          "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.amarujala.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.amarujala.com/uttar-pradesh/agra/cheated-in-the-name-of-ayushman-card-revealed-after-reaching-for-treatment-2023-10-16",
+        "thumbnail": "https://staticimg.amarujala.com/assets/images/2023/04/11/ayushman-bharat-health-card_1681201960.jpeg?w=1200",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXhMWGhIUmxGS1EwSTNZbkJFVFJDZkF4ampCU2dLTWdrTkE0d3VqV3k1VHdF",
+        "date": "10/16/2023, 07:00 AM, +0000 UTC",
+        "iso_date": "2023-10-16T07:00:00Z"
+      },
+      {
+        "position": 16,
+        "title": "आयुष्मान कार्ड वालों से सर्जरी के नाम पर मांगे पैसे: इंदौर में मरीज की शिकायत पर जांच करने पहुंचे सीएमएचओ, ...",
+        "source": {
+          "name": "Dainik Bhaskar",
+          "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.bhaskar.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.bhaskar.com/local/mp/indore/news/money-demanded-from-ayushman-card-holders-in-the-name-of-surgery-135718902.html",
+        "thumbnail": "https://images.bhaskarassets.com/thumb/1200x900/web2images/521/2025/08/20/new-project-14_1755683570.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNHhiVFY1Y0UxNFVYZGxlVzlrVFJEZ0F4aUFCU2dLTWdB",
+        "date": "08/20/2025, 10:16 AM, +0000 UTC",
+        "iso_date": "2025-08-20T10:16:30Z"
+      },
+      {
+        "position": 17,
+        "title": "इंदौर में पहली बार सरकारी अस्पताल में किडनी ट्रांसप्लांट: आयुष्मान कार्ड वालों को एक रुपया नहीं लगेगा",
+        "source": {
+          "name": "Dainik Bhaskar",
+          "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.bhaskar.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.bhaskar.com/local/mp/indore/news/facility-in-government-hospital-for-the-first-time-in-indore-expenses-from-6-to-8-lakhs-in-private-131469460.html",
+        "thumbnail": "https://images.bhaskarassets.com/thumb/1200x900/web2images/521/2023/07/01/1_1688206175.gif",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNTFOMFJJZW5SVFZHbG1ZMmRIVFJEZ0F4al9CQ2dLTWdNQkZRZw",
+        "date": "07/01/2023, 07:00 AM, +0000 UTC",
+        "iso_date": "2023-07-01T07:00:00Z"
+      },
+      {
+        "position": 18,
+        "title": "आयुष्मान योजना में अस्पतालों के लिए नई शर्त: भोपाल-इंदौर समेत 4 शहरों में NABH जरूरी; 739 अस्पतालों में सिर...",
+        "source": {
+          "name": "Dainik Bhaskar",
+          "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.bhaskar.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.bhaskar.com/local/mp/bhopal/news/madhya-pradesh-nabh-mandatory-ayushman-yojana-hospitals-update-139206840.html",
+        "thumbnail": "https://images.bhaskarassets.com/thumb/1200x900/web2images/521/2026/09/30/cover_7__1_1790780674360.gif",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNW9PVzVXUWpCUVZVbEZTWGRUVFJEZ0F4al9CQ2dLTWdZSkE1eHJsUWs",
+        "date": "10/01/2026, 01:39 AM, +0000 UTC",
+        "iso_date": "2026-10-01T01:39:45Z"
+      },
+      {
+        "position": 19,
+        "title": "आयुष्मान से जुड़े 7 अस्पताल, इसमें तीन निजी, जहां होता है सिर्फ आंखों का इलाज",
+        "source": {
+          "name": "Dainik Bhaskar",
+          "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.bhaskar.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.bhaskar.com/mp/indore/news/mp-news-7-hospitals-associated-with-ayushman-three-private-in-it-where-only-eye-treatment-022132-3761046.html",
+        "thumbnail": "https://www.bhaskar.com/assets/images/og-bhaskar.df3cc707.jpeg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUlVVXRXUWpBeVUwRTFOMGhEVFJDUUF4ai1CU2dLTWdZVm80NG9QUVU",
+        "date": "01/27/2019, 08:53 PM, +0000 UTC",
+        "iso_date": "2019-01-27T20:53:51Z"
+      },
+      {
+        "position": 20,
+        "title": "खंडवा के हॉस्पिटल ‘आयुष्मान’ में शामिल: दो प्राइवेट अस्पताल आयुष्मान भारत योजना से जुड़े, यहां मिलेगा फ्री इ...",
+        "source": {
+          "name": "Dainik Bhaskar",
+          "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.bhaskar.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.bhaskar.com/local/mp/khandwa/news/two-private-hospitals-are-associated-with-ayushman-bharat-scheme-will-get-free-treatment-here-mla-ram-dangore-had-made-a-demand-129665182.html",
+        "thumbnail": "https://images.bhaskarassets.com/thumb/1200x900/web2images/521/2022/04/15/_1650021675.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNU9UVkpFVUdsblMwRk9kR1ZMVFJEZ0F4aUFCU2dLTWdrQlFJQk50V1RJMVFB",
+        "date": "04/15/2022, 11:43 AM, +0000 UTC",
+        "iso_date": "2022-04-15T11:43:24Z"
+      },
+      {
+        "position": 21,
+        "title": "उज्जैन में आयुष्मान कार्ड धारकों से अवैध वसूली का आरोप, 2 निजी अस्पतालों को नोटिस जारी",
+        "source": {
+          "name": "ETV Bharat",
+          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.etvbharat.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.etvbharat.com/hi/!state/ujjain-private-hospitals-taking-money-patients-having-ayushman-card-notice-issued-hospitals-madhya-pradesh-news-mps25062901771",
+        "thumbnail": "https://imgs.etvbharat.com/etvbharat/prod-images/29-06-2025/1200-675-24481282-thumbnail-16x9-scan.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNXhSMmxRVXpkblVIWk9jMms1VFJDZkF4ampCU2dLTWdB",
+        "date": "06/29/2025, 07:00 AM, +0000 UTC",
+        "iso_date": "2025-06-29T07:00:00Z"
+      },
+      {
+        "position": 22,
+        "title": "आयुष्मान योजना: निगम मुख्यालय, 19 जोन पर बनवाएं आयुष्मान कार्ड",
+        "source": {
+          "name": "Dainik Bhaskar",
+          "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.bhaskar.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.bhaskar.com/local/mp/indore/news/get-ayushman-card-made-at-corporation-headquarters-19-zones-128517790.html",
+        "thumbnail": "https://images.bhaskarassets.com/thumb/1200x900/web2images/521/2021/05/23/orig_69_1621722488.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUpObTgwZVVGbWFrbDFhMTloVFJEZ0F4aUFCU2dLTWdZbGhZak92UU0",
+        "date": "05/22/2021, 10:36 PM, +0000 UTC",
+        "iso_date": "2021-05-22T22:36:02Z"
+      },
+      {
+        "position": 23,
+        "title": "इंदौर के सरकारी अस्पताल में अब मोटापे का मुफ्त इलाज, प्रदेश का पहला बेरियेट्रिक क्लिनिक, इन मरीजों को मिलेगी सुविधा - mps first govt obesity clinic opens in indore my hospital",
+        "source": {
+          "name": "Jagran",
+          "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.jagran.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "authors": [
+            "Ravindra Soni"
+          ]
+        },
+        "link": "https://www.jagran.com/madhya-pradesh/indore-mps-first-govt-obesity-clinic-opens-in-indore-my-hospital-40151791.html",
+        "thumbnail": "https://www.jagranimages.com/images/2026/02/23/article/image/obese-person-21474-1771850747905_m.webp",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVFjMHRUTVVKc1lUbFVjRUprVFJDMEFSakFBaWdLTWdZRk1KYUlJUWc",
+        "date": "02/23/2026, 08:00 AM, +0000 UTC",
+        "iso_date": "2026-02-23T08:00:00Z"
+      },
+      {
+        "position": 24,
+        "title": "इंदौर : इंदौर में11 घंटे की सर्जरी, सिर का कैंसर निकाला, फिर टाइटेनियम धातु से बना खोपड़ी का हिस्सा जोड़ा",
+        "source": {
+          "name": "Amar Ujala",
+          "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.amarujala.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "authors": [
+            "Abhishek Chendke"
+          ]
+        },
+        "link": "https://www.amarujala.com/madhya-pradesh/indore/indore-an-11-hour-surgery-was-performed-in-indore-to-remove-head-cancer-followed-by-the-reconstruction-of-a-2026-09-24",
+        "thumbnail": "https://staticimg.amarujala.com/assets/images/2026/09/24/ithara-ma11-ghata-ka-sarajara_6761f2aed8add97a85986b7866d622a5.png?w=1200",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXlOSEZ5VTJaNGJVNXdjbEJRVFJDWUF4anZCU2dLTWdZQm9JaWdRUVU",
+        "date": "09/24/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-09-24T07:00:00Z"
+      },
+      {
+        "position": 25,
+        "title": "Indore News: एमवाय में एमआरआई और सीटी स्कैन बंद, प्राइवेट अस्पतालों में जांच के लिए भटक रहे मरीज",
+        "source": {
+          "name": "Amar Ujala",
+          "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.amarujala.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.amarujala.com/madhya-pradesh/indore/indore-news-my-hospital-mri-ct-scan-issues-health-ayushman-bharat-2025-02-09",
+        "thumbnail": "https://staticimg.amarujala.com/assets/images/2025/02/09/indore-news_9deb5a89a994bae0b49af25843855d68.png?w=1200",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVpNR2xwVUhwUlNsSlZSM2hRVFJDY0F4anBCU2dLTWdZQlFJcjBKQVU",
+        "date": "02/09/2025, 08:00 AM, +0000 UTC",
+        "iso_date": "2025-02-09T08:00:00Z"
+      },
+      {
+        "position": 26,
+        "title": "काम से लौटता तो गले लग जाती थी वो, मन्नतों के बाद मिली, इंदौर में दूषित पानी से 2 साल की मासूम सिया की मौत",
+        "source": {
+          "name": "Navbharat Times",
+          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://navbharattimes.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://navbharattimes.indiatimes.com/state/madhya-pradesh/indore/indore-contaminated-water-tragedy-toddler-siya-prajapati-death-bhagirathpura-news/articleshow/128333613.cms",
+        "thumbnail": "https://static.langimg.com/nbt/thumb/128333825/indore-contaminated-water-crisis.jpg?imgsize=76372&width=1600&height=900&resizemode=75",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNVFTakZ6YjFsS2NXUjVZV3RqVFJDZkF4ampCU2dLTWdrQkY0aHBsaXZKTXdF",
+        "date": "02/14/2026, 08:00 AM, +0000 UTC",
+        "iso_date": "2026-02-14T08:00:00Z"
+      },
+      {
+        "position": 27,
+        "title": "Ayushman Bharat Health Card: जानें इसके फायदे और बनवाने की पूरी Online प्रक्रिया",
+        "source": {
+          "name": "Amar Ujala",
+          "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.amarujala.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.amarujala.com/madhya-pradesh/indore/pm-modi-scheme-ayushman-bharat-health-card-online-process-benefits-2023-04-11",
+        "thumbnail": "https://staticimg.amarujala.com/assets/images/2023/04/11/ayushman-bharat-health-card_1681201960.jpeg?w=1200",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXhMWGhIUmxGS1EwSTNZbkJFVFJDZkF4ampCU2dLTWdrTkE0d3VqV3k1VHdF",
+        "date": "04/11/2023, 07:00 AM, +0000 UTC",
+        "iso_date": "2023-04-11T07:00:00Z"
+      },
+      {
+        "position": 28,
+        "title": "अस्पताल से कलेक्ट्रेट तक पिता की जंग, गलत इलाज से बेटे का कटा पैर, बेटी गवां रही आंखों की रोशनी",
+        "source": {
+          "name": "ETV Bharat",
+          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.etvbharat.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.etvbharat.com/hi/state/ratlam-father-appeal-mohan-yadav-govt-seeking-daughter-eyes-treatment-land-mortgaged-son-treatment-madhya-pradesh-news-mps26020701096",
+        "thumbnail": "https://imgs.etvbharat.com/etvbharat/prod-images/07-02-2026/1200-675-25987155-thumbnail-16x9-father.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNUNWamd4ZW1kV1pIbHdhaTFXVFJDZkF4ampCU2dLTWdrSkVaTFRrR3F4Q1FJ",
+        "date": "02/07/2026, 08:00 AM, +0000 UTC",
+        "iso_date": "2026-02-07T08:00:00Z"
+      },
+      {
+        "position": 29,
+        "title": "25 लाख रुपये का इलाज सिर्फ 5 लाख में! भोपाल के इस अस्पताल में होगा बोन मैरो प्रत्यारोपण",
+        "source": {
+          "name": "Navbharat Times",
+          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://navbharattimes.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://navbharattimes.indiatimes.com/state/madhya-pradesh/bhopal/treatment-of-25-lakh-rupees-in-just-5-lakhs-bone-marrow-transplant-will-be-done-in-bhopal-hamidia-hospital/articleshow/114701292.cms",
+        "thumbnail": "https://static.langimg.com/nbt/thumb/114701290/bhopal-news.jpg?imgsize=41544&width=1600&height=900&resizemode=75",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHpSR1ZZUXpSRFdsOURZekpuVFJDZkF4ampCU2dLTWdhTmtvQW83Z0E",
+        "date": "10/28/2024, 07:00 AM, +0000 UTC",
+        "iso_date": "2024-10-28T07:00:00Z"
+      },
+      {
+        "position": 30,
+        "title": "आयुष्मान योजना के कार्ड के लिए फीस 30 रुपए, वेंडर ले रहे 50 से 100 रु.",
+        "source": {
+          "name": "Dainik Bhaskar",
+          "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.bhaskar.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.bhaskar.com/mp/indore/news/mp-news-30-rupees-for-the-card-of-ayushman-scheme-rs-50-to-100-taking-vendors-043056-3908973.html",
+        "thumbnail": "https://www.bhaskar.com/assets/images/og-bhaskar.df3cc707.jpeg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUlVVXRXUWpBeVUwRTFOMGhEVFJDUUF4ai1CU2dLTWdZVm80NG9QUVU",
+        "date": "02/14/2019, 11:03 PM, +0000 UTC",
+        "iso_date": "2019-02-14T23:03:02Z"
+      },
+      {
+        "position": 31,
+        "title": "कैलाश विजयवर्गीय EXCLUSIVE: आप तो टीवी के चेम्बर में हैं हम फील्ड में ... कड़े सवाल पूछने पर लाइव छोड़कर भा...",
+        "source": {
+          "name": "News18 Hindi",
+          "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://hindi.news18.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "authors": [
+            "श्वेता सिंह"
+          ]
+        },
+        "link": "https://hindi.news18.com/videos/madhya-pradesh/indore-contaminated-water-news-update-manti-kailash-vijayvargiya-exclusive-interview-local18-10020891.html",
+        "thumbnail": "https://images.news18.com/ibnkhabar/uploads/2026/01/WhatsApp-Image-2026-01-01-at-2.17.31-PM-2026-01-4d4bdb7be9fc9bda4ee7cbf18a007a7c-3x2.jpeg?im=FitAndFill,width=1200,height=675",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNW1TRWs0YkhOQ1VWRkxNMEpIVFJDZkF4ampCU2dLTWdB",
+        "date": "01/01/2026, 08:00 AM, +0000 UTC",
+        "iso_date": "2026-01-01T08:00:00Z"
+      },
+      {
+        "position": 32,
+        "title": "MP में आयुष्मान कार्ड धारकों को झटका! 65 अस्पताल योजना से बाहर",
+        "source": {
+          "name": "Aaj Ki Jandhara",
+          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://aajkijandhara.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://aajkijandhara.com/mp-ayushman-yojana-65-hospitals-delisted-indore-list/",
+        "thumbnail": "https://aajkijandhara.com/wp-content/uploads/2026/10/1000113183.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTZaelF4Um5welRUSjNSV0ZHVFJDZUF4amxCU2dLTWdhSllJWVBXUU0",
+        "date": "10/09/2026, 05:10 PM, +0000 UTC",
+        "iso_date": "2026-10-09T17:10:53Z"
+      },
+      {
+        "position": 33,
+        "title": "MP Ayushman: NABH न होने पर 65 अस्पताल सूची से बाहर",
+        "source": {
+          "name": "Dainik Rajeev Times",
+          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://dainikrajeevtimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://dainikrajeevtimes.com/mp-ayushman-65-hospitals-de-empanelled-nabh-oct-10/",
+        "thumbnail": "https://dainikrajeevtimes.com/wp-content/uploads/2026/10/mp-ayushman-65-hospitals-de-empanelled-nabh-oct-10-860x484.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNUxUMWRDUzFsNU5HdFdjVEZNVFJDZkF4amlCU2dLTWdNQllnWQ",
+        "date": "10/10/2026, 01:42 AM, +0000 UTC",
+        "iso_date": "2026-10-10T01:42:41Z"
+      },
+      {
+        "position": 34,
+        "title": "एमपी में 126 अस्पतालों की आयुष्मान मान्यता खत्म, अब इन हॉस्पिटलों में नहीं होगा फ्री में इलाज",
+        "source": {
+          "name": "Zee News",
+          "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://zeenews.india.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "authors": [
+            "Ranjana Kahar"
+          ]
+        },
+        "link": "https://zeenews.india.com/hindi/india/madhya-pradesh-chhattisgarh/bhopal/ayushman-accreditation-revoked-for-126-hospitals-in-mp-free-treatment-halted/3166348",
+        "thumbnail": "https://hindi.cdn.zeenews.com/hindi/sites/default/files/2026/04/05/4410746-mp-news-2026-04-05t110226.371.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNU9RMkl5YmpFNGVFMUNhWE5yVFJEZ0F4aUFCU2dLTWdaSmtJQjR1QVU",
+        "date": "04/05/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-04-05T07:00:00Z"
+      },
+      {
+        "position": 35,
+        "title": "इंदौर में आयुष्मान कार्ड की योजना में डाक्टर फीस वसूली का संक्रमण",
+        "source": {
+          "name": "Nai Dunia",
+          "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.naidunia.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "authors": [
+            "Sameer Deshpande"
+          ]
+        },
+        "link": "https://www.naidunia.com/madhya-pradesh/indore-transition-of-doctor-fee-recovery-in-the-scheme-of-ayushman-card-in-indore-7329429",
+        "thumbnail": "https://img.naidunia.com/naidunia/ndnimg/01032022/01_03_2022-ayushman_card_in_indore_28-2-2022.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUVWM2RxTmkxSk0wbGxSSE5WVFJEZ0F4aUFCU2dLTWdZbGRZak5LUVE",
+        "date": "03/01/2022, 08:00 AM, +0000 UTC",
+        "iso_date": "2022-03-01T08:00:00Z"
+      },
+      {
+        "position": 36,
+        "title": "Ayushman Card: किस अस्पताल में चलेगा आयुष्मान भारत कार्ड, बस एक क्लिक में जानिए यहां",
+        "source": {
+          "name": "Nai Dunia",
+          "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.naidunia.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "authors": [
+            "Kushagra Valuskar"
+          ]
+        },
+        "link": "https://www.naidunia.com/business/trade-ayushman-card-eligible-hospital-find-ayushman-bharat-card-hospital-near-me-sarkari-yojana-8353201",
+        "thumbnail": "https://img.naidunia.com/naidunia/ndnimg/29092024/29_09_2024-pmjayfindnear_2024929_185357_m.webp",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXVhRFJZVVV0bmMzWlRjV1JYVFJDS0F4aThCU2dLTWdhTk1ZNm1wZ1k",
+        "date": "09/29/2024, 07:00 AM, +0000 UTC",
+        "iso_date": "2024-09-29T07:00:00Z"
+      },
+      {
+        "position": 37,
+        "title": "इंदौर के 32 निजी अस्पतालों में आयुष्मान कार्ड से निशुल्क होगा कोरोना मरीजों का इलाज",
+        "source": {
+          "name": "Oneindia Hindi",
+          "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://hindi.oneindia.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "authors": [
+            "विश्वनाथ सैनी"
+          ]
+        },
+        "link": "https://hindi.oneindia.com/news/indore/corona-patients-will-be-treated-free-with-ayushman-card-in-32-private-hospitals-of-indore-617377.html",
+        "thumbnail": "https://imagesvs.oneindia.com/hi/img/2021/05/covaxindose-1620738666.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXNkMlZCTjNkdVlXeEdiVXhoVFJEU0FoallCQ2dLTWdZTkFwQkpsZ1U",
+        "date": "05/11/2021, 07:00 AM, +0000 UTC",
+        "iso_date": "2021-05-11T07:00:00Z"
+      },
+      {
+        "position": 38,
+        "title": "Indore News: पीसी सेठी अस्पताल में सीटी स्कैन जांच करवाने वाले मरीजों को रियायती दरों पर मिलेगी एंबुलेंस सुविधा",
+        "source": {
+          "name": "Nai Dunia",
+          "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.naidunia.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "authors": [
+            "Sameer Deshpande"
+          ]
+        },
+        "link": "https://www.naidunia.com/madhya-pradesh/indore-ambulance-facility-will-be-available-at-concessional-rates-to-patients-who-get-ct-scan-done-at-pc-sethi-hospital-7117412",
+        "thumbnail": "https://img.naidunia.com/naidunia/ndnimg/29102021/29_10_2021-ct_scan_machine_indore_29-10-2021.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNWZkeko1ZVhkb1luaHVZVU0yVFJEZ0F4aUFCU2dLTWdrSlVJQ3JxZVJFMXdB",
+        "date": "10/29/2021, 07:00 AM, +0000 UTC",
+        "iso_date": "2021-10-29T07:00:00Z"
+      },
+      {
+        "position": 39,
+        "title": "Ayushman Yojana Scam: आयुष्मान भारत योजना से इंदौर के इंडेक्स मेडिकल कालेज को किया बाहर",
+        "source": {
+          "name": "Nai Dunia",
+          "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.naidunia.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "authors": [
+            "Sameer Deshpande"
+          ]
+        },
+        "link": "https://www.naidunia.com/madhya-pradesh/indore-index-medical-college-of-indore-excluded-from-ayushman-bharat-scheme-8032990",
+        "thumbnail": "https://img.naidunia.com/naidunia/ndnimg/22032023/22_03_2023-index_medical_college_indore_22-3-2023.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNWZiSEpFUkcwd1gycHNZbVpRVFJDZkF4ampCU2dLTWdrQm9JaER4T1JERGdJ",
+        "date": "03/22/2023, 07:00 AM, +0000 UTC",
+        "iso_date": "2023-03-22T07:00:00Z"
+      },
+      {
+        "position": 40,
+        "title": "आयुष्मान से संबंधित जानकारी अब व्हॉट्सएप पर, जान सकते हैं अस्पताल से लेकर इलाज का बैलेंस",
+        "source": {
+          "name": "Nai Dunia",
+          "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.naidunia.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "authors": [
+            "Prem Jat"
+          ]
+        },
+        "link": "https://www.naidunia.com/madhya-pradesh/indore-information-related-to-ayushman-is-now-available-on-whatsapp-8462355",
+        "thumbnail": "https://img.naidunia.com/naidunia/ndnimg/08092026/08_09_2026-ayushman_yojne_ki_jankari_m.webp",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNW5WamxWTjJaTk5FSjBRV2hYVFJDS0F4aThCU2dLTWdB",
+        "date": "09/08/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-09-08T07:00:00Z"
+      },
+      {
+        "position": 41,
+        "title": "इन्दौर के और 5 बड़े अस्पताल आयुष्मान योजना से जुड़ेंगे",
+        "source": {
+          "name": "Agniban",
+          "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.agniban.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.agniban.com/indores-5-more-big-hospitals-will-be-connected-to-ayushman-yojana/",
+        "thumbnail": "https://www.agniban.com/wp-content/uploads/2020/12/hospital_green.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNDFWREZQVVhScE5WTm9XVFF3VFJDVEF4aXlCU2dLTWdPUkFSQQ",
+        "date": "07/23/2021, 07:00 AM, +0000 UTC",
+        "iso_date": "2021-07-23T07:00:00Z"
+      },
+      {
+        "position": 42,
+        "title": "Ayushman Bharat Scheme: आयुष्मान कार्ड धारक फ्री में नहीं करा पा रहे इलाज तो इस नंबर पर करें अस्पताल की शिकायत",
+        "source": {
+          "name": "Nai Dunia",
+          "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.naidunia.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "authors": [
+            "Sandeep Chourey"
+          ]
+        },
+        "link": "https://www.naidunia.com/national-ayushman-bharat-scheme-if-ayushman-card-holders-are-not-able-to-get-free-treatment-then-complain-to-the-hospital-on-this-number-8232954",
+        "thumbnail": "https://img.naidunia.com/naidunia/ndnimg/11102023/11_10_2023-ayushman_bharat_scheme_(1).jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNWhTMEpWY1dkWFFuTk1SMGxQVFJDZkF4ampCU2dLTWdrQlE1WURweWhjYVFJ",
+        "date": "10/11/2023, 07:00 AM, +0000 UTC",
+        "iso_date": "2023-10-11T07:00:00Z"
+      },
+      {
+        "position": 43,
+        "title": "इंदौर के सुपर स्पेशिएलिटी अस्पताल में शुरू हुई एंजियोप्लास्टी, आयुष्मान कार्डधारकों के लिए इलाज निशुल्क",
+        "source": {
+          "name": "Nai Dunia",
+          "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.naidunia.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.naidunia.com/madhya-pradesh/indore-angioplasty-started-in-indore-super-specialty-hospital-free-treatment-for-ayushman-card-holders-7173955",
+        "thumbnail": "https://img.naidunia.com/naidunia/ndnimg/10122021/10_12_2021-indore_hospital.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNTBiM2xJY1VwdVdYVTVZMU5MVFJEZ0F4aUFCU2dLTWdNQnNBQQ",
+        "date": "12/11/2021, 08:00 AM, +0000 UTC",
+        "iso_date": "2021-12-11T08:00:00Z"
+      },
+      {
+        "position": 44,
+        "title": "नए नियम में MP के 4 शहरों में बाहर हो जाएंगे सैकड़ों अस्‍पताल, कहां इलाज कराएंगे आयुष्‍मान योजना के लाखों मरीज?",
+        "source": {
+          "name": "Webdunia",
+          "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://hindi.webdunia.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://hindi.webdunia.com/national-hindi-news/where-will-the-millions-of-patients-under-the-ayushman-scheme-receive-treatment-126040100026_1.html",
+        "thumbnail": "https://wd-image.webdunia.com/processimg/1200x628/webp/_media/hi/img/article/2026-04/01/full/1775030925-4351.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNU5hMVY0TkhCMWJFUmFjVlZ0VFJDUUF4ai1CU2dLTWdrSkFZcnhpR3lTelFF",
+        "date": "05/15/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-05-15T07:00:00Z"
+      },
+      {
+        "position": 45,
+        "title": "Ayushman Yojna: बुजुर्गों को आयुष्मान कार्ड बनवाने में आ रही समस्या, करें ये 3 काम",
+        "source": {
+          "name": "Nai Dunia",
+          "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.naidunia.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.naidunia.com/madhya-pradesh/indore-ayushman-yojna-elderly-people-are-facing-problem-in-getting-ayushman-card-made-do-3-things-8358825",
+        "thumbnail": "https://img.naidunia.com/naidunia/ndnimg/10112024/10_11_2024-ayushman_card_hsh_m.webp",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNXRORkpSYTFwTU5WcEJaemcxVFJDS0F4aThCU2dLTWdB",
+        "date": "11/10/2024, 08:00 AM, +0000 UTC",
+        "iso_date": "2024-11-10T08:00:00Z"
+      },
+      {
+        "position": 46,
+        "title": "Ayushman Card: मोबाइल नंबर से आधार लिंक होना पहली शर्त… आसान है 70 वर्ष आयु वर्ग के लोग घर बैठे आयुष्मान कार्ड बनाना",
+        "source": {
+          "name": "Nai Dunia",
+          "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.naidunia.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.naidunia.com/national-linking-aadhaar-with-mobile-number-compulsory-for-people-in-the-age-group-of-70-years-to-make-ayushman-card-at-home-8357578",
+        "thumbnail": "https://img.naidunia.com/naidunia/ndnimg/01112024/01_11_2024-ayushman_70_age_(1)_m.webp",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNHpNMFpZUVRWbFEyZEpjV1ZsVFJDS0F4aThCU2dLTWdrSkVvUUsxU0pjQ3dJ",
+        "date": "11/01/2024, 07:00 AM, +0000 UTC",
+        "iso_date": "2024-11-01T07:00:00Z"
+      },
+      {
+        "position": 47,
+        "title": "Ayushman cards Indore become more than government target | इंदौर में आयुष्मान कार्ड, सरकार के टारगेट से ज्यादा बन गए",
+        "source": {
+          "name": "Agniban",
+          "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.agniban.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.agniban.com/ayushman-cards-in-indore-become-more-than-the-governments-target/",
+        "thumbnail": "https://www.agniban.com/wp-content/uploads/2023/11/s-3.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUNZa1JoYUZwNWREWTRRM0JYVFJDV0FoallBeWdLTWdhSk1vaXBMUWc",
+        "date": "11/01/2023, 07:00 AM, +0000 UTC",
+        "iso_date": "2023-11-01T07:00:00Z"
+      },
+      {
+        "position": 48,
+        "title": "Ayushman Yojana 2.2: मप्र में चुनाव बाद आयुष्मान 2.2 लांच करने की तैयारी, 400 नई बीमारियां जुड़ेंगी",
+        "source": {
+          "name": "Nai Dunia",
+          "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.naidunia.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "authors": [
+            "हेमराज यादव"
+          ]
+        },
+        "link": "https://www.naidunia.com/madhya-pradesh/indore-ayushman-yojana-preparations-to-launch-ayushman-2-point-2-after-elections-in-madhya-pradesh-400-new-diseases-will-be-added-8301349",
+        "thumbnail": "https://img.naidunia.com/naidunia/ndnimg/14042024/14_04_2024-14_aayusman_yojna_-_2.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNVVhek55UW5KelJVRktVV1l5VFJDZkF4ampCU2dLTWdrQlE1WURweWhjaVFJ",
+        "date": "04/14/2024, 07:00 AM, +0000 UTC",
+        "iso_date": "2024-04-14T07:00:00Z"
+      },
+      {
+        "position": 49,
+        "title": "Ayushman Yojana: बीपीएल कार्ड नहीं होने पर पात्रता पर्ची से बन सकता है आयुष्मान कार्ड",
+        "source": {
+          "name": "Nai Dunia",
+          "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.naidunia.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "authors": [
+            "Sameer Deshpande"
+          ]
+        },
+        "link": "https://www.naidunia.com/madhya-pradesh/indore-ayushman-yojana-if-there-is-no-bpl-card-ayushman-card-can-be-made-from-the-eligibility-slip-8256183",
+        "thumbnail": "https://img.naidunia.com/naidunia/ndnimg/13122023/13_12_2023-ayushman_bharat_yojana_indore_13-12-2023.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUdiMUV3YVZoMWNXZzVjbVptVFJDZkF4ampCU2dLTWdhTk1ZNm1wZ1k",
+        "date": "12/13/2023, 08:00 AM, +0000 UTC",
+        "iso_date": "2023-12-13T08:00:00Z"
+      },
+      {
+        "position": 50,
+        "title": "fake ayushman card: हॉस्पिटल में पंजीयन कराया तो पकड़ी गई चोरी, आरोपी फरार, दुकान को पुलिस ने किया सील",
+        "source": {
+          "name": "punjabkesari",
+          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://mp.punjabkesari.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://mp.punjabkesari.in/madhya-pradesh/news/fake-ayushman-card-disclosed-in-indore-accused-absconding-1581576",
+        "thumbnail": "https://static.punjabkesari.in/multimedia/2022_4image_18_41_3440122961.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVNWR2hoV25OTFUyOVdVamx0VFJDbEF4allCU2dLTWdhWlFvcnJvUWc",
+        "date": "04/12/2022, 07:00 AM, +0000 UTC",
+        "iso_date": "2022-04-12T07:00:00Z"
+      },
+      {
+        "position": 51,
+        "title": "मेदांता और CHL सहित इंदौर के 5 प्राइवेट हॉस्पिटल आयुष्मान भारत योजना में शामिल | INDORE NEWS",
+        "source": {
+          "name": "Bhopal Samachar",
+          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.bhopalsamachar.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "authors": [
+            "Updesh Awasthee"
+          ]
+        },
+        "link": "https://www.bhopalsamachar.com/2020/01/chl-5-indore-news.html",
+        "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXuXoiSITkH_N9DdWG8JFD-xOii1r4SC1LfCD3jW_TuD_nfOaawKHXBBbn2wcABQBGTl0d6-MBQbmX-SnKzJkl-J4atPSmbZ6-J6ZOmCxZiBMk5U5v5LI6B0OlRshd05tQEtaPLWki90w/s1600-rw/1.png",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNW5UVFZCZUdoMFV6WndXWGQ2VFJEZUFoaThCU2dLTWdPQkVnQQ",
+        "date": "01/07/2020, 08:00 AM, +0000 UTC",
+        "iso_date": "2020-01-07T08:00:00Z"
+      },
+      {
+        "position": 52,
+        "title": "Samgra ID Scame in Gwaior: दूसरे की समग्र आइडी में नाम जोड़कर बन रहे फर्जी आयुष्मान कार्ड",
+        "source": {
+          "name": "Nai Dunia",
+          "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.naidunia.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "authors": [
+            "anil tomar"
+          ]
+        },
+        "link": "https://www.naidunia.com/madhya-pradesh/gwalior-samgra-id-scame-in-gwaior-fake-ayushman-cards-are-being-made-by-adding-names-to-others-samgra-id-7969962",
+        "thumbnail": "https://img.naidunia.com/naidunia/ndnimg/09122022/09_12_2022-samgra_id.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWxZbU5MU21RNGFGOUNOVkp5VFJDZkF4ampCU2dLTWdZSkE0NW1vZ2c",
+        "date": "12/09/2022, 08:00 AM, +0000 UTC",
+        "iso_date": "2022-12-09T08:00:00Z"
+      },
+      {
+        "position": 53,
+        "title": "Indore News: इंदौर के बीमा अस्पताल में मध्य प्रदेश का सबसे बड़ा मेडिकल कालेज बनेगा",
+        "source": {
+          "name": "Nai Dunia",
+          "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.naidunia.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "authors": [
+            "Sameer Deshpande"
+          ]
+        },
+        "link": "https://www.naidunia.com/madhya-pradesh/indore-indore-news-madhya-pradeshs-largest-medical-college-will-be-built-in-bima-hospital-of-indore-8195694",
+        "thumbnail": "https://img.naidunia.com/naidunia/ndnimg/10072023/10_07_2023-bhupendra_yadav_in_indore2_9-7-2023.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNTNaVjk0V1MxMmQyWTRWMngxVFJDZkF4ampCU2dLTWdrQkFKcm5tS2tPSUFN",
+        "date": "07/10/2023, 07:00 AM, +0000 UTC",
+        "iso_date": "2023-07-10T07:00:00Z"
+      },
+      {
+        "position": 54,
+        "title": "बड़ा झटका! MP में 126 अस्पताल आयुष्मान से OUT, जरूरतमंदों की बढ़ी टेंशन",
+        "source": {
+          "name": "Punjab Kesari",
+          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://mp.punjabkesari.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://mp.punjabkesari.in/madhya-pradesh/news/ayushman-blow-126-hospitals-removed-in-mp-2318147",
+        "thumbnail": "https://static.punjabkesari.in/multimedia/2026_4image_15_52_339870179hjkio.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNDBaM0ZEZVhkUWMxSk1ZMjF0VFJDcUF4alFCU2dLTWdB",
+        "date": "04/05/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-04-05T07:00:00Z"
+      },
+      {
+        "position": 55,
+        "title": "इंदौर के पार्षद कमलेश कालरा ने बनवा डाला नकली आयुष्मान कार्ड, सीपी को शिकायत",
+        "source": {
+          "name": "The Sootr",
+          "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://thesootr.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://thesootr.com/state/madhya-pradesh/indore-councilor-kamlesh-kalra-accused-of-fake-ayushman-card-scam/articleshow/133992291.html",
+        "thumbnail": "https://staticimg.publishstory.co/thumb/133992285.cms?imgsize=60286&width=1200&height=900&resizemode=8",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNTBaM0UwYjFkS1VESTRhVEpNVFJEZ0F4aUFCU2dLTWdrQkFJTXNUS0xRTXdF",
+        "date": "03/26/2025, 07:00 AM, +0000 UTC",
+        "iso_date": "2025-03-26T07:00:00Z"
+      },
+      {
+        "position": 56,
+        "title": "इंदौर के INDEX और फीनिक्स अस्पताल में आयुष्मान मरीजों से लूट: प्रशासन ने जारी की चेतावनी",
+        "source": {
+          "name": "The Sootr",
+          "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://thesootr.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://thesootr.com/state/madhya-pradesh/indore-hospitals-ayushman-patients-overcharging-warning/articleshow/134073209.html",
+        "date": "08/21/2025, 07:00 AM, +0000 UTC",
+        "iso_date": "2025-08-21T07:00:00Z"
+      },
+      {
+        "position": 57,
+        "title": "बड़ी खुशखबरी : आयुष्मान कार्ड से एमपी के मरीजों का अब राजस्थान में मिलेगा फ्री इलाज",
+        "source": {
+          "name": "Patrika News",
+          "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.patrika.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.patrika.com/rajgarh-news/patients-of-mp-will-now-get-free-treatment-in-rajasthan-with-ayushman-card-19545343",
+        "thumbnail": "https://cms.patrika.com/wp-content/uploads/2025/04/fdfasdsddg.png",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVZTbU42WjAxMFIyMXRjM3BQVFJERUF4aW1CU2dLTWdhWk00cFFJUWs",
+        "date": "04/21/2025, 07:00 AM, +0000 UTC",
+        "iso_date": "2025-04-21T07:00:00Z"
+      },
+      {
+        "position": 58,
+        "title": "आयुष्मान कार्ड में बड़ा फर्जीवाड़ा, 1 लाख 45 हजार से अधिक आयुष्मान कार्ड कैंसिल",
+        "source": {
+          "name": "Patrika News",
+          "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.patrika.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.patrika.com/bhopal-news/ayushman-card-canceled-more-than-one-lakh-45-thousand-7218877",
+        "thumbnail": "https://cms.patrika.com/wp-content/uploads/2021/12/12/780853-ayushman.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXhSR2hVVVZoTk9ETkViRlptVFJDUUF4aThCU2dLTWdrQmtJWUx4dVRJelFF",
+        "date": "12/12/2021, 08:00 AM, +0000 UTC",
+        "iso_date": "2021-12-12T08:00:00Z"
+      },
+      {
+        "position": 59,
+        "title": "INDORE : बड़ा अस्पताल, सर्दी-खांसी जैसी छोटी बीमारियों का ही मुफ्त इलाज",
+        "source": {
+          "name": "Agniban",
+          "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.agniban.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.agniban.com/indore-big-hospital-free-treatment-for-minor-diseases-like-cold-and-cough/",
+        "thumbnail": "https://www.agniban.com/wp-content/uploads/2022/02/my-hospital2.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNU5TazlPT1hOS1ZtazFhakZ4VFJEQ0F4allCQ2dLTWdZQlFaUnJKUWc",
+        "date": "02/10/2022, 08:00 AM, +0000 UTC",
+        "iso_date": "2022-02-10T08:00:00Z"
+      },
+      {
+        "position": 60,
+        "title": "मप्र में 1 जून से शुरू होगा आयुष्मान चैटबॉट, एक क्लिक में मिलेगी अस्पताल की लोकेशन",
+        "source": {
+          "name": "The Sootr",
+          "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://thesootr.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://thesootr.com/state/madhya-pradesh/ayushman-bharat-scheme-new-ai-enabled-chatbot-for-hospital-navigation/articleshow/134023681.html",
+        "date": "05/13/2025, 07:00 AM, +0000 UTC",
+        "iso_date": "2025-05-13T07:00:00Z"
+      }
+    ],
+    "menu_links": [
+      {
+        "title": "भारत",
+        "topic_token": "CAAqIQgKIhtDQkFTRGdvSUwyMHZNRE55YXpBU0FtaHBLQUFQAQ",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqIQgKIhtDQkFTRGdvSUwyMHZNRE55YXpBU0FtaHBLQUFQAQ"
+      },
+      {
+        "title": "दुनिया",
+        "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtaHBHZ0pKVGlnQVAB",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtaHBHZ0pKVGlnQVAB"
+      },
+      {
+        "title": "आपकी स्थानीय खबरें",
+        "topic_token": "CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE"
+      },
+      {
+        "title": "कारोबार",
+        "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FtaHBHZ0pKVGlnQVAB",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FtaHBHZ0pKVGlnQVAB"
+      },
+      {
+        "title": "मनोरंजन",
+        "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNREpxYW5RU0FtaHBHZ0pKVGlnQVAB",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNREpxYW5RU0FtaHBHZ0pKVGlnQVAB"
+      },
+      {
+        "title": "खेल",
+        "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp1ZEdvU0FtaHBHZ0pKVGlnQVAB",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp1ZEdvU0FtaHBHZ0pKVGlnQVAB"
+      }
+    ]
+  }
+}

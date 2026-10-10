@@ -1,0 +1,374 @@
+{
+  "version": 1,
+  "key": "0139a44c50a80d1c15097a4c",
+  "engine": "google_maps_reviews",
+  "params": {
+    "data_id": "0x3962fd0bbd8c1735:0x4010adec7b446fd1",
+    "hl": "en",
+    "num": "20",
+    "query": "ayushman",
+    "sort_by": "newestFirst"
+  },
+  "fetchedAt": "2026-10-10T10:51:05.161Z",
+  "response": {
+    "search_metadata": {
+      "status": "Success",
+      "created_at": "2026-10-10 10:51:09 UTC",
+      "total_time_taken": 0.52
+    },
+    "search_parameters": {
+      "engine": "google_maps_reviews",
+      "data_id": "0x3962fd0bbd8c1735:0x4010adec7b446fd1",
+      "hl": "en",
+      "num": "20",
+      "sort_by": "newestFirst",
+      "query": "ayushman"
+    },
+    "reviews": [
+      {
+        "position": 1,
+        "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21wNmNFVkdRVjlMVm1SbFpIVldkbUUzYmxkNlIwRRAB!2m1!1s0x0:0x4010adec7b446fd1!3m1!1s2@1:CAIQACodChtycF9oOmp6cEVGQV9LVmRlZHVWdmE3bld6R0E%7C%7C?hl=en",
+        "rating": 1,
+        "date": "2 months ago",
+        "iso_date": "2026-07-29T07:39:58Z",
+        "iso_date_of_last_edit": "2026-07-29T07:39:58Z",
+        "source": "Google",
+        "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21wNmNFVkdRVjlMVm1SbFpIVldkbUUzYmxkNlIwRRAB",
+        "snippet": "Bahut hi beekar hospital h medicine department me koi b senior dr. Available nhi hote h 1 bje bd or jo waha pr hai assistant dr. Unka behaviour bahut ganda h ajib trha se bat krte h kahte h apka pateint bimar h to hum kya krey hmare upper ahsaan nhi kr rhe h yha a kr or to or reception Wale b jhutet h pahle bolte ayushman card se treatment ho jyga or fr bd me jb admit kr dete h to kahte h 10 hazar submit kro 15000 submit kro nhi to pateint ko dawaiyaa nhi lgayege ghatiya staff or ghatiya hospital h jb waha koi senior dr. Rkhna hi nhi h to fr hospital ko band kr dena chahiye ku ki jo training pr h un logo ko proper smjh nhi ata h reports treatment bs br br puchte rhte h or YHI bolte h kl dr ayege wo dekhege tbh tk hum koi risk nhi le skte patient ki apko jesa thik lgey kro hmri koi guarantee nhi h apk pateint ko le kr abh mujhe govt se ye puchna h jb aisa ghatiya staff or aisa hospital h ye to fr isko open ku rkha h bnd ku nhi kr dete",
+        "extracted_snippet": {
+          "original": "Bahut hi beekar hospital h medicine department me koi b senior dr. Available nhi hote h 1 bje bd or jo waha pr hai assistant dr. Unka behaviour bahut ganda h ajib trha se bat krte h kahte h apka pateint bimar h to hum kya krey hmare upper ahsaan nhi kr rhe h yha a kr or to or reception Wale b jhutet h pahle bolte ayushman card se treatment ho jyga or fr bd me jb admit kr dete h to kahte h 10 hazar submit kro 15000 submit kro nhi to pateint ko dawaiyaa nhi lgayege ghatiya staff or ghatiya hospital h jb waha koi senior dr. Rkhna hi nhi h to fr hospital ko band kr dena chahiye ku ki jo training pr h un logo ko proper smjh nhi ata h reports treatment bs br br puchte rhte h or YHI bolte h kl dr ayege wo dekhege tbh tk hum koi risk nhi le skte patient ki apko jesa thik lgey kro hmri koi guarantee nhi h apk pateint ko le kr abh mujhe govt se ye puchna h jb aisa ghatiya staff or aisa hospital h ye to fr isko open ku rkha h bnd ku nhi kr dete",
+          "translated": "It is a very bad hospital, no senior doctor is available in the medicine department, 1 o'clock bed and the assistant doctor there, his behavior is very bad, he talks in a strange manner, he says your patient is sick, what can we do, our superiors are not showing any favor, come here and the reception people also lie, first they say treatment will be done through Ayushman card and when they admit you in FR bed, they say deposit 10 thousand, deposit 15000 otherwise the patient will not be given medicines, it is a poor staff and a poor hospital, when there is no senior doctor there. If it is not maintained then the hospital should be closed because those who are trained do not understand it properly, they just keep asking about the reports and treatment again and again and say that the doctor will come and see it, till then we cannot take any risk with the patient, do as you feel is fine, we have no guarantee, regarding your patient, now I want to ask this from the government that when there is such poor staff and such a hospital, then why should they keep it open and why should they close it."
+        },
+        "likes": 1
+      },
+      {
+        "position": 2,
+        "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xaT1ZYRkhNbWM0Y1ZGUlkzZElaVEl6ZVVkT1dYYxAB!2m1!1s0x0:0x4010adec7b446fd1!3m1!1s2@1:CAIQACodChtycF9oOlZOVXFHMmc4cVFRY3dIZTIzeUdOWXc%7C%7C?hl=en",
+        "rating": 1,
+        "date": "2 months ago",
+        "iso_date": "2026-07-20T14:46:39Z",
+        "iso_date_of_last_edit": "2026-07-20T14:46:39Z",
+        "source": "Google",
+        "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xaT1ZYRkhNbWM0Y1ZGUlkzZElaVEl6ZVVkT1dYYxAB",
+        "snippet": "The doctors are knowledgeable, experienced, polite, and supportive. They explain the patient's condition clearly and treat patients with respect, which is the biggest positive aspect of this hospital.\n\nHowever, the nursing staff and security guards were often rude, unprofessional, and not patient-friendly. The general ward was not well maintained and lacked proper hygiene. There was a lot of mismanagement, and patients or their attendants were frequently sent from one counter to another and between different floors without proper guidance, making the process unnecessarily stressful.\n\nEven the medicine department was poorly coordinated, resulting in long waits and confusion.\n\nI also felt there was a noticeable difference in how patients were treated. Those using Ayushman Bharat or belonging to economically weaker sections appeared to receive less attention and and like they treat so rudely to all special to weak. Every patient deserves equal care, dignity, and professionalism, regardless of their financial background.\n\nThe hospital has capable doctors, but it urgently needs to improve its nursing services, hygiene, administration, and overall patient experience.",
+        "extracted_snippet": {
+          "original": "The doctors are knowledgeable, experienced, polite, and supportive. They explain the patient's condition clearly and treat patients with respect, which is the biggest positive aspect of this hospital.\n\nHowever, the nursing staff and security guards were often rude, unprofessional, and not patient-friendly. The general ward was not well maintained and lacked proper hygiene. There was a lot of mismanagement, and patients or their attendants were frequently sent from one counter to another and between different floors without proper guidance, making the process unnecessarily stressful.\n\nEven the medicine department was poorly coordinated, resulting in long waits and confusion.\n\nI also felt there was a noticeable difference in how patients were treated. Those using Ayushman Bharat or belonging to economically weaker sections appeared to receive less attention and and like they treat so rudely to all special to weak. Every patient deserves equal care, dignity, and professionalism, regardless of their financial background.\n\nThe hospital has capable doctors, but it urgently needs to improve its nursing services, hygiene, administration, and overall patient experience."
+        },
+        "likes": 0
+      },
+      {
+        "position": 3,
+        "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2swME4xOXRjbTVuTTNjd1kwSXhTVkZhVTBWWlQzYxAB!2m1!1s0x0:0x4010adec7b446fd1!3m1!1s2@1:CAIQACodChtycF9oOk00N19tcm5nM3cwY0IxSVFaU0VZT3c%7C%7C?hl=en",
+        "rating": 1,
+        "date": "2 months ago",
+        "iso_date": "2026-07-11T11:25:44Z",
+        "iso_date_of_last_edit": "2026-07-11T11:25:44Z",
+        "source": "Google",
+        "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2swME4xOXRjbTVuTTNjd1kwSXhTVkZhVTBWWlQzYxAB",
+        "snippet": "⭐ 0/5 Rating – My Experience with Aurobindo Hospital, CHL, and Dr. Himendra Misra\n\nMy father was suffering from oral cancer, and he was under the treatment of Dr. Himendra Misra. During chemotherapy, my father repeatedly complained of severe headaches. We informed Dr. Misra several times, but we were told that the headaches were caused by oral cancer. No further investigation was suggested at that time.\n\nAfter around five chemotherapy cycles, we were informed that we should decide within the next week whether to proceed with immunotherapy. This timeline was given by the doctor himself.\n\nMy father underwent regular blood tests throughout his treatment. However, after about 5½ chemotherapy cycles, he suddenly developed paralysis on one side of his body. We immediately took him back to the hospital. The doctor examined him and checked his blood sugar, which was around 105 mg/dL. Despite this being a normal reading, we were told that his sugar was \"very low\" and he was given IV fluids. We were then told to take him home because his condition was supposedly due to weakness from chemotherapy, even though his condition had not improved.\n\nThe very next day, his condition became much worse, so we returned to the hospital. This time we were told that the cancer had spread to his brain. We were also told, \"We had already advised you to start immunotherapy, but you did not do it.\" This was extremely upsetting because the doctor himself had given us one week's time to make that decision.\n\nWe were then advised to get an MRI of the brain and were referred to Aurobindo Hospital under the Ayushman scheme. After spending almost the entire day completing admission formalities, my father finally underwent an MRI during the night. Later, we were informed by the neurosurgery team that brain surgery was required.\n\nAt that stage, my father's condition was already extremely poor because of chemotherapy, and we believed he was not fit for such a major operation. We requested medical management instead, but we felt pressured toward surgery. When we expressed our concerns, we were repeatedly told to take him home and look after him.\n\nFor the next 8–9 days, different doctors repeatedly suggested shifting him to the palliative care ward. We were also told that no further treatment would be provided and that only oxygen support could be given, which could also be managed at home. My father was unconscious, yet we were never given a clear explanation for his unconsciousness. His brain clot and neurological condition appeared to be managed mainly by the oncology team, even though neurologists were available. We were repeatedly told that nothing more could be be done.\n\nEventually, we discharged my father while he was still unconscious. The discharge summary stated that we were leaving against medical advice, even though we had repeatedly been told by the doctors to take him home. Shortly after bringing him home, my father passed away.\n\nThis entire experience was deeply painful for our family. We felt there was poor communication, inadequate explanations, lack of empathy, and a lack of coordinated care. The assistants were unprofessional, and many doctors did not communicate with us respectfully or clearly.\n\nBased on my family's experience, I give 0/5 stars to Aurobindo Hospital, CHL Hospital, and Dr. Himendra Misra.",
+        "extracted_snippet": {
+          "original": "⭐ 0/5 Rating – My Experience with Aurobindo Hospital, CHL, and Dr. Himendra Misra\n\nMy father was suffering from oral cancer, and he was under the treatment of Dr. Himendra Misra. During chemotherapy, my father repeatedly complained of severe headaches. We informed Dr. Misra several times, but we were told that the headaches were caused by oral cancer. No further investigation was suggested at that time.\n\nAfter around five chemotherapy cycles, we were informed that we should decide within the next week whether to proceed with immunotherapy. This timeline was given by the doctor himself.\n\nMy father underwent regular blood tests throughout his treatment. However, after about 5½ chemotherapy cycles, he suddenly developed paralysis on one side of his body. We immediately took him back to the hospital. The doctor examined him and checked his blood sugar, which was around 105 mg/dL. Despite this being a normal reading, we were told that his sugar was \"very low\" and he was given IV fluids. We were then told to take him home because his condition was supposedly due to weakness from chemotherapy, even though his condition had not improved.\n\nThe very next day, his condition became much worse, so we returned to the hospital. This time we were told that the cancer had spread to his brain. We were also told, \"We had already advised you to start immunotherapy, but you did not do it.\" This was extremely upsetting because the doctor himself had given us one week's time to make that decision.\n\nWe were then advised to get an MRI of the brain and were referred to Aurobindo Hospital under the Ayushman scheme. After spending almost the entire day completing admission formalities, my father finally underwent an MRI during the night. Later, we were informed by the neurosurgery team that brain surgery was required.\n\nAt that stage, my father's condition was already extremely poor because of chemotherapy, and we believed he was not fit for such a major operation. We requested medical management instead, but we felt pressured toward surgery. When we expressed our concerns, we were repeatedly told to take him home and look after him.\n\nFor the next 8–9 days, different doctors repeatedly suggested shifting him to the palliative care ward. We were also told that no further treatment would be provided and that only oxygen support could be given, which could also be managed at home. My father was unconscious, yet we were never given a clear explanation for his unconsciousness. His brain clot and neurological condition appeared to be managed mainly by the oncology team, even though neurologists were available. We were repeatedly told that nothing more could be be done.\n\nEventually, we discharged my father while he was still unconscious. The discharge summary stated that we were leaving against medical advice, even though we had repeatedly been told by the doctors to take him home. Shortly after bringing him home, my father passed away.\n\nThis entire experience was deeply painful for our family. We felt there was poor communication, inadequate explanations, lack of empathy, and a lack of coordinated care. The assistants were unprofessional, and many doctors did not communicate with us respectfully or clearly.\n\nBased on my family's experience, I give 0/5 stars to Aurobindo Hospital, CHL Hospital, and Dr. Himendra Misra."
+        },
+        "likes": 0,
+        "response": {
+          "date": "2 months ago",
+          "iso_date": "2026-07-22T09:47:24Z",
+          "iso_date_of_last_edit": "2026-07-22T09:47:24Z",
+          "snippet": "We are deeply sorry for this  and extend our sincere apology to your family.\n\nWe understand that this was an emotionally difficult time and respect your right to share your experience. However, as healthcare professionals, we are ethically and legally unable to discuss or disclose details of any patient's medical care in a public forum.\n\nWe would like to clarify that throughout the care of all our patients, treatment options are discussed with families, specialist opinions are obtained whenever indicated, and decisions are made jointly after considering the patient's medical condition and the wishes of the patient and family. Our medical records document these discussions in detail.\n\nIf you would like to discuss your concerns further, we would welcome the opportunity to meet with you privately, along with the hospital administration, so that the complete medical record can be reviewed and your concerns addressed respectfully.\n\nOnce again, we offer our sincere condolences.",
+          "extracted_snippet": {
+            "original": "We are deeply sorry for this  and extend our sincere apology to your family.\n\nWe understand that this was an emotionally difficult time and respect your right to share your experience. However, as healthcare professionals, we are ethically and legally unable to discuss or disclose details of any patient's medical care in a public forum.\n\nWe would like to clarify that throughout the care of all our patients, treatment options are discussed with families, specialist opinions are obtained whenever indicated, and decisions are made jointly after considering the patient's medical condition and the wishes of the patient and family. Our medical records document these discussions in detail.\n\nIf you would like to discuss your concerns further, we would welcome the opportunity to meet with you privately, along with the hospital administration, so that the complete medical record can be reviewed and your concerns addressed respectfully.\n\nOnce again, we offer our sincere condolences."
+          }
+        }
+      },
+      {
+        "position": 4,
+        "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2tvMFlYaHNhRll6V25aTVNFaEpRbFZHUVZNdFVuYxAB!2m1!1s0x0:0x4010adec7b446fd1!3m1!1s2@1:CAIQACodChtycF9oOko0YXhsaFYzWnZMSEhJQlVGQVMtUnc%7C%7C?hl=en",
+        "rating": 3,
+        "date": "3 months ago",
+        "iso_date": "2026-07-03T09:40:45Z",
+        "iso_date_of_last_edit": "2026-07-03T09:40:45Z",
+        "source": "Google",
+        "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tvMFlYaHNhRll6V25aTVNFaEpRbFZHUVZNdFVuYxAB",
+        "snippet": "Pls ayushman admission counter or discharge counter ki sankhya badhaye vartman me  3-4 ghante  process me lag rahe he. Baki tretment patient care sab kuchh bahut achchha he.",
+        "extracted_snippet": {
+          "original": "Pls ayushman admission counter or discharge counter ki sankhya badhaye vartman me  3-4 ghante  process me lag rahe he. Baki tretment patient care sab kuchh bahut achchha he.",
+          "translated": "Please increase the number of Ayushman admission and discharge counters. Currently, the process takes 3-4 hours. Rest of the treatment and patient care are very good."
+        },
+        "likes": 0,
+        "response": {
+          "date": "3 months ago",
+          "iso_date": "2026-07-06T04:40:40Z",
+          "iso_date_of_last_edit": "2026-07-06T04:40:40Z",
+          "snippet": "Thank you for sharing your feedback with us, your feedback means a lot to us we will surely work on this.",
+          "extracted_snippet": {
+            "original": "Thank you for sharing your feedback with us, your feedback means a lot to us we will surely work on this."
+          }
+        }
+      },
+      {
+        "position": 5,
+        "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21GT05YRlhUMVJRVTJ4cVIxVXpVeTF1UmxOcFlYYxAB!2m1!1s0x0:0x4010adec7b446fd1!3m1!1s2@1:CAIQACodChtycF9oOmFONXFXT1RQU2xqR1UzUy1uRlNpYXc%7C%7C?hl=en",
+        "rating": 2,
+        "date": "4 months ago",
+        "iso_date": "2026-05-18T13:56:19Z",
+        "iso_date_of_last_edit": "2026-05-18T13:56:19Z",
+        "source": "Google",
+        "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21GT05YRlhUMVJRVTJ4cVIxVXpVeTF1UmxOcFlYYxAB",
+        "snippet": "Ayushman discharge  3 rd flore bhaut gatiya log he waha kaam karne wale",
+        "extracted_snippet": {
+          "original": "Ayushman discharge  3 rd flore bhaut gatiya log he waha kaam karne wale",
+          "translated": "Ayushman discharge 3rd floor, there are many people working there."
+        },
+        "likes": 0,
+        "response": {
+          "date": "4 months ago",
+          "iso_date": "2026-05-19T05:23:10Z",
+          "iso_date_of_last_edit": "2026-05-19T05:23:10Z",
+          "snippet": "Thank you for sharing your experience. We are very sorry to hear that your recent visit did not meet your expectations. Providing compassionate and efficient care is our top priority, and we clearly missed the mark in your case. We would like to look into this further to ensure it doesn't happen again. Please reach out to our Patient Experience team directly at 0731042301216  so we can make this right.",
+          "extracted_snippet": {
+            "original": "Thank you for sharing your experience. We are very sorry to hear that your recent visit did not meet your expectations. Providing compassionate and efficient care is our top priority, and we clearly missed the mark in your case. We would like to look into this further to ensure it doesn't happen again. Please reach out to our Patient Experience team directly at 0731042301216  so we can make this right."
+          }
+        }
+      },
+      {
+        "position": 6,
+        "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2pCSk5GbDRkMHhOY3pKa2NuTndVSHBpYnpabWMzYxAB!2m1!1s0x0:0x4010adec7b446fd1!3m1!1s2@1:CAIQACodChtycF9oOjBJNFl4d0xNczJkcnNwUHpibzZmc3c%7C%7C?hl=en",
+        "rating": 1,
+        "date": "6 months ago",
+        "iso_date": "2026-03-30T11:28:08Z",
+        "iso_date_of_last_edit": "2026-03-30T11:28:08Z",
+        "source": "Google",
+        "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pCSk5GbDRkMHhOY3pKa2NuTndVSHBpYnpabWMzYxAB",
+        "snippet": "Very poor experience with the Ayushman discharge department. The staff does not listen to patients and there is a lot of unnecessary delay in the discharge process. They waste a lot of time and do not provide clear or proper answers. The condition of management is very disappointing and unprofessional. Needs serious improvement.",
+        "extracted_snippet": {
+          "original": "Very poor experience with the Ayushman discharge department. The staff does not listen to patients and there is a lot of unnecessary delay in the discharge process. They waste a lot of time and do not provide clear or proper answers. The condition of management is very disappointing and unprofessional. Needs serious improvement."
+        },
+        "likes": 0
+      },
+      {
+        "position": 7,
+        "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2tsRVFVMUliak5vWjNORVFVa3RXVXh6VTJaUVMyYxAB!2m1!1s0x0:0x4010adec7b446fd1!3m1!1s2@1:CAIQACodChtycF9oOklEQU1IbjNoZ3NEQUktWUxzU2ZQS2c%7C%7C?hl=en",
+        "rating": 1,
+        "date": "9 months ago",
+        "iso_date": "2026-01-06T05:54:07Z",
+        "iso_date_of_last_edit": "2026-01-06T05:54:07Z",
+        "source": "Google",
+        "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tsRVFVMUliak5vWjNORVFVa3RXVXh6VTJaUVMyYxAB",
+        "snippet": "Bahut bakwas hospital hai aurobindo hospital\nMere ko to yahi samjh nhi ata aise logo ko dr.kis ne banaya jhut bol kr admit kra le te hai bol te hai ayushman lga denge 4 din ho gaye meko ayushman code bhar kr nhi de rahe dr. 4 din se ghuma rahe hai bol te hai lga denge abhi ye janch or kra lao jaruri hai or bhi krali cash mai fir bhi patient ko koi fayada nhi Ghar Se patient Chal ke aaega lekin yahan se nahin Ja pata hai bahut khatiya hospital aur ya ke doctor",
+        "extracted_snippet": {
+          "original": "Bahut bakwas hospital hai aurobindo hospital\nMere ko to yahi samjh nhi ata aise logo ko dr.kis ne banaya jhut bol kr admit kra le te hai bol te hai ayushman lga denge 4 din ho gaye meko ayushman code bhar kr nhi de rahe dr. 4 din se ghuma rahe hai bol te hai lga denge abhi ye janch or kra lao jaruri hai or bhi krali cash mai fir bhi patient ko koi fayada nhi Ghar Se patient Chal ke aaega lekin yahan se nahin Ja pata hai bahut khatiya hospital aur ya ke doctor",
+          "translated": "Aurobindo Hospital is a very stupid hospital. I don't understand this. Doctors make up such people. They admit them by telling lies. They say they will put Ayushman on them. It's been 4 days and they are not filling out the Ayushman code for me. The doctor has been making me run around for 4 days and says they will put it on me. Get this test done now, it is necessary. And even if you pay in cash, the patient still gets no benefit. The patient will walk from home but cannot go from here. The hospital and its doctors are very dangerous."
+        },
+        "likes": 0,
+        "response": {
+          "date": "4 months ago",
+          "iso_date": "2026-06-09T10:29:34Z",
+          "iso_date_of_last_edit": "2026-06-09T10:29:34Z",
+          "snippet": "Sorry for inconvenience, As you aware that Ayushman Bharat yojana is a Govt. Scheme and there is some rules and protocols to get approval from Online Government Portal for cashless treatment for related codes listed in the portal. Some times there is a chance for non-eligibility due to non-fulfilment of criteria for the code on basis of medical investigations. \nWe are always committed to serve better hospitality for all patients. You are requested to connect with \"Ayushman Mitra\" available on Ayushman Counter, he is responsible to help you for the same. If he fails to meet your requirements please contact to Hospital Admin who are available in hospital 24x7. \nThanks for your valuable feedback. ",
+          "extracted_snippet": {
+            "original": "Sorry for inconvenience, As you aware that Ayushman Bharat yojana is a Govt. Scheme and there is some rules and protocols to get approval from Online Government Portal for cashless treatment for related codes listed in the portal. Some times there is a chance for non-eligibility due to non-fulfilment of criteria for the code on basis of medical investigations. \nWe are always committed to serve better hospitality for all patients. You are requested to connect with \"Ayushman Mitra\" available on Ayushman Counter, he is responsible to help you for the same. If he fails to meet your requirements please contact to Hospital Admin who are available in hospital 24x7. \nThanks for your valuable feedback. "
+          }
+        }
+      },
+      {
+        "position": 8,
+        "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xSRVFrRldUSHBtWWtnNVUxVnZkbEZVUlVKMlkyYxAB!2m1!1s0x0:0x4010adec7b446fd1!3m1!1s2@1:CAIQACodChtycF9oOlREQkFWTHpmYkg5U1VvdlFURUJ2Y2c%7C%7C?hl=en",
+        "rating": 1,
+        "date": "11 months ago",
+        "iso_date": "2025-10-24T07:56:29Z",
+        "iso_date_of_last_edit": "2025-10-24T07:56:29Z",
+        "source": "Google",
+        "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xSRVFrRldUSHBtWWtnNVUxVnZkbEZVUlVKMlkyYxAB",
+        "snippet": "Very unprofessional behaviour...if ur patient is admitted under ayushman... fellowship doctor done surgery.nd all treatments...again n again post delivery patient follow up nd after say that switcer is loose so again take in ot.....why ...after delivery follow up after 7 days bt in this hospital.review after day tomorrow.....very bed experience happening in gynecological department",
+        "extracted_snippet": {
+          "original": "Very unprofessional behaviour...if ur patient is admitted under ayushman... fellowship doctor done surgery.nd all treatments...again n again post delivery patient follow up nd after say that switcer is loose so again take in ot.....why ...after delivery follow up after 7 days bt in this hospital.review after day tomorrow.....very bed experience happening in gynecological department"
+        },
+        "likes": 0
+      },
+      {
+        "position": 9,
+        "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT201elltOXRTRUkyY3pCdlJGOU5kV280VVRSS1lYYxAB!2m1!1s0x0:0x4010adec7b446fd1!3m1!1s2@1:CAIQACodChtycF9oOm5zYm9tSEI2czBvRF9NdWo4UTRKYXc%7C%7C?hl=en",
+        "rating": 1,
+        "date": "a year ago",
+        "iso_date": "2025-08-07T09:58:02Z",
+        "iso_date_of_last_edit": "2025-08-07T09:58:02Z",
+        "source": "Google",
+        "review_id": "Ci9DQUlRQUNvZENodHljRjlvT201elltOXRTRUkyY3pCdlJGOU5kV280VVRSS1lYYxAB",
+        "snippet": "Trust me when I say this, even government hospitals are better than this. Most crowd here is just due to ayushman, period!\n\nThat too I've heard were troubled to length unimaginable.\n\nI have been here for 2+wks and I think I can give my opinion.\nThere is absolutely zero coordination between departments, they will just have the patient running from neuro to cardio rather than doctors talking among themselves. It feels like you are literally in two different hospitals.\n\nEveryone from top doctors, PGs, students, nurses, staff, even gaurds are the relatives of prime minister. (Bare a few good Samaritans)\n\nHygiene in the toilets, well didn't had any high expectation anyway",
+        "extracted_snippet": {
+          "original": "Trust me when I say this, even government hospitals are better than this. Most crowd here is just due to ayushman, period!\n\nThat too I've heard were troubled to length unimaginable.\n\nI have been here for 2+wks and I think I can give my opinion.\nThere is absolutely zero coordination between departments, they will just have the patient running from neuro to cardio rather than doctors talking among themselves. It feels like you are literally in two different hospitals.\n\nEveryone from top doctors, PGs, students, nurses, staff, even gaurds are the relatives of prime minister. (Bare a few good Samaritans)\n\nHygiene in the toilets, well didn't had any high expectation anyway"
+        },
+        "likes": 0
+      },
+      {
+        "position": 10,
+        "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2pWVlZuVjZNMTlZV1dnNFdVaGZhRnAyV1daWlZIYxAB!2m1!1s0x0:0x4010adec7b446fd1!3m1!1s2@1:CAIQACodChtycF9oOjVVVnV6M19YWWg4WUhfaFp2WWZZVHc%7C%7C?hl=en",
+        "rating": 4,
+        "date": "a year ago",
+        "iso_date": "2025-07-20T16:21:24Z",
+        "iso_date_of_last_edit": "2025-07-20T16:21:24Z",
+        "source": "Google",
+        "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pWVlZuVjZNMTlZV1dnNFdVaGZhRnAyV1daWlZIYxAB",
+        "snippet": "Yhaa par treatment thik thak hai.Ayushman acceptability.",
+        "extracted_snippet": {
+          "original": "Yhaa par treatment thik thak hai.Ayushman acceptability.",
+          "translated": "The treatment here is fine. Ayushman acceptability."
+        },
+        "likes": 0
+      },
+      {
+        "position": 11,
+        "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnTUR3NGRqX2h3RRAB!2m1!1s0x0:0x4010adec7b446fd1!3m1!1s2@1:CIHM0ogKEICAgMDw4dj_hwE%7C%7C?hl=en",
+        "rating": 1,
+        "date": "a year ago",
+        "iso_date": "2025-03-26T12:20:28Z",
+        "iso_date_of_last_edit": "2025-03-26T12:20:28Z",
+        "source": "Google",
+        "review_id": "ChdDSUhNMG9nS0VJQ0FnTUR3NGRqX2h3RRAB",
+        "snippet": "We had brought mother to the emergency and got all the tests done. We also have Ayuhsman card but we had to pay for the entire treatment and when asked to admit her, we decided to get the treatment done through Ayushman.",
+        "extracted_snippet": {
+          "original": "We had brought mother to the emergency and got all the tests done. We also have Ayuhsman card but we had to pay for the entire treatment and when asked to admit her, we decided to get the treatment done through Ayushman."
+        },
+        "likes": 0
+      },
+      {
+        "position": 12,
+        "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNIemQtTTdBRRAB!2m1!1s0x0:0x4010adec7b446fd1!3m1!1s2@1:CIHM0ogKEICAgICHzd-M7AE%7C%7C?hl=en",
+        "rating": 1,
+        "date": "2 years ago",
+        "iso_date": "2024-09-07T15:43:27Z",
+        "iso_date_of_last_edit": "2024-09-07T15:54:04Z",
+        "source": "Google",
+        "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNIemQtTTdBRRAB",
+        "snippet": "Dear people I urge you  don't go with this hospital, here's staff and dr are not friendly and they will not treat you and patient very well even you are investing money for your patient they don't care of this.\n\nAll patient treatment is bieng done through PG only and they don't know treatment and don't know how to treat patient.\n\nI admitted my father in Orthopedic department for knee pain. My father was there 16 days on bad and once operation also done but after operation he is not getting well and now also we are doing treatment outside with our expenses.\n\nMy dear people you understand the situation of hospital only they looting you. So be aware even you are choosing this hospital for Ayushman and other mediclaim policy I request you don't go with this hospital.",
+        "extracted_snippet": {
+          "original": "Dear people I urge you  don't go with this hospital, here's staff and dr are not friendly and they will not treat you and patient very well even you are investing money for your patient they don't care of this.\n\nAll patient treatment is bieng done through PG only and they don't know treatment and don't know how to treat patient.\n\nI admitted my father in Orthopedic department for knee pain. My father was there 16 days on bad and once operation also done but after operation he is not getting well and now also we are doing treatment outside with our expenses.\n\nMy dear people you understand the situation of hospital only they looting you. So be aware even you are choosing this hospital for Ayushman and other mediclaim policy I request you don't go with this hospital."
+        },
+        "likes": 8
+      },
+      {
+        "position": 13,
+        "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNMbXBpWG93RRAB!2m1!1s0x0:0x4010adec7b446fd1!3m1!1s2@1:CIHM0ogKEICAgICLmpiXowE%7C%7C?hl=en",
+        "rating": 1,
+        "date": "2 years ago",
+        "iso_date": "2024-06-18T05:22:46Z",
+        "iso_date_of_last_edit": "2024-06-18T05:22:46Z",
+        "source": "Google",
+        "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNMbXBpWG93RRAB",
+        "snippet": "Sabse bekar hospital hai ye iske itna bekar hospital koi sa bhi nhi hoga is hospital ke dr. Sb Anpad or jahil gawar hai or sbse jada peso ki lutmar hai me 8 din hospital me rha hu meri Maa ko lekar agar me 8 ve din chutti nhi karat to meri Maa ko marde te ye jalim doctor dr. mujhe bola tha apke sirf 5000 hajar kharcha hoga or in hone mere 80000 laga diye jaha jao vnha billing karao Har din janc likhte the mera to yhi nivedan hai Jo koi bhi meri comment pade vo is hospital me kabhi mat jana ye hospital jinda insan mar deta hai mene un 8 dino ke bich kae logo ko dam todte hue dekha hai or ynha Ayushman bhi sirf operation me lagta hai me ek bar or nivedan karta hu ke aap kabhi is hospital me mat jana 🙏🙏🙏🙏🙏",
+        "extracted_snippet": {
+          "original": "Sabse bekar hospital hai ye iske itna bekar hospital koi sa bhi nhi hoga is hospital ke dr. Sb Anpad or jahil gawar hai or sbse jada peso ki lutmar hai me 8 din hospital me rha hu meri Maa ko lekar agar me 8 ve din chutti nhi karat to meri Maa ko marde te ye jalim doctor dr. mujhe bola tha apke sirf 5000 hajar kharcha hoga or in hone mere 80000 laga diye jaha jao vnha billing karao Har din janc likhte the mera to yhi nivedan hai Jo koi bhi meri comment pade vo is hospital me kabhi mat jana ye hospital jinda insan mar deta hai mene un 8 dino ke bich kae logo ko dam todte hue dekha hai or ynha Ayushman bhi sirf operation me lagta hai me ek bar or nivedan karta hu ke aap kabhi is hospital me mat jana 🙏🙏🙏🙏🙏",
+          "translated": "This is the most useless hospital, no hospital can be as useless as this. The doctors of this hospital are all ignorant and illiterate and are the biggest money grabbers. I have been in the hospital for 8 days with my mother, if I had not been discharged on the 8th day, these cruel doctors would have killed my mother. I was told that your expenses would be only Rs. 5000 and they charged me Rs. 80000, go there and get the billing done, they used to write Janc every day, this is my only request to whoever reads my comment, never go to this hospital, this hospital kills living people, I have seen people dying in those 8 days and here Ayushman is also engaged only in operations, I request once more that you should never go to this hospital 🙏🙏🙏🙏🙏"
+        },
+        "likes": 14
+      },
+      {
+        "position": 14,
+        "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURkemNUemp3RRAB!2m1!1s0x0:0x4010adec7b446fd1!3m1!1s2@1:CIHM0ogKEICAgIDdzcTzjwE%7C%7C?hl=en",
+        "rating": 1,
+        "date": "2 years ago",
+        "iso_date": "2024-02-26T04:46:04Z",
+        "iso_date_of_last_edit": "2024-02-26T04:46:04Z",
+        "source": "Google",
+        "review_id": "ChdDSUhNMG9nS0VJQ0FnSURkemNUemp3RRAB",
+        "snippet": "Ye sudhar nahi sakte. Garibo ko lutne ki dukan hai. Jar operation karana tha tab poocha ki kitna chare lagega to bole 15-20 hajar and final bill 50 hajar ka. Jab ki suru me bata Diya tha garib ka ayushman nahi hai.\nPrivate ka quotation 45000 ka tha .\n\nSuch me ye Paisa bagwan kare is Janam ya agle janam me wasool le.\n\nJai shree ram",
+        "extracted_snippet": {
+          "original": "Ye sudhar nahi sakte. Garibo ko lutne ki dukan hai. Jar operation karana tha tab poocha ki kitna chare lagega to bole 15-20 hajar and final bill 50 hajar ka. Jab ki suru me bata Diya tha garib ka ayushman nahi hai.\nPrivate ka quotation 45000 ka tha .\n\nSuch me ye Paisa bagwan kare is Janam ya agle janam me wasool le.\n\nJai shree ram",
+          "translated": "They cannot improve. This is a shop to exploit the poor. When I had to get an operation done, I asked how much it would cost and they said 15-20 thousand and the final bill was 50 thousand. Whereas I had told them in the beginning that there is no insurance for the poor.\nPrivate's quotation was 45000.\n\nSo please send this money to God and I will get it back in this life or the next.\n\nJai Shree Ram"
+        },
+        "likes": 4
+      },
+      {
+        "position": 15,
+        "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURSdk9yaXhRRRAB!2m1!1s0x0:0x4010adec7b446fd1!3m1!1s2@1:CIHM0ogKEICAgIDRvOrixQE%7C%7C?hl=en",
+        "rating": 4,
+        "date": "3 years ago",
+        "iso_date": "2023-04-20T12:04:05Z",
+        "iso_date_of_last_edit": "2023-04-20T12:08:57Z",
+        "source": "Google",
+        "review_id": "ChdDSUhNMG9nS0VJQ0FnSURSdk9yaXhRRRAB",
+        "snippet": "Indore largest hospital is situated at indore ujjian road.\nAurobindo hospital is best in their services.\nIt's has also cover government schemes like ayushman card and other government schemes.\nBehid this hospital their was\nSri Aurobindo institute of technology\nPharmacy and also school..\nHostel ,nursing, cafe , restaurant and everything is available at one place ..\nDr. And staff of this hospital is better than other hospitals in indore ..\nHighly recommend this",
+        "extracted_snippet": {
+          "original": "Indore largest hospital is situated at indore ujjian road.\nAurobindo hospital is best in their services.\nIt's has also cover government schemes like ayushman card and other government schemes.\nBehid this hospital their was\nSri Aurobindo institute of technology\nPharmacy and also school..\nHostel ,nursing, cafe , restaurant and everything is available at one place ..\nDr. And staff of this hospital is better than other hospitals in indore ..\nHighly recommend this"
+        },
+        "likes": 9
+      },
+      {
+        "position": 16,
+        "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURoeXVYN2NBEAE!2m1!1s0x0:0x4010adec7b446fd1!3m1!1s2@1:CIHM0ogKEICAgIDhyuX7cA%7C%7C?hl=en",
+        "rating": 3,
+        "date": "3 years ago",
+        "iso_date": "2023-03-06T06:08:33Z",
+        "iso_date_of_last_edit": "2023-03-06T06:08:33Z",
+        "source": "Google",
+        "review_id": "ChZDSUhNMG9nS0VJQ0FnSURoeXVYN2NBEAE",
+        "snippet": "Situated at indore ujjain road running medical college and hospital. It is running almost every department. It's provide treatment of nearly all diseases. Ayushman patient gets benefit in many treatment. This hospital also has a private hospital inside which is known as Mohak Hi tech. The treatment here is a bit costlier.",
+        "extracted_snippet": {
+          "original": "Situated at indore ujjain road running medical college and hospital. It is running almost every department. It's provide treatment of nearly all diseases. Ayushman patient gets benefit in many treatment. This hospital also has a private hospital inside which is known as Mohak Hi tech. The treatment here is a bit costlier."
+        },
+        "likes": 1
+      },
+      {
+        "position": 17,
+        "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUMtdWJhRDN3RRAB!2m1!1s0x0:0x4010adec7b446fd1!3m1!1s2@1:CIHM0ogKEICAgIC-ubaD3wE%7C%7C?hl=en",
+        "rating": 1,
+        "date": "3 years ago",
+        "iso_date": "2022-11-08T06:50:38Z",
+        "iso_date_of_last_edit": "2022-11-08T06:50:38Z",
+        "source": "Google",
+        "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMtdWJhRDN3RRAB",
+        "snippet": "Worst experience ever, hospital ka management kafi jyada khrab hai. Patient ke sath attender ko or khud patient ko bhi admit or discharge ke time kafi pareshan hona pdta hai. Patient ager 5th floor par hai to attender ko kabhi 2nd floor to kabhi 3rd floor par bheja jata hai har chij ke liye. Patient ke sath jo attender hota hai wo to pehle hi parshan hota or management dwara unko or mentally pareshaan kiya jata hai.\n\nHospital me ayushman scheme to adopt ki jati par admit krne or discharge krne ke dauran attender or patient dono ko pareshan hona pdta, fir bhale patient 5th floor se 3rd floor ki condition me aane ke kabil na ho usse thumb lgane ke wheelchair/ strecher par aakar thumb lgana pdta hai.\n\nAgar hospital dwara ayushman ki scheme provide ki ja rhi hai to hospital ki ye responsibility banti hai ki discharge ki formality unhi ke dwara ki jaye, kyunki attender ko pta nhi hota ki unko discharge ke liye kin kin documents ki requirements hoti hai.",
+        "extracted_snippet": {
+          "original": "Worst experience ever, hospital ka management kafi jyada khrab hai. Patient ke sath attender ko or khud patient ko bhi admit or discharge ke time kafi pareshan hona pdta hai. Patient ager 5th floor par hai to attender ko kabhi 2nd floor to kabhi 3rd floor par bheja jata hai har chij ke liye. Patient ke sath jo attender hota hai wo to pehle hi parshan hota or management dwara unko or mentally pareshaan kiya jata hai.\n\nHospital me ayushman scheme to adopt ki jati par admit krne or discharge krne ke dauran attender or patient dono ko pareshan hona pdta, fir bhale patient 5th floor se 3rd floor ki condition me aane ke kabil na ho usse thumb lgane ke wheelchair/ strecher par aakar thumb lgana pdta hai.\n\nAgar hospital dwara ayushman ki scheme provide ki ja rhi hai to hospital ki ye responsibility banti hai ki discharge ki formality unhi ke dwara ki jaye, kyunki attender ko pta nhi hota ki unko discharge ke liye kin kin documents ki requirements hoti hai.",
+          "translated": "Worst experience ever, the hospital management is very poor. The attendant with the patient and the patient himself have to face a lot of trouble at the time of admission and discharge. If the patient is on the 5th floor, the attendant is sometimes sent to the 2nd floor and sometimes to the 3rd floor for everything. The attendant who is with the patient is already troubled and he is further harassed by the management.\n\nIf Ayushman scheme is adopted in the hospital, then both the attendant and the patient have to face trouble during admission and discharge, even if the patient is not in a condition to come from 5th floor to 3rd floor, he has to come on wheelchair/stretcher to get his thumb impression.\n\nIf Ayushman scheme is being provided by the hospital, then it becomes the responsibility of the hospital that the formalities of discharge should be done by them, because the attendant does not know what documents are required for his discharge."
+        },
+        "likes": 7
+      },
+      {
+        "position": 18,
+        "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURPNmUtc2hBRRAB!2m1!1s0x0:0x4010adec7b446fd1!3m1!1s2@1:CIHM0ogKEICAgIDO6e-shAE%7C%7C?hl=en",
+        "rating": 3,
+        "date": "4 years ago",
+        "iso_date": "2022-07-09T02:29:21Z",
+        "iso_date_of_last_edit": "2022-07-09T02:29:39Z",
+        "source": "Google",
+        "review_id": "ChdDSUhNMG9nS0VJQ0FnSURPNmUtc2hBRRAB",
+        "snippet": "Time takink for ayushman card's pateint",
+        "extracted_snippet": {
+          "original": "Time takink for ayushman card's pateint"
+        },
+        "likes": 1
+      },
+      {
+        "position": 19,
+        "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUMyOThLWDZBRRAB!2m1!1s0x0:0x4010adec7b446fd1!3m1!1s2@1:CIHM0ogKEICAgIC298KX6AE%7C%7C?hl=en",
+        "rating": 5,
+        "date": "4 years ago",
+        "iso_date": "2022-04-30T22:52:40Z",
+        "iso_date_of_last_edit": "2022-04-30T23:04:50Z",
+        "source": "Google",
+        "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMyOThLWDZBRRAB",
+        "snippet": "This hospital is clean and hygienic and free treatment is provided here through Ayushman card.",
+        "extracted_snippet": {
+          "original": "This hospital is clean and hygienic and free treatment is provided here through Ayushman card."
+        },
+        "likes": 1
+      },
+      {
+        "position": 20,
+        "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUQ2cl9uR2dBRRAB!2m1!1s0x0:0x4010adec7b446fd1!3m1!1s2@1:CIHM0ogKEICAgID6r_nGgAE%7C%7C?hl=en",
+        "rating": 5,
+        "date": "4 years ago",
+        "iso_date": "2021-10-15T08:07:16Z",
+        "iso_date_of_last_edit": "2021-10-15T08:07:16Z",
+        "source": "Google",
+        "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQ2cl9uR2dBRRAB",
+        "snippet": "Good service for Ayushman card",
+        "extracted_snippet": {
+          "original": "Good service for Ayushman card"
+        },
+        "likes": 2
+      }
+    ]
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "version": 1,
+  "key": "e4064b0c83b55f3aeadeca06",
+  "engine": "google_maps_reviews",
+  "params": {
+    "data_id": "0x39ed582b586ec055:0x4bdbe8813044fc2d",
+    "hl": "en",
+    "num": "20",
+    "query": "ayushman",
+    "sort_by": "newestFirst"
+  },
+  "fetchedAt": "2026-10-10T10:50:49.001Z",
+  "response": {
+    "search_metadata": {
+      "status": "Success",
+      "created_at": "2026-10-10 10:50:52 UTC",
+      "total_time_taken": 1.42
+    },
+    "search_parameters": {
+      "engine": "google_maps_reviews",
+      "data_id": "0x39ed582b586ec055:0x4bdbe8813044fc2d",
+      "hl": "en",
+      "num": "20",
+      "sort_by": "newestFirst",
+      "query": "ayushman"
+    },
+    "reviews": [
+      {
+        "position": 1,
+        "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2sxT1ZXdEZlalYyUkhkeGJVMDBSM05IY2tweFdGRRAB!2m1!1s0x0:0x4bdbe8813044fc2d!3m1!1s2@1:CAIQACodChtycF9oOk1OVWtFejV2RHdxbU00R3NHckpxWFE%7C%7C?hl=en",
+        "rating": 2,
+        "date": "a year ago",
+        "iso_date": "2025-07-09T10:58:31Z",
+        "iso_date_of_last_edit": "2025-07-09T10:58:31Z",
+        "source": "Google",
+        "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2sxT1ZXdEZlalYyUkhkeGJVMDBSM05IY2tweFdGRRAB",
+        "snippet": "I visited Ruban Hospital recently hoping to get treatment under the Ayushman Bharat scheme, but unfortunately, they do not accept the Ayushman card. This is very disappointing, especially since many other hospitals in Patna are part of the Ayushman Bharat panel and provide good care to poor and middle-class patients.\nRuban is a well-known private hospital, and it is surprising that such a reputed hospital is not supporting a central government health scheme meant for the benefit of the public. Patients who genuinely need financial support are left helpless",
+        "extracted_snippet": {
+          "original": "I visited Ruban Hospital recently hoping to get treatment under the Ayushman Bharat scheme, but unfortunately, they do not accept the Ayushman card. This is very disappointing, especially since many other hospitals in Patna are part of the Ayushman Bharat panel and provide good care to poor and middle-class patients.\nRuban is a well-known private hospital, and it is surprising that such a reputed hospital is not supporting a central government health scheme meant for the benefit of the public. Patients who genuinely need financial support are left helpless"
+        },
+        "likes": 0,
+        "response": {
+          "date": "a year ago",
+          "iso_date": "2025-07-09T11:12:30Z",
+          "iso_date_of_last_edit": "2025-07-09T11:12:30Z",
+          "snippet": "Dear Sir/Ma’am,\n\nWe sincerely apologize for any bad experience you may have had during your visit to our hospital. Providing excellent care and comfort to our patients is at the heart of what we do, and we deeply regret that we fell short of meeting your expectations.\n\nWe would like to address your concerns directly and work towards a resolution. Kindly reach out to our patient care service team at patientcare@ruban.org.in, so we can understand the specifics of your visit and address the issues in a more personalized manner.\n\nYour input is crucial to us as it helps us enhance our services and provide better experiences for all our patients.\n\nThank you for giving us the opportunity to improve and we hope to regain your trust in the future.\n\nRegards,\nRuban Patient Care Service",
+          "extracted_snippet": {
+            "original": "Dear Sir/Ma’am,\n\nWe sincerely apologize for any bad experience you may have had during your visit to our hospital. Providing excellent care and comfort to our patients is at the heart of what we do, and we deeply regret that we fell short of meeting your expectations.\n\nWe would like to address your concerns directly and work towards a resolution. Kindly reach out to our patient care service team at patientcare@ruban.org.in, so we can understand the specifics of your visit and address the issues in a more personalized manner.\n\nYour input is crucial to us as it helps us enhance our services and provide better experiences for all our patients.\n\nThank you for giving us the opportunity to improve and we hope to regain your trust in the future.\n\nRegards,\nRuban Patient Care Service"
+          }
+        }
+      },
+      {
+        "position": 2,
+        "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURYaEtLamR3EAE!2m1!1s0x0:0x4bdbe8813044fc2d!3m1!1s2@1:CIHM0ogKEICAgIDXhKKjdw%7C%7C?hl=en",
+        "rating": 1,
+        "date": "a year ago",
+        "iso_date": "2024-10-24T05:13:06Z",
+        "iso_date_of_last_edit": "2024-10-24T05:13:06Z",
+        "source": "Google",
+        "review_id": "ChZDSUhNMG9nS0VJQ0FnSURYaEtLamR3EAE",
+        "snippet": "I had ayushman health care but here people didn't took it seriously. No ayushman mitra was there. So it cost me a lot of money. Pathetic",
+        "extracted_snippet": {
+          "original": "I had ayushman health care but here people didn't took it seriously. No ayushman mitra was there. So it cost me a lot of money. Pathetic"
+        },
+        "likes": 0,
+        "response": {
+          "date": "a year ago",
+          "iso_date": "2024-11-22T08:51:31Z",
+          "iso_date_of_last_edit": "2024-11-22T08:51:31Z",
+          "snippet": "Dear Sir/Ma’am,\n\nWe appreciate you taking the time to share your feedback with us. We sincerely apologize for any bad experience you may have had during your visit to our hospital. Providing excellent care and comfort to our patients is at the heart of what we do, and we deeply regret that we fell short of meeting your expectations.\n\nWe would like to address your concerns directly and work towards a resolution. Kindly reach out to our patient care service team at patientcare@ruban.org.in, so we can understand the specifics of your visit and address the issues in a more personalized manner.\n\nOnce again, we apologize for any inconvenience caused, and we genuinely appreciate your feedback. Your input is crucial to us as it helps us enhance our services and provide better experiences for all our patients.\n\nThank you for giving us the opportunity to improve and we hope to regain your trust in the future.\n\nRegards,\nRuban Patient Care Service",
+          "extracted_snippet": {
+            "original": "Dear Sir/Ma’am,\n\nWe appreciate you taking the time to share your feedback with us. We sincerely apologize for any bad experience you may have had during your visit to our hospital. Providing excellent care and comfort to our patients is at the heart of what we do, and we deeply regret that we fell short of meeting your expectations.\n\nWe would like to address your concerns directly and work towards a resolution. Kindly reach out to our patient care service team at patientcare@ruban.org.in, so we can understand the specifics of your visit and address the issues in a more personalized manner.\n\nOnce again, we apologize for any inconvenience caused, and we genuinely appreciate your feedback. Your input is crucial to us as it helps us enhance our services and provide better experiences for all our patients.\n\nThank you for giving us the opportunity to improve and we hope to regain your trust in the future.\n\nRegards,\nRuban Patient Care Service"
+          }
+        }
+      },
+      {
+        "position": 3,
+        "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURlaU5LRTRBRRAB!2m1!1s0x0:0x4bdbe8813044fc2d!3m1!1s2@1:CIHM0ogKEICAgIDeiNKE4AE%7C%7C?hl=en",
+        "rating": 5,
+        "date": "4 years ago",
+        "iso_date": "2022-09-30T10:11:13Z",
+        "iso_date_of_last_edit": "2022-09-30T10:11:13Z",
+        "source": "Google",
+        "review_id": "ChdDSUhNMG9nS0VJQ0FnSURlaU5LRTRBRRAB",
+        "snippet": "I admitted my wife for treatment for kidney stone and gallbladder stones under Ayushman yojana.I was quiet happy to see clean and good environment.  Staff nurses and doctors behaved as they behaved other patient. They don't distinguished between  Ayushman  and other patient.\nThank you all doctors and staff and nurses.",
+        "extracted_snippet": {
+          "original": "I admitted my wife for treatment for kidney stone and gallbladder stones under Ayushman yojana.I was quiet happy to see clean and good environment.  Staff nurses and doctors behaved as they behaved other patient. They don't distinguished between  Ayushman  and other patient.\nThank you all doctors and staff and nurses."
+        },
+        "likes": 0
+      }
+    ]
+  }
+}

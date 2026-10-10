@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "key": "c64cacfa350087966a737513",
+  "engine": "google_maps_reviews",
+  "params": {
+    "data_id": "0x390cf202e418049d:0x496e4e07711af556",
+    "hl": "en",
+    "num": "20",
+    "query": "ayushman",
+    "sort_by": "newestFirst"
+  },
+  "fetchedAt": "2026-10-10T10:50:55.731Z",
+  "response": {
+    "search_metadata": {
+      "status": "Success",
+      "created_at": "2026-10-10 10:50:59 UTC",
+      "total_time_taken": 0.98
+    },
+    "search_parameters": {
+      "engine": "google_maps_reviews",
+      "data_id": "0x390cf202e418049d:0x496e4e07711af556",
+      "hl": "en",
+      "num": "20",
+      "sort_by": "newestFirst",
+      "query": "ayushman"
+    },
+    "search_information": {
+      "reviews_results_state": "No reviews"
+    }
+  }
+}

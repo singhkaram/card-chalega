@@ -1,0 +1,108 @@
+{
+  "version": 1,
+  "key": "5c22f69aeb986ac052932cba",
+  "engine": "google_maps_reviews",
+  "params": {
+    "data_id": "0x399bfd94942a5565:0xbe405d569fde9b03",
+    "hl": "en",
+    "num": "20",
+    "query": "ayushman",
+    "sort_by": "newestFirst"
+  },
+  "fetchedAt": "2026-10-10T10:50:18.310Z",
+  "response": {
+    "search_metadata": {
+      "status": "Success",
+      "created_at": "2026-10-10 10:50:22 UTC",
+      "total_time_taken": 0.41
+    },
+    "search_parameters": {
+      "engine": "google_maps_reviews",
+      "data_id": "0x399bfd94942a5565:0xbe405d569fde9b03",
+      "hl": "en",
+      "num": "20",
+      "sort_by": "newestFirst",
+      "query": "ayushman"
+    },
+    "reviews": [
+      {
+        "position": 1,
+        "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21wTldUUk1iMUF4WkhOcVdrbG9TMDFpUzFkdmNuYxAB!2m1!1s0x0:0xbe405d569fde9b03!3m1!1s2@1:CAIQACodChtycF9oOmpNWTRMb1AxZHNqWkloS01iS1dvcnc%7C%7C?hl=en",
+        "rating": 5,
+        "date": "a year ago",
+        "iso_date": "2025-07-16T11:48:14Z",
+        "iso_date_of_last_edit": "2025-07-16T11:48:14Z",
+        "source": "Google",
+        "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21wTldUUk1iMUF4WkhOcVdrbG9TMDFpUzFkdmNuYxAB",
+        "snippet": "Good ayushman service in this hospital",
+        "extracted_snippet": {
+          "original": "Good ayushman service in this hospital"
+        },
+        "likes": 0
+      },
+      {
+        "position": 2,
+        "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xsMllsSlJNMWw0YzBWMGVUbGhXR1UyVTJKc1IyYxAB!2m1!1s0x0:0xbe405d569fde9b03!3m1!1s2@1:CAIQACodChtycF9oOll2YlJRM1l4c0V0eTlhWGU2U2JsR2c%7C%7C?hl=en",
+        "rating": 5,
+        "date": "a year ago",
+        "iso_date": "2025-06-23T10:36:08Z",
+        "iso_date_of_last_edit": "2025-06-23T10:36:08Z",
+        "source": "Google",
+        "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xsMllsSlJNMWw0YzBWMGVUbGhXR1UyVTJKc1IyYxAB",
+        "snippet": "Lko ka best ayushman service hospital",
+        "extracted_snippet": {
+          "original": "Lko ka best ayushman service hospital",
+          "translated": "best ayushman service hospital in lko"
+        },
+        "likes": 0
+      },
+      {
+        "position": 3,
+        "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ1RpYmpoaEpfWE1nEAE!2m1!1s0x0:0xbe405d569fde9b03!3m1!1s2@1:CIHM0ogKEICTibjhhJ_XMg%7C%7C?hl=en",
+        "rating": 5,
+        "date": "a year ago",
+        "iso_date": "2025-06-02T11:45:56Z",
+        "iso_date_of_last_edit": "2025-06-02T11:45:56Z",
+        "source": "Google",
+        "review_id": "ChZDSUhNMG9nS0VJQ1RpYmpoaEpfWE1nEAE",
+        "snippet": "Best dr team working this hospital I m very satisfied ayushman bharat se mera treatment hua hai aur ekdam free hua hai koi Paisa nhi pada hai",
+        "extracted_snippet": {
+          "original": "Best dr team working this hospital I m very satisfied ayushman bharat se mera treatment hua hai aur ekdam free hua hai koi Paisa nhi pada hai",
+          "translated": "Best doctor team working in this hospital. I am very satisfied. I got my treatment done by Ayushman Bharat and it was absolutely free, I did not have to spend any money."
+        },
+        "likes": 0
+      },
+      {
+        "position": 4,
+        "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUN2Z3BMbzZBRRAB!2m1!1s0x0:0xbe405d569fde9b03!3m1!1s2@1:CIHM0ogKEICAgICvgpLo6AE%7C%7C?hl=en",
+        "rating": 5,
+        "date": "a year ago",
+        "iso_date": "2024-12-09T05:42:39Z",
+        "iso_date_of_last_edit": "2024-12-09T05:42:39Z",
+        "source": "Google",
+        "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN2Z3BMbzZBRRAB",
+        "snippet": "K.k hospital\nDr. Sunita singh\nGynecologist\nVery quick service\nVery well maintain hygine and superb service all department are kind and polite must recommended for  100% satisfied treatment service\nVery well organization ayushman bharat got approval quick and cooperated well\nNormal patients and ayushman patients same treat and same cooperation\nThanku so much k.k hospital all team",
+        "extracted_snippet": {
+          "original": "K.k hospital\nDr. Sunita singh\nGynecologist\nVery quick service\nVery well maintain hygine and superb service all department are kind and polite must recommended for  100% satisfied treatment service\nVery well organization ayushman bharat got approval quick and cooperated well\nNormal patients and ayushman patients same treat and same cooperation\nThanku so much k.k hospital all team"
+        },
+        "likes": 0
+      },
+      {
+        "position": 5,
+        "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURUbzQybHd3RRAB!2m1!1s0x0:0xbe405d569fde9b03!3m1!1s2@1:CIHM0ogKEICAgIDTo42lwwE%7C%7C?hl=en",
+        "rating": 1,
+        "date": "2 years ago",
+        "iso_date": "2024-05-27T08:39:46Z",
+        "iso_date_of_last_edit": "2024-05-27T08:42:51Z",
+        "source": "Google",
+        "review_id": "ChdDSUhNMG9nS0VJQ0FnSURUbzQybHd3RRAB",
+        "snippet": "Jo bhai ye review padh rha h un sab se hath jod k kah rha hu ap apni property bech k jayen ek acche hospital par is hospital m Mt Jana  ye bhoxadi k paise kamane k kiye admi ki Jan leke jate hai. Maine bhi review padha tha par paise na hone ki wajah se apni maa ko doosre hospital m na le gya aor apni maa ko kho diya meri maa dialysis p thi subah 11 baje admit huyi koi problem nhi thi in sab haramiyo n bola ki abhi ek machine Khali nhi h jb Khali hoga tb dialysis hoga kyunki ayushman card paise waise ban rhe dialysis na hone ki wajah se sham heart attack agya aor Jo rating acche diye hain ye sab inhi k staff hain",
+        "extracted_snippet": {
+          "original": "Jo bhai ye review padh rha h un sab se hath jod k kah rha hu ap apni property bech k jayen ek acche hospital par is hospital m Mt Jana  ye bhoxadi k paise kamane k kiye admi ki Jan leke jate hai. Maine bhi review padha tha par paise na hone ki wajah se apni maa ko doosre hospital m na le gya aor apni maa ko kho diya meri maa dialysis p thi subah 11 baje admit huyi koi problem nhi thi in sab haramiyo n bola ki abhi ek machine Khali nhi h jb Khali hoga tb dialysis hoga kyunki ayushman card paise waise ban rhe dialysis na hone ki wajah se sham heart attack agya aor Jo rating acche diye hain ye sab inhi k staff hain",
+          "translated": "I am requesting all the brothers who are reading this review with folded hands to sell their property and go to a good hospital. These bastards take away the life of people just to earn money. I also read the review but due to lack of money I did not take my mother to another hospital and left my mother. My mother was on dialysis and was admitted at 11 in the morning. There was no problem. All these scoundrels said that not a single machine is vacant yet. Dialysis will be done when it becomes vacant because Ayushman cards are being made in a money-strapped manner. Due to lack of dialysis, I suffered a heart attack in the evening and all those who have given good ratings are their staff."
+        },
+        "likes": 5
+      }
+    ]
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "version": 1,
+  "key": "5c49f342d806bb29695e3042",
+  "engine": "google_maps_reviews",
+  "params": {
+    "data_id": "0x00000000005a1001:0x00000000000fa101",
+    "hl": "en",
+    "num": "20",
+    "query": "ayushman"
+  },
+  "fetchedAt": "2026-10-03T08:01:00.000Z",
+  "note": "SYNTHETIC SAMPLE DATA — dev only",
+  "response": {
+    "search_metadata": {
+      "status": "Success",
+      "created_at": "2026-10-03 08:01:00 UTC",
+      "total_time_taken": 2.1
+    },
+    "search_parameters": {
+      "engine": "google_maps_reviews",
+      "data_id": "0x00000000005a1001:0x00000000000fa101",
+      "query": "ayushman",
+      "num": "20",
+      "hl": "en"
+    },
+    "place_info": {
+      "title": "Sample District Government Hospital (Sample)",
+      "address": "10 Sample Marg, Lucknow, Uttar Pradesh (Sample)",
+      "rating": 3.6,
+      "reviews": 3120,
+      "type": "Government hospital"
+    },
+    "reviews": [
+      {
+        "link": "https://example.com/review/sample_lko_01_r01",
+        "rating": 4,
+        "date": "a month ago",
+        "iso_date": "2026-09-02T13:24:00Z",
+        "review_id": "sample_lko_01_r01",
+        "snippet": "(Translated by Google) It is a government hospital, the operation was free with the Ayushman card but it is very crowded.\n\n(Original)\nसरकारी अस्पताल है, आयुष्मान कार्ड से ऑपरेशन मुफ्त हुआ लेकिन भीड़ बहुत है।",
+        "extracted_snippet": {
+          "original": "सरकारी अस्पताल है, आयुष्मान कार्ड से ऑपरेशन मुफ्त हुआ लेकिन भीड़ बहुत है।",
+          "translated": "It is a government hospital, the operation was free with the Ayushman card but it is very crowded."
+        },
+        "likes": 1
+      },
+      {
+        "link": "https://example.com/review/sample_lko_01_r02",
+        "rating": 2,
+        "date": "3 months ago",
+        "iso_date": "2026-07-03T17:12:00Z",
+        "review_id": "sample_lko_01_r02",
+        "snippet": "Ayushman card verification took the whole day, we were sent from one counter to another. Treatment started only the next morning.",
+        "extracted_snippet": {
+          "original": "Ayushman card verification took the whole day, we were sent from one counter to another. Treatment started only the next morning."
+        },
+        "likes": 4
+      },
+      {
+        "link": "https://example.com/review/sample_lko_01_r03",
+        "rating": 3,
+        "date": "5 months ago",
+        "iso_date": "2026-05-03T21:00:00Z",
+        "review_id": "sample_lko_01_r03",
+        "snippet": "Ayushman card se free ilaaj hua par dawai bahar se laani padi, approx 800 rupaye.",
+        "extracted_snippet": {
+          "original": "Ayushman card se free ilaaj hua par dawai bahar se laani padi, approx 800 rupaye."
+        },
+        "likes": 2
+      },
+      {
+        "link": "https://example.com/review/sample_lko_01_r04",
+        "rating": 4,
+        "date": "10 months ago",
+        "iso_date": "2025-12-02T20:00:00Z",
+        "review_id": "sample_lko_01_r04",
+        "snippet": "Free treatment with Ayushman card. Doctors were busy but helpful.",
+        "extracted_snippet": {
+          "original": "Free treatment with Ayushman card. Doctors were busy but helpful."
+        },
+        "likes": 0
+      },
+      {
+        "link": "https://example.com/review/sample_lko_01_r05",
+        "rating": 2,
+        "date": "a year ago",
+        "iso_date": "2025-09-03T01:12:00Z",
+        "review_id": "sample_lko_01_r05",
+        "snippet": "(Translated by Google) The e-KYC of the Ayushman card was not happening, we had to make rounds for three days.\n\n(Original)\nआयुष्मान कार्ड का ई-केवाईसी नहीं हो रहा था, तीन दिन चक्कर लगाने पड़े।",
+        "extracted_snippet": {
+          "original": "आयुष्मान कार्ड का ई-केवाईसी नहीं हो रहा था, तीन दिन चक्कर लगाने पड़े।",
+          "translated": "The e-KYC of the Ayushman card was not happening, we had to make rounds for three days."
+        },
+        "likes": 3
+      },
+      {
+        "link": "https://example.com/review/sample_lko_01_r06",
+        "rating": 5,
+        "date": "a year ago",
+        "iso_date": "2025-02-02T05:00:00Z",
+        "review_id": "sample_lko_01_r06",
+        "snippet": "Very good care for my grandmother under Ayushman Bharat, everything was cashless.",
+        "extracted_snippet": {
+          "original": "Very good care for my grandmother under Ayushman Bharat, everything was cashless."
+        },
+        "likes": 1
+      },
+      {
+        "link": "https://example.com/review/sample_lko_01_r07",
+        "rating": 3,
+        "date": "a year ago",
+        "iso_date": "2024-12-03T08:48:00Z",
+        "review_id": "sample_lko_01_r07",
+        "snippet": "Came only to make an ABHA health ID at the Ayushman counter. Long queue, got it done in 2 hours.",
+        "extracted_snippet": {
+          "original": "Came only to make an ABHA health ID at the Ayushman counter. Long queue, got it done in 2 hours."
+        },
+        "likes": 4
+      }
+    ]
+  }
+}

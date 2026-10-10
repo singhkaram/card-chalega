@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "note": "SYNTHETIC SAMPLE DATA — dev only",
+  "generatedAt": "2026-10-03T09:00:00.000Z",
+  "reviewsNum": 20,
+  "combos": {
+    "lucknow:general": {
+      "city": "lucknow",
+      "treatment": "general",
+      "mapsKey": "104bea08081bda17e55bc17e",
+      "fetchedAt": "2026-10-03T08:00:00.000Z",
+      "hospitals": [
+        {
+          "dataId": "0x00000000005a1001:0x00000000000fa101",
+          "reviewsKey": "5c49f342d806bb29695e3042"
+        },
+        {
+          "dataId": "0x00000000005a1002:0x00000000000fa102",
+          "reviewsKey": "3dc6793cddd14c918dfabbd5"
+        },
+        {
+          "dataId": "0x00000000005a1003:0x00000000000fa103",
+          "reviewsKey": "4bc346a3ba4d7890586a04d1"
+        },
+        {
+          "dataId": "0x00000000005a1004:0x00000000000fa104",
+          "reviewsKey": "b8a94486b1d72c627b4b6140"
+        },
+        {
+          "dataId": "0x00000000005a1005:0x00000000000fa105",
+          "reviewsKey": "15b860dcd1fb65814ec4321d"
+        },
+        {
+          "dataId": "0x00000000005a1006:0x00000000000fa106",
+          "reviewsKey": "67dc02fa955d49414070b861"
+        },
+        {
+          "dataId": "0x00000000005a1007:0x00000000000fa107",
+          "reviewsKey": "ae197bf1588e5582e2f51e56"
+        },
+        {
+          "dataId": "0x00000000005a1008:0x00000000000fa108",
+          "reviewsKey": "565a6883031613a74ead6760"
+        }
+      ],
+      "newsKeys": {
+        "en": "aac3c80c3099aaef3d36f4be",
+        "hi": "e199a387d01919f2be03312a"
+      }
+    },
+    "patna:dialysis": {
+      "city": "patna",
+      "treatment": "dialysis",
+      "mapsKey": "8f8798e5641a35827581ddeb",
+      "fetchedAt": "2026-10-03T08:30:00.000Z",
+      "hospitals": [
+        {
+          "dataId": "0x00000000005a2001:0x00000000000fa201",
+          "reviewsKey": "97f01acc0ed104a5b785a1ef"
+        },
+        {
+          "dataId": "0x00000000005a2002:0x00000000000fa202",
+          "reviewsKey": "af5e1bd3d251967cebef30e2"
+        },
+        {
+          "dataId": "0x00000000005a2003:0x00000000000fa203",
+          "reviewsKey": "a06be791686cae74aec0d155"
+        },
+        {
+          "dataId": "0x00000000005a2004:0x00000000000fa204",
+          "reviewsKey": "d313310ca51a310b9ae7714f"
+        },
+        {
+          "dataId": "0x00000000005a2005:0x00000000000fa205",
+          "reviewsKey": "f01c06f4be7353d82be7c9d6"
+        },
+        {
+          "dataId": "0x00000000005a2006:0x00000000000fa206",
+          "reviewsKey": "637c1eb18b66637c99907786"
+        }
+      ],
+      "newsKeys": {
+        "en": "95eaf5497da260151392a49f",
+        "hi": "254d03c2de3741f233a28000"
+      }
+    }
+  }
+}

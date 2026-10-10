@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "key": "3dc6793cddd14c918dfabbd5",
+  "engine": "google_maps_reviews",
+  "params": {
+    "data_id": "0x00000000005a1002:0x00000000000fa102",
+    "hl": "en",
+    "num": "20",
+    "query": "ayushman"
+  },
+  "fetchedAt": "2026-10-03T08:02:00.000Z",
+  "note": "SYNTHETIC SAMPLE DATA — dev only",
+  "response": {
+    "search_metadata": {
+      "status": "Success",
+      "created_at": "2026-10-03 08:02:00 UTC",
+      "total_time_taken": 2.1
+    },
+    "search_parameters": {
+      "engine": "google_maps_reviews",
+      "data_id": "0x00000000005a1002:0x00000000000fa102",
+      "query": "ayushman",
+      "num": "20",
+      "hl": "en"
+    },
+    "place_info": {
+      "title": "Shanti Sample Hospital (Sample)",
+      "address": "11 Sample Marg, Lucknow, Uttar Pradesh (Sample)",
+      "rating": 4.6,
+      "reviews": 2341,
+      "type": "Private hospital"
+    },
+    "reviews": [
+      {
+        "link": "https://example.com/review/sample_lko_02_r01",
+        "rating": 1,
+        "date": "a month ago",
+        "iso_date": "2026-09-02T17:24:00Z",
+        "review_id": "sample_lko_02_r01",
+        "snippet": "Admitted my father under the Ayushman card for gall bladder surgery. At discharge they asked us to pay ₹18,000 for medicines and implants which should be covered in the package. No bill was given.",
+        "extracted_snippet": {
+          "original": "Admitted my father under the Ayushman card for gall bladder surgery. At discharge they asked us to pay ₹18,000 for medicines and implants which should be covered in the package. No bill was given."
+        },
+        "likes": 2,
+        "response": {
+          "date": "3 weeks ago",
+          "iso_date": "2026-09-08T20:19:12Z",
+          "snippet": "We regret your experience. Please contact our Ayushman help desk with your file number so we can review the billing. — Hospital administration (sample)"
+        }
+      },
+      {
+        "link": "https://example.com/review/sample_lko_02_r02",
+        "rating": 1,
+        "date": "2 months ago",
+        "iso_date": "2026-08-03T06:48:00Z",
+        "review_id": "sample_lko_02_r02",
+        "snippet": "(Translated by Google) When we showed the Ayushman card they said the scheme is closed here right now, deposit cash. We had to take the patient to another hospital.\n\n(Original)\nआयुष्मान कार्ड दिखाया तो बोले कि यहाँ अभी योजना बंद है, नकद जमा करो। मरीज़ को दूसरे अस्पताल ले जाना पड़ा।",
+        "extracted_snippet": {
+          "original": "आयुष्मान कार्ड दिखाया तो बोले कि यहाँ अभी योजना बंद है, नकद जमा करो। मरीज़ को दूसरे अस्पताल ले जाना पड़ा।",
+          "translated": "When we showed the Ayushman card they said the scheme is closed here right now, deposit cash. We had to take the patient to another hospital."
+        },
+        "likes": 0
+      },
+      {
+        "link": "https://example.com/review/sample_lko_02_r03",
+        "rating": 2,
+        "date": "4 months ago",
+        "iso_date": "2026-06-03T10:36:00Z",
+        "review_id": "sample_lko_02_r03",
+        "snippet": "Ayushman card se admit kiya but har din 2000 rs dawai ke naam pe le lete the. Staff bolta hai ye package me nahi aata.",
+        "extracted_snippet": {
+          "original": "Ayushman card se admit kiya but har din 2000 rs dawai ke naam pe le lete the. Staff bolta hai ye package me nahi aata."
+        },
+        "likes": 3
+      },
+      {
+        "link": "https://example.com/review/sample_lko_02_r04",
+        "rating": 5,
+        "date": "6 months ago",
+        "iso_date": "2026-04-03T14:24:00Z",
+        "review_id": "sample_lko_02_r04",
+        "snippet": "Doctors are very good. My mother's knee operation was done completely free with the Ayushman card, no money asked at all. Thanks to the Ayushman desk staff.",
+        "extracted_snippet": {
+          "original": "Doctors are very good. My mother's knee operation was done completely free with the Ayushman card, no money asked at all. Thanks to the Ayushman desk staff."
+        },
+        "likes": 1,
+        "response": {
+          "date": "6 months ago",
+          "iso_date": "2026-04-09T17:19:12Z",
+          "snippet": "Thank you for your feedback. Wishing your mother a quick recovery."
+        }
+      },
+      {
+        "link": "https://example.com/review/sample_lko_02_r05",
+        "rating": 1,
+        "date": "7 months ago",
+        "iso_date": "2026-03-04T03:48:00Z",
+        "review_id": "sample_lko_02_r05",
+        "snippet": "(Translated by Google) Despite having the Ayushman card they made us deposit 25,000 rupees before the operation, said it would be refunded later, still not received.\n\n(Original)\nआयुष्मान कार्ड होने के बावजूद ऑपरेशन से पहले 25,000 रुपये जमा करवाए, बोले बाद में वापस होंगे, अभी तक नहीं मिले।",
+        "extracted_snippet": {
+          "original": "आयुष्मान कार्ड होने के बावजूद ऑपरेशन से पहले 25,000 रुपये जमा करवाए, बोले बाद में वापस होंगे, अभी तक नहीं मिले।",
+          "translated": "Despite having the Ayushman card they made us deposit 25,000 rupees before the operation, said it would be refunded later, still not received."
+        },
+        "likes": 4
+      },
+      {
+        "link": "https://example.com/review/sample_lko_02_r06",
+        "rating": 2,
+        "date": "9 months ago",
+        "iso_date": "2026-01-02T07:36:00Z",
+        "review_id": "sample_lko_02_r06",
+        "snippet": "Approval for Ayushman took 4 days. The patient was kept waiting in emergency and we were told to wait for the insurance team.",
+        "extracted_snippet": {
+          "original": "Approval for Ayushman took 4 days. The patient was kept waiting in emergency and we were told to wait for the insurance team."
+        },
+        "likes": 2
+      },
+      {
+        "link": "https://example.com/review/sample_lko_02_r07",
+        "rating": 1,
+        "date": "11 months ago",
+        "iso_date": "2025-11-02T11:24:00Z",
+        "review_id": "sample_lko_02_r07",
+        "snippet": "Ayushman card wale patients ke saath bura vyavhar. Bed nahi hai bol ke mana kar diya, private me turant bed mil gaya.",
+        "extracted_snippet": {
+          "original": "Ayushman card wale patients ke saath bura vyavhar. Bed nahi hai bol ke mana kar diya, private me turant bed mil gaya."
+        },
+        "likes": 0
+      },
+      {
+        "link": "https://example.com/review/sample_lko_02_r08",
+        "rating": 3,
+        "date": "a year ago",
+        "iso_date": "2025-08-03T05:36:00Z",
+        "review_id": "sample_lko_02_r08",
+        "snippet": "Treatment under Ayushman was cashless but they charged ₹3,500 for some tests which they said are outside the package. Not sure if that is correct.",
+        "extracted_snippet": {
+          "original": "Treatment under Ayushman was cashless but they charged ₹3,500 for some tests which they said are outside the package. Not sure if that is correct."
+        },
+        "likes": 3
+      },
+      {
+        "link": "https://example.com/review/sample_lko_02_r09",
+        "rating": 2,
+        "date": "a year ago",
+        "iso_date": "2025-03-04T15:36:00Z",
+        "review_id": "sample_lko_02_r09",
+        "snippet": "They said my Ayushman card is valid only for certain surgeries and my mother's treatment is not covered here, go to the government hospital.",
+        "extracted_snippet": {
+          "original": "They said my Ayushman card is valid only for certain surgeries and my mother's treatment is not covered here, go to the government hospital."
+        },
+        "likes": 1
+      },
+      {
+        "link": "https://example.com/review/sample_lko_02_r10",
+        "rating": 1,
+        "date": "2 years ago",
+        "iso_date": "2024-07-04T09:48:00Z",
+        "review_id": "sample_lko_02_r10",
+        "snippet": "Took ₹10,000 extra from an Ayushman patient for blood. Very bad.",
+        "extracted_snippet": {
+          "original": "Took ₹10,000 extra from an Ayushman patient for blood. Very bad."
+        },
+        "likes": 4
+      }
+    ]
+  }
+}

@@ -1,0 +1,179 @@
+{
+  "version": 1,
+  "key": "c635d63e2f95750f340c9eec",
+  "engine": "google_maps_reviews",
+  "params": {
+    "data_id": "0x399be2f3d2796549:0x449251352fb3e3a6",
+    "hl": "en",
+    "num": "20",
+    "query": "ayushman",
+    "sort_by": "newestFirst"
+  },
+  "fetchedAt": "2026-10-10T10:50:16.443Z",
+  "response": {
+    "search_metadata": {
+      "status": "Success",
+      "created_at": "2026-10-10 10:50:20 UTC",
+      "total_time_taken": 0.4
+    },
+    "search_parameters": {
+      "engine": "google_maps_reviews",
+      "data_id": "0x399be2f3d2796549:0x449251352fb3e3a6",
+      "hl": "en",
+      "num": "20",
+      "sort_by": "newestFirst",
+      "query": "ayushman"
+    },
+    "reviews": [
+      {
+        "position": 1,
+        "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2pKdlYxaE1UMDAzVm5GTVFWZFBNMkYzYTJSaWVVRRAB!2m1!1s0x0:0x449251352fb3e3a6!3m1!1s2@1:CAIQACodChtycF9oOjJvV1hMT003VnFMQVdPM2F3a2RieUE%7C%7C?hl=en",
+        "rating": 1,
+        "date": "2 weeks ago",
+        "iso_date": "2026-09-22T00:22:46Z",
+        "iso_date_of_last_edit": "2026-09-22T00:22:46Z",
+        "source": "Google",
+        "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pKdlYxaE1UMDAzVm5GTVFWZFBNMkYzYTJSaWVVRRAB",
+        "snippet": "Hospital me parking, matlab log paidal ayen,if you have ayushman Card they will linger on and  exacerbate upto 5 lacs expenditure, that's harsh reality.",
+        "extracted_snippet": {
+          "original": "Hospital me parking, matlab log paidal ayen,if you have ayushman Card they will linger on and  exacerbate upto 5 lacs expenditure, that's harsh reality."
+        },
+        "likes": 0,
+        "response": {
+          "date": "3 days ago",
+          "iso_date": "2026-10-07T09:40:20Z",
+          "iso_date_of_last_edit": "2026-10-07T09:40:20Z",
+          "snippet": "We appreciate your feedback. At Divine Heart & Multispeciality Hospital, we're dedicated to providing top-quality medical services with empathy and integrity. We continuously ensure that every patient receives the best possible treatment. We request you to please email your concern to\ncare@divinehearthospital.com, along with your contact details. A representative from our hospital will promptly get in touch with you.",
+          "extracted_snippet": {
+            "original": "We appreciate your feedback. At Divine Heart & Multispeciality Hospital, we're dedicated to providing top-quality medical services with empathy and integrity. We continuously ensure that every patient receives the best possible treatment. We request you to please email your concern to\ncare@divinehearthospital.com, along with your contact details. A representative from our hospital will promptly get in touch with you."
+          }
+        }
+      },
+      {
+        "position": 2,
+        "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2tzd00wVTVhVVpxTTBrNVNWTnpOR0pwZG5SRlIxRRAB!2m1!1s0x0:0x449251352fb3e3a6!3m1!1s2@1:CAIQACodChtycF9oOkswM0U5aUZqM0k5SVNzNGJpdnRFR1E%7C%7C?hl=en",
+        "rating": 5,
+        "date": "3 weeks ago",
+        "iso_date": "2026-09-14T08:25:19Z",
+        "iso_date_of_last_edit": "2026-09-14T08:25:19Z",
+        "source": "Google",
+        "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tzd00wVTVhVVpxTTBrNVNWTnpOR0pwZG5SRlIxRRAB",
+        "snippet": "मैं जगदीश हूँ। मेरा PCI प्रोसीजर डॉ. जावेद जी ने किया। पहली बार 4 तारीख को बुखार की वजह से प्रोसीजर नहीं हो पाया, लेकिन 12 तारीख को दोबारा आने पर बहुत अच्छे से इलाज हुआ।\nमैं खास तौर पर Lovy Ma’am (Ayushman Department) का दिल से धन्यवाद करना चाहता हूँ। उन्होंने दोनों बार बहुत जिम्मेदारी से हमारी मदद की और हर चीज़ बहुत प्यार और धैर्य से समझाई। उनका सहयोग हमारे लिए बहुत मायने रखता है।\nडॉ. जावेद जी और Lovy Ma’am को दिल से धन्यवाद। Divine Hospital की पूरी टीम को बहुत-बहुत शुभकामनाएँ। ❤️",
+        "extracted_snippet": {
+          "original": "मैं जगदीश हूँ। मेरा PCI प्रोसीजर डॉ. जावेद जी ने किया। पहली बार 4 तारीख को बुखार की वजह से प्रोसीजर नहीं हो पाया, लेकिन 12 तारीख को दोबारा आने पर बहुत अच्छे से इलाज हुआ।\nमैं खास तौर पर Lovy Ma’am (Ayushman Department) का दिल से धन्यवाद करना चाहता हूँ। उन्होंने दोनों बार बहुत जिम्मेदारी से हमारी मदद की और हर चीज़ बहुत प्यार और धैर्य से समझाई। उनका सहयोग हमारे लिए बहुत मायने रखता है।\nडॉ. जावेद जी और Lovy Ma’am को दिल से धन्यवाद। Divine Hospital की पूरी टीम को बहुत-बहुत शुभकामनाएँ। ❤️",
+          "translated": "I'm Jagdish. Dr. Javed performed my PCI procedure. The first time, on the 4th, I couldn't have the procedure due to fever, but when I came back on the 12th, I was treated very well.\n\nI especially want to thank Lovy Ma'am (Ayushman Department) from the bottom of my heart. She helped us very responsibly both times and explained everything with love and patience. Her support means a lot to us.\nMy heartfelt thanks to Dr. Javed and Lovy Ma'am. Best wishes to the entire team at Divine Hospital. ❤️"
+        },
+        "likes": 0
+      },
+      {
+        "position": 3,
+        "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2pkS01uTm9UMkUyVlRsclFXcEdaMWhyVTIxd1VsRRAB!2m1!1s0x0:0x449251352fb3e3a6!3m1!1s2@1:CAIQACodChtycF9oOjdKMnNoT2E2VTlrQWpGZ1hrU21wUlE%7C%7C?hl=en",
+        "rating": 5,
+        "date": "a month ago",
+        "iso_date": "2026-09-09T10:25:08Z",
+        "iso_date_of_last_edit": "2026-09-09T10:25:08Z",
+        "source": "Google",
+        "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pkS01uTm9UMkUyVlRsclFXcEdaMWhyVTIxd1VsRRAB",
+        "snippet": "would especially like to thank divine hospital and Dr Jayesh Sharma for his excellent care and guidance. I would also like to sincerely appreciate Ms Lovy Mishra from the Ayushman Department, who speaks very politely and respectfully with patients and is always helpful and supportive\n\nI am very satisfied with the services and care provided by the hospital. Thank you to the entire team for your kind and compassionate support",
+        "extracted_snippet": {
+          "original": "would especially like to thank divine hospital and Dr Jayesh Sharma for his excellent care and guidance. I would also like to sincerely appreciate Ms Lovy Mishra from the Ayushman Department, who speaks very politely and respectfully with patients and is always helpful and supportive\n\nI am very satisfied with the services and care provided by the hospital. Thank you to the entire team for your kind and compassionate support"
+        },
+        "likes": 0
+      },
+      {
+        "position": 4,
+        "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xKTVgwMUxZalptWlVWbFJGQkVhV0UyVGt4emFHYxAB!2m1!1s0x0:0x449251352fb3e3a6!3m1!1s2@1:CAIQACodChtycF9oOlJMX01LYjZmZUVlRFBEaWE2TkxzaGc%7C%7C?hl=en",
+        "rating": 5,
+        "date": "2 months ago",
+        "iso_date": "2026-07-30T07:42:52Z",
+        "iso_date_of_last_edit": "2026-07-30T07:42:52Z",
+        "source": "Google",
+        "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xKTVgwMUxZalptWlVWbFJGQkVhV0UyVGt4emFHYxAB",
+        "snippet": "Excellent experience at Divine Hospital. The staff is polite and supportive. A special thanks to the Ayushman Department, especially ma'am. She is very kind, helpful, and explains everything clearly with patience. Thank you so much for your great support and dedication.\n\nHighly recommended",
+        "extracted_snippet": {
+          "original": "Excellent experience at Divine Hospital. The staff is polite and supportive. A special thanks to the Ayushman Department, especially ma'am. She is very kind, helpful, and explains everything clearly with patience. Thank you so much for your great support and dedication.\n\nHighly recommended"
+        },
+        "likes": 0
+      },
+      {
+        "position": 5,
+        "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2tOT01FSnVhMlZ2YlhWbVVEUXpObTlJYUhobU1WRRAB!2m1!1s0x0:0x449251352fb3e3a6!3m1!1s2@1:CAIQACodChtycF9oOkNOMEJua2VvbXVmUDQzNm9IaHhmMVE%7C%7C?hl=en",
+        "rating": 5,
+        "date": "2 months ago",
+        "iso_date": "2026-07-12T11:28:11Z",
+        "iso_date_of_last_edit": "2026-07-12T11:28:11Z",
+        "source": "Google",
+        "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tOT01FSnVhMlZ2YlhWbVVEUXpObTlJYUhobU1WRRAB",
+        "snippet": "Excellent experience at Divine Hospital. The staff is polite and supportive. A special thanks to the Ayushman Department, especially ma'am. She is very kind, helpful, and explains everything clearly with patience. Thank you so much 🙏🙏🙏for your great support and dedication. Highly recommended",
+        "extracted_snippet": {
+          "original": "Excellent experience at Divine Hospital. The staff is polite and supportive. A special thanks to the Ayushman Department, especially ma'am. She is very kind, helpful, and explains everything clearly with patience. Thank you so much 🙏🙏🙏for your great support and dedication. Highly recommended"
+        },
+        "likes": 0
+      },
+      {
+        "position": 6,
+        "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25ack1uZEJhM2s1WjJKZlFubzRTekpJVlZNeE4xRRAB!2m1!1s0x0:0x449251352fb3e3a6!3m1!1s2@1:CAIQACodChtycF9oOnZrMndBa3k5Z2JfQno4SzJIVVMxN1E%7C%7C?hl=en",
+        "rating": 2,
+        "date": "4 months ago",
+        "iso_date": "2026-05-29T11:03:51Z",
+        "iso_date_of_last_edit": "2026-05-29T11:03:51Z",
+        "source": "Google",
+        "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25ack1uZEJhM2s1WjJKZlFubzRTekpJVlZNeE4xRRAB",
+        "snippet": "TPA m ek mam hai jo ayushman  and deen dayal card dono dekhti hai Unko apne post ki responsibility nhi pta hai inko 2 se 3 din lgta hai approval lene m.Patient ko aaj 2 bje admit kra lete hai aur next day documents send krti hai aur and then next to next day approval aata hai.Aise logo hai iss hospital m agr aap kuch questions kr lo to ego heart ho jata hai.patient k attender ko hi galat batate aur aur uske upper chillate hai aur kuch clear nhi batate ki approval ane m kitan time lgta hai generally.Hospital ki yahi policies hai ya madam ki lazyness.",
+        "extracted_snippet": {
+          "original": "TPA m ek mam hai jo ayushman  and deen dayal card dono dekhti hai Unko apne post ki responsibility nhi pta hai inko 2 se 3 din lgta hai approval lene m.Patient ko aaj 2 bje admit kra lete hai aur next day documents send krti hai aur and then next to next day approval aata hai.Aise logo hai iss hospital m agr aap kuch questions kr lo to ego heart ho jata hai.patient k attender ko hi galat batate aur aur uske upper chillate hai aur kuch clear nhi batate ki approval ane m kitan time lgta hai generally.Hospital ki yahi policies hai ya madam ki lazyness.",
+          "translated": "There is a lady in TPA who looks after both Ayushman and Deen Dayal cards. She does not know the responsibility of her post. It takes her 2 to 3 days to get the approval. The patient is admitted today at 2 pm and the documents are sent the next day and then the approval comes the very next day. Such are the people in this hospital, if you ask some questions then their ego gets affected. They tell the patient's attendant wrong things and shout at him and do not tell anything clearly as to how much time it takes for the approval to come generally. Is this the hospital's policy or the madam's laziness."
+        },
+        "likes": 0,
+        "response": {
+          "date": "3 days ago",
+          "iso_date": "2026-10-07T09:49:34Z",
+          "iso_date_of_last_edit": "2026-10-07T09:49:34Z",
+          "snippet": "We appreciate your feedback. At Divine Heart & Multispeciality Hospital, we're dedicated to providing top-quality medical services with empathy and integrity. We continuously ensure that every patient receives the best possible treatment. We request you to please email your concern to\ncare@divinehearthospital.com, along with your contact details. A representative from our hospital will promptly get in touch with you.",
+          "extracted_snippet": {
+            "original": "We appreciate your feedback. At Divine Heart & Multispeciality Hospital, we're dedicated to providing top-quality medical services with empathy and integrity. We continuously ensure that every patient receives the best possible treatment. We request you to please email your concern to\ncare@divinehearthospital.com, along with your contact details. A representative from our hospital will promptly get in touch with you."
+          }
+        }
+      },
+      {
+        "position": 7,
+        "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2tOWE1WbExVbUUzWjJ0TlFWQlFNSGhvZGtGc1FXYxAB!2m1!1s0x0:0x449251352fb3e3a6!3m1!1s2@1:CAIQACodChtycF9oOkNXMVlLUmE3Z2tNQVBQMHhodkFsQWc%7C%7C?hl=en",
+        "rating": 4,
+        "date": "Edited 11 months ago",
+        "iso_date": "2025-11-01T03:41:05Z",
+        "iso_date_of_last_edit": "2025-11-03T01:05:17Z",
+        "source": "Google",
+        "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tOWE1WbExVbUUzWjJ0TlFWQlFNSGhvZGtGc1FXYxAB",
+        "snippet": "Best hospital in my view. Dr.jayesh sharma sir so good,so humble I can not explain.he did my angioplasty on 29 October 25. I am feeling better. Ayushman section mr. Suraj is also very good and supporting.he helped me a lot. Thanks all.",
+        "extracted_snippet": {
+          "original": "Best hospital in my view. Dr.jayesh sharma sir so good,so humble I can not explain.he did my angioplasty on 29 October 25. I am feeling better. Ayushman section mr. Suraj is also very good and supporting.he helped me a lot. Thanks all."
+        },
+        "likes": 0,
+        "response": {
+          "date": "10 months ago",
+          "iso_date": "2025-12-04T16:10:36Z",
+          "iso_date_of_last_edit": "2025-12-04T16:10:36Z",
+          "snippet": "Thanks for your kind gesture ",
+          "extracted_snippet": {
+            "original": "Thanks for your kind gesture "
+          }
+        }
+      },
+      {
+        "position": 8,
+        "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2psM2VEUnNPR1JET1UxcmRucFlkRjlUZG01T1VWRRAB!2m1!1s0x0:0x449251352fb3e3a6!3m1!1s2@1:CAIQACodChtycF9oOjl3eDRsOGRDOU1rdnpYdF9Tdm5OUVE%7C%7C?hl=en",
+        "rating": 5,
+        "date": "a year ago",
+        "iso_date": "2025-08-13T11:57:02Z",
+        "iso_date_of_last_edit": "2025-08-13T11:57:02Z",
+        "source": "Google",
+        "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psM2VEUnNPR1JET1UxcmRucFlkRjlUZG01T1VWRRAB",
+        "snippet": "I have had a good experience here. Things got so easy due to Mr.Ankit Mishra (person at the reception). He is such a sweet helping hand to all . His services were out of the box! Dr.Jayesh, Dr.Gyanendra and Dr.Karuna were exceptional. But the staff at Ayushman Department is so bad I can't tell you. But I had amazing facilities here.",
+        "extracted_snippet": {
+          "original": "I have had a good experience here. Things got so easy due to Mr.Ankit Mishra (person at the reception). He is such a sweet helping hand to all . His services were out of the box! Dr.Jayesh, Dr.Gyanendra and Dr.Karuna were exceptional. But the staff at Ayushman Department is so bad I can't tell you. But I had amazing facilities here."
+        },
+        "likes": 0
+      }
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "key": "eec54cbdc7c41ab6e196231c",
+  "engine": "google_maps_reviews",
+  "params": {
+    "data_id": "0x390cf1136f6a697d:0xd028f05d7b46c3",
+    "hl": "en",
+    "num": "20",
+    "query": "ayushman",
+    "sort_by": "newestFirst"
+  },
+  "fetchedAt": "2026-10-10T10:50:58.200Z",
+  "response": {
+    "search_metadata": {
+      "status": "Success",
+      "created_at": "2026-10-10 10:51:01 UTC",
+      "total_time_taken": 0.97
+    },
+    "search_parameters": {
+      "engine": "google_maps_reviews",
+      "data_id": "0x390cf1136f6a697d:0xd028f05d7b46c3",
+      "hl": "en",
+      "num": "20",
+      "sort_by": "newestFirst",
+      "query": "ayushman"
+    },
+    "reviews": [
+      {
+        "position": 1,
+        "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25sTWNHUkJibFZaYzE5ak5qaGxiMk5VUWtObU5tYxAB!2m1!1s0x0:0xd028f05d7b46c3!3m1!1s2@1:CAIQACodChtycF9oOnlMcGRBblVZc19jNjhlb2NUQkNmNmc%7C%7C?hl=en",
+        "rating": 4,
+        "date": "a year ago",
+        "iso_date": "2025-08-01T04:49:40Z",
+        "iso_date_of_last_edit": "2025-08-01T04:49:40Z",
+        "source": "Google",
+        "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25sTWNHUkJibFZaYzE5ak5qaGxiMk5VUWtObU5tYxAB",
+        "snippet": "Very good the patient care and doctors are good . ayushman yojana patients have ayushman benefits and also have a good response team. The food is also tasty. And the doctors are so humble.",
+        "extracted_snippet": {
+          "original": "Very good the patient care and doctors are good . ayushman yojana patients have ayushman benefits and also have a good response team. The food is also tasty. And the doctors are so humble."
+        },
+        "likes": 0
+      }
+    ]
+  }
+}

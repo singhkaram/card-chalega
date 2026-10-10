@@ -1,0 +1,54 @@
+{
+  "version": 1,
+  "key": "40e2f9b99af38b3595de93ce",
+  "engine": "google_maps_reviews",
+  "params": {
+    "data_id": "0x390cf124d9287501:0x9969065a789c602e",
+    "hl": "en",
+    "num": "20",
+    "query": "ayushman",
+    "sort_by": "newestFirst"
+  },
+  "fetchedAt": "2026-10-10T10:50:56.065Z",
+  "response": {
+    "search_metadata": {
+      "status": "Success",
+      "created_at": "2026-10-10 10:50:59 UTC",
+      "total_time_taken": 1.26
+    },
+    "search_parameters": {
+      "engine": "google_maps_reviews",
+      "data_id": "0x390cf124d9287501:0x9969065a789c602e",
+      "hl": "en",
+      "num": "20",
+      "sort_by": "newestFirst",
+      "query": "ayushman"
+    },
+    "reviews": [
+      {
+        "position": 1,
+        "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnTUNZX29TMUJBEAE!2m1!1s0x0:0x9969065a789c602e!3m1!1s2@1:CIHM0ogKEICAgMCY_oS1BA%7C%7C?hl=en",
+        "rating": 1,
+        "date": "a year ago",
+        "iso_date": "2025-05-04T16:26:27Z",
+        "iso_date_of_last_edit": "2025-05-04T16:26:27Z",
+        "source": "Google",
+        "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNZX29TMUJBEAE",
+        "snippet": "I have two bad experiences here:\n\n1. Dr. Rajeev Jain had a problem that my younger brother, who is a dependent on my father, was using the Ayushman card for billing.  As a doctor, he should be prioritizing the diagnosis and cure rather than the billing aspect. Also he is extremely rude.\n\n2. After my C-section delivery here, I was not explained/informed about the medicines mentioned in the discharge summary that I had to continue for the next 5 days after discharge for me and my baby. As a result, I had to suffer in pain as I missed the pain killers and a few more medicines and my baby was without Vitamin D3 drops for 14 days. Thanks to a pediatrician at a different clinic who asked us if we're giving our baby the drops and then we could start it.",
+        "extracted_snippet": {
+          "original": "I have two bad experiences here:\n\n1. Dr. Rajeev Jain had a problem that my younger brother, who is a dependent on my father, was using the Ayushman card for billing.  As a doctor, he should be prioritizing the diagnosis and cure rather than the billing aspect. Also he is extremely rude.\n\n2. After my C-section delivery here, I was not explained/informed about the medicines mentioned in the discharge summary that I had to continue for the next 5 days after discharge for me and my baby. As a result, I had to suffer in pain as I missed the pain killers and a few more medicines and my baby was without Vitamin D3 drops for 14 days. Thanks to a pediatrician at a different clinic who asked us if we're giving our baby the drops and then we could start it."
+        },
+        "likes": 0,
+        "response": {
+          "date": "a year ago",
+          "iso_date": "2025-05-07T11:05:30Z",
+          "iso_date_of_last_edit": "2025-05-07T11:05:30Z",
+          "snippet": "We are sorry about your experience at Yashoda, we are looking into this issue from our end. You can get in touch with us at 9810922042 for further escalation. \n\nThank you\nRegards,\nTeam Yashoda ",
+          "extracted_snippet": {
+            "original": "We are sorry about your experience at Yashoda, we are looking into this issue from our end. You can get in touch with us at 9810922042 for further escalation. \n\nThank you\nRegards,\nTeam Yashoda "
+          }
+        }
+      }
+    ]
+  }
+}

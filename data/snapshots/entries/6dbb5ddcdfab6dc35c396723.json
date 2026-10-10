@@ -1,0 +1,55 @@
+{
+  "version": 1,
+  "key": "6dbb5ddcdfab6dc35c396723",
+  "engine": "google_maps_reviews",
+  "params": {
+    "data_id": "0x390ce5035eaaaaab:0x2dd548f41f1a66b",
+    "hl": "en",
+    "num": "20",
+    "query": "ayushman",
+    "sort_by": "newestFirst"
+  },
+  "fetchedAt": "2026-10-10T10:50:56.903Z",
+  "response": {
+    "search_metadata": {
+      "status": "Success",
+      "created_at": "2026-10-10 10:51:00 UTC",
+      "total_time_taken": 0.58
+    },
+    "search_parameters": {
+      "engine": "google_maps_reviews",
+      "data_id": "0x390ce5035eaaaaab:0x2dd548f41f1a66b",
+      "hl": "en",
+      "num": "20",
+      "sort_by": "newestFirst",
+      "query": "ayushman"
+    },
+    "reviews": [
+      {
+        "position": 1,
+        "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUM5czlIVnpnRRAB!2m1!1s0x0:0x2dd548f41f1a66b!3m1!1s2@1:CIHM0ogKEICAgIC9s9HVzgE%7C%7C?hl=en",
+        "rating": 1,
+        "date": "2 years ago",
+        "iso_date": "2024-03-09T13:41:24Z",
+        "iso_date_of_last_edit": "2024-03-09T13:41:24Z",
+        "source": "Google",
+        "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM5czlIVnpnRRAB",
+        "snippet": "Hospital 1 star b deserve ni krta .logo ko bewakoof bnane k liye baithe h ye log . TPA and cashless facility bol k direct admit kr lete h patient ko without any clinical investigation and after 24 hrs discharge kr dete h ye bol k ki apko payment krni hogi apke patient ka procedure aj ni hoga Monday ko hoga abi blood infection h .\n\nAb apka treatment cashless ni hoga through Ayushman Bharat card\nAap bill pay kr do",
+        "extracted_snippet": {
+          "original": "Hospital 1 star b deserve ni krta .logo ko bewakoof bnane k liye baithe h ye log . TPA and cashless facility bol k direct admit kr lete h patient ko without any clinical investigation and after 24 hrs discharge kr dete h ye bol k ki apko payment krni hogi apke patient ka procedure aj ni hoga Monday ko hoga abi blood infection h .\n\nAb apka treatment cashless ni hoga through Ayushman Bharat card\nAap bill pay kr do",
+          "translated": "The hospital doesn't even deserve a 1-star rating. These people are here to fool people. They claim TPA and cashless facility and then admit the patient directly without any clinical investigation and discharge him after 24 hours, saying that you have to pay. Your patient's procedure won't be done today; it will be done on Monday; there's still a blood infection.\n\nNow your treatment won't be cashless through Ayushman Bharat card.\n\nYou pay the bill."
+        },
+        "likes": 1,
+        "response": {
+          "date": "Edited 7 months ago",
+          "iso_date": "2024-03-09T14:07:57Z",
+          "iso_date_of_last_edit": "2026-02-26T19:31:52Z",
+          "snippet": "Thank you for sharing your feedback with us. We sincerely apologize for the issues you experienced with the TPA and cashless facility process, including the direct admission without proper clinical investigation and the unexpected discharge after 24 hours. We deeply regret the confusion regarding the Ayushman Bharat card coverage and the payment requirements that were not clearly communicated upfront. These concerns are serious and do not reflect the standard of care we strive to provide. To address your concerns promptly, could you please provide us with your contact details via email at info@metrohospitals.com or by calling us at 8447666333. Our dedicated team is committed to investigating this matter thoroughly and finding a resolution for you as soon as possible.\n\nWarm regards,\nTeam Metro Group",
+          "extracted_snippet": {
+            "original": "Thank you for sharing your feedback with us. We sincerely apologize for the issues you experienced with the TPA and cashless facility process, including the direct admission without proper clinical investigation and the unexpected discharge after 24 hours. We deeply regret the confusion regarding the Ayushman Bharat card coverage and the payment requirements that were not clearly communicated upfront. These concerns are serious and do not reflect the standard of care we strive to provide. To address your concerns promptly, could you please provide us with your contact details via email at info@metrohospitals.com or by calling us at 8447666333. Our dedicated team is committed to investigating this matter thoroughly and finding a resolution for you as soon as possible.\n\nWarm regards,\nTeam Metro Group"
+          }
+        }
+      }
+    ]
+  }
+}

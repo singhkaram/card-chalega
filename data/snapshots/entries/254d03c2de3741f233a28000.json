@@ -1,0 +1,900 @@
+{
+  "version": 1,
+  "key": "254d03c2de3741f233a28000",
+  "engine": "google_news",
+  "params": {
+    "gl": "in",
+    "hl": "hi",
+    "q": "आयुष्मान कार्ड अस्पताल पटना"
+  },
+  "fetchedAt": "2026-10-10T10:50:52.904Z",
+  "response": {
+    "search_metadata": {
+      "status": "Success",
+      "created_at": "2026-10-10 10:50:56 UTC",
+      "total_time_taken": 1.02
+    },
+    "search_parameters": {
+      "engine": "google_news",
+      "gl": "in",
+      "hl": "hi",
+      "q": "आयुष्मान कार्ड अस्पताल पटना"
+    },
+    "news_results": [
+      {
+        "position": 1,
+        "title": "बिहार में आयुष्मान योजना की खुली पोल, NMCH में इमरजेंसी के मरीजों को नहीं मिल रहा लाभ; रुपये से होता है काम",
+        "source": {
+          "name": "Jagran",
+          "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.jagran.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.jagran.com/bihar/patna-city-ayushman-yojana-fails-nmch-patients-in-bihar-emergency-40260772.html",
+        "thumbnail": "https://www.jagranimages.com/images/2026/06/03/article/image/C-430-1-PAT1089-345893-1780445463062-1780445479843_m.webp",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iMkNnNUhkM0JCZFY5RGRGaDVYekZOVFJDMEFSakFBaWdLTWdzQlFJcWxLaWNlYUxxaW1n",
+        "date": "06/03/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-06-03T07:00:00Z"
+      },
+      {
+        "position": 2,
+        "title": "बिहार में 4.12 करोड़ आयुष्मान कार्ड, 1.32 करोड़ परिवार शामिल",
+        "source": {
+          "name": "Prabhat Khabar",
+          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.prabhatkhabar.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.prabhatkhabar.com/state/bihar/patna/bihar-ayushman-bharat-4-crore-cards-31-lakh-patients-treatment",
+        "thumbnail": "https://wpmedia.prabhatkhabar.com/uploads/2026/08/17/1786972715279/sizes/card-5984a3-standard-card.webp",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVRTRUpLUVdGVFUxOXVNV0Z1VFJEaEFSaVFBeWdLTWdhUkVaS3psQW8",
+        "date": "08/17/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-08-17T07:00:00Z"
+      },
+      {
+        "position": 3,
+        "title": "पटना के Medanta Hospital को कानून नहीं मंजूर? आयुष्मान कार्ड पर MLC संजय सिंह का परिषद में धमाका",
+        "source": {
+          "name": "YouTube",
+          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://youtu.be&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://youtu.be/v3eoggouXz0?si=Dz7dl8QskX824k5v",
+        "thumbnail": "https://i.ytimg.com/vi/v3eoggouXz0/maxresdefault.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXFiVXBXV1UxRFkzRjNVM2h0VFJDb0FSaXNBaWdCTWdZVkFJaHdRUVU",
+        "date": "02/27/2026, 08:00 AM, +0000 UTC",
+        "iso_date": "2026-02-27T08:00:00Z"
+      },
+      {
+        "position": 4,
+        "title": "Ayushman Yojana: आयुष्मान कार्ड से इलाज न करने पर सख्ती, निजी अस्पतालों पर होगी कार्रवाई",
+        "source": {
+          "name": "Jagran",
+          "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.jagran.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.jagran.com/bihar/patna-city-ayushman-yojana-action-against-hospitals-denying-treatment-40058307.html",
+        "thumbnail": "https://www.jagranimages.com/images/2025/12/02/article/image/patna-hospital-news-(1)-1764652321722_m.webp",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNVlOR1F5VXpaUVpWTTJja0YxVFJDMEFSakFBaWdLTWdrQlVKZ0hJZW5JQ3dJ",
+        "date": "12/02/2025, 08:00 AM, +0000 UTC",
+        "iso_date": "2025-12-02T08:00:00Z"
+      },
+      {
+        "position": 5,
+        "title": "Bihar Ayushman Card: बिहार में आयुष्मान का बढ़ा दायरा, इतने करोड़ लोगों को मिला फायदा, इलाज की राशि भी बढ़ी",
+        "source": {
+          "name": "Prabhat Khabar",
+          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.prabhatkhabar.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "authors": [
+            "Preeti Dayal"
+          ]
+        },
+        "link": "https://www.prabhatkhabar.com/state/bihar/patna/bihar-ayushman-card-expanded-benefiting-so-many-crore-people-pm-yojana",
+        "thumbnail": "https://wpmedia.prabhatkhabar.com/uploads/2025/12/sizes/bihar-ayushman-card-expanded-benefiting-so-many-crore-people-hero.webp",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNUxRbFJqZGpkRFFXY3dka2RaVFJDZkF4amlCU2dLTWdtUklvd3RNYVdpQ3dJ",
+        "date": "12/21/2025, 08:00 AM, +0000 UTC",
+        "iso_date": "2025-12-21T08:00:00Z"
+      },
+      {
+        "position": 6,
+        "title": "बिहार के किन अस्पतालों में मिलता है आयुष्मान कार्ड का फायदा? जानें अपने काम की बात",
+        "source": {
+          "name": "ABP News",
+          "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.abplive.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.abplive.com/utility-news/ayushman-card-free-treatment-benefits-can-avail-in-these-hospitals-of-bihar-this-is-how-you-can-check-the-list-2879924",
+        "thumbnail": "https://feeds.abplive.com/onecms/images/uploaded-images/2025/02/08/d70eea9ef1b9a8183b5efa3ad08beebf1739002926633907_original.jpg?impolicy=abp_cdn&imwidth=320",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNW5OelpPUlV0Qk9ERmxNVFptVFJDMEFSakFBaWdLTWdtRlVZWVFPU1c1U0FJ",
+        "date": "02/08/2025, 08:00 AM, +0000 UTC",
+        "iso_date": "2025-02-08T08:00:00Z"
+      },
+      {
+        "position": 7,
+        "title": "आयुष्मान भारत योजना से जुड़ा बक्सर का यह दो निजी अस्पताल, इलाज के लिए नहीं लगाना होगा दूसरे शहर के चक्कर",
+        "source": {
+          "name": "News18 Hindi",
+          "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://hindi.news18.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "authors": [
+            "गौरव ललित"
+          ]
+        },
+        "link": "https://hindi.news18.com/news/bihar/buxar-these-two-private-hospitals-of-buxar-are-linked-to-ayushman-bharat-scheme-now-you-will-not-have-to-travel-to-patna-or-banaras-for-treatment-7320543.html",
+        "thumbnail": "https://images.news18.com/ibnkhabar/uploads/2023/08/3377891_HYP_0_FEATURE1692685730967.jpg?im=FitAndFill,width=1200,height=900",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUhaVzQyY0dnMmRsVjRhWFl0VFJEZ0F4aUFCU2dLTWdZSmc0b21OUVE",
+        "date": "08/22/2023, 07:00 AM, +0000 UTC",
+        "iso_date": "2023-08-22T07:00:00Z"
+      },
+      {
+        "position": 8,
+        "title": "आयुष्मान कार्ड से अस्पताल में हुआ घुटने का सफल ऑपरेशन",
+        "source": {
+          "name": "Hindustan",
+          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.livehindustan.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.livehindustan.com/bihar/patna/story-successful-knee-operation-in-hospital-with-ayushman-card-8193648.html",
+        "thumbnail": "https://www.livehindustan.com/lh-img/uploadimage/library/2023/05/20/16_9/16_9_3/_1684600769.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXdRMHRvU25CTU5ISnlaelJTVFJEWUFSaUFBeWdLTWdrcEVZYlRwQ1ZzOFFB",
+        "date": "05/20/2023, 07:00 AM, +0000 UTC",
+        "iso_date": "2023-05-20T07:00:00Z"
+      },
+      {
+        "position": 9,
+        "title": "आयुष्मान कार्ड चाहिए तो तीन दिन रहिए तैयार, बिहार सरकार चला रही है विशेष अभियान, जानें",
+        "source": {
+          "name": "Navbharat Times",
+          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://navbharattimes.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://navbharattimes.indiatimes.com/state/bihar/patna/bihar-government-is-running-a-three-day-special-campaign-to-make-ayushman-card/articleshow/121296650.cms",
+        "thumbnail": "https://static.langimg.com/nbt/thumb/121296666/bihar-ayushman-card.jpg?imgsize=34224&width=1600&height=900&resizemode=75",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNU1ORVJzTlZaTVRXMVljMEV3VFJDZkF4ampCU2dLTWdZQlJJRElwUWs",
+        "date": "05/20/2025, 07:00 AM, +0000 UTC",
+        "iso_date": "2025-05-20T07:00:00Z"
+      },
+      {
+        "position": 10,
+        "title": "आयुष्मान भारत के तहत पटना के इस अस्पताल में गंभीर रोगों का हो रहा मुफ़्त इलाज",
+        "source": {
+          "name": "Hindustan",
+          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.livehindustan.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.livehindustan.com/bihar/patna/story-free-treatment-of-serious-diseases-is-being-done-in-hospital-of-patna-under-ayushman-bharat-7958421.html",
+        "thumbnail": "https://www.livehindustan.com/lh-img/uploadimage/library/2023/03/28/16_9/16_9_3/_1680003221.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVJNelExTTNaWWVuVnpaekJ0VFJEWUFSaUFBeWdLTWdZcEJZYk90UU0",
+        "date": "03/28/2023, 07:00 AM, +0000 UTC",
+        "iso_date": "2023-03-28T07:00:00Z"
+      },
+      {
+        "position": 11,
+        "title": "Ayushman Bharat card : इस कार्ड से पूर्णिया के 9 प्राइवेट अस्पतालों में होगा मुफ्त इलाज, जानें कैसे बनेगा य...",
+        "source": {
+          "name": "News18 Hindi",
+          "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://hindi.news18.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "authors": [
+            "Avnish Chotu Mishra"
+          ]
+        },
+        "link": "https://hindi.news18.com/news/bihar/purnia-this-card-will-provide-free-treatment-in-these-9-private-hospitals-of-purnia-get-it-like-this-6234507.html",
+        "thumbnail": "https://images.news18.com/ibnkhabar/uploads/2023/05/2948751_HYP_0_FEATURE1684346994901.jpg?im=FitAndFill,width=1200,height=900",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVBSVmd6WjJkcVZGbG1NbTQyVFJEZ0F4aUFCU2dLTWdZQlVZcWdSZ1E",
+        "date": "05/18/2023, 07:00 AM, +0000 UTC",
+        "iso_date": "2023-05-18T07:00:00Z"
+      },
+      {
+        "position": 12,
+        "title": "बिहार विधानसभा चुनाव पर दिखेगा आयुष्मान योजना का असर, नीतीश सरकार घर- घर जाकर बनाएगी कार्ड",
+        "source": {
+          "name": "Navbharat Times",
+          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://navbharattimes.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://navbharattimes.indiatimes.com/state/bihar/gayaji/hopes-of-seeing-the-impact-of-ayushman-card-scheme-on-bihar-assembly-elections-2025-increased/articleshow/121677047.cms",
+        "thumbnail": "https://static.langimg.com/nbt/thumb/121677213/ayushman-yojana.jpg?imgsize=60892&width=1600&height=900&resizemode=75",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUZlWFpUZW5SdE5WSlBiR1IwVFJDZkF4ampCU2dLTWdhQklZVDBwQU0",
+        "date": "06/06/2025, 07:00 AM, +0000 UTC",
+        "iso_date": "2025-06-06T07:00:00Z"
+      },
+      {
+        "position": 13,
+        "title": "Ayushman Card: सारण वालों के लिए खुशखबरी, इन अस्पतालों में मिलेगा आयुष्मान योजना का लाभ; ऐसे बनेगा कार्ड",
+        "source": {
+          "name": "Jagran",
+          "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.jagran.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "authors": [
+            "Rajat Mourya"
+          ]
+        },
+        "link": "https://www.jagran.com/bihar/saran-ayushman-card-get-free-treatment-up-to-rs-5-lakhs-in-saran-apply-online-in-5-easy-steps-23875131.html",
+        "thumbnail": "https://www.jagranimages.com/images/newimg/29012025/29_01_2025-ayushman_card_23875131_m.webp",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDViblEwVERKS1RXWldhVkZSVFJDS0F4aThCU2dLTWdhTlVJeVZvQWc",
+        "date": "01/29/2025, 08:00 AM, +0000 UTC",
+        "iso_date": "2025-01-29T08:00:00Z"
+      },
+      {
+        "position": 14,
+        "title": "मुंगेर जिला में चार प्राइवेट अस्पताल में आयुष्मान कार्ड से होगी मुफ्त चिकित्सा, उठाएं लाभ: एसडीओ",
+        "source": {
+          "name": "Hindustan",
+          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.livehindustan.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.livehindustan.com/bihar/munger/story-free-treatment-will-be-provided-in-four-private-hospitals-in-munger-district-through-ayushman-card-avail-the-benefits-sdo-10596581.html",
+        "date": "08/01/2024, 07:00 AM, +0000 UTC",
+        "iso_date": "2024-08-01T07:00:00Z"
+      },
+      {
+        "position": 15,
+        "title": "Ayushman Card: बिहार ने किया National Record कायम, पिछले चार दिनों में बने इतने लाख से ज्यादा 'आयुष्मान कार्ड'",
+        "source": {
+          "name": "Jagran",
+          "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.jagran.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "authors": [
+            "Vikash Chandra Pandey",
+            "अनूप चन्द्र पांडे"
+          ]
+        },
+        "link": "https://www.jagran.com/bihar/patna-city-more-than-42-lakh-ayushman-cards-made-in-last-four-days-in-bihar-23667201.html",
+        "thumbnail": "https://www.jagranimages.com/images/newimg/04032024/04_03_2024-ayushman_card_23667201_222327804_m.webp",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTNVa1ZSVDNGQmFUZERObU5LVFJDS0F4aThCU2dLTWdhSmdaWUZzUWM",
+        "date": "03/04/2024, 08:00 AM, +0000 UTC",
+        "iso_date": "2024-03-04T08:00:00Z"
+      },
+      {
+        "position": 16,
+        "title": "Ayushman Card: सरकारी से दोगुने आयुष्मान लाभार्थियों ने निजी अस्पतालों में कराया उपचार, जानें क्या है कारण?",
+        "source": {
+          "name": "Jagran",
+          "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.jagran.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "authors": [
+            "पवन मिश्रा"
+          ]
+        },
+        "link": "https://www.jagran.com/bihar/patna-city-ayushman-bharat-scheme-a-boon-for-the-poor-in-bihar-23827338.html",
+        "thumbnail": "https://www.jagranimages.com/images/newimg/07112024/07_11_2024-ayushman_card_23827338_m.webp",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNW1NR1puYzNOR2JYQlhOelpmVFJDS0F4aThCU2dLTWdhSmdaWUZzUWM",
+        "date": "11/07/2024, 08:00 AM, +0000 UTC",
+        "iso_date": "2024-11-07T08:00:00Z"
+      },
+      {
+        "position": 17,
+        "title": "आयुष्मान भारत योजना में अग्रणी राज्यों में शामिल बिहार, अब तक 4.16 करोड़ कार्ड बने, 32 लाख मरीजों का हुआ इलाज",
+        "source": {
+          "name": "Jagran",
+          "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.jagran.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.jagran.com/bihar/patna-city-bihar-excels-in-ayushman-bharat-416-cr-cards-made-40174279.html",
+        "thumbnail": "https://www.jagranimages.com/images/2026/03/17/article/image/Patna-News---2026-03-17T080048.332-1773714780102_m.webp",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNDRWMTl2Y0RVNVNWUkJja3hwVFJDMEFSakFBaWdLTWdrQk1KQlNKV214aHdJ",
+        "date": "03/17/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-03-17T07:00:00Z"
+      },
+      {
+        "position": 18,
+        "title": "Ayushman Card: जल्दी करें! इस तारीख तक फ्री में बनेगा आयुष्मान कार्ड, मिलेगी मुफ्त इलाज की सुविधा",
+        "source": {
+          "name": "Jagran",
+          "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.jagran.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.jagran.com/bihar/patna-city-free-ayushman-card-get-yours-by-december-10-know-everything-about-scheme-23841075.html",
+        "thumbnail": "https://www.jagranimages.com/images/newimg/02122024/02_12_2024-ayushman_card_23841075_m.webp",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iNkNnNHhhMkUwVFhRd1pXODVZMUoyVFJDS0F4aThCU2dLTWc2SklZcEdHYVVsalVuMG1icG1FUQ",
+        "date": "12/02/2024, 08:00 AM, +0000 UTC",
+        "iso_date": "2024-12-02T08:00:00Z"
+      },
+      {
+        "position": 19,
+        "title": "Ayushman Card : आयुष्मान कार्ड से मुफ्त इलाज की सुविधा पाना नहीं आसान, मरीज बाजार से खरीद रहे दवाएं",
+        "source": {
+          "name": "Jagran",
+          "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.jagran.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.jagran.com/bihar/patna-city-free-treatment-facility-through-ayushman-card-is-not-easy-patients-are-buying-medicines-from-market-23669416.html",
+        "thumbnail": "https://www.jagranimages.com/images/newimg/07032024/07_03_2024-ayushman_card_23669416_1502555_m.webp",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVFVbWh3VkhRdGQwdFdTMnAwVFJDS0F4aThCU2dLTWdhSmdaWUZzUWM",
+        "date": "03/07/2024, 08:00 AM, +0000 UTC",
+        "iso_date": "2024-03-07T08:00:00Z"
+      },
+      {
+        "position": 20,
+        "title": "बिहार में राशन कार्ड से आयुष्मान कार्ड बनवाना हुआ आसान, ऐसे लें 5 लाख तक के मुफ्त इलाज का लाभ",
+        "source": {
+          "name": "Jagran",
+          "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.jagran.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "authors": [
+            "Rajat Mourya"
+          ]
+        },
+        "link": "https://www.jagran.com/bihar/patna-city-bihar-ayushman-card-get-5-lakh-free-treatment-annually-40396157.html",
+        "thumbnail": "https://www.jagranimages.com/images/2026/10/06/template/image/Ayushman-Card-1791279069452_m.webp",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iMkNnNUJWa013U0RWc1JXVkNjRlpGVFJDMEFSakFBaWdLTWdzQllZd2lLLWhNTXluVG1n",
+        "date": "10/06/2026, 09:32 AM, +0000 UTC",
+        "iso_date": "2026-10-06T09:32:00Z"
+      },
+      {
+        "position": 21,
+        "title": "बिहार में आयुष्मान योजना से जुड़े 4.12 करोड़ लोग, स्वास्थ्य समिति ने संख्या बढ़ाने और क्लेम निपटाने के दिए निर्देश - ayushman bharat bihar speed up cards settle claims faster",
+        "source": {
+          "name": "Jagran",
+          "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.jagran.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.jagran.com/bihar/patna-city-ayushman-bharat-bihar-speed-up-cards-settle-claims-faster-40251964.html",
+        "thumbnail": "https://www.jagranimages.com/images/2026/05/26/article/image/Shashank-Shekhar-1779739482357_m.webp",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTRNa04zVnpsdE16VnZNVXBCVFJDMEFSakFBaWdLTWdhbE5aVHNIUWs",
+        "date": "05/26/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-05-26T07:00:00Z"
+      },
+      {
+        "position": 22,
+        "title": "मनोज झा का आज प्रसाद हॉस्पिटल में आयुष्मान कार्ड से होगा ऑपरेशन",
+        "source": {
+          "name": "Dainik Bhaskar",
+          "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.bhaskar.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.bhaskar.com/local/bihar/muzaffarpur/news/manoj-jhas-operation-will-be-done-today-at-prasad-hospital-with-ayushman-card-135898439.html",
+        "thumbnail": "https://www.bhaskar.com/assets/images/og-bhaskar.df3cc707.jpeg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUlVVXRXUWpBeVUwRTFOMGhEVFJDUUF4ai1CU2dLTWdZVm80NG9QUVU",
+        "date": "09/11/2025, 11:26 PM, +0000 UTC",
+        "iso_date": "2025-09-11T23:26:43Z"
+      },
+      {
+        "position": 23,
+        "title": "जिले के कुल आठ निजी अस्पतालों में आयुष्मान कार्ड पर मिलेगा इलाज",
+        "source": {
+          "name": "Hindustan",
+          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.livehindustan.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.livehindustan.com/bihar/siwan/story-ayushman-bharat-scheme-expands-8-private-hospitals-approved-for-treatment-in-siwan-201759913019487.html",
+        "thumbnail": "https://www.livehindustan.com/lh-img/smart/img/smart/2025/08/27/1600x900/logo/siwan_1756325081170_1756325109514.png",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXVkalI0UWw5Sk1uVjVVRzQzVFJDZkF4ampCU2dLTWdhbEpLQ3NGUW8",
+        "date": "10/08/2025, 07:00 AM, +0000 UTC",
+        "iso_date": "2025-10-08T07:00:00Z"
+      },
+      {
+        "position": 24,
+        "title": "Bihar: पटना के IGIMS में आयुष्मान भारत योजना में बड़ा घोटाला, फर्जी भर्ती और डिस्चार्ज से कितना गबन किया?",
+        "source": {
+          "name": "Amar Ujala",
+          "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.amarujala.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.amarujala.com/bihar/bihar-news-major-ayushman-bharat-scam-unearthed-at-patna-igims-probe-committee-formed-2026-05-27",
+        "thumbnail": "https://staticimg.amarujala.com/assets/images/2025/01/20/aarathaka-aparathha_356eb30347d969226c857ef4da1a7359.jpeg?w=1200",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUpiMFZJZDI5RFZFVTFRek5SVFJDZkF4ampCU2dLTWdhZGNvUXNzUUk",
+        "date": "05/27/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-05-27T07:00:00Z"
+      },
+      {
+        "position": 25,
+        "title": "Ayushman Card को लेकर आया बड़ा अपडेट! अब ऐसे परिवार भी ले सकते हैं स्कीम का लाभ, बस पूरी करनी होगी ये शर्त",
+        "source": {
+          "name": "Jagran",
+          "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.jagran.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "authors": [
+            "पवन मिश्रा"
+          ]
+        },
+        "link": "https://www.jagran.com/bihar/patna-city-ayushman-card-update-know-who-can-apply-and-what-is-the-health-insurance-scheme-23673081.html",
+        "thumbnail": "https://www.jagranimages.com/images/newimg/12032024/12_03_2024-ayushman_card_23673081_15134877_m.webp",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNW1NSGh5VlZSdVVFNHhhMkpwVFJDS0F4aThCU2dLTWdZZE00SXMxUUk",
+        "date": "03/12/2024, 07:00 AM, +0000 UTC",
+        "iso_date": "2024-03-12T07:00:00Z"
+      },
+      {
+        "position": 26,
+        "title": "आप भी बनवा लें अपना आयुष्मान कार्ड, अस्पतालों में पांच लाख तक का इलाज होगा मुफ्त, सघन कार्यक्रम जारी",
+        "source": {
+          "name": "Prabhat Khabar",
+          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.prabhatkhabar.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.prabhatkhabar.com/state/bihar/patna/ayushman-card-in-bihar-special-campaign-continues-in-patna-ayushman-bharat-hospital-will-do-free-treatment-under-yojana-know-details-of-bihar-hospital-news-skt",
+        "thumbnail": "https://dy3rma73kowlp.cloudfront.net/uploads/2024/01/sizes/2019_10largeimg24_oct_2019_055949006-standard-card.webp",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNTZSRGRJU3pkR01VZDFObWhxVFJEaEFSaVFBeWdLTWdtSkFZSW1FYWVTc2dB",
+        "date": "02/19/2021, 08:00 AM, +0000 UTC",
+        "iso_date": "2021-02-19T08:00:00Z"
+      },
+      {
+        "position": 27,
+        "title": "कौशल्या समय हॉस्पिटल में आयुष्मान कार्ड से इलाज शुरू",
+        "source": {
+          "name": "Hindustan",
+          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.livehindustan.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.livehindustan.com/bihar/ara/story-ayushman-card-free-treatment-launched-at-kaushalya-samay-hospital-in-ara-201729776378386.html",
+        "date": "10/24/2024, 07:00 AM, +0000 UTC",
+        "iso_date": "2024-10-24T07:00:00Z"
+      },
+      {
+        "position": 28,
+        "title": "ये हैं मुजफ्फरपुर के टॉप 5 अस्पताल, आयुष्मान कार्ड से आसान होगा गंभीर बीमारियों का इलाज",
+        "source": {
+          "name": "News18 Hindi",
+          "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://hindi.news18.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "authors": [
+            "Avinash Abhimanyu Thakur"
+          ]
+        },
+        "link": "https://hindi.news18.com/photogallery/lifestyle/health-top-5-hospitals-in-muzaffarpur-with-modern-treatment-facility-with-accessibility-to-ayushman-card-local18-ws-l-9717736.html",
+        "thumbnail": "https://images.news18.com/ibnkhabar/uploads/2025/10/HYP_5505703_cropped_09102025_173216_gridart_20251009_173207939_2.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNWZVSFZyVFhwbVlXeHBjalJQVFJEZ0F4aUFCU2dLTWdrQkFJUjNCR3k1TVFF",
+        "date": "10/09/2025, 07:00 AM, +0000 UTC",
+        "iso_date": "2025-10-09T07:00:00Z"
+      },
+      {
+        "position": 29,
+        "title": "दिल्ली में आयुष्मान से कराना है इलाज, तो पहले चेक कर लें अस्पताल की लिस्ट..जानें कहां नहीं चलेगा कार्ड",
+        "source": {
+          "name": "Navbharat Times",
+          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://navbharattimes.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://navbharattimes.indiatimes.com/government-schemes/delhi/how-many-hospitals-in-delhi-under-panel-of-ayushman-bharat-yojana-see-pmjay-hospital-list/articleshow/119844144.cms",
+        "thumbnail": "https://static.langimg.com/nbt/thumb/119844573/delhi-ayushman-card-hospital-list.jpg?imgsize=83506&width=1600&height=900&resizemode=75",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNU1kbTFYY3kxb2N6aGthV2RmVFJDZkF4ampCU2dLTWdZdEVaQ3ZHQW8",
+        "date": "06/06/2025, 07:00 AM, +0000 UTC",
+        "iso_date": "2025-06-06T07:00:00Z"
+      },
+      {
+        "position": 30,
+        "title": "आयुष्मान भारत योजना के तहत बिहार के 5 करोड़ गरीबों को मेदांता में मिलेगी इलाज की सुविधा",
+        "source": {
+          "name": "Hindustan",
+          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.livehindustan.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "authors": [
+            "sunil abhimanyu"
+          ]
+        },
+        "link": "https://www.livehindustan.com/bihar/story-five-million-poor-people-of-bihar-will-be-benifit-for-better-treatment-in-medanta-hospital-by-ayushman-bharat-yojana-3641286.html",
+        "thumbnail": "https://www.livehindustan.com/lh-img/uploadimage/library/2020/10/18/16_9/16_9_2/husband_said_bareilly_cmo_doctor_do_romantic_dance_with_my_wife_in_hospital_get_it_transferred_docto_1603017399.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVRkRFJRT1ROeGRVNUxZMHRKVFJDT0FoamdBeWdLTWdhUk1vNXh1UVk",
+        "date": "11/22/2020, 08:00 AM, +0000 UTC",
+        "iso_date": "2020-11-22T08:00:00Z"
+      },
+      {
+        "position": 31,
+        "title": "caesarean not be done in private hospitals on Ayushman card",
+        "source": {
+          "name": "Prabhat Khabar",
+          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.prabhatkhabar.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.prabhatkhabar.com/state/bihar/patna/caesarean-not-be-done-in-private-hospitals-on-ayushman-card-in-bihar-axs",
+        "thumbnail": "https://wpmedia.prabhatkhabar.com/uploads/2024/01/Ayushman-card-jharkhand.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTRZa1pzVDNSUWIyaFFaakpzVFJDWEF4anhCU2dLTWdZZFU0UXMwUUk",
+        "date": "01/25/2023, 08:00 AM, +0000 UTC",
+        "iso_date": "2023-01-25T08:00:00Z"
+      },
+      {
+        "position": 32,
+        "title": "अगर आयुष्मान कार्ड नहीं होता, तो उनका... समस्तीपुर में गरीबों के लिए Ayushman Card कैसे बन रहा सहारा",
+        "source": {
+          "name": "Navbharat Times",
+          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://navbharattimes.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://navbharattimes.indiatimes.com/state/bihar/samastipur/ayushman-card-is-becoming-support-for-poor-in-samastipur-bihar-news-update/articleshow/114497953.cms",
+        "thumbnail": "https://static.langimg.com/nbt/thumb/114498639/ayushman-card.jpg?imgsize=60252&width=1600&height=900&resizemode=75",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNW1WRVZrWVd4Zk9EZ3dVRTQxVFJDZkF4ampCU2dLTWdB",
+        "date": "10/23/2024, 07:00 AM, +0000 UTC",
+        "iso_date": "2024-10-23T07:00:00Z"
+      },
+      {
+        "position": 33,
+        "title": "बिहार के स्वास्थ्य मंत्री मंगल पांडेय ने की घोषणा, 26 से अभियान चला पंचायतों में बनेगा आयुष्मान कार्ड - Bihar Health Minister Mangal Pandey announced that a campaign will be launched from 26th to make Ayushman c",
+        "source": {
+          "name": "Jagran",
+          "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.jagran.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "authors": [
+            "पवन मिश्रा"
+          ]
+        },
+        "link": "https://www.jagran.com/bihar/patna-city-bihar-health-minister-mangal-pandey-announced-that-a-campaign-will-be-launched-from-26th-to-make-ayushman-cards-in-panchayats-23942421.html",
+        "thumbnail": "https://www.jagranimages.com/images/newimg/20052025/20_05_2025-mangal_pandey_23942421_m.webp",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNW9WRnBZVG14Vk0wbFNMVzVMVFJDS0F4aThCU2dLTWdrQlFacnVuS21SaVFJ",
+        "date": "05/20/2025, 07:00 AM, +0000 UTC",
+        "iso_date": "2025-05-20T07:00:00Z"
+      },
+      {
+        "position": 34,
+        "title": "कैसे बिहार AB-PMJAY के जरिए मरीजों को दिल्ली, वेल्लोर जाने से रोकने की तैयारी कर रहा है",
+        "source": {
+          "name": "ThePrint Hindi",
+          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://hindi.theprint.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "authors": [
+            "सुकन्या दत्ता"
+          ]
+        },
+        "link": "https://hindi.theprint.in/health/how-bihar-is-planning-to-prevent-patients-from-going-to-delhi-vellore-through-ab-pmjay/829380/",
+        "thumbnail": "https://staticprinthindi.theprint.in/wp-content/uploads/2025/06/Untitled-design-2025-06-11T160812.605.png",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNUpWRVpEVjBRelVITnhhblJFVFJDZkF4ampCU2dLTWdtUjRJVFZUS09DRkFF",
+        "date": "06/11/2025, 07:00 AM, +0000 UTC",
+        "iso_date": "2025-06-11T07:00:00Z"
+      },
+      {
+        "position": 35,
+        "title": "जयप्रभा मेदांता में एक चौथाई बेड गरीबों के लिए आरक्षित : मंगल",
+        "source": {
+          "name": "Hindustan",
+          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.livehindustan.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.livehindustan.com/bihar/patna/story-bihar-health-minister-confirms-reserved-beds-at-jay-prabha-medanta-hospital-for-poor-patients-201772198972559.html",
+        "thumbnail": "https://www.livehindustan.com/lh-img/smart/img/smart/2025/07/24/1600x900/logo/Patna_1753336823049_1753336823165.png",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVlOVkZSY0Zob2IyaE9jWGxuVFJDZkF4ampCU2dLTWdZQmdJYXN0QVE",
+        "date": "02/27/2026, 08:00 AM, +0000 UTC",
+        "iso_date": "2026-02-27T08:00:00Z"
+      },
+      {
+        "position": 36,
+        "title": "PMCH में दम तोड़ रही आयुष्मान भारत योजना, मरीज दर-दर भटकने को मजबूर",
+        "source": {
+          "name": "ETV Bharat",
+          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.etvbharat.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.etvbharat.com/hindi/bihar/city/patna/people-not-getting-benefits-of-ayushman-bharat-yojna-in-pmch/bh20211001223234584",
+        "thumbnail": "https://imgs.etvbharat.com/etvbharat/prod-images/768-512-13233289-thumbnail-3x2-ayushman.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDFiVGR1YUdvelRWTmhhREJxVFJERUF4aW1CU2dLTWdZSkFZcTJpQXM",
+        "date": "10/01/2021, 07:00 AM, +0000 UTC",
+        "iso_date": "2021-10-01T07:00:00Z"
+      },
+      {
+        "position": 37,
+        "title": "पटना जंक्शन पर स्वास्थ्य विभाग बना रहा आयुष्मान कार्ड, 1 महीने तक चलेगा अभियान",
+        "source": {
+          "name": "ETV Bharat",
+          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.etvbharat.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.etvbharat.com/hindi/bihar/state/patna/health-department-is-making-ayushman-card-at-patna-junction/bh20211105084835618",
+        "thumbnail": "https://imgs.etvbharat.com/etvbharat/prod-images/768-512-13549364-thumbnail-3x2-aushman.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNUJjRVV6UVY5cVZXUmhWelUwVFJERUF4aW1CU2dLTWdrQlVaQ2pvQ2dyTHdJ",
+        "date": "11/05/2021, 07:00 AM, +0000 UTC",
+        "iso_date": "2021-11-05T07:00:00Z"
+      },
+      {
+        "position": 38,
+        "title": "भागलपुर के इन 19 निजी अस्पतालों में इलाज करा सकेंगे आयुष्मान कार्डधारक, देखें लिस्ट",
+        "source": {
+          "name": "Prabhat Khabar",
+          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.prabhatkhabar.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "authors": [
+            "internet prabhatkhabar"
+          ]
+        },
+        "link": "https://www.prabhatkhabar.com/state/bihar/ayushman-card-holders-will-be-able-to-get-treatment-in-these-19-private-hospitals-of-bhagalpur-gvk",
+        "thumbnail": "https://wpmedia.prabhatkhabar.com/uploads/2024/01/ayushman-bharat-1.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNUJXVjlEVG5SbFpHcEdWMXBqVFJDUUF4aUtCU2dLTWdrSklvREdFdXRSdHdB",
+        "date": "12/13/2022, 08:00 AM, +0000 UTC",
+        "iso_date": "2022-12-13T08:00:00Z"
+      },
+      {
+        "position": 39,
+        "title": "जिले के मात्र 13 निजी अस्पतालों में है आयुष्मान कार्ड से इलाज की व्यवस्था",
+        "source": {
+          "name": "Prabhat Khabar",
+          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.prabhatkhabar.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "authors": [
+            "internet prabhatkhabar"
+          ]
+        },
+        "link": "https://www.prabhatkhabar.com/state/bihar/hajipur/only-13-private-hospital-of-hajipur-accepts-aayushman-card",
+        "thumbnail": "https://wpmedia.prabhatkhabar.com/uploads/2024/04/HAJIPUR-landmark-1.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDRkMTlTUTAwNU1qSTNZek40VFJERUF4aW1CU2dLTWdaUlVJRjM1QUE",
+        "date": "08/25/2024, 07:00 AM, +0000 UTC",
+        "iso_date": "2024-08-25T07:00:00Z"
+      },
+      {
+        "position": 40,
+        "title": "Bihar News: सरकार के इस बड़े फैसले से मिलेगी हाइड्रोसील मरीजों को राहत, फ्री में करवा सकेंगे सर्जरी",
+        "source": {
+          "name": "Jagran",
+          "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.jagran.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "authors": [
+            "पवन मिश्रा"
+          ]
+        },
+        "link": "https://www.jagran.com/bihar/patna-city-bihar-government-big-decision-filariasis-infected-hydrocele-patients-free-surgeries-under-ayushman-card-23856715.html",
+        "thumbnail": "https://www.jagranimages.com/images/newimg/27122024/27_12_2024-ayushman-card_23856715_m.webp",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUtOalp0UXpoRFJVMXVXbmxXVFJDS0F4aThCU2dLTWdhSmdaWUZzUWM",
+        "date": "12/27/2024, 08:00 AM, +0000 UTC",
+        "iso_date": "2024-12-27T08:00:00Z"
+      },
+      {
+        "position": 41,
+        "title": "बिहार-UP में महिलाओं की बच्चेदानी की कीमत 20 हजार: बिना बीमारी ऑपरेशन, कैमरे पर डॉक्टर बोले- कितनी भी लाओ, ...",
+        "source": {
+          "name": "Dainik Bhaskar",
+          "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.bhaskar.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.bhaskar.com/local/bihar/news/bihar-hospital-uterus-surgery-scam-exposed-ayushman-yojana-135956242.html",
+        "thumbnail": "https://images.bhaskarassets.com/thumb/1200x900/web2images/521/2025/09/19/landscape66_1758290355.gif",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXRaSHAwTVRZMlQxbDNkVFJxVFJEM0FoajBBeWdLTWdZNVlwYnpLQWc",
+        "date": "09/19/2025, 07:00 AM, +0000 UTC",
+        "iso_date": "2025-09-19T07:00:00Z"
+      },
+      {
+        "position": 42,
+        "title": "आयुष्मान कार्ड नहीं है तो पहुंचें सरकारी अस्पताल, 5 लाख के मुफ्त इलाज का बनेगा हेल्थ कार्ड",
+        "source": {
+          "name": "Hindustan",
+          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.livehindustan.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.livehindustan.com/bihar/story-pm-jan-arogya-yojna-ayushman-health-card-for-free-treatment-camp-arranged-in-government-hospitals-7140912.html",
+        "thumbnail": "https://www.livehindustan.com/lh-img/uploadimage/library/2022/09/27/16_9/16_9_3/_1664244898.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWxVVlpsTUdOdWNEVjBORW8wVFJEWUFSaUFBeWdLTWdZZE00UU0wUUk",
+        "date": "09/27/2022, 07:00 AM, +0000 UTC",
+        "iso_date": "2022-09-27T07:00:00Z"
+      },
+      {
+        "position": 43,
+        "title": "Muzaffarpur News: आयुष्मान कार्ड सेवा देने वाले राज्य के अस्पतालों की होगी जांच",
+        "source": {
+          "name": "Hindustan",
+          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.livehindustan.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.livehindustan.com/bihar/muzaffarpur/story-ayushman-card-hospitals-in-bihar-to-face-inspections-abha-id-drive-planned-201791549378960.amp.html",
+        "thumbnail": "https://www.livehindustan.com/lh-img/smart/img/smart/2025/08/27/1600x900/logo/muzaffarpur_1756328396944_1756328402847.png",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTNlV0pZUTBaM1ptaHFhbEJEVFJDZkF4ampCU2dLTWdZQm81Q01OUWM",
+        "date": "10/09/2026, 12:36 PM, +0000 UTC",
+        "iso_date": "2026-10-09T12:36:30Z"
+      },
+      {
+        "position": 44,
+        "title": "आयुष्मान कार्ड से होगा हृदय रोगियों का ऑपरेशन",
+        "source": {
+          "name": "Hindustan",
+          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.livehindustan.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.livehindustan.com/bihar/patna/story-heart-patients-will-be-operated-with-ayushman-card-6088870.html",
+        "date": "03/23/2022, 07:00 AM, +0000 UTC",
+        "iso_date": "2022-03-23T07:00:00Z"
+      },
+      {
+        "position": 45,
+        "title": "Bihar News: मंत्री मंगल पांडेय बोले- बिहार के इतने प्राइवेट अस्पतालों में होगा मुफ्त इलाज, पढ़िए पूरी खबर",
+        "source": {
+          "name": "Amar Ujala",
+          "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.amarujala.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.amarujala.com/bihar/bihar-news-health-minister-mangal-pandey-gave-information-about-ayushman-bharat-scheme-private-hospitals-2025-04-04",
+        "thumbnail": "https://staticimg.amarujala.com/assets/images/2025/03/21/bihar-news_53f9ea0dbdf9198d9f45142d17a87794.jpeg?w=1200",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUlPVXRYTm5OMk1ucHNlVTVyVFJEcEFoakpCQ2dLTWdZNUk0aFJtUWs",
+        "date": "04/04/2025, 07:00 AM, +0000 UTC",
+        "iso_date": "2025-04-04T07:00:00Z"
+      },
+      {
+        "position": 46,
+        "title": "‘यूरिन के रास्ते पत्थर डालेंगे, 24 घंटे बाद निकाल देंगे’: बिना बीमारी हो रहा मरीजों का ऑपरेशन; UP–बिहार के ...",
+        "source": {
+          "name": "Dainik Bhaskar",
+          "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.bhaskar.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.bhaskar.com/local/bihar/news/stones-will-be-inserted-through-urine-and-will-be-removed-after-24-hours-134336352.html",
+        "thumbnail": "https://images.bhaskarassets.com/thumb/1200x900/web2images/521/2025/01/22/fraud-in-ayushman-yojana-exposed-cover1_1737524119.gif",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDBiSGxNVDNOdlExZFFlalp0VFJEM0FoajBBeWdLTWdZOUk1Z3lvUWc",
+        "date": "01/21/2025, 08:00 AM, +0000 UTC",
+        "iso_date": "2025-01-21T08:00:00Z"
+      },
+      {
+        "position": 47,
+        "title": "बिहार में आयुष्मान कार्ड से इलाज के मामले में ये हॉस्पिटल बना नंबर वन, इतने मरीजों को मिला लाभ",
+        "source": {
+          "name": "News18 Hindi",
+          "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://hindi.news18.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://hindi.news18.com/news/bihar/darbhanga-dmch-darbhanga-becomes-first-in-bihar-state-in-treatment-with-ayushman-card-local18-8752746.html",
+        "thumbnail": "https://images.news18.com/ibnkhabar/uploads/2024/10/HYP_4720401_1728278555968_2.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUdXa3N5WXpscGFXOU5VR0ZuVFJDUUF4aUFCU2dLTWdZQklKVFRyQVk",
+        "date": "10/07/2024, 07:00 AM, +0000 UTC",
+        "iso_date": "2024-10-07T07:00:00Z"
+      },
+      {
+        "position": 48,
+        "title": "सरकारी अस्पताल में इलाज के लिए नहीं कटानी होगी पर्ची, क्यूआर कोड स्कैन करते ही लगा जाएगा नंबर",
+        "source": {
+          "name": "ETV Bharat",
+          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.etvbharat.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.etvbharat.com/hi/!state/no-registration-required-for-treatment-in-government-hospita-supaul-brs24020306610",
+        "thumbnail": "https://imgs.etvbharat.com/etvbharat/prod-images/03-02-2024/1200-675-20660918-696-20660918-1706975737114.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWFaVE10WWpSV1NXTm9SblF5VFJDZkF4ampCU2dLTWdZQnNJb2lRUVE",
+        "date": "02/03/2024, 08:00 AM, +0000 UTC",
+        "iso_date": "2024-02-03T08:00:00Z"
+      },
+      {
+        "position": 49,
+        "title": "आयुष्मान कार्ड पर अब यूरोलॉजी का भी होगा इलाज",
+        "source": {
+          "name": "Hindustan",
+          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.livehindustan.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.livehindustan.com/bihar/ara/story-urology-will-also-be-treated-on-ayushman-card-5623043.html",
+        "date": "01/20/2022, 08:00 AM, +0000 UTC",
+        "iso_date": "2022-01-20T08:00:00Z"
+      },
+      {
+        "position": 50,
+        "title": "अब बिना ब्रेन खोले भी होगी सर्जरी, पहली बार इस सरकारी अस्पताल में शुरू हुई सुविधा, इनका फ्री में होगा इलाज",
+        "source": {
+          "name": "News18 Hindi",
+          "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://hindi.news18.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://hindi.news18.com/news/lifestyle/health-brain-angiography-in-patna-igims-surgery-at-low-cost-in-government-hospital-digital-subtraction-angiography-machine-local18-ws-l-9222627.html",
+        "thumbnail": "https://images.news18.com/ibnkhabar/uploads/2025/05/HYP_5153993_cropped_05052025_221541_20250505_021811_watermark__2.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTBUbXAxTlZoWlJscHhiRXhyVFJEZ0F4aUFCU2dLTWdZVklKSUlJZ2s",
+        "date": "05/06/2025, 07:00 AM, +0000 UTC",
+        "iso_date": "2025-05-06T07:00:00Z"
+      },
+      {
+        "position": 51,
+        "title": "सीवान सदर अस्पताल में आयुष्मान कार्ड बनाने की पहल: सुबह 11 से शाम 4 बजे तक डिजिटल काउंटर पर सेवा उपलब्ध, 5 ...",
+        "source": {
+          "name": "Dainik Bhaskar",
+          "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.bhaskar.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.bhaskar.com/local/bihar/siwan/news/initiative-to-make-ayushman-card-in-siwan-sadar-hospital-134091966.html",
+        "thumbnail": "https://images.bhaskarassets.com/thumb/1200x900/web2images/521/2024/12/09/208c9166-12df-4be5-aa72-a58db2c63f29_1733710559219.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNTZlWFJ2ZFc1UE9VOVJjbk5LVFJEZ0F4aUFCU2dLTWdrTk1vNzB0R2FpcmdF",
+        "date": "12/08/2024, 08:00 AM, +0000 UTC",
+        "iso_date": "2024-12-08T08:00:00Z"
+      },
+      {
+        "position": 52,
+        "title": "पटना के महावीर हार्ट हॉस्पीटल में अब गरीब करबा सकेंगे हार्ट सर्जरी, मिलेगा आयुष्मान भारत योजना का लाभ",
+        "source": {
+          "name": "Prabhat Khabar",
+          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.prabhatkhabar.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.prabhatkhabar.com/state/bihar/patna-mahaveer-heart-hospital-now-get-the-benefit-of-ayushman-bharat-scheme-asj",
+        "thumbnail": "https://wpmedia.prabhatkhabar.com/uploads/2024/01/sizes/0e43e2f4-4ae6-420b-98f7-65301be77ee7-hero.webp",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUtlbXBhWWxOak9ISlJRakZoVFJDZkF4amlCU2dLTWdhTlE0cEtwUWM",
+        "date": "03/22/2022, 07:00 AM, +0000 UTC",
+        "iso_date": "2022-03-22T07:00:00Z"
+      },
+      {
+        "position": 53,
+        "title": "सावधान, बिहार में पकड़ाया आयुष्मान कार्ड फर्जीवाड़ा ! पटना के 4 अस्तपाल पर कार्रवाई, 120 हॉस्पिटल को जारी हुआ नोटिस",
+        "source": {
+          "name": "News4Nation",
+          "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://news4nation.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://news4nation.com/amp/bihar/patna/ayushman-bharat-scam-in-bihar-patna-hospital-blacklisted-120-hospitals-get-notices-345620",
+        "thumbnail": "https://cdn.news4nation.com/Cloud/news/coverimage/10Oct2026/2a59e48d-ca26-4e16-8013-92d870ea5891.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXBUbGRFZWtORVl6Wm5Za0YzVFJDZkF4ampCU2dLTWdZSkVvaUlJUVU",
+        "date": "10/10/2026, 03:20 AM, +0000 UTC",
+        "iso_date": "2026-10-10T03:20:00Z"
+      },
+      {
+        "position": 54,
+        "title": "Bihar News: समस्तीपुर के इन 22 अस्पतालों में करवाएं 5 लाख तक का फ्री में इलाज, बस होना चाहिए आयुष्मान कार्ड",
+        "source": {
+          "name": "Zee News",
+          "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://zeenews.india.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://zeenews.india.com/hindi/india/bihar-jharkhand/samastipur/people-above-70-years-made-ayushman-card-they-will-get-free-treatment-worth-rs-5-lakh-annually-in-22-hospitals/2527789",
+        "thumbnail": "https://hindi.cdn.zeenews.com/hindi/sites/default/files/2024/11/23/3437792-samastipur-ayushman-card-news.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTFPVTlzTFhONE1ubE1VV0kyVFJEZUF4aUJCU2dLTWdhSmNwVGxxZ2M",
+        "date": "11/23/2024, 08:00 AM, +0000 UTC",
+        "iso_date": "2024-11-23T08:00:00Z"
+      },
+      {
+        "position": 55,
+        "title": "बिहार के निवासी हैं तो आयुष्मान कार्ड में अपना नाम कैसे जुड़वाएं, कौन से दस्तावेज करने होंगे जमा?",
+        "source": {
+          "name": "Zee News",
+          "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://zeenews.india.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://zeenews.india.com/hindi/india/bihar-jharkhand/patna/bihar-ayushman-card-name-add-process-eligibility-documents/3070716",
+        "thumbnail": "https://hindi.cdn.zeenews.com/hindi/sites/default/files/2026/01/11/4315749-ausman-card.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNW9Wa04wUzBGNVZXcE1jWEJXVFJEZ0F4aUFCU2dLTWdZQk1aSzBwQWc",
+        "date": "01/11/2026, 08:00 AM, +0000 UTC",
+        "iso_date": "2026-01-11T08:00:00Z"
+      },
+      {
+        "position": 56,
+        "title": "आयुष्मान भारत हॉस्पिटल लिस्ट गोरखपुर | Ayushman Bharat Hospital List Gorakhpur, Uttar Pradesh",
+        "source": {
+          "name": "easyhindi.in",
+          "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://easyhindi.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://easyhindi.in/ayushman-bharat/ayushman-bharat-hospital-list-gorakhpur/",
+        "thumbnail": "https://easyhindi.in/wp-content/uploads/2023/05/Aayushman-Bharat-Hospital-List-Gorakhpur-1-660x345.png",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWFRVTlRYTBJM1Z6ZElUVmxPVFJEWkFoaVVCU2dLTWdZQkFKS2tzZ2M",
+        "date": "05/06/2023, 07:00 AM, +0000 UTC",
+        "iso_date": "2023-05-06T07:00:00Z"
+      },
+      {
+        "position": 57,
+        "title": "Ayushman Bharat Hospital List Bhopal 2023 | आयुष्मान भारत हॉस्पिटल लिस्ट भोपाल",
+        "source": {
+          "name": "easyhindi.in",
+          "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://easyhindi.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://easyhindi.in/ayushman-bharat/ayushman-card-hospital-list-in-bhopal/",
+        "thumbnail": "https://easyhindi.in/wp-content/uploads/2022/07/PMJAY-Hospital-List-29.png",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNUxNM2Q1TTFkQlN6WTBTMVJMVFJDNEF4aUFCU2dLTWdrQlFZYndJR21wRVFF",
+        "date": "07/19/2022, 08:30 AM, +0000 UTC",
+        "iso_date": "2022-07-19T08:30:05Z"
+      },
+      {
+        "position": 58,
+        "title": "पटना के रूबन मेमोरियल अस्पताल का आयुष्मान भारत से करार, कार्डधारी परिवार को अब मिलेगा पांच लाख तक मुफ्त इलाज",
+        "source": {
+          "name": "News4Nation",
+          "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://news4nation.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://news4nation.com/news/patna-s-ruban-memorial-hospital-has-tied-up-with-ayushman-bharat-the-cardholder-family-will-now-get-free-treatment-up-to-five-lakhs-in-this-hospital-230239",
+        "date": "05/11/2022, 07:00 AM, +0000 UTC",
+        "iso_date": "2022-05-11T07:00:00Z"
+      },
+      {
+        "position": 59,
+        "title": "आयुष्मान भारत हॉस्पिटल लिस्ट मथुरा | Ayushman Bharat Hospital List Mathura ऑनलाइन देखें |@ pmjay.gov.in",
+        "source": {
+          "name": "easyhindi.in",
+          "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://easyhindi.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://easyhindi.in/ayushman-bharat/ayushman-card-hospital-list-in-mathura/",
+        "thumbnail": "https://easyhindi.in/wp-content/uploads/2023/06/Ayushman-Bharat-Hospital-List-Mathura-660x345.png",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVBOVE5MTVdoUVFWWTNNakJPVFJEWkFoaVVCU2dLTWdZQkFZaVhLQWc",
+        "date": "06/09/2023, 07:00 AM, +0000 UTC",
+        "iso_date": "2023-06-09T07:00:00Z"
+      },
+      {
+        "position": 60,
+        "title": "आयुष्मान भारत हॉस्पिटल लिस्ट अमृतसर 2023| Ayushman Bharat Hospital List Amritsar @pmjay.gov.in",
+        "source": {
+          "name": "easyhindi.in",
+          "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://easyhindi.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://easyhindi.in/ayushman-bharat/ayushman-bharat-hospital-list-amritsar/",
+        "thumbnail": "https://easyhindi.in/wp-content/uploads/2022/07/PMJAY-Hospital-List-27.png",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDVPVE50YkdOc2MzRlZiSGRpVFJDNEF4aUFCU2dLTWdZRlVJWkZ5Z00",
+        "date": "05/03/2023, 07:00 AM, +0000 UTC",
+        "iso_date": "2023-05-03T07:00:00Z"
+      },
+      {
+        "position": 61,
+        "title": "आयुष्मान भारत हॉस्पिटल लिस्ट देहरादून | Ayushman Bharat Hospital List Dehradun 2023",
+        "source": {
+          "name": "केंद्र एव राज्य की सरकारी योजनाओं की जानकारी in Hindi",
+          "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://easyhindi.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://easyhindi.in/ayushman-bharat/ayushman-bharat-hospital-list-dehradun/",
+        "thumbnail": "https://easyhindi.in/wp-content/uploads/2023/05/Ayushman-Bharat-Hospital-List-Dehradun-1.png",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVVOblZ2WTJGeVpuSmlSR2gwVFJDUUF4ai1CU2dLTWdZQllZNlhLQWc",
+        "date": "05/15/2023, 07:00 AM, +0000 UTC",
+        "iso_date": "2023-05-15T07:00:00Z"
+      },
+      {
+        "position": 62,
+        "title": "Gaya में Ayushman Yojana से लाभार्थी ने मुफ्त में कराया आंख का ऑपरेशन",
+        "source": {
+          "name": "IANS LIVE",
+          "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://ianslive.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://ianslive.in/video/ayushman-bharat-gaya-bihar-loknayak-jayaprakash-hospital-eye-surgery-free-healthcare-ayushman-card-beneficiary-rural-india-government-scheme-public-health-08062025183825",
+        "thumbnail": "https://i.ytimg.com/vi_webp/LjKQr9LuMP0/maxresdefault.webp",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNTZZakpvU0dSRVMyWmpNMEZ3VFJDZkF4ampCU2dLTWdB",
+        "date": "06/08/2025, 07:00 AM, +0000 UTC",
+        "iso_date": "2025-06-08T07:00:00Z"
+      }
+    ],
+    "menu_links": [
+      {
+        "title": "भारत",
+        "topic_token": "CAAqIQgKIhtDQkFTRGdvSUwyMHZNRE55YXpBU0FtaHBLQUFQAQ",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqIQgKIhtDQkFTRGdvSUwyMHZNRE55YXpBU0FtaHBLQUFQAQ"
+      },
+      {
+        "title": "दुनिया",
+        "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtaHBHZ0pKVGlnQVAB",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtaHBHZ0pKVGlnQVAB"
+      },
+      {
+        "title": "आपकी स्थानीय खबरें",
+        "topic_token": "CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE"
+      },
+      {
+        "title": "कारोबार",
+        "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FtaHBHZ0pKVGlnQVAB",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FtaHBHZ0pKVGlnQVAB"
+      },
+      {
+        "title": "मनोरंजन",
+        "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNREpxYW5RU0FtaHBHZ0pKVGlnQVAB",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNREpxYW5RU0FtaHBHZ0pKVGlnQVAB"
+      },
+      {
+        "title": "खेल",
+        "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp1ZEdvU0FtaHBHZ0pKVGlnQVAB",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp1ZEdvU0FtaHBHZ0pKVGlnQVAB"
+      }
+    ]
+  }
+}

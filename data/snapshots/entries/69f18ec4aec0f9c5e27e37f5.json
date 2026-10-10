@@ -1,0 +1,46 @@
+{
+  "version": 1,
+  "key": "69f18ec4aec0f9c5e27e37f5",
+  "engine": "google_maps_reviews",
+  "params": {
+    "data_id": "0x399bfd64f2bcc1a5:0x45c18f03f9d6f7a3",
+    "hl": "en",
+    "num": "20",
+    "query": "ayushman",
+    "sort_by": "newestFirst"
+  },
+  "fetchedAt": "2026-10-10T10:50:16.489Z",
+  "response": {
+    "search_metadata": {
+      "status": "Success",
+      "created_at": "2026-10-10 10:50:20 UTC",
+      "total_time_taken": 0.49
+    },
+    "search_parameters": {
+      "engine": "google_maps_reviews",
+      "data_id": "0x399bfd64f2bcc1a5:0x45c18f03f9d6f7a3",
+      "hl": "en",
+      "num": "20",
+      "sort_by": "newestFirst",
+      "query": "ayushman"
+    },
+    "reviews": [
+      {
+        "position": 1,
+        "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xJd2JTMDFaMFpTTVZsSlluQXhjVVp3TmtkU05XYxAB!2m1!1s0x0:0x45c18f03f9d6f7a3!3m1!1s2@1:CAIQACodChtycF9oOlIwbS01Z0ZSMVlJYnAxcUZwNkdSNWc%7C%7C?hl=en",
+        "rating": 1,
+        "date": "a month ago",
+        "iso_date": "2026-09-06T09:06:01Z",
+        "iso_date_of_last_edit": "2026-09-06T09:06:01Z",
+        "source": "Google",
+        "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xJd2JTMDFaMFpTTVZsSlluQXhjVVp3TmtkU05XYxAB",
+        "snippet": "VERY BAD.. SOME DOCTOR ND GUARD STAFF BEHAVIOUR\n\nHOSPITAL ME CHARITY KE NAAM PAR BAS LOOOTA JATA HAI... AYUSHMAN CARD SE.. SURGERY KRNE ME PROBLEM HAI .. INKO  BASS PAISA... CHAHIYE.....",
+        "extracted_snippet": {
+          "original": "VERY BAD.. SOME DOCTOR ND GUARD STAFF BEHAVIOUR\n\nHOSPITAL ME CHARITY KE NAAM PAR BAS LOOOTA JATA HAI... AYUSHMAN CARD SE.. SURGERY KRNE ME PROBLEM HAI .. INKO  BASS PAISA... CHAHIYE.....",
+          "translated": "Very bad behavior of some doctors and guard staff.\n\nIn the hospital, money is being looted in the name of charity. There is a problem with performing surgeries using Ayushman cards. They only want money."
+        },
+        "likes": 0
+      }
+    ]
+  }
+}

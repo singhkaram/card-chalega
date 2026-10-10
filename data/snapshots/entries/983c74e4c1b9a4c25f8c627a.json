@@ -1,0 +1,1022 @@
+{
+  "version": 1,
+  "key": "983c74e4c1b9a4c25f8c627a",
+  "engine": "google_maps",
+  "params": {
+    "hl": "en",
+    "ll": "@26.9124,75.7873,13z",
+    "q": "hospital",
+    "type": "search"
+  },
+  "fetchedAt": "2026-10-10T10:51:14.962Z",
+  "response": {
+    "search_metadata": {
+      "status": "Success",
+      "created_at": "2026-10-10 10:51:17 UTC",
+      "total_time_taken": 2.26
+    },
+    "search_parameters": {
+      "engine": "google_maps",
+      "type": "search",
+      "q": "hospital",
+      "ll": "@26.9124,75.7873,13z",
+      "google_domain": "google.com",
+      "hl": "en"
+    },
+    "search_information": {
+      "local_results_state": "Results for exact spelling",
+      "query_displayed": "hospital"
+    },
+    "local_results": [
+      {
+        "position": 1,
+        "title": "Eternal Multispeciality Hospital",
+        "place_id": "ChIJc8OKleK1bTkROa5MmI9o2yA",
+        "data_id": "0x396db5e2958ac373:0x20db688f984cae39",
+        "data_cid": "2367600995058101817",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x396db5e2958ac373%3A0x20db688f984cae39&engine=google_maps_reviews&hl=en",
+        "photos_link": "https://serpapi.com/search.json?data_id=0x396db5e2958ac373%3A0x20db688f984cae39&engine=google_maps_photos&hl=en",
+        "gps_coordinates": {
+          "latitude": 26.840380399999997,
+          "longitude": 75.8057917
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJc8OKleK1bTkROa5MmI9o2yA",
+        "provider_id": "/g/1hhvxk063",
+        "rating": 4.7,
+        "reviews": 12955,
+        "type": "General hospital",
+        "types": [
+          "General hospital",
+          "Heart hospital"
+        ],
+        "address": "3A, Jagatpura Rd, near Jawahar Circle, Chainpura, Malviya Nagar, Jaipur, Rajasthan 302017, India",
+        "country": "India",
+        "open_state": "Open 24 hours",
+        "hours": "Open 24 hours",
+        "operating_hours": {
+          "saturday": "Open 24 hours",
+          "sunday": "Open 24 hours",
+          "monday": "Open 24 hours",
+          "tuesday": "Open 24 hours",
+          "wednesday": "Open 24 hours",
+          "thursday": "Open 24 hours",
+          "friday": "Open 24 hours"
+        },
+        "phone": "+91 95491 58888",
+        "website": "https://www.eternalhospital.com/",
+        "extensions": [
+          {
+            "accessibility": [
+              "Wheelchair-accessible car park",
+              "Wheelchair-accessible entrance",
+              "Wheelchair-accessible seating",
+              "Wheelchair-accessible toilet"
+            ]
+          }
+        ],
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TxhbaqRa5VEOoTGMRBuqa6_k6qaN3DfqZwDGsjFG3We7hefLLHtnEmjlf_sL44RPkYjKxFbcV0YvDEURh4PDde23B--uUAdVVlOp-UVWCNq7FugwswkcRJSXpwDfM9lBsGizPHfA=w1000-h1000-c-n",
+        "serpapi_thumbnail": "https://serpapi.com/images/url/B5j3znicHcRRboIwGADgE1XYYBqX7AEsYDZE0knRvRisLRUqpfvL6rzhjrDbLNn38P3-SGtHePY8JYNZq3Wr-AT8k-nB8sHOmL567QiIAQIvKurL93J3k6fGkOaJJlu9yzYknkwzP_Zz0xQBFubD4Qy6NAtqvpBc5PnaDsm1U-IIeRiSsj90b7f0xKh_-MJJRWRY4jN_DGKEpio6U6q2I6povSrMIp1aB65n5PV9PzosNksVQ3a5l2sRvbgH3_eR_J-h4Q8z90Xy"
+      },
+      {
+        "position": 2,
+        "title": "RHL - Rajasthan Hospital | आर एच एल - राजस्थान हॉस्पिटल",
+        "place_id": "ChIJq_qsWdm1bTkRf_midwB0-cE",
+        "data_id": "0x396db5d959acfaab:0xc1f9740077a2f97f",
+        "data_cid": "13977330463877036415",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x396db5d959acfaab%3A0xc1f9740077a2f97f&engine=google_maps_reviews&hl=en",
+        "photos_link": "https://serpapi.com/search.json?data_id=0x396db5d959acfaab%3A0xc1f9740077a2f97f&engine=google_maps_photos&hl=en",
+        "gps_coordinates": {
+          "latitude": 26.855799299999997,
+          "longitude": 75.802488
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJq_qsWdm1bTkRf_midwB0-cE",
+        "provider_id": "/g/11f0_dh37l",
+        "rating": 4.5,
+        "reviews": 3173,
+        "type": "Hospital",
+        "types": [
+          "Hospital",
+          "Private hospital"
+        ],
+        "address": "Jawahar Lal Nehru Marg, opp. RAJASTHAN JAIPURIA HOSPITAL, Jai Jawan Colony, Milap Nagar, Jaipur, Rajasthan 302018, India",
+        "country": "India",
+        "open_state": "Open 24 hours",
+        "hours": "Open 24 hours",
+        "operating_hours": {
+          "saturday": "Open 24 hours",
+          "sunday": "Open 24 hours",
+          "monday": "Open 24 hours",
+          "tuesday": "Open 24 hours",
+          "wednesday": "Open 24 hours",
+          "thursday": "Open 24 hours",
+          "friday": "Open 24 hours"
+        },
+        "phone": "+91 141 272 0020",
+        "website": "http://www.rajasthanhospital.in/",
+        "extensions": [
+          {
+            "accessibility": [
+              "Wheelchair-accessible car park",
+              "Wheelchair-accessible entrance"
+            ]
+          }
+        ],
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RLclyhLeJ1PE2QPfXqqMkdqsNYi7ALIxR6JXMBfl65XLO-YUHW0NMgHy2JtFICrfjudbAKYJj8pBkbFcZiK5ID2VqNrnNd9dv4wdap89_ttxtykWYFNitgn4xvksDraLe9k0eSSA=w1000-h1000-c-n",
+        "serpapi_thumbnail": "https://serpapi.com/images/url/Euc-03icHcRbjoIwFADQFVUqPpnED3wQwdJxNAr4Y7QtBYvl0avCEl2Cu5nE83E-7wygMj-WVWSDnixLWYiHEQ0rNQgNPVbeLVkZxAwylkujvHN2hBVdRkTQ367sv20a13WoeG1okk9c4re7cRCH87QYj2Lyi5LDOsI0lOvODsDzF016e_Cru0mC27Saq6vHTvlm5C_tY00bTbnDn8MXv1RT5wzQQqeixKM5SD1sn8osmwsRjsJiv3dnrz7GGGXfGdL_CqtGMA"
+      },
+      {
+        "position": 3,
+        "title": "Jaipur Hospital, Mahaveer Nagar",
+        "place_id": "ChIJIydFzMS1bTkRAIqxi6BaHIg",
+        "data_id": "0x396db5c4cc452723:0x881c5aa08bb18a00",
+        "data_cid": "9807813734091033088",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x396db5c4cc452723%3A0x881c5aa08bb18a00&engine=google_maps_reviews&hl=en",
+        "photos_link": "https://serpapi.com/search.json?data_id=0x396db5c4cc452723%3A0x881c5aa08bb18a00&engine=google_maps_photos&hl=en",
+        "gps_coordinates": {
+          "latitude": 26.857445799999997,
+          "longitude": 75.794974
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJIydFzMS1bTkRAIqxi6BaHIg",
+        "provider_id": "/g/11c0xc__g4",
+        "rating": 4.5,
+        "reviews": 659,
+        "type": "General hospital",
+        "types": [
+          "General hospital",
+          "Private hospital"
+        ],
+        "address": "Mahaveer Nagar S16A, S17, Tonk Rd, near Gopalpura, Gopal Pura Mode, Jaipur, Rajasthan 302018, India",
+        "country": "India",
+        "open_state": "Open 24 hours",
+        "hours": "Open 24 hours",
+        "operating_hours": {
+          "saturday": "Open 24 hours",
+          "sunday": "Open 24 hours",
+          "monday": "Open 24 hours",
+          "tuesday": "Open 24 hours",
+          "wednesday": "Open 24 hours",
+          "thursday": "Open 24 hours",
+          "friday": "Open 24 hours"
+        },
+        "phone": "+91 74140 01001",
+        "website": "https://jaipurhospital.in/",
+        "extensions": [
+          {
+            "accessibility": [
+              "Wheelchair-accessible car park",
+              "Wheelchair-accessible entrance",
+              "Wheelchair-accessible toilet"
+            ]
+          }
+        ],
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SsWPom2EU4gMRD9bbzQdIH7oV5mMX6aAgotyPonjmI2Q2Rk_7zDqC3kJaj12UiP-VtYnO_A7Zpd773xZTBZwrdFEWqE29hPo7RRBHFjugaR8zRWXcwSQpbvXPInm79CsknaWa1CQ=w1000-h1000-c-n",
+        "serpapi_thumbnail": "https://serpapi.com/images/url/VaNhEXicHcTdboIwGADQJ6pAmetYsgtEjCxxK_WnyI0phRTB9kNbx-QN9wh7myU7F-f3p3VusK-ed2nDmQJQl-Zum5sE4xrjZhK0pwaLpEXWiz_4-RFtLaegcbp_Uhu2jKpqyutsTeAw15viWcQK3IOC6XSGc8z6E5mW1yTs30UX4P2ZooM7ms9TTMqhJiT8LneLcrzVq5RfUxy1FAhji_WquyvBXibGCzlu86H6KmhmNIkS2xvBRZDkb2Pg-z5q_5fI_AHriUVU"
+      },
+      {
+        "position": 4,
+        "title": "Santokba Durlabhji Memorial Hospital (SDMH)",
+        "place_id": "ChIJ5y7Tz562bTkRBv03XcX2IzQ",
+        "data_id": "0x396db69ecfd32ee7:0x3423f6c55d37fd06",
+        "data_cid": "3757117841690066182",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x396db69ecfd32ee7%3A0x3423f6c55d37fd06&engine=google_maps_reviews&hl=en",
+        "photos_link": "https://serpapi.com/search.json?data_id=0x396db69ecfd32ee7%3A0x3423f6c55d37fd06&engine=google_maps_photos&hl=en",
+        "gps_coordinates": {
+          "latitude": 26.8942695,
+          "longitude": 75.8125914
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ5y7Tz562bTkRBv03XcX2IzQ",
+        "provider_id": "/m/0cc60q1",
+        "rating": 4.4,
+        "reviews": 5651,
+        "type": "General hospital",
+        "types": [
+          "General hospital",
+          "Private hospital",
+          "Pharmacy"
+        ],
+        "address": "VRV6+FRM, Near, Bhawani Singh Rd, Rambagh, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302004, India",
+        "country": "India",
+        "open_state": "Open 24 hours",
+        "hours": "Open 24 hours",
+        "operating_hours": {
+          "saturday": "Open 24 hours",
+          "sunday": "Open 24 hours",
+          "monday": "Open 24 hours",
+          "tuesday": "Open 24 hours",
+          "wednesday": "Open 24 hours",
+          "thursday": "Open 24 hours",
+          "friday": "Open 24 hours"
+        },
+        "phone": "+91 141 352 4444",
+        "website": "http://www.sdmh.in/",
+        "extensions": [
+          {
+            "accessibility": [
+              "Wheelchair-accessible car park",
+              "Wheelchair-accessible entrance"
+            ]
+          }
+        ],
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Q5kfO5cr7iLCmZe9EnEJ-7dvFUzo-4KwPswoKpRNJLiospkqqpGN47DfQCqPB9ifYdQP4hQYfTT17ZsySzpTKK3hsZnTYc2lwoeOvT2gxIxWCDYJcTSVb8cR6TDBmjpNvzoTw=w1000-h1000-c-n",
+        "serpapi_thumbnail": "https://serpapi.com/images/url/-X9ISnicHcTREoFAFADQL1qFSGY8UBhlUiymHq2tjdq7uWnpA_2DvzHjPJzvRzSNwqlhlGLYywHykj-RPxjIhsumx6AycoWEIUFjHp6LtxOP7tluxB52sXWrlDtLufSJfW1Xxw6IFegINQRqH_rbAlDd61qtQ8v2stito4VTZMk1jiwRJxmlfTvF96FTNAiGAlNJEzYoNfBdSwf5a_M6u17iM3o4XSZsP6beorqpsO2A6pnum6ZJxH9G5A9gTkWM"
+      },
+      {
+        "position": 5,
+        "title": "Apex Hospitals Mansarovar",
+        "place_id": "ChIJ2579U6K1bTkREH7owy4l2nY",
+        "data_id": "0x396db5a253fd9edb:0x76da252ec3e87e10",
+        "data_cid": "8564198524183936528",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x396db5a253fd9edb%3A0x76da252ec3e87e10&engine=google_maps_reviews&hl=en",
+        "photos_link": "https://serpapi.com/search.json?data_id=0x396db5a253fd9edb%3A0x76da252ec3e87e10&engine=google_maps_photos&hl=en",
+        "gps_coordinates": {
+          "latitude": 26.8657266,
+          "longitude": 75.7627953
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ2579U6K1bTkREH7owy4l2nY",
+        "provider_id": "/g/1tfkjkyp",
+        "rating": 4.7,
+        "reviews": 3360,
+        "type": "General hospital",
+        "types": [
+          "General hospital",
+          "Hospital"
+        ],
+        "address": "Ward 27, 55, Rajat Path, near United Bank of India, Ward 27, Rajat Path, Mansarovar Sector 5, Mansarovar, Jaipur, Rajasthan 302020, India",
+        "country": "India",
+        "open_state": "Open 24 hours",
+        "hours": "Open 24 hours",
+        "operating_hours": {
+          "saturday": "Open 24 hours",
+          "sunday": "Open 24 hours",
+          "monday": "Open 24 hours",
+          "tuesday": "Open 24 hours",
+          "wednesday": "Open 24 hours",
+          "thursday": "Open 24 hours",
+          "friday": "Open 24 hours"
+        },
+        "phone": "+91 98290 30011",
+        "website": "https://www.apexhospitals.com/hospitals/mansarovar?utm_source=google&utm_campaign=GMB+Page",
+        "extensions": [
+          {
+            "accessibility": [
+              "Wheelchair-accessible car park",
+              "Wheelchair-accessible entrance",
+              "Wheelchair-accessible seating",
+              "Wheelchair-accessible toilet"
+            ]
+          }
+        ],
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9REbnlxXZXRaowfDVJMV6Pb5D-RitPxvAsKLmL-LEPOs4d8B94X0YSGhCyycElXPinviTEksXeK7ZN4CzhXJwN_a7WWLPHgk_tIaXSG581MVMD7E-Ha7o436UnRX6OkOsWNjUtg=w1000-h1000-c-n",
+        "serpapi_thumbnail": "https://serpapi.com/images/url/wfk51XicHcRLDoIwFADAE1UwIqiJC4XGH58GFaobAhVbBFvjqyJe0DN4GxNnMd-P0PoGE8NoxKDHleJN-YDyzpTUpdQ9pq4GvwFigMCYhWnVjWNcyOZFjzTOVXv2knWQ2KQYeiiuNHk9Z7Dxrz7yMYnAOo3mY4uah-1CuF3HcENJJZ_VDtdAy41zDC33Lei6DbPcSVOfLHmd6VVOt4vhqB8kgedgtMwdZQ3svYypHdURpOFlr_m07ZumicR_huQPVhxD5w"
+      },
+      {
+        "position": 6,
+        "title": "Shalby Multi-Specialty Hospital, Jaipur",
+        "place_id": "ChIJZxJfWKS0bTkRuL6Iwf0sdxo",
+        "data_id": "0x396db4a4585f1267:0x1a772cfdc188beb8",
+        "data_cid": "1907042435600006840",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x396db4a4585f1267%3A0x1a772cfdc188beb8&engine=google_maps_reviews&hl=en",
+        "photos_link": "https://serpapi.com/search.json?data_id=0x396db4a4585f1267%3A0x1a772cfdc188beb8&engine=google_maps_photos&hl=en",
+        "gps_coordinates": {
+          "latitude": 26.903576599999997,
+          "longitude": 75.7292137
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJZxJfWKS0bTkRuL6Iwf0sdxo",
+        "provider_id": "/g/11c2k8gq_2",
+        "rating": 4.7,
+        "reviews": 15599,
+        "type": "General hospital",
+        "types": [
+          "General hospital",
+          "Specialized hospital",
+          "Hospital",
+          "Private hospital"
+        ],
+        "address": "Under Pass Delhi - Ajmer Expressway, 200 Feet Bypass Rd, near Gandhi Path Road, Chitrakoot Sector 3, Vaishali Nagar, Jaipur, Rajasthan 302021, India",
+        "country": "India",
+        "open_state": "Open 24 hours",
+        "hours": "Open 24 hours",
+        "operating_hours": {
+          "saturday": "Open 24 hours",
+          "sunday": "Open 24 hours",
+          "monday": "Open 24 hours",
+          "tuesday": "Open 24 hours",
+          "wednesday": "Open 24 hours",
+          "thursday": "Open 24 hours",
+          "friday": "Open 24 hours"
+        },
+        "phone": "+91 90579 01410",
+        "website": "https://www.shalby.org/hospitals/jaipur-shalby/?utm_source=google&utm_medium=GMB&utm_campaign=search",
+        "extensions": [
+          {
+            "accessibility": [
+              "Wheelchair-accessible car park",
+              "Wheelchair-accessible entrance",
+              "Wheelchair-accessible seating",
+              "Wheelchair-accessible toilet"
+            ]
+          }
+        ],
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TBN2oriOwZAEG6s6zzU5c1nYhoe5YyjMZSRm7kgAEJMbK4Z81higniWlEnxwDyao2CV_uxfAU5Vi9r5DNPyeapt-MFcVKuOqwfPopU9XTmg24-oXS39lImqxF7FRUaWL7LCNmd=w1000-h1000-c-n",
+        "serpapi_thumbnail": "https://serpapi.com/images/url/OCqACHicHcTdboIwGADQJ6r8KCImXjCBZSpoVEC4WVhX2yrth7QE8AV9Bt9myc7Feb-Y1o1aGkbNphMKQGvSKdJikJpIPcEgDNoohBVShp_kfPTOH4kNLd_3pR9-ztX8-UwdbMmCAXGK8RaXp6Nw79QPN_HPdlYuLMap5HkdyqEPxgrsdfbdDVc_dTLutU6QHEZSNRrFEc623f7RXw_QpN7lLKg9Q3A5Tb36SzyGyI2OaZXv3N06Eb-r3jJNE7H_MZJ_q_tFMw"
+      },
+      {
+        "position": 7,
+        "title": "SG Hospital Jaipur",
+        "place_id": "ChIJ2dNbkUXIbTkRx961zig2wbw",
+        "data_id": "0x396dc845915bd3d9:0xbcc13628ceb5dec7",
+        "data_cid": "13601211898530225863",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x396dc845915bd3d9%3A0xbcc13628ceb5dec7&engine=google_maps_reviews&hl=en",
+        "photos_link": "https://serpapi.com/search.json?data_id=0x396dc845915bd3d9%3A0xbcc13628ceb5dec7&engine=google_maps_photos&hl=en",
+        "gps_coordinates": {
+          "latitude": 26.8519358,
+          "longitude": 75.7948031
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ2dNbkUXIbTkRx961zig2wbw",
+        "provider_id": "/g/11clyp5zgs",
+        "rating": 4.3,
+        "reviews": 86,
+        "type": "General hospital",
+        "types": [
+          "General hospital",
+          "Hospital",
+          "Private hospital"
+        ],
+        "address": "K8, Tonk Rd, Income Tax Colony, Durgapura, Jaipur, Rajasthan 302018, India",
+        "country": "India",
+        "open_state": "Open 24 hours",
+        "hours": "Open 24 hours",
+        "operating_hours": {
+          "saturday": "Open 24 hours",
+          "sunday": "Open 24 hours",
+          "monday": "Open 24 hours",
+          "tuesday": "Open 24 hours",
+          "wednesday": "Open 24 hours",
+          "thursday": "Open 24 hours",
+          "friday": "Open 24 hours"
+        },
+        "phone": "+91 98290 61197",
+        "website": "https://sghjaipur.wixsite.com/sghospitaljaipur",
+        "extensions": [
+          {
+            "accessibility": [
+              "Wheelchair-accessible car park",
+              "Wheelchair-accessible entrance"
+            ]
+          }
+        ],
+        "book_online": "https://www.practo.com/jaipur/clinic/sidhya-fertility-and-women-care-bani-park/doctors?utm_source=google&utm_medium=reserve_with_google&utm_campaign=establishment_feed&rwg_token=AE37R_jbq2YW1QBNe7QjkYWiYr5Isohmj6yT9vgQQ-7RTzUnCOcvr_ezihj6cFrtyJmXGTzYHIUge37lgyecWu0riwxwhUoeAQ%3D%3D",
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Q0LUofeTutDgwTy99H5OTBgUJYWah08RQhfGtJaESxGLsqUZhCd25wia5Nx7Fah3LInw1ANyFS0oXK0ilOKBEViSJRwRHLonwR7u0TcJKDSu2aveke0onZQKUeZZaLEXWDeN7b=w1000-h1000-c-n",
+        "serpapi_thumbnail": "https://serpapi.com/images/url/hemkdnicHcRLDoIwFADAEyFPDUFMXKggCg2Gnyi7WktLxFZtsXJCz-BtTJzFfD9c67ua23bHpyMmJetor-iTSKGp0CMibza7K4soS9nLpGoHLwVUyoYWvfaZKQbP2zr7YsXK6FRhDrMs5U2oIxzk7xCpR1nz9WXimBY7ydvdYD5FO2HGy2TY5CCPMbTdPl4FhzaPMpNtkRQmc3soSBT7eT_BL3qlIEWdxiWta4yCY-XTxD0vzBgALP6fWOIHXd5Eew"
+      },
+      {
+        "position": 8,
+        "title": "LIBERTY HOSPITAL",
+        "place_id": "ChIJH0hfCJe1bTkREu-sVtFt2nQ",
+        "data_id": "0x396db597085f481f:0x74da6dd156acef12",
+        "data_cid": "8420163199192330002",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x396db597085f481f%3A0x74da6dd156acef12&engine=google_maps_reviews&hl=en",
+        "photos_link": "https://serpapi.com/search.json?data_id=0x396db597085f481f%3A0x74da6dd156acef12&engine=google_maps_photos&hl=en",
+        "gps_coordinates": {
+          "latitude": 26.844147999999997,
+          "longitude": 75.7741746
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJH0hfCJe1bTkREu-sVtFt2nQ",
+        "provider_id": "/g/1yg93q2kv",
+        "rating": 4.7,
+        "reviews": 300,
+        "type": "General hospital",
+        "types": [
+          "General hospital",
+          "Hospital"
+        ],
+        "address": "115, Tagore Path, Thadi Market, Agarwal Farm, SEC-11, Mansarovar, Jaipur, Rajasthan 302020, India",
+        "country": "India",
+        "open_state": "Open 24 hours",
+        "hours": "Open 24 hours",
+        "operating_hours": {
+          "saturday": "Open 24 hours",
+          "sunday": "Open 24 hours",
+          "monday": "Open 24 hours",
+          "tuesday": "Open 24 hours",
+          "wednesday": "Open 24 hours",
+          "thursday": "Open 24 hours",
+          "friday": "Open 24 hours"
+        },
+        "phone": "+91 96801 31836",
+        "website": "http://www.libertyhospital.in/",
+        "extensions": [
+          {
+            "accessibility": [
+              "Wheelchair-accessible car park",
+              "Wheelchair-accessible entrance",
+              "Wheelchair-accessible seating"
+            ]
+          }
+        ],
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Tc3ILXONppV0EqWS8GHFoHUiyP2kX3z7GKZ29iBt5WjX6yVyz-5EK3GI9otk4etbqLnFpRjt343FAh6tJFQmKRtn1PDB3uf1oB9AsMikz9RWXAaNpxn3Y5tJ9Ey2wsLzFlZSEG=w1000-h1000-c-n",
+        "serpapi_thumbnail": "https://serpapi.com/images/url/yVxhi3icHcTdEoFAGADQJ1r9rLBmXNRoQwmh4o6dVMrusp9he0HP4G3MOBfn-6kApBobRlvhXilE2RZPVTyY4FBw6DFxM0qpEFNIGW6c1ZrsGJ5H-SqWMjX9e7YdBTMqZvtar-0mx90wCI82qT1wsms-0KnukOOHOJgTAU2_gPM94lQmV8B9TN1qAAu6uYUJcGs99fDzYgmPuGpZNx1Jstw9xfLN8cGBBfG1_VJRR9vj1g8mL8s0TVT9Z4j_APXxQ58"
+      },
+      {
+        "position": 9,
+        "title": "Bani Park Hospital",
+        "place_id": "ChIJP-6GQPGzbTkRmD0TW3k9a7g",
+        "data_id": "0x396db3f14086ee3f:0xb86b3d795b133d98",
+        "data_cid": "13288782716915105176",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x396db3f14086ee3f%3A0xb86b3d795b133d98&engine=google_maps_reviews&hl=en",
+        "photos_link": "https://serpapi.com/search.json?data_id=0x396db3f14086ee3f%3A0xb86b3d795b133d98&engine=google_maps_photos&hl=en",
+        "gps_coordinates": {
+          "latitude": 26.924455199999997,
+          "longitude": 75.7881708
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJP-6GQPGzbTkRmD0TW3k9a7g",
+        "provider_id": "/g/1tg_k112",
+        "rating": 4.6,
+        "reviews": 277,
+        "unclaimed_listing": true,
+        "type": "Hospital",
+        "types": [
+          "Hospital"
+        ],
+        "address": "D-9, Kabir Marg, Sen Colony, Bani Park, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302006, India",
+        "country": "India",
+        "open_state": "Open 24 hours",
+        "hours": "Open 24 hours",
+        "operating_hours": {
+          "saturday": "Open 24 hours",
+          "sunday": "Open 24 hours",
+          "monday": "Open 24 hours",
+          "tuesday": "Open 24 hours",
+          "wednesday": "Open 24 hours",
+          "thursday": "Open 24 hours",
+          "friday": "Open 24 hours"
+        },
+        "phone": "+91 141 220 3864",
+        "website": "http://www.bphospital.net/",
+        "extensions": [
+          {
+            "accessibility": [
+              "Wheelchair-accessible car park",
+              "Wheelchair-accessible entrance"
+            ]
+          }
+        ],
+        "thumbnail": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhFl5fWrRTDa09GemgmJJ2r-ksLrGbc4GoTM9xWVAt_Mt1IkvH-9k4ESYWqByHy1VHyzEtdZ_HpkqmPBhyOiNB9_RvFCTJn6qvxfZ37Gx9bd5ZdisW7btZ07CY60jx5xHNIj9Bbzm2lI9HTAgm4yprhZVX2StrQM8-RqcBUWEL4KOI3SOSJCyb8FHCj_cFAzWyPfZQ=w1000-h1000-c-n",
+        "serpapi_thumbnail": "https://serpapi.com/images/url/jYGFF3icHcTbckNAAADQ6Uv_Rtwj25k-IFhKJCiNF1P3uFsbtT61X9OZnofz-_JaYzwtbzTd1fyhGseqK55LgbJxwMWAD9nY09W0UBMaN0LLdi6ca70Tywh5wfmbAUbRV71lcYhqFxsZaSYYY-CALQplnDiYNdsVUqAVNP8ezQqBhA0h2TWcxwmc2rm_KjVxHxcFJN6qq4E1HOd1K2NeMjaQ5mKcP5ZISnHMSOr9yDSbuMGL2QAl3XuuMwEM5KoXyITqOPzifIxuzony5kz5jDRb-HBN3nd9SyXpSYdqk2S6vEfkWsa39x-WYRiq_j-jhj_MUlkM"
+      },
+      {
+        "position": 10,
+        "title": "Apex Hospitals",
+        "place_id": "ChIJEWhwbWu2bTkRxObszYIrd80",
+        "data_id": "0x396db66b6d706811:0xcd772b82cdece6c4",
+        "data_cid": "14805350140804392644",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x396db66b6d706811%3A0xcd772b82cdece6c4&engine=google_maps_reviews&hl=en",
+        "photos_link": "https://serpapi.com/search.json?data_id=0x396db66b6d706811%3A0xcd772b82cdece6c4&engine=google_maps_photos&hl=en",
+        "gps_coordinates": {
+          "latitude": 26.854769299999997,
+          "longitude": 75.8252627
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJEWhwbWu2bTkRxObszYIrd80",
+        "provider_id": "/g/1tdbjd6l",
+        "rating": 4.6,
+        "reviews": 6878,
+        "type": "General hospital",
+        "types": [
+          "General hospital",
+          "Cancer treatment center",
+          "Health consultant",
+          "Oncologist",
+          "Private hospital",
+          "Specialized hospital",
+          "Surgeon",
+          "Surgical center"
+        ],
+        "address": "SP-4 & 6, Central Marg, Malviya Nagar Industrial Area, Malviya Nagar, Jaipur, Rajasthan 302017, India",
+        "country": "India",
+        "open_state": "Open 24 hours",
+        "hours": "Open 24 hours",
+        "operating_hours": {
+          "saturday": "Open 24 hours",
+          "sunday": "Open 24 hours",
+          "monday": "Open 24 hours",
+          "tuesday": "Open 24 hours",
+          "wednesday": "Open 24 hours",
+          "thursday": "Open 24 hours",
+          "friday": "Open 24 hours"
+        },
+        "phone": "+91 98290 30011",
+        "website": "https://www.apexhospitals.com/hospitals/malviya-nagar?utm_source=google&utm_campaign=GMB+Page",
+        "extensions": [
+          {
+            "accessibility": [
+              "Wheelchair-accessible car park",
+              "Wheelchair-accessible entrance",
+              "Wheelchair-accessible toilet"
+            ]
+          }
+        ],
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9S3wESjJeiHpXjzNDGnO1K3NOeYxp_5MA97Uk0sS6x_og-71ulBf-58a80RovFnV9hsDxrraFf4AxxxpaXwpCykmgWIgssGstxMQDtZJVOCTrdze01uwZNqrIhvJzG07ep_kC1dlg=w1000-h1000-c-n",
+        "serpapi_thumbnail": "https://serpapi.com/images/url/k1uH63icHcRNjoIwGADQE1XaoCImLhhQlIkQZca_DSFYWwXbTr8ilRt6BG9jMm_x3i9ujIKp4zTcHTApWUNboLqSwlBhBpW8O0wBqgCBE6T769PP3W6e3xJ6XarDrU-jWGTk200zerSqGK0D3_utMeRjW0iGPNI2Xxc0mpQTvJWPhdj5HCKrdbm4DANrrSoPnQqf9Z3tVwwgBmPXm8ickl0W_uhzTzFpu1P6p1f8kfQx9qgq6pCcGzbrCMYY8f8rJD46u0br"
+      },
+      {
+        "position": 11,
+        "title": "SUBHASH HOSPITAL & Research Centre",
+        "place_id": "ChIJrWmdkAK1bTkR9kAYTyAznMA",
+        "data_id": "0x396db502909d69ad:0xc09c33204f1840f6",
+        "data_cid": "13879024365507985654",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x396db502909d69ad%3A0xc09c33204f1840f6&engine=google_maps_reviews&hl=en",
+        "photos_link": "https://serpapi.com/search.json?data_id=0x396db502909d69ad%3A0xc09c33204f1840f6&engine=google_maps_photos&hl=en",
+        "gps_coordinates": {
+          "latitude": 26.8468794,
+          "longitude": 75.7562171
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJrWmdkAK1bTkR9kAYTyAznMA",
+        "provider_id": "/g/11s5zc0vw4",
+        "rating": 4.8,
+        "reviews": 311,
+        "type": "General hospital",
+        "types": [
+          "General hospital",
+          "Hospital",
+          "Medical clinic"
+        ],
+        "address": "122, Mahavir Nagar B, VT road, Patrakar Colony Rd, Mansarovar, Jaipur, Rajasthan 302020, India",
+        "country": "India",
+        "open_state": "Open 24 hours",
+        "hours": "Open 24 hours",
+        "operating_hours": {
+          "saturday": "Open 24 hours",
+          "sunday": "Open 24 hours",
+          "monday": "Open 24 hours",
+          "tuesday": "Open 24 hours",
+          "wednesday": "Open 24 hours",
+          "thursday": "Open 24 hours",
+          "friday": "Open 24 hours"
+        },
+        "phone": "+91 96104 46622",
+        "website": "http://www.subhashhospital.com/",
+        "extensions": [
+          {
+            "accessibility": [
+              "Wheelchair-accessible car park",
+              "Wheelchair-accessible entrance",
+              "Wheelchair-accessible seating",
+              "Wheelchair-accessible toilet"
+            ]
+          }
+        ],
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SLwfLau0TiCupLGCl57ypJXfzednf3HVAwM0U7chQk07MQDwoU8mhEra777D2gXdKMtwovli7vcrUOtWgkf-PQs1W9I_J4ykFY1V25Yz3LOZyxeHVorHdFsjgFrLMTixGTAOazDcPh-xss=w1000-h1000-c-n",
+        "serpapi_thumbnail": "https://serpapi.com/images/url/lMX9xHicHcTdToMwGADQJ-oow6XOxAsyZDiLjMjP5o0hpbQIo6RfWYGX9Nq3MfFcnN8facwIT47TS28jlBI9n4BrpgbDB7Nh6uaIERADBI7_XrbL_oPahlYTztrDNNLjod-RZTxdmpXXQ-NFhW9jnBMm0w6TOA2syh9v8kVXhJBgKy71W2ysuvctuTOdJ6YUXYPOKbjl_vXr9LB04dUttrvr6tHkc5l5VCgd1SF8i1DTOGvnY-Yn1Rqws0QzwLN1McZI_s_Q8Afzukhz"
+      },
+      {
+        "position": 12,
+        "title": "Saket Hospital Jaipur",
+        "place_id": "ChIJS_5Dm6G1bTkRjHcg3yElE2U",
+        "data_id": "0x396db5a19b43fe4b:0x65132521df20778c",
+        "data_cid": "7283205849795819404",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x396db5a19b43fe4b%3A0x65132521df20778c&engine=google_maps_reviews&hl=en",
+        "photos_link": "https://serpapi.com/search.json?data_id=0x396db5a19b43fe4b%3A0x65132521df20778c&engine=google_maps_photos&hl=en",
+        "gps_coordinates": {
+          "latitude": 26.8489914,
+          "longitude": 75.7649892
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJS_5Dm6G1bTkRjHcg3yElE2U",
+        "provider_id": "/g/1wd3tfzz",
+        "rating": 4.2,
+        "reviews": 1570,
+        "type": "General hospital",
+        "types": [
+          "General hospital",
+          "Doctor"
+        ],
+        "address": "Sector 10, Meera Marg, Ward Number 43, Agarwal Farm, Mansarovar, Jaipur, Rajasthan 302020, India",
+        "country": "India",
+        "open_state": "Open 24 hours",
+        "hours": "Open 24 hours",
+        "operating_hours": {
+          "saturday": "Open 24 hours",
+          "sunday": "Open 24 hours",
+          "monday": "Open 24 hours",
+          "tuesday": "Open 24 hours",
+          "wednesday": "Open 24 hours",
+          "thursday": "Open 24 hours",
+          "friday": "Open 24 hours"
+        },
+        "phone": "+91 88750 02436",
+        "website": "http://www.sakethospital.in/",
+        "extensions": [
+          {
+            "accessibility": [
+              "Wheelchair-accessible car park",
+              "Wheelchair-accessible entrance",
+              "Wheelchair-accessible toilet"
+            ]
+          }
+        ],
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9T28F--X7FSiSCSimM1gyXGmsU_1Bc0E6L8feaooUP_jKzhCBYh83e7p9CowrAcm4qFPsiFj_DlaI8Ahy8NnpePQWG20XpQTKmAzOg3brztPvuRKvtoRZBWYVSdLLraMLWPFBhr=w1000-h1000-c-n",
+        "serpapi_thumbnail": "https://serpapi.com/images/url/-xdISXicHcRRboIwAADQE1WKGK1L9gFoyQK6KirgD8HatRhKu7Zq4IKeYbdZ4vt4fy_hnLYfnteJYMKV4h27W2ao6h3r3YQq6XFtAbXAeuG2aIflYYowAOUC520e563c-HwoE2mPtR9RuJ5n6Ic1Sh1JfUtHEUeVQAFb6GWsniakcvaLiW3xrV51zRcKxYC2vWZkVyRTWOrdIZXh-M2Dixkdedz36cOp_TkqqlN-zTLTbLKC4EiYz6cPIQTiPQX9PySdRMo"
+      },
+      {
+        "position": 13,
+        "title": "Sevayatan Multispeciality Hospital",
+        "place_id": "ChIJdbnZo2-0bTkReeBnP314R_s",
+        "data_id": "0x396db46fa3d9b975:0xfb47787d3f67e079",
+        "data_cid": "18106573306196385913",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x396db46fa3d9b975%3A0xfb47787d3f67e079&engine=google_maps_reviews&hl=en",
+        "photos_link": "https://serpapi.com/search.json?data_id=0x396db46fa3d9b975%3A0xfb47787d3f67e079&engine=google_maps_photos&hl=en",
+        "gps_coordinates": {
+          "latitude": 26.901129599999997,
+          "longitude": 75.77048429999999
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJdbnZo2-0bTkReeBnP314R_s",
+        "provider_id": "/g/1tds530d",
+        "rating": 4.7,
+        "reviews": 917,
+        "type": "General hospital",
+        "types": [
+          "General hospital"
+        ],
+        "address": "3, Ajmer Rd, Siddharth Colony, Mittal Colony, Sodala, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302006, India",
+        "country": "India",
+        "open_state": "Open 24 hours",
+        "hours": "Open 24 hours",
+        "operating_hours": {
+          "saturday": "Open 24 hours",
+          "sunday": "Open 24 hours",
+          "monday": "Open 24 hours",
+          "tuesday": "Open 24 hours",
+          "wednesday": "Open 24 hours",
+          "thursday": "Open 24 hours",
+          "friday": "Open 24 hours"
+        },
+        "phone": "+91 92516 58022",
+        "website": "https://sevayatanhospital.com/",
+        "extensions": [
+          {
+            "accessibility": [
+              "Wheelchair-accessible car park",
+              "Wheelchair-accessible entrance",
+              "Wheelchair-accessible toilet"
+            ]
+          }
+        ],
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9S80Bu2jXGfJRi_jpQjOApyZmrIXRQ9poxr7_0hc_wdxuIl1kTp-76aaw2uDKvLBvFQYWQr1J7o6hm7T-qrxT8NSS3w_-a3OQkoCdZChsasHxRI-576ykgElUj5dCyvA6gHMER925IUd88=w1000-h1000-c-n",
+        "serpapi_thumbnail": "https://serpapi.com/images/url/VKlL0HicHcRJroIwAADQE1UKBAo_-QvECccUMA4bQgq2MrW2jJd0721MfIv3ebO2FepP0ypmzijntMo7lUvCmzZv2hnhtUaFAkQBpXnHy3NyIwfOO6O4rh_b8JkUAhcnT0z3WgbXELuCjxIlkJFkyMYuqPQyFgDZaToY3WLX7-f9Ct8uWOpbxG1Woxi85Bg7xygyhwSk5gmX3M_uPlOp2oxhACxkTyVdVufCyvyp92y6OSxD17CCc-Y4_4MOIQTsNwHNF5M9Rq4"
+      },
+      {
+        "position": 14,
+        "title": "Meera Hospital",
+        "place_id": "ChIJBz_hm6qzbTkRjfAUU-LDAnU",
+        "data_id": "0x396db3aa9be13f07:0x7502c3e25314f08d",
+        "data_cid": "8431516829214896269",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x396db3aa9be13f07%3A0x7502c3e25314f08d&engine=google_maps_reviews&hl=en",
+        "photos_link": "https://serpapi.com/search.json?data_id=0x396db3aa9be13f07%3A0x7502c3e25314f08d&engine=google_maps_photos&hl=en",
+        "gps_coordinates": {
+          "latitude": 26.929827099999997,
+          "longitude": 75.8011466
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJBz_hm6qzbTkRjfAUU-LDAnU",
+        "provider_id": "/g/11t4dw_h_q",
+        "rating": 4.8,
+        "reviews": 225,
+        "unclaimed_listing": true,
+        "type": "General hospital",
+        "types": [
+          "General hospital",
+          "Hospital"
+        ],
+        "address": "B-13, Kartavya, Shiv Marg, Kanti Nagar, Bani Park, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302016, India",
+        "country": "India",
+        "open_state": "Open 24 hours",
+        "hours": "Open 24 hours",
+        "operating_hours": {
+          "saturday": "Open 24 hours",
+          "sunday": "Open 24 hours",
+          "monday": "Open 24 hours",
+          "tuesday": "Open 24 hours",
+          "wednesday": "Open 24 hours",
+          "thursday": "Open 24 hours",
+          "friday": "Open 24 hours"
+        },
+        "phone": "+91 96727 11117",
+        "website": "http://www.meerahospital.com/",
+        "extensions": [
+          {
+            "accessibility": [
+              "Wheelchair-accessible car park",
+              "Wheelchair-accessible entrance",
+              "Wheelchair-accessible toilet"
+            ]
+          }
+        ],
+        "book_online": "https://www.google.com/maps/reserve/appt/place/ChIJBz_hm6qzbTkRjfAUU-LDAnU/mid/%2Fg%2F11t4dw_h_q?sourceurl=https://www.google.com/search?q%3Dhospital%26hl%3Den%26pb%3D!4m8!1m3!1d80048.6858274174!2d75.7873!3d26.9124!3m2!1i1920!2i1080!4f13.1!7i20!10b1!12m49!1m5!18b1!30b1!31m1!1b1!34e1!2m4!5m1!6e2!20e3!39b1!6m22!49b1!63m0!66b1!74i150000!85b1!91b1!114b1!149b1!178b1!206b1!209b1!212b1!223b1!232b1!234b1!244b1!246b1!250b1!253b1!258b1!260b1!266b1!10b1!12b1!13b1!14b1!16b1!17m1!3e1!20m3!5e2!6b1!14b1!46m1!1b0!96b1!99b1!19m4!2m3!1i360!2i120!4i8!20m57!2m2!1i203!2i100!3m2!2i4!5b1!6m6!1m2!1i86!2i86!1m2!1i408!2i240!7m33!1m3!1e1!2b0!3e3!1m3!1e2!2b1!3e2!1m3!1e2!2b0!3e3!1m3!1e8!2b0!3e3!1m3!1e10!2b0!3e3!1m3!1e10!2b1!3e2!1m3!1e10!2b0!3e4!1m3!1e9!2b1!3e2!2b1!9b0!15m8!1m7!1m2!1m1!1e2!2m2!1i195!2i195!3i20!22m6!1sAdKvNuL4ZzZx4ILrFXWtYvrAyg_35-c:2!2s1i:0,t:11886,p:AdKvNuL4ZzZx4ILrFXWtYvrAyg_35-c:2!7e81!12e5!17sAdKvNuL4ZzZx4ILrFXWtYvrAyg_35-c:61!18e15!24m107!1m28!13m9!2b1!3b1!4b1!6i1!8b1!9b1!14b1!20b1!25b1!18m17!3b1!4b1!5b1!6b1!13b1!14b1!17b1!21b1!22b1!27m1!1b0!28b0!32b1!33m1!1b1!34b1!36e2!10m1!8e3!11m1!3e1!14m1!3b0!17b1!20m2!1e3!1e6!24b1!25b1!26b1!27b1!29b1!30m1!2b1!36b1!37b1!39m3!2m2!2i1!3i1!43b1!52b1!54m1!1b1!55b1!56m1!1b1!61m2!1m1!1e1!65m5!3m4!1m3!1m2!1i224!2i298!72m22!1m8!2b1!5b1!7b1!12m4!1b1!2b1!4m1!1e1!4b1!8m10!1m6!4m1!1e1!4m1!1e3!4m1!1e4!3sother_user_google_review_posts__and__hotel_and_vr_partner_review_posts!6m1!1e1!9b1!89b1!98m3!1b1!2b1!3b1!103b1!113b1!114m3!1b1!2m1!1b1!117b1!122m1!1b1!126b1!127b1!26m4!2m3!1i80!2i92!4i8!30m28!1m6!1m2!1i0!2i0!2m2!1i530!2i1080!1m6!1m2!1i1870!2i0!2m2!1i1920!2i1080!1m6!1m2!1i0!2i0!2m2!1i1920!2i20!1m6!1m2!1i0!2i1060!2m2!1i1920!2i1080!34m19!2b1!3b1!4b1!6b1!8m6!1b1!3b1!4b1!5b1!6b1!7b1!9b1!12b1!14b1!20b1!23b1!25b1!26b1!31b1!37m1!1e81!42b1!49m10!3b1!6m2!1b1!2b1!7m2!1e3!2b1!8b1!9b1!10e2!50m4!2e2!3m2!1b1!3b1!61b1!67m5!7b1!10b1!14b1!15m1!1b0!69i767!77b1%26tbm%3Dmap",
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9ROGupUzNDa5tC53F16g1cI5Xah-TQbAypi3pl1Ubm7dbdpzBMcCZ7CozSgoqMLndaSUkJTQ360CwS12txhHUYUw4hSxq0DtgqJOz2mwM8lq9BgQq3RBmt7bsrx6bMPRJgkAZ1Aig=w1000-h1000-c-n",
+        "serpapi_thumbnail": "https://serpapi.com/images/url/2Kpbq3icHcRRboIwGADgE1VaO2Au2QNg3CSiA2ycvtFC_hKBtrYG5IY7wm5j4vfw_f9J57T98LxO0gUoBV1zt81NqME1g1sI1XugLRIWWS_an9rHqjh83TWb9-vKd4lPNyQAIrb-byXRMefRQ7dUd4TxPqx5rec4E8klTNRcgjLZbqirkl3TY04DnIwlWbpJfrMzG99kORm8dmDSw7zsx-y9M6sYckOLuHcht7cp4NlPkcI1upCohc-RYIyRfC3Q8ATomkWH"
+      },
+      {
+        "position": 15,
+        "title": "Aarogyam Hospital",
+        "place_id": "ChIJyxeBexu2bTkRAXN0s7n55V4",
+        "data_id": "0x396db61b7b8117cb:0x5ee5f9b9b3747301",
+        "data_cid": "6838146185206985473",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x396db61b7b8117cb%3A0x5ee5f9b9b3747301&engine=google_maps_reviews&hl=en",
+        "photos_link": "https://serpapi.com/search.json?data_id=0x396db61b7b8117cb%3A0x5ee5f9b9b3747301&engine=google_maps_photos&hl=en",
+        "gps_coordinates": {
+          "latitude": 26.8350509,
+          "longitude": 75.82081769999999
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJyxeBexu2bTkRAXN0s7n55V4",
+        "provider_id": "/g/11tcx8drnq",
+        "rating": 4.8,
+        "reviews": 357,
+        "type": "General hospital",
+        "types": [
+          "General hospital",
+          "Addiction treatment center",
+          "Child health care center",
+          "Homeopathic pharmacy",
+          "Hospital"
+        ],
+        "address": "Aarogyam Hospital Road, Jagatpura, Jaipur, Rajasthan 302017, India",
+        "country": "India",
+        "open_state": "Open 24 hours",
+        "hours": "Open 24 hours",
+        "operating_hours": {
+          "saturday": "Open 24 hours",
+          "sunday": "Open 24 hours",
+          "monday": "Open 24 hours",
+          "tuesday": "Open 24 hours",
+          "wednesday": "Open 24 hours",
+          "thursday": "Open 24 hours",
+          "friday": "Open 24 hours"
+        },
+        "phone": "+91 95295 49090",
+        "website": "http://aarogyamhospitals.org/",
+        "extensions": [
+          {
+            "accessibility": [
+              "Assistive hearing loop",
+              "Wheelchair-accessible car park",
+              "Wheelchair-accessible entrance",
+              "Wheelchair-accessible seating",
+              "Wheelchair-accessible toilet"
+            ]
+          }
+        ],
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RZxNFcMd7qBFadph-4ecJehkTOEySHvk7AVEtKlQdY3K0h6dciDW4Vmh-nQhrFUGM_aFWCAC5NeQ2U2Vs2ZBXa-_4ahX-DxK7BkV_3f9ligxr4hANjyXHYwnnlgqSJlFbj7ac=w1000-h1000-c-n",
+        "serpapi_thumbnail": "https://serpapi.com/images/url/nKC9-HicHcRLDoIwFADAE1UQUKKJC0CrkYjBD6AbUkvtQ2pBWhUu6B28jYmzmO8HtG7U1DAE2ANe11ywp2ItraVmUg9ofTd4oxBVSBlelJb9ZHfuIkw3hfvwMSkaQA6jawbVYbvo96tX5XrJQociLk52aMK4oOU8dZI7IBlDi4_LTU5wGnjBKGKxdbQSZZ39jKDcIZCheRe6fpXk9nUiSt61DnjRrc9Wp7eUgj_2a4EvN5fQ2XtomiaC_xTJH_nARB4"
+      },
+      {
+        "position": 16,
+        "title": "Shri Ambe Hospital And Research Institute",
+        "place_id": "ChIJsytTgM2ybTkRR9R754scmeE",
+        "data_id": "0x396db2cd80532bb3:0xe1991c8be77bd447",
+        "data_cid": "16256055717180200007",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x396db2cd80532bb3%3A0xe1991c8be77bd447&engine=google_maps_reviews&hl=en",
+        "photos_link": "https://serpapi.com/search.json?data_id=0x396db2cd80532bb3%3A0xe1991c8be77bd447&engine=google_maps_photos&hl=en",
+        "gps_coordinates": {
+          "latitude": 26.9685049,
+          "longitude": 75.71694459999999
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJsytTgM2ybTkRR9R754scmeE",
+        "provider_id": "/g/11bbrjq_cv",
+        "rating": 4.5,
+        "reviews": 1552,
+        "type": "General hospital",
+        "types": [
+          "General hospital",
+          "Hospital"
+        ],
+        "address": "8,9, Niwaru Rd, Jai Karni Nagar, Harnathapura, Jhotwara, Jaipur, Niwaroo, Rajasthan 302012, India",
+        "country": "India",
+        "open_state": "Open 24 hours",
+        "hours": "Open 24 hours",
+        "operating_hours": {
+          "saturday": "Open 24 hours",
+          "sunday": "Open 24 hours",
+          "monday": "Open 24 hours",
+          "tuesday": "Open 24 hours",
+          "wednesday": "Open 24 hours",
+          "thursday": "Open 24 hours",
+          "friday": "Open 24 hours"
+        },
+        "phone": "+91 99831 49001",
+        "website": "https://shriambehospital.in/",
+        "extensions": [
+          {
+            "accessibility": [
+              "Wheelchair-accessible car park",
+              "Wheelchair-accessible entrance"
+            ]
+          }
+        ],
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TwzRewoI57OOxojEfH7tSxqx70wf_QNXsG2eBruqvoRTPIneIRa38eRFKY0JJEkD1qZMuS8T8TUABOuH74bZSnlakW0PuK2dT11dRVFCKunXbNNirSqCHGWEnLst1_hHNGW48=w1000-h1000-c-n",
+        "serpapi_thumbnail": "https://serpapi.com/images/url/SHA2UXicHcTdFoEwAADgJ0qbn1Oc46JIJVbWiG4cMoVsapviAb2Dt3GO7-L7fgopH2Kk62XR6-Sc5yVVgtYZZ5Iy2cn4Xc8fQsuEJnQLJZfXkDRvTBvuD4wwbPnVOXuGjNuqNUBz3q_QVrhdateqenJMIp9RHx96JsWzYAfmc-c2hVW6VLFJTLK27FB5Rv-Yxqw83BIQqaB7IhCe8GY2CRTbHhG61HE18dzEYQsh4b7wkJv0zXEDAQBa8T_T2A9QD0QJ"
+      },
+      {
+        "position": 17,
+        "title": "Global Heart & General Hospital",
+        "place_id": "ChIJYxNUPKK0bTkRG5X09pJwHSM",
+        "data_id": "0x396db4a23c541363:0x231d7092f6f4951b",
+        "data_cid": "2530302342162847003",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x396db4a23c541363%3A0x231d7092f6f4951b&engine=google_maps_reviews&hl=en",
+        "photos_link": "https://serpapi.com/search.json?data_id=0x396db4a23c541363%3A0x231d7092f6f4951b&engine=google_maps_photos&hl=en",
+        "gps_coordinates": {
+          "latitude": 26.9056966,
+          "longitude": 75.7386902
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJYxNUPKK0bTkRG5X09pJwHSM",
+        "provider_id": "/g/1tdc85xr",
+        "rating": 3.5,
+        "reviews": 848,
+        "type": "General hospital",
+        "types": [
+          "General hospital",
+          "Heart hospital",
+          "Hospital"
+        ],
+        "address": "C1, Gandhi Path, 27-29, Narayani Path, opposite Bharat Apartment, Vaishali Nagar, Jaipur, Rajasthan 302021, India",
+        "country": "India",
+        "open_state": "Open 24 hours",
+        "hours": "Open 24 hours",
+        "operating_hours": {
+          "saturday": "Open 24 hours",
+          "sunday": "Open 24 hours",
+          "monday": "Open 24 hours",
+          "tuesday": "Open 24 hours",
+          "wednesday": "Open 24 hours",
+          "thursday": "Open 24 hours",
+          "friday": "Open 24 hours"
+        },
+        "phone": "+91 141 400 6290",
+        "website": "https://globalheartjpr.org/",
+        "extensions": [
+          {
+            "accessibility": [
+              "Wheelchair-accessible car park",
+              "Wheelchair-accessible entrance",
+              "Wheelchair-accessible toilet"
+            ]
+          }
+        ],
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QoZfMrL24XntItLunsuFBB1cFDI6gGS-8vsGdvZXtRTwYnlSAPCpByKvI1DOXBq67JkVDv31wiCdldiNTak5EaM4LWojpupuOBmtOuvRO0Tb2v0WtkOp9KQM1Mkr5_49VrSR0T=w1000-h1000-c-n",
+        "serpapi_thumbnail": "https://serpapi.com/images/url/5vEXMnicHcRRboIwGADgE1VaRR0me7AyDQp2AhHmy6IFgYFtpX9LPKFn8DYm-x6-17MGUHrhOF09GVVSVl1pdNlzKaAUMOLy5lRKI66Rdpb7rHl4B3m6Rn04dnMBAYRGaLOmlPC1H8yqTYI-rN4U9pRDnA4_okuW3ytFHzsbEJ_l9D6bb9ujbydkaFZFVzT79NxOv86RG2byTxllGL0BMzZmOL2MLc6gZcrbHSIStf301_WOfRLj9HMgGGNU_8-ReAOS0ETT"
+      },
+      {
+        "position": 18,
+        "title": "Mahatma Gandhi Hospital-City Centre Jaipur",
+        "place_id": "ChIJq6qqOtO1bTkRhEarGN2uMwA",
+        "data_id": "0x396db5d33aaaaaab:0x33aedd18ab4684",
+        "data_cid": "14547488437126788",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x396db5d33aaaaaab%3A0x33aedd18ab4684&engine=google_maps_reviews&hl=en",
+        "photos_link": "https://serpapi.com/search.json?data_id=0x396db5d33aaaaaab%3A0x33aedd18ab4684&engine=google_maps_photos&hl=en",
+        "gps_coordinates": {
+          "latitude": 26.896472199999998,
+          "longitude": 75.8308151
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJq6qqOtO1bTkRhEarGN2uMwA",
+        "provider_id": "/g/1vxdwpvd",
+        "rating": 3.6,
+        "reviews": 157,
+        "type": "General hospital",
+        "types": [
+          "General hospital",
+          "Diagnostic center",
+          "Emergency care physician",
+          "General practitioner",
+          "Hospital",
+          "Medical diagnostic imaging center",
+          "Neurologist",
+          "Otolaryngologist",
+          "Physiotherapist",
+          "Urgent care center"
+        ],
+        "address": "Shri Ram Mandir Parisar CITY CENTER, opposite to Dashera Maidan, Raja Park, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302004, India",
+        "country": "India",
+        "open_state": "Open 24 hours",
+        "hours": "Open 24 hours",
+        "operating_hours": {
+          "saturday": "Open 24 hours",
+          "sunday": "Open 24 hours",
+          "monday": "Open 24 hours",
+          "tuesday": "Open 24 hours",
+          "wednesday": "Open 24 hours",
+          "thursday": "Open 24 hours",
+          "friday": "Open 24 hours"
+        },
+        "phone": "+91 90018 90641",
+        "website": "https://www.mgmch.org/about-us/satellite-centers",
+        "extensions": [
+          {
+            "accessibility": [
+              "Wheelchair-accessible car park",
+              "Wheelchair-accessible entrance",
+              "Wheelchair-accessible toilet"
+            ]
+          }
+        ],
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9STHkWzNOYzAZBOxZQ2OsZSMMrcSh-XfrzobvfANAV5Oy5gdzQmvxTNFcPAr8WOtAz03ieqs-HwEI3MU2PFhzYdX8B0aq2I8Nnpn_cj9zWDt5ZtO4Lz2dy-9clwpWYGiVHaqYqZuA=w1000-h1000-c-n",
+        "serpapi_thumbnail": "https://serpapi.com/images/url/o_AbZnicHcRdDoIgAADgE5GkuWlbD7R-bEuoWZG8tEITy0CFMrlhR-g2bX0P3_cjjKn12HEq4Q0KpYoqf-q85UqaXJoBVw-nqDXgGmgHYVr2YbKL7tRiklrEpuTNti7RLInjlicCHK-tVZfXFWF08EnvF5ndPl7vHV7wDWoDSgyy0CvzRoOom6-8eO9uFsKm2TGYwnPjrgIsa3nit9DSmfGZIaO1dbMehLzqapouy0N0btKGPdGkG0IIgfjPgfwBVYtGYQ"
+      },
+      {
+        "position": 19,
+        "title": "Sanjeevani Hospital And Medical Research Institute Jaipur",
+        "place_id": "ChIJP5lvN2a0bTkRLJi07mdHFUw",
+        "data_id": "0x396db466376f993f:0x4c154767eeb4982c",
+        "data_cid": "5482366633105463340",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x396db466376f993f%3A0x4c154767eeb4982c&engine=google_maps_reviews&hl=en",
+        "photos_link": "https://serpapi.com/search.json?data_id=0x396db466376f993f%3A0x4c154767eeb4982c&engine=google_maps_photos&hl=en",
+        "gps_coordinates": {
+          "latitude": 26.8897817,
+          "longitude": 75.76838599999999
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJP5lvN2a0bTkRLJi07mdHFUw",
+        "provider_id": "/g/1tdyzbyf",
+        "rating": 3.7,
+        "reviews": 155,
+        "unclaimed_listing": true,
+        "type": "General hospital",
+        "types": [
+          "General hospital",
+          "Hospital"
+        ],
+        "address": "VQQ9+W96, New Sanganer Rd, Opposite Metro Piller No. 91, Roop Vihar, Vivek Vihar, Goverdhan Colony, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302019, India",
+        "country": "India",
+        "open_state": "Open 24 hours",
+        "hours": "Open 24 hours",
+        "operating_hours": {
+          "saturday": "Open 24 hours",
+          "sunday": "Open 24 hours",
+          "monday": "Open 24 hours",
+          "tuesday": "Open 24 hours",
+          "wednesday": "Open 24 hours",
+          "thursday": "Open 24 hours",
+          "friday": "Open 24 hours"
+        },
+        "phone": "+91 99280 27253",
+        "extensions": [
+          {
+            "accessibility": [
+              "Wheelchair-accessible car park",
+              "Wheelchair-accessible entrance",
+              "Wheelchair-accessible toilet"
+            ]
+          }
+        ],
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RAEi7oS0pgcaV5vLwRAHR2OhbjzpSJtE38pASb3jY8tI7kuT5okOXkQbyxWRqXDPyhgqi3LOcq-bCrEs1Lrxbmkwuc3uArksScdMsXhRGqsCguiTrUG3e8wuO1G7owxAAeUCqSrw=w1000-h1000-c-n",
+        "serpapi_thumbnail": "https://serpapi.com/images/url/C8cArXicHcRdToMwAADgE3WAzQJb4kODhGnY0HZz-Gi7pmXd6L8Fb-gRvI2J38P3-yNDMH6bZTcJV0JrcePRc8f0FPgUVkzfM2E8YB74DB3O47LBqBlLTXIj2Of7-qtLGO3wQy_p9duQl9DAyiBC4fWjCs-lise1Vv2g3ugyn7Ednl4XKewIu55ZQGvX-KJzM72rFBmMyClP2GXvB4lb62sRx6M7tZBXKfZFW-o0I8RPtSUuPaYiz3Mg_2dg-gOCNEeU"
+      },
+      {
+        "position": 20,
+        "title": "Shri Hospital",
+        "place_id": "ChIJq6qqqh62bTkRQgA2Y57w7G4",
+        "data_id": "0x396db61eaaaaaaab:0x6eecf09e63360042",
+        "data_cid": "7993028001735770178",
+        "reviews_link": "https://serpapi.com/search.json?data_id=0x396db61eaaaaaaab%3A0x6eecf09e63360042&engine=google_maps_reviews&hl=en",
+        "photos_link": "https://serpapi.com/search.json?data_id=0x396db61eaaaaaaab%3A0x6eecf09e63360042&engine=google_maps_photos&hl=en",
+        "gps_coordinates": {
+          "latitude": 26.8474249,
+          "longitude": 75.827184
+        },
+        "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJq6qqqh62bTkRQgA2Y57w7G4",
+        "provider_id": "/g/1tj7tswz",
+        "rating": 3.3,
+        "reviews": 248,
+        "unclaimed_listing": true,
+        "type": "General hospital",
+        "types": [
+          "General hospital",
+          "Private hospital",
+          "Hospital"
+        ],
+        "address": "4, Hare Krishna Marg, Shyam Vihar Colony, Vishnupuri, Model Town, Malviya Nagar, Jaipur, Rajasthan 302017, India",
+        "country": "India",
+        "open_state": "Open 24 hours",
+        "hours": "Open 24 hours",
+        "operating_hours": {
+          "saturday": "Open 24 hours",
+          "sunday": "Open 24 hours",
+          "monday": "Open 24 hours",
+          "tuesday": "Open 24 hours",
+          "wednesday": "Open 24 hours",
+          "thursday": "Open 24 hours",
+          "friday": "Open 24 hours"
+        },
+        "phone": "+91 141 275 2880",
+        "extensions": [
+          {
+            "accessibility": [
+              "Wheelchair-accessible car park",
+              "Wheelchair-accessible entrance"
+            ]
+          }
+        ],
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Q_dpe3bqYVmOarlUEZuwKTOclgK-kKxgJfLhRuyVKFrYOi6jsPjdjojuP0lduIXp7aFShqVq6dSj0nGEE2At1vLY2NRL-MR93U54mptQYjxWB_3Gq2XU-uQ15ho8ycGxveadWf=w1000-h1000-c-n",
+        "serpapi_thumbnail": "https://serpapi.com/images/url/mX6EJXicHcRRboIwAADQE1UKqFMTP1yCxIEiKCD-GGxra1dooa3CCXeG3WbJ3sf7_WHGKL1yHMH8CZWSCmI16ZFsDWnNBMnGoUoDpIF2NofyOS7TG1bEv3dV0SR1L_Lgat_ROUGCRuA7GujXI2aZHYto21fJc871kWMuuT1Cge3uoj7q7Yl1RTfHJw7bMAi8jXFfceUdshjss6Wfz6aNMmnFh_Lz5oedd8mBTd0Zk4sRhcOL1Lh8rN8uhBCw_xFo_wASbkXb"
+      }
+    ],
+    "serpapi_pagination": {
+      "next": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&ll=%4026.9124%2C75.7873%2C13z&q=hospital&start=20&type=search"
+    }
+  }
+}

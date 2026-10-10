@@ -1,0 +1,774 @@
+{
+  "version": 1,
+  "key": "95eaf5497da260151392a49f",
+  "engine": "google_news",
+  "params": {
+    "gl": "in",
+    "hl": "en",
+    "q": "Ayushman card hospital Patna"
+  },
+  "fetchedAt": "2026-10-10T10:50:51.544Z",
+  "response": {
+    "search_metadata": {
+      "status": "Success",
+      "created_at": "2026-10-10 10:50:54 UTC",
+      "total_time_taken": 1.83
+    },
+    "search_parameters": {
+      "engine": "google_news",
+      "gl": "in",
+      "hl": "en",
+      "q": "Ayushman card hospital Patna"
+    },
+    "news_results": [
+      {
+        "position": 1,
+        "title": "Rs45L Ayushman Bharat scam surfaces at IGIMS",
+        "source": {
+          "name": "The Times of India",
+          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "authors": [
+            "Faryal Rumi"
+          ]
+        },
+        "link": "https://timesofindia.indiatimes.com/city/patna/rs45l-ayushman-bharat-scam-surfaces-at-igims/articleshow/131316187.cms",
+        "thumbnail": "https://static.toiimg.com/thumb/msid-33486062,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNXlZVWxXVlhWcWNGcENVVEZFVFJDZkF4ampCU2dLTWdNRm94QQ",
+        "date": "05/26/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-05-26T07:00:00Z"
+      },
+      {
+        "position": 2,
+        "title": "Samrat unveils health facilities at Patna City hospital",
+        "source": {
+          "name": "The Times of India",
+          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://timesofindia.indiatimes.com/city/patna/samrat-unveils-health-facilities-at-patna-city-hospital/articleshow/132562372.cms",
+        "thumbnail": "https://static.toiimg.com/thumb/msid-132562371,width-1280,height-720,imgsize-94858,resizemode-75,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNWZlVUZWTjFsUGRYRndOMFJmVFJDZ0F4amlCU2dLTWdtRllaRFdyT2loN3dF",
+        "date": "07/22/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-07-22T07:00:00Z"
+      },
+      {
+        "position": 3,
+        "title": "Uterus Scam 2.0: Pvt Hospital In Bihar's Patna Removes Uteruses Of Six Women To Avail Ayushman Bharat Benefits",
+        "source": {
+          "name": "ETV Bharat",
+          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.etvbharat.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.etvbharat.com/en/state/uterus-scam-20-pvt-hospital-in-bihars-patna-removes-uteruses-of-six-women-to-avail-ayushman-bharat-benefits-enn26031905071",
+        "thumbnail": "https://imgs.etvbharat.com/etvbharat/prod-images/19-03-2026/1200-675-26284650-392-26284650-1773923755951.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXlRVVJGYW5SbE9IbDFTakF3VFJDZkF4ampCU2dLTWdhbEpwUU1tZ2s",
+        "date": "03/19/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-03-19T07:00:00Z"
+      },
+      {
+        "position": 4,
+        "title": "Bihar cannot force Medanta to join Ayushman scheme for all treatments: Health minister | Hindustan Times",
+        "source": {
+          "name": "Hindustan Times",
+          "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.hindustantimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "authors": [
+            "Ruchir Kumar"
+          ]
+        },
+        "link": "https://www.hindustantimes.com/cities/patna-news/bihar-cannot-force-medanta-to-join-ayushman-scheme-for-all-treatments-health-minister-101772213378800.html",
+        "thumbnail": "https://www.hindustantimes.com/ht-img/img/2026/02/27/1600x900/logo/Bihar-health-minister-Mangal-Pandey--HT-Photo-_1772213436587.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNU5RbWxMYkd4U2VVUkVlbXAzVFJDZkF4ampCU2dLTWdhcE5ack5uUWs",
+        "date": "02/28/2026, 08:00 AM, +0000 UTC",
+        "iso_date": "2026-02-28T08:00:00Z"
+      },
+      {
+        "position": 5,
+        "title": "Enrollment for Ayushman Vay Vandana Cards reaches 25 lakhs",
+        "source": {
+          "name": "PIB",
+          "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.pib.gov.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2082288",
+        "thumbnail": "https://static.pib.gov.in/WriteReadData/userfiles/image/image001RUC3.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNU5PV2xvVFU0NUxVUjFPVU5sVFJDekFoaXpBaWdLTWdtVklvaE1xYWRyc1FF",
+        "date": "12/09/2024, 08:00 AM, +0000 UTC",
+        "iso_date": "2024-12-09T08:00:00Z"
+      },
+      {
+        "position": 6,
+        "title": "Denied hospital refund despite husband’s Ayushman card, widow wins Rs 5.5 lakh",
+        "source": {
+          "name": "The Indian Express",
+          "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://indianexpress.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "authors": [
+            "Jagriti Rai"
+          ]
+        },
+        "link": "https://indianexpress.com/article/legal-news/hospital-refund-husbands-ayushman-card-widow-wins-rs-5-5-lakh-10751843/",
+        "thumbnail": "https://images.indianexpress.com/2026/06/pmjay-Ayushman-Bharat-beneficiary-refund-rule-cashless-consumer-complaint_20260622110350.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXpSMlJzVW1OaE1USXRXRXBqVFJDZkF4ampCU2dLTWdZQkJvYnNSUVE",
+        "date": "06/23/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-06-23T07:00:00Z"
+      },
+      {
+        "position": 7,
+        "title": "Over 1 Crore ‘Ayushman Bharat’ Cards Issued In 6 Days In Bihar",
+        "source": {
+          "name": "NDTV",
+          "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://swachhindia.ndtv.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://swachhindia.ndtv.com/over-1-crore-ayushman-bharat-cards-issued-in-6-days-in-bihar-87877/",
+        "thumbnail": "https://w.ndtvimg.com/sites/3/2024/03/05152915/ayush_hospitals_istock_660x330.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDNjWHBFUVRKaE56bDZOamxMVFJES0FoaVVCU2dLTWdhVlFvenpKQWc",
+        "date": "03/12/2024, 07:00 AM, +0000 UTC",
+        "iso_date": "2024-03-12T07:00:00Z"
+      },
+      {
+        "position": 8,
+        "title": "FIR against 4 over alleged Rs 45 lakh Ayushman claim fraud at IGIMS Patna",
+        "source": {
+          "name": "Medical Dialogues",
+          "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://medicaldialogues.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://medicaldialogues.in/news/health/hospital-diagnostics/fir-against-4-over-alleged-rs-45-lakh-ayushman-claim-fraud-at-igims-patna-180399",
+        "thumbnail": "https://medicaldialogues.in/h-upload/2026/06/29/1500x900_356695-hospital-management-system.webp",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVdiVE50VFdoS1NuaENSbTVDVFJDdEF4akxCU2dLTWdhWk01VHRwUWs",
+        "date": "10/01/2026, 10:35 AM, +0000 UTC",
+        "iso_date": "2026-10-01T10:35:10Z"
+      },
+      {
+        "position": 9,
+        "title": "MLCs seek wider Ayushman cover at city hospital",
+        "source": {
+          "name": "The Times of India",
+          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "authors": [
+            "Sheezan Nezami"
+          ]
+        },
+        "link": "https://timesofindia.indiatimes.com/city/patna/mlcs-seek-wider-ayushman-cover-at-city-hospital/articleshow/128863008.cms",
+        "thumbnail": "https://static.toiimg.com/thumb/msid-128863008,width-1280,height-720,imgsize-176076,resizemode-72,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iMkNnNDFaWFpOVEMxWlMzRmZkR3hPVFJDZkF4ampCU2dLTWd1Qk1vS0ZJaWxrOUVpVGF3",
+        "date": "02/28/2026, 08:00 AM, +0000 UTC",
+        "iso_date": "2026-02-28T08:00:00Z"
+      },
+      {
+        "position": 10,
+        "title": "Ayushman Card: Benefits, Eligibility, Application Process, Status Check",
+        "source": {
+          "name": "PW",
+          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.pw.live&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.pw.live/upsc/exams/ayushman-card",
+        "thumbnail": "https://static.pw.live/5eb393ee95fab7468a79d189/GLOBAL_CMS/611e5be4-a5ab-4c11-a12b-ab4de037d548.webp",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNUtOalF5TlZkdFIxQkZVa1pwVFJDMkF4aTlCU2dLTWdrSmtKS1hNR2VoandF",
+        "date": "12/01/2025, 08:00 AM, +0000 UTC",
+        "iso_date": "2025-12-01T08:00:00Z"
+      },
+      {
+        "position": 11,
+        "title": "Ayushman Bharat: Two cases of fake health cards surface at AIIMS Patna, probe on | Hindustan Times",
+        "source": {
+          "name": "Hindustan Times",
+          "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.hindustantimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "authors": [
+            "Ruchir Kumar"
+          ]
+        },
+        "link": "https://www.hindustantimes.com/cities/patna-news/patients-defraud-indian-government-with-fake-ayushman-bharat-cards-for-free-surgeries-at-aiims-ht-investigation-101685118615184.html",
+        "thumbnail": "https://www.hindustantimes.com/ht-img/img/2023/05/26/1600x900/AIIMS-building-in-Patna---HT-Photo-_1685118609382.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNVVSbXgzYldsVFdESmhja0ZmVFJDZkF4ampCU2dLTWdB",
+        "date": "05/26/2023, 07:00 AM, +0000 UTC",
+        "iso_date": "2023-05-26T07:00:00Z"
+      },
+      {
+        "position": 12,
+        "title": "Ministry of Health and Family Welfare",
+        "source": {
+          "name": "PIB",
+          "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.pib.gov.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.pib.gov.in/PressNoteDetails.aspx?NoteId=153425&ModuleId=3&reg=3&lang=1",
+        "thumbnail": "https://static.pib.gov.in/WriteReadData/userfiles/image/image0031TSI.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXViMXBXTkhKSU9EaEZRMHd5VFJDNEF4anlBeWdLTWdhQkpwSUVsZ28",
+        "date": "11/18/2024, 08:00 AM, +0000 UTC",
+        "iso_date": "2024-11-18T08:00:00Z"
+      },
+      {
+        "position": 13,
+        "title": "Ayushman Card: Denied Free Treatment? File A Complaint Immediately Here",
+        "source": {
+          "name": "NDTV",
+          "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.ndtv.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "authors": [
+            "Nikhil Pandey"
+          ]
+        },
+        "link": "https://www.ndtv.com/india-news/ayushman-card-denied-free-treatment-file-a-complaint-immediately-here-9022371",
+        "thumbnail": "https://c.ndtvimg.com/2025-08/r2j09kh8_pradhan-mantri-ayushman-bharat-yojana_625x300_05_August_25.jpeg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNVFVVWxLY1ZOQlNGRjFNVmhSVFJDeUF4akNCU2dLTWdrVkZJeElFbXBreGdJ",
+        "date": "08/05/2025, 07:00 AM, +0000 UTC",
+        "iso_date": "2025-08-05T07:00:00Z"
+      },
+      {
+        "position": 14,
+        "title": "Workshop focuses on quality in Ayushman Bharat scheme",
+        "source": {
+          "name": "The Times of India",
+          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "authors": [
+            "Sheezan Nezami"
+          ]
+        },
+        "link": "https://timesofindia.indiatimes.com/city/patna/workshop-focuses-on-quality-in-ayushman-bharat-scheme/articleshow/129617340.cms",
+        "thumbnail": "https://static.toiimg.com/thumb/msid-129617340,width-1280,height-720,imgsize-57712,resizemode-72,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVBWbEJ2WDFGMVJFdE9SSHBmVFJDZkF4amlCU2dLTWdhaEJZQXFHZ2s",
+        "date": "03/17/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-03-17T07:00:00Z"
+      },
+      {
+        "position": 15,
+        "title": "Ayushman Card In Hand, But Care Remains Out Of Reach",
+        "source": {
+          "name": "The Times of India",
+          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "authors": [
+            "Anuja Jaiswal"
+          ]
+        },
+        "link": "https://timesofindia.indiatimes.com/city/delhi/ayushman-card-in-hand-but-care-remains-out-of-reach/articleshow/128170244.cms",
+        "thumbnail": "https://static.toiimg.com/thumb/msid-117485856,width-1280,height-720,imgsize-97926,resizemode-72,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDViM1JpYTFSelNHVmxablV0VFJDZkF4ampCU2dLTWdZSklvcUtIUVk",
+        "date": "02/11/2026, 08:00 AM, +0000 UTC",
+        "iso_date": "2026-02-11T08:00:00Z"
+      },
+      {
+        "position": 16,
+        "title": "Pvt hospitals in state stop Ayushman Bharat services",
+        "source": {
+          "name": "The Times of India",
+          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://timesofindia.indiatimes.com/city/gurgaon/pvt-hospitals-in-state-stop-ayushman-bharat-services/articleshow/123174507.cms",
+        "thumbnail": "https://static.toiimg.com/thumb/msid-123174505,width-1280,height-720,resizemode-72/123174505.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTZWMGswVEVkZlUyNVNUVWRxVFJDZkF4amlCU2dLTWdZTklvcXRQUVE",
+        "date": "08/08/2025, 07:00 AM, +0000 UTC",
+        "iso_date": "2025-08-08T07:00:00Z"
+      },
+      {
+        "position": 17,
+        "title": "Hospitals in Kolkata get Ayushman-ready",
+        "source": {
+          "name": "The Times of India",
+          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "authors": [
+            "Prithvijit Mitra"
+          ]
+        },
+        "link": "https://timesofindia.indiatimes.com/city/kolkata/hospitals-in-kolkata-get-ayushman-ready/articleshow/131376807.cms",
+        "thumbnail": "https://static.toiimg.com/thumb/msid-131376806,width-1280,height-720,imgsize-15986,resizemode-4,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXdWVUZSUTJKbFZ6azVUREJFVFJDZkF4ampCU2dLTWdhQkFwb0ZBUXM",
+        "date": "05/29/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-05-29T07:00:00Z"
+      },
+      {
+        "position": 18,
+        "title": "866 hospitals face action over Ayushman irregularities in UP",
+        "source": {
+          "name": "The Times of India",
+          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://timesofindia.indiatimes.com/city/lucknow/866-hospitals-face-action-over-ayushman-irregularities-in-up/articleshow/133331922.cms",
+        "thumbnail": "https://static.toiimg.com/thumb/msid-133331921,width-1280,height-720,imgsize-30037,resizemode-75,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXNUbEJKVEVoWVNUUndZa3R2VFJDZkF4ampCU2dLTWdhcEZhRE9rUW8",
+        "date": "08/19/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-08-19T07:00:00Z"
+      },
+      {
+        "position": 19,
+        "title": "PMCH bid to boost Ayushman Bharat Yojna scheme",
+        "source": {
+          "name": "The Times of India",
+          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://timesofindia.indiatimes.com/city/patna/pmch-bid-to-boost-ayushman-scheme/articleshow/73177394.cms",
+        "thumbnail": "https://static.toiimg.com/thumb/msid-73183526,width-1280,height-720,resizemode-72/73183526.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUJkRWh4VDI1Q1NtNTJZMGhXVFJDZkF4ampCU2dLTWdZaGRJYk5QUVE",
+        "date": "01/10/2020, 08:00 AM, +0000 UTC",
+        "iso_date": "2020-01-10T08:00:00Z"
+      },
+      {
+        "position": 20,
+        "title": "Over five crore Ayushman cards issued in UP so far",
+        "source": {
+          "name": "The Times of India",
+          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "authors": [
+            "Shailvee Sharda"
+          ]
+        },
+        "link": "https://timesofindia.indiatimes.com/city/lucknow/over-5-crore-ayushman-cards-issued-in-uttar-pradesh/articleshow/112415829.cms",
+        "thumbnail": "https://static.toiimg.com/thumb/msid-112415828,width-1280,height-720,resizemode-72/112415828.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVRVME5ZTjNJeWJHWlZNR1pLVFJDZ0F4amlCU2dLTWdZWk5JYUtKUVU",
+        "date": "08/10/2024, 07:00 AM, +0000 UTC",
+        "iso_date": "2024-08-10T07:00:00Z"
+      },
+      {
+        "position": 21,
+        "title": "How Bihar is ramping up AB-PMJAY health infra to keep patients from turning to Delhi, Vellore",
+        "source": {
+          "name": "ThePrint",
+          "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://theprint.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "authors": [
+            "Sumi Dutta"
+          ]
+        },
+        "link": "https://theprint.in/health/how-bihar-is-ramping-up-ab-pmjay-heath-infra-to-keep-patients-from-turning-to-delhi-vellore/2651718/",
+        "thumbnail": "https://staticprintenglish.theprint.in/wp-content/uploads/2025/06/Untitled-design-1.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNUJVWFJNVGxGb1QxOVZWeTFPVFJDZkF4ampCU2dLTWdtUjRJVFZUS09DRkFF",
+        "date": "06/10/2025, 07:00 AM, +0000 UTC",
+        "iso_date": "2025-06-10T07:00:00Z"
+      },
+      {
+        "position": 22,
+        "title": "Encephalitis deaths: Ayushman Bharat, CM’s aid scheme fail Muzaffarpur kids",
+        "source": {
+          "name": "The Times of India",
+          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://timesofindia.indiatimes.com/city/patna/ayushman-bharat-cms-aid-scheme-fail-muzaffarpur-kids/articleshow/69865064.cms",
+        "thumbnail": "https://static.toiimg.com/thumb/msid-69867982,width-1280,height-720,resizemode-72/69867982.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUpSR3A2VEcxSmRGbDFYMU14VFJDZkF4ampCU2dLTWdhdElvb1NtUWs",
+        "date": "06/20/2019, 07:00 AM, +0000 UTC",
+        "iso_date": "2019-06-20T07:00:00Z"
+      },
+      {
+        "position": 23,
+        "title": "Anup Institute of Orthopaedics and Rehabilitation Successfully Completes Yet Another Robotic Joint Transplant of a British Patient in Patna",
+        "source": {
+          "name": "PR Newswire",
+          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.prnewswire.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.prnewswire.com/in/news-releases/anup-institute-of-orthopaedics-and-rehabilitation-successfully-completes-yet-another-robotic-joint-transplant-of-a-british-patient-in-patna-302125889.html",
+        "thumbnail": "https://mma.prnewswire.com/media/2395834/Dr_Ashish_Singh_with_the_75_Year_old_patient.jpg?p=facebook",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNW1hMUJ0UVd4RmVHOTNjSEpsVFJDUUF4ai1CU2dLTWdhVlVvaHJzUVE",
+        "date": "04/24/2024, 07:00 AM, +0000 UTC",
+        "iso_date": "2024-04-24T07:00:00Z"
+      },
+      {
+        "position": 24,
+        "title": "Free Hospital Treatment For Seniors Over 70: PM Modi",
+        "source": {
+          "name": "Kashmir Observer",
+          "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://kashmirobserver.net&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://kashmirobserver.net/2024/10/29/free-hospital-treatment-for-seniors-over-70-pm-modi/",
+        "thumbnail": "https://kashmirobserver.net/wp-content/uploads/2024/10/PM-Modi-Health-Card-Elder-Woman.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVFaRXRzZFcxU05IVTVhRWQ1VFJDMkF4aThCU2dLTWdZQlFvNHRJUWs",
+        "date": "10/29/2024, 07:00 AM, +0000 UTC",
+        "iso_date": "2024-10-29T07:00:00Z"
+      },
+      {
+        "position": 25,
+        "title": "Min opens child care unit at Ara hospital",
+        "source": {
+          "name": "The Times of India",
+          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://timesofindia.indiatimes.com/city/patna/min-opens-child-care-unit-at-ara-hospital/articleshow/123219701.cms",
+        "thumbnail": "https://static.toiimg.com/thumb/msid-123219699,width-1280,height-720,resizemode-72/123219699.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXZURWRMYmkxWWVHVmFOak5SVFJDZ0F4amlCU2dLTWdhaFFZN3JJQW8",
+        "date": "08/10/2025, 07:00 AM, +0000 UTC",
+        "iso_date": "2025-08-10T07:00:00Z"
+      },
+      {
+        "position": 26,
+        "title": "More than 1.28L register for ABHA cards at Sadar hosp",
+        "source": {
+          "name": "The Times of India",
+          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://timesofindia.indiatimes.com/city/ranchi/more-than-1-28l-register-for-abha-cards-at-sadar-hosp/articleshow/123149038.cms",
+        "thumbnail": "https://static.toiimg.com/thumb/msid-117692178,width-1280,height-720,resizemode-72/117692178.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVBXVm93WWxkalZrWlhheTFzVFJDZkF4ampCU2dLTWdZTk1veXJLUWM",
+        "date": "08/06/2025, 07:00 AM, +0000 UTC",
+        "iso_date": "2025-08-06T07:00:00Z"
+      },
+      {
+        "position": 27,
+        "title": "Over 1.14L Ayushman cards in Nagaland yet to be linked with Aadhaar",
+        "source": {
+          "name": "The Times of India",
+          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "authors": [
+            "Bhadra Gogoi"
+          ]
+        },
+        "link": "https://timesofindia.indiatimes.com/city/guwahati/over-1-14l-ayushman-cards-in-nagaland-yet-to-be-linked-with-aadhaar/articleshow/134468599.cms",
+        "thumbnail": "https://static.toiimg.com/thumb/msid-33486062,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNXlZVWxXVlhWcWNGcENVVEZFVFJDZkF4ampCU2dLTWdNRm94QQ",
+        "date": "09/24/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-09-24T07:00:00Z"
+      },
+      {
+        "position": 28,
+        "title": "14,000 Ayushman cards cancelled in Etah district, beneficiaries not informed",
+        "source": {
+          "name": "The Times of India",
+          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "authors": [
+            "Deepak Lavania"
+          ]
+        },
+        "link": "https://timesofindia.indiatimes.com/city/agra/14k-ayushman-cards-cancelled-in-etah-district-beneficiaries-not-informed/articleshow/84803817.cms",
+        "thumbnail": "https://static.toiimg.com/thumb/msid-84814968,width-1280,height-720,resizemode-72/84814968.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTRPR2R1VnkxeVYwaDBVVlpyVFJDZkF4ampCU2dLTWdZQmNJZ29yZ2M",
+        "date": "07/28/2021, 07:00 AM, +0000 UTC",
+        "iso_date": "2021-07-28T07:00:00Z"
+      },
+      {
+        "position": 29,
+        "title": "Older than 70 years? How to apply for an Ayushman Bharat card",
+        "source": {
+          "name": "Business Standard",
+          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.business-standard.com/finance/personal-finance/how-to-apply-for-an-ayushman-bharat-card-for-citizens-older-than-70-years-124092400742_1.html",
+        "thumbnail": "https://bsmedia.business-standard.com/_media/bs/img/article/2020-08/24/full/1598261397-413.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNHhaVmt6ZDJab00yd3dRMDFGVFJEZ0F4aUFCU2dLTWdB",
+        "date": "09/24/2024, 07:00 AM, +0000 UTC",
+        "iso_date": "2024-09-24T07:00:00Z"
+      },
+      {
+        "position": 30,
+        "title": "Ahmedabad crime branch busts Ayushman Card fraud linked to Khyati Hospital | Hindustan Times",
+        "source": {
+          "name": "Hindustan Times",
+          "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.hindustantimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "authors": [
+            "Ht Correspondent"
+          ]
+        },
+        "link": "https://www.hindustantimes.com/cities/others/ahmedabad-crime-branch-busts-ayushman-card-fraud-linked-to-khyati-hospital-101734452205203.html",
+        "thumbnail": "https://www.hindustantimes.com/ht-img/img/2024/12/17/1600x900/The-Ahmedabad-crime-branch-has-arrested-eight-pers_1734452196079.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDViSGhzVXpGMFJtNUhhRlpQVFJDZkF4ampCU2dLTWdZSk5ZakhPUVU",
+        "date": "12/17/2024, 08:00 AM, +0000 UTC",
+        "iso_date": "2024-12-17T08:00:00Z"
+      },
+      {
+        "position": 31,
+        "title": "Hospitals scam women with forced uterus removals in UP, Bihar: Ayushman scheme exploited for profit; agents...",
+        "source": {
+          "name": "Bhaskar English",
+          "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.bhaskarenglish.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.bhaskarenglish.in/local/bihar/news/hospitals-scam-women-with-forced-uterus-removals-in-up-bihar-doctors-staff-caught-on-camera-135959395.html",
+        "thumbnail": "https://images.bhaskarassets.com/thumb/1200x900/web2images/1884/2025/09/19/rachna-goldar-1_1758278010.gif",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTJWWGhKUkhWQ01WWTFSa1J3VFJEZ0F4al9CQ2dLTWdiQklKeTFtQWs",
+        "date": "09/19/2025, 11:00 AM, +0000 UTC",
+        "iso_date": "2025-09-19T11:00:00Z"
+      },
+      {
+        "position": 32,
+        "title": "First surgery under Ayushman Bharat scheme at IGIMS",
+        "source": {
+          "name": "The Times of India",
+          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://timesofindia.indiatimes.com/city/patna/first-surgery-under-ayushman-bharat-scheme-at-igims/articleshow/67049020.cms",
+        "thumbnail": "https://static.toiimg.com/thumb/msid-67054108,width-1280,height-720,resizemode-72/67054108.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNU1lVmM1Y2xacU9UTnRVVlpGVFJDZkF4ampCU2dLTWdhUklvb0xtUWs",
+        "date": "12/12/2018, 08:00 AM, +0000 UTC",
+        "iso_date": "2018-12-12T08:00:00Z"
+      },
+      {
+        "position": 33,
+        "title": "25K senior citizens get Ayushman cards in Prayagraj | Hindustan Times",
+        "source": {
+          "name": "Hindustan Times",
+          "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.hindustantimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "authors": [
+            "Ht Correspondent"
+          ]
+        },
+        "link": "https://www.hindustantimes.com/cities/others/25k-senior-citizens-get-ayushman-cards-in-prayagraj-101741791492414.html",
+        "thumbnail": "https://www.hindustantimes.com/ht-img/img/2025/03/12/original/For-representation-only--HT-FIle-Photo-_1741791485145.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUViMnBOZHpKWFdqTk1PVFppVFJEU0FoakpCU2dLTWdZSmNKS3ZNQWM",
+        "date": "03/12/2025, 07:00 AM, +0000 UTC",
+        "iso_date": "2025-03-12T07:00:00Z"
+      },
+      {
+        "position": 34,
+        "title": "PM scheme to benefit 22 kids from Bihar orphaned due to Covid-19",
+        "source": {
+          "name": "The Times of India",
+          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "authors": [
+            "Faryal Rumi"
+          ]
+        },
+        "link": "https://timesofindia.indiatimes.com/city/patna/pm-scheme-to-benefit-22-kids-orphaned-due-to-cov/articleshow/91901161.cms",
+        "thumbnail": "https://static.toiimg.com/thumb/msid-91901160,width-1280,height-720,resizemode-72/91901160.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNWtNV2hRTFU0d09GTnVkWFUxVFJDZkF4amlCU2dLTWdB",
+        "date": "05/31/2022, 07:00 AM, +0000 UTC",
+        "iso_date": "2022-05-31T07:00:00Z"
+      },
+      {
+        "position": 35,
+        "title": "Nitish to open medical college in Chhapra today",
+        "source": {
+          "name": "The Times of India",
+          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://timesofindia.indiatimes.com/city/patna/nitish-to-open-medical-college-in-chhapra-today/articleshow/117036296.cms",
+        "thumbnail": "https://static.toiimg.com/thumb/msid-117036295,width-1280,height-720,resizemode-4/117036295.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXBkekZVTUU0MWFXNDRaVmxsVFJDZkF4ampCU2dLTWdhQkFZYm9qQXM",
+        "date": "01/08/2025, 08:00 AM, +0000 UTC",
+        "iso_date": "2025-01-08T08:00:00Z"
+      },
+      {
+        "position": 36,
+        "title": "Ration Card Cancellations Disrupt Free Dialysis Treatment For Kidney Patients In Gaya",
+        "source": {
+          "name": "Patna Press",
+          "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://patnapress.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://patnapress.com/gaya-ration-card-cancellation-dialysis-patients/",
+        "thumbnail": "https://patnapress.com/wp-content/uploads/2026/05/Kidney-Dialysis-01-1.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXllV3R6YWpKT1YwaFRVRGd3VFJDaUF4amRCU2dLTWdZQmdJaEdNZ1U",
+        "date": "05/13/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-05-13T07:00:00Z"
+      },
+      {
+        "position": 37,
+        "title": "No Hospital De-Empaneled Under Ayushman Bharat In MP; Notices To 125, Hospitals, NABH Accreditation Deadline",
+        "source": {
+          "name": "Free Press Journal",
+          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.freepressjournal.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.freepressjournal.in/bhopal/no-hospital-de-empaneled-under-ayushman-bharat-in-mp-notices-to-125-hospitals-nabh-accreditation-deadline-extended-till-april-end",
+        "thumbnail": "https://media.assettype.com/freepressjournal/2026-01-20/4nkclaih/Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Queen-Of-All-Mayhem-4.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVpNelJpWkRZM1dUQjZXVVUxVFJDZkF4ampCU2dLTWdZQkFKd09rUW8",
+        "date": "04/09/2026, 07:00 AM, +0000 UTC",
+        "iso_date": "2026-04-09T07:00:00Z"
+      },
+      {
+        "position": 38,
+        "title": "आयुष्मान भारत हॉस्पिटल लिस्ट बिहार | Ayushman Bharat Hospital List Bihar ऑनलाइन देखें @ pmjay.gov.in",
+        "source": {
+          "name": "केंद्र एव राज्य की सरकारी योजनाओं की जानकारी in Hindi",
+          "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://easyhindi.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://easyhindi.in/central-government-scheme/ayushman-bharat-hospital-list-bihar/",
+        "thumbnail": "https://easyhindi.in/wp-content/uploads/2022/06/PMJAY-Hospital-List-10.png",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXVWRE14YzFkRmFHcHVMVWN3VFJDNEF4aUFCU2dLTWdtQlFJYWt5S09aMlFB",
+        "date": "06/02/2022, 09:41 AM, +0000 UTC",
+        "iso_date": "2022-06-02T09:41:20Z"
+      },
+      {
+        "position": 39,
+        "title": "आयुष्मान भारत हॉस्पिटल लिस्ट हरियाणा | Ayushman Card Hospital List Haryana in Hindi",
+        "source": {
+          "name": "केंद्र एव राज्य की सरकारी योजनाओं की जानकारी in Hindi",
+          "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://easyhindi.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://easyhindi.in/ayushman-bharat/ayushman-bharat-hospital-list-haryana/",
+        "thumbnail": "https://easyhindi.in/wp-content/uploads/2022/06/PMJAY-Hospital-List-14.png",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVBWMkp5V2s5bVpXbDNTMTh6VFJDNEF4aUFCU2dLTWdZSlVJWW15Z00",
+        "date": "06/20/2022, 12:11 PM, +0000 UTC",
+        "iso_date": "2022-06-20T12:11:39Z"
+      },
+      {
+        "position": 40,
+        "title": "Investigation: Does the Ayushman Bharat Card Offer Hope to the Needy?",
+        "source": {
+          "name": "The Mooknayak English",
+          "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://en.themooknayak.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "authors": [
+            "Meena Kotwal"
+          ]
+        },
+        "link": "https://en.themooknayak.com/health/investigation-does-the-ayushman-bharat-card-offer-hope-to-the-needy",
+        "thumbnail": "https://cf-images.assettype.com/themooknayak-en/2024-01/4753ff57-1718-4377-89f5-97f8933618a2/29374725_fb88_42bf_8007_90163721e950.jpg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNDVSR2RLTjJwNWRVTXlVRXhIVFJEZ0F4aUFCU2dLTWdrQm9JckR4aVFPY0FF",
+        "date": "01/13/2024, 08:00 AM, +0000 UTC",
+        "iso_date": "2024-01-13T08:00:00Z"
+      },
+      {
+        "position": 41,
+        "title": "List Of Empaneled Hospitals Under Ayushman Bharat Yojana For Free Treatment: Check Direct Link Here",
+        "source": {
+          "name": "Zee News",
+          "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://zeenews.india.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://zeenews.india.com/personal-finance/list-of-empaneled-hospitals-under-ayushman-bharat-yojana-for-free-treatment-check-direct-link-here-2813786.html",
+        "thumbnail": "https://english.cdn.zeenews.com/sites/default/files/2024/10/30/1566048-healthcard.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHdUbEZ1ZHkxdFVtSnZXbmhCVFJDUUF4aThCU2dLTWdZMUU1QXhIUWM",
+        "date": "10/30/2024, 07:00 AM, +0000 UTC",
+        "iso_date": "2024-10-30T07:00:00Z"
+      },
+      {
+        "position": 42,
+        "title": "Bihar Ranks Third Nationally in Ayushman Bharat Implementation with 20.5 Lakh Beneficiaries",
+        "source": {
+          "name": "illustrated Daily News",
+          "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.illustrateddailynews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.illustrateddailynews.com/india/bihar-ranks-third-nationally-in-ayushman-bharat-implementation-with-205-lakh-beneficiaries-835648",
+        "thumbnail": "https://www.illustrateddailynews.com/h-upload/2025/05/20/1059812-how-to-download-ayushman-card-in-2024.webp",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNVpObFZETlRKbGJuTnliVEZZVFJDMkF4aTlCU2dLTWdB",
+        "date": "05/20/2025, 07:00 AM, +0000 UTC",
+        "iso_date": "2025-05-20T07:00:00Z"
+      },
+      {
+        "position": 43,
+        "title": "MP: 36 private hospitals in state de-listed from Ayushman Bharat Yojana",
+        "source": {
+          "name": "Free Press Journal",
+          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.freepressjournal.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.freepressjournal.in/bhopal/mp-36-private-hospitals-in-state-de-listed-from-ayushman-bharat-yojana",
+        "thumbnail": "https://media.assettype.com/freepressjournal/2022-10/a612dbce-5f72-4cf3-b15d-761e21c462e7/Ayushman_bharat.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNW1aRlkzWlRCcGNHc3RXR00wVFJDZkF4amlCU2dLTWdB",
+        "date": "04/18/2023, 07:00 AM, +0000 UTC",
+        "iso_date": "2023-04-18T07:00:00Z"
+      },
+      {
+        "position": 44,
+        "title": "आयुष्मान भारत हॉस्पिटल लिस्ट मध्य प्रदेश | Ayushman Bharat Hospital List MP",
+        "source": {
+          "name": "केंद्र एव राज्य की सरकारी योजनाओं की जानकारी in Hindi",
+          "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://easyhindi.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://easyhindi.in/ayushman-bharat/ayushman-bharat-hospital-list-mp/",
+        "thumbnail": "https://easyhindi.in/wp-content/uploads/2022/06/PMJAY-Hospital-List-16.png",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iMkNnNDVOV2xDYjFCdU1XRnpkbXRDVFJDNEF4aUFCU2dLTWdzQlVJQzFvT2loMU9oYW9n",
+        "date": "06/21/2022, 10:29 AM, +0000 UTC",
+        "iso_date": "2022-06-21T10:29:58Z"
+      },
+      {
+        "position": 45,
+        "title": "Ayushman Bharat Hospital List | आयुष्मान भारत लिस्ट | PMJAY Hospital List",
+        "source": {
+          "name": "easyhindi.in",
+          "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://easyhindi.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://easyhindi.in/central-government-scheme/ayushman-bharat-hospital-list-up/",
+        "thumbnail": "https://easyhindi.in/wp-content/uploads/2022/06/PMJAY-Hospital-List-9.png",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNTJabnB1TUhoMlVtRmlUWEJVVFJDNEF4aUFCU2dLTWdrQlVZWmpUcU04U1FJ",
+        "date": "06/02/2022, 10:12 AM, +0000 UTC",
+        "iso_date": "2022-06-02T10:12:59Z"
+      },
+      {
+        "position": 46,
+        "title": "Bihar’s Digital Health Push: Create Ayushman Bharat Health Account In Minutes From Home",
+        "source": {
+          "name": "Patna Press",
+          "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://patnapress.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://patnapress.com/bihar-digital-health-create-ayushman-bharat-health-account-from-home/",
+        "thumbnail": "https://patnapress.com/wp-content/uploads/2026/09/ABHA-PVC-Card.jpg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHRhWEpaVTJ0dE9FVm9ValI1VFJDUUF4ai1CU2dLTWdZSlU1Qm1LZ1k",
+        "date": "09/13/2026, 12:17 PM, +0000 UTC",
+        "iso_date": "2026-09-13T12:17:05Z"
+      },
+      {
+        "position": 47,
+        "title": "This government hospital of Madhya Pradesh is better than any private hospital",
+        "source": {
+          "name": "Free Press Journal",
+          "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.freepressjournal.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://www.freepressjournal.in/bhopal/this-government-hospital-of-madhya-pradesh-is-better-than-any-private-hospital",
+        "thumbnail": "https://media.assettype.com/freepressjournal/2022-12/60d3644b-9125-4a0c-9967-612bee7b079b/WhatsApp_Image_2022_12_22_at_8_55_37_AM.jpeg",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVFVbTU0ZDFGTGIySnpVMmgwVFJDZkF4ampCU2dLTWdZQlFZNXRIUW8",
+        "date": "12/22/2022, 08:00 AM, +0000 UTC",
+        "iso_date": "2022-12-22T08:00:00Z"
+      },
+      {
+        "position": 48,
+        "title": "Ayushman Bharat Hospital List Bhopal 2023 | आयुष्मान भारत हॉस्पिटल लिस्ट भोपाल",
+        "source": {
+          "name": "easyhindi.in",
+          "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://easyhindi.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://easyhindi.in/ayushman-bharat/ayushman-card-hospital-list-in-bhopal/",
+        "thumbnail": "https://easyhindi.in/wp-content/uploads/2022/07/PMJAY-Hospital-List-29.png",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNUxNM2Q1TTFkQlN6WTBTMVJMVFJDNEF4aUFCU2dLTWdrQlFZYndJR21wRVFF",
+        "date": "07/19/2022, 08:30 AM, +0000 UTC",
+        "iso_date": "2022-07-19T08:30:05Z"
+      },
+      {
+        "position": 49,
+        "title": "आयुष्मान भारत हॉस्पिटल लिस्ट अमृतसर 2023| Ayushman Bharat Hospital List Amritsar @pmjay.gov.in",
+        "source": {
+          "name": "easyhindi.in",
+          "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://easyhindi.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://easyhindi.in/ayushman-bharat/ayushman-bharat-hospital-list-amritsar/",
+        "thumbnail": "https://easyhindi.in/wp-content/uploads/2022/07/PMJAY-Hospital-List-27.png",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDVPVE50YkdOc2MzRlZiSGRpVFJDNEF4aUFCU2dLTWdZRlVJWkZ5Z00",
+        "date": "05/03/2023, 07:00 AM, +0000 UTC",
+        "iso_date": "2023-05-03T07:00:00Z"
+      },
+      {
+        "position": 50,
+        "title": "आयुष्मान भारत हॉस्पिटल लिस्ट गोरखपुर | Ayushman Bharat Hospital List Gorakhpur, Uttar Pradesh",
+        "source": {
+          "name": "easyhindi.in",
+          "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://easyhindi.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        },
+        "link": "https://easyhindi.in/ayushman-bharat/ayushman-bharat-hospital-list-gorakhpur/",
+        "thumbnail": "https://easyhindi.in/wp-content/uploads/2023/05/Aayushman-Bharat-Hospital-List-Gorakhpur-1-660x345.png",
+        "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWFRVTlRYTBJM1Z6ZElUVmxPVFJEWkFoaVVCU2dLTWdZQkFKS2tzZ2M",
+        "date": "05/06/2023, 07:00 AM, +0000 UTC",
+        "iso_date": "2023-05-06T07:00:00Z"
+      }
+    ],
+    "menu_links": [
+      {
+        "title": "India",
+        "topic_token": "CAAqJQgKIh9DQkFTRVFvSUwyMHZNRE55YXpBU0JXVnVMVWRDS0FBUAE",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqJQgKIh9DQkFTRVFvSUwyMHZNRE55YXpBU0JXVnVMVWRDS0FBUAE"
+      },
+      {
+        "title": "World",
+        "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx1YlY4U0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx1YlY4U0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+      },
+      {
+        "title": "Your local news",
+        "topic_token": "CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE"
+      },
+      {
+        "title": "Business",
+        "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx6TVdZU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx6TVdZU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+      },
+      {
+        "title": "Technology",
+        "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRGRqTVhZU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRGRqTVhZU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+      },
+      {
+        "title": "Entertainment",
+        "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNREpxYW5RU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNREpxYW5RU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+      },
+      {
+        "title": "Sports",
+        "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp1ZEdvU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp1ZEdvU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+      },
+      {
+        "title": "Science",
+        "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp0Y1RjU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp0Y1RjU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+      },
+      {
+        "title": "Health",
+        "topic_token": "CAAqJQgKIh9DQkFTRVFvSUwyMHZNR3QwTlRFU0JXVnVMVWRDS0FBUAE",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqJQgKIh9DQkFTRVFvSUwyMHZNR3QwTlRFU0JXVnVMVWRDS0FBUAE"
+      }
+    ]
+  }
+}
